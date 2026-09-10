@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Albánie 4x4 – plán cesty 19.–24. 9. 2026 (Honza + Tomáš)</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root { --ink:#1f2a1f; --muted:#5e6b5e; --line:#cdd6c9; --bg:#fbfcf9; --b:#b3541e; --d:#1d5fa8; --h:#5b3d8a; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:24px; font:15px/1.5 "Source Sans 3","Segoe UI",system-ui,sans-serif; color:var(--ink); background:var(--bg); }
+  h1 { font-size:24px; margin:0 0 4px; }
+  p.sub { margin:0 0 16px; color:var(--muted); }
+  #map { height:540px; border:1px solid var(--line); border-radius:4px; margin-bottom:8px; }
+  .legend { display:flex; gap:18px; flex-wrap:wrap; font-size:14px; margin-bottom:24px; }
+  .legend label { cursor:pointer; display:flex; align-items:center; gap:6px; }
+  .sw { width:22px; height:5px; border-radius:3px; display:inline-block; }
+  .route { border:1px solid var(--line); border-left:6px solid; border-radius:4px; background:#fff; padding:16px 20px; margin-bottom:22px; }
+  .route.b { border-left-color:var(--b); } .route.d { border-left-color:var(--d); } .route.h { border-left-color:var(--h); }
+  .q { color:#9a2b2b; font-weight:600; }
+  .route h2 { margin:0 0 4px; font-size:20px; }
+  .route p.tag { margin:0 0 12px; color:var(--muted); }
+  .links { margin:0 0 12px; font-size:13.5px; } .links a { font-weight:600; }
+  .stats { display:flex; gap:20px; flex-wrap:wrap; font-size:13.5px; color:var(--muted); margin-bottom:12px; }
+  table { border-collapse:collapse; width:100%; }
+  th, td { border:1px solid var(--line); padding:7px 10px; vertical-align:top; text-align:left; font-size:13.5px; }
+  th { background:#eef3ea; font-weight:600; width:9%; }
+  tr:first-child th { width:auto; }
+  td.diff { width:9%; white-space:nowrap; } td.mapl { width:8%; white-space:nowrap; }
+  td.what { width:46%; }
+  .ot { color:#8a3b00; font-weight:600; }
+  .hk { color:#1f6b3a; font-weight:600; }
+  .pros { margin-top:12px; font-size:13.5px; }
+  .pros b { display:inline-block; min-width:64px; }
+  .notes { border:1px solid var(--line); background:#fff; border-radius:4px; padding:14px 18px; font-size:13.5px; margin-bottom:22px; }
+  .notes h2 { font-size:17px; margin:0 0 8px; }
+  .notes.intro { background:#eef3ea; }
+  .cols { display:grid; grid-template-columns:1fr 1fr; gap:0 28px; } @media (max-width:760px){ .cols { grid-template-columns:1fr; } }
+  .cols b { display:block; margin-top:8px; }
+  ol { margin:6px 0 0; padding-left:20px; } ol li { margin-bottom:8px; } ol li ul { margin:4px 0 6px; } ol li ul li { margin-bottom:3px; } i { color:#3d4a3d; }
+  ul { margin:6px 0 0; padding-left:18px; }
+</style>
+</head>
+<body>
+<h1>Albánie 4x4 – plán cesty 19.–24. 9. 2026</h1>
+<p class="sub">Honza + Tomáš, dva lidé, terénní auto z Tirany, jen Albánie. Dokument shrnuje doporučenou trasu, záložní variantu a rozhodnutí, ke kterým jsme došli, včetně důvodů. Stav k 10. 9. 2026.</p>
+
+<div class="notes intro">
+  <h2>Ve zkratce</h2>
+  <ul>
+    <li><b>Kdy:</b> přílet do Tirany v pátek 18. 9. večer, jízda sobota 19. – čtvrtek 24. 9. (6 dní), odlet čtvrtek.</li>
+    <li><b>Čím:</b> nejlépe Suzuki Jimny od <a href="https://drivealbania.com/">Drive Albania</a> (nové auto, havarijní pojištění v ceně). Záloha: Land Rover Discovery 4 od <a href="https://overland4x4rental.com/">Overland 4x4 Rental</a> – nabídku máme, čekáme na podmínky.</li>
+    <li><b>Kudy:</b> doporučená trasa <b>D</b> – střední a jižní vnitrozemí: hora Tomorr, kaňon Osumi, náhorní plošina Kurvelesh s kaňonem Nivica, Gjirokastër, údolí Zagoria, termály Bënja a kaňon Lengarica. Alternativy: <b>H</b> (Honzova rešerše, nejvíc tracků, konec u moře, bez Tomorru) a <b>B</b> (jihovýchod k jezerům).</li>
+    <li><b>Kde spát:</b> v horských penzionech (bujtinách) s domácí večeří; lehký stan z domova v kufru jen jako záloha.</li>
+    <li><b>Co ještě zbývá:</b> potvrzení od půjčovny, rezervace noclehu v Nivicë, stažení GPX tras do offline mapy.</li>
+  </ul>
+</div>
+
+<div class="notes">
+  <h2>Doporučení a proč</h2>
+  <ol>
+    <li><b>Jet trasu D; H je rovnocenná alternativa, B je náhradní.</b> Honzova rešerše (H) má víc terénu a končí u moře, ale vynechává Tomorr a Gjirokastër jako město; z ní jsme do D převzali přejezd Kardhiq–Zhulat–Progonat. B (jezera) je nejklidnější, ale nejvíc asfaltu. D má tři kaňony, kterými se jde pěšky ve vodě (Osum, Nivica, Lengarica), a dvě UNESCO města (Berat, Gjirokastër). B má navíc jezera Prespa a Ohrid a večerní život v Korçë, ale za cenu delších asfaltových přesunů. Původní důvod pro B – že D závisí na maličkých penzionech v Nivicë a Çorovodë – padl tím, že vezeme záložní stan.</li>
+    <li><b>Půjčit si Suzuki Jimny, pokud to půjde.</b> Pro dva lidi na albánských horských cestách je to nejvhodnější auto, které se v Tiraně dá půjčit, ze čtyř důvodů:
+      <ul>
+        <li><i>Rozměry a hmotnost.</i> Jimny je 1,65 m široký a váží 1,1 t; Discovery 4 má přes 2 m a 2,5 t. Na úzkých pasteveckých cestách s vymletými kolejemi projede Jimny tam, kde se velké auto škrábe o skálu nebo sedne na břicho. Krátký rozvor a minimální převisy dávají nájezdové úhly, které SUV nemají. Lehké auto se míň boří, méně proráží pneumatiky a dá se vytlačit rukama.</li>
+        <li><i>Jednoduchá technika.</i> Žebřinový rám, tuhé nápravy vpředu i vzadu, mechanicky přiřaditelný pohon 4x4 s redukcí. Žádné vzduchové pérování ani elektronika, která se v terénu hlásí chybou a nechá auto ležet – u 10–15 let starých Discovery je to nejčastější porucha.</li>
+        <li><i>Stav a výbava.</i> Auta z roku 2024, pod 42 000 km, servisovaná u Suzuki. Půjčovna je vybavila terénní ochranou (šnorchl, kryty diferenciálů, ochranné prahy, střešní nosič), takže kámen pod autem neznamená konec výletu.</li>
+        <li><i>Pojištění.</i> Jediná půjčovna, kde je plné havarijní pojištění (CASCO) v ceně. U ostatních se jezdí s povinným ručením nebo nejasnou pojistkou a kaucí 300–500 €; rozbité auto platíme sami. Půjčovna má bezchybné recenze a uvádí, že nikdy nezadržela kauci.</li>
+      </ul>
+      Cena: 80 €/den, ale v sezóně minimálně 8 dní, tj. 640 € i za našich 6–7 dní. Discovery od Overlandu vyjde na 600–700 € bez známé pojistky, starší terénní auta od jiných půjčoven na 840–1 050 €. Nevýhody Jimny: malý kufr (nutno sklopit zadní sedadla), pomalejší přesuny po asfaltu, střešní stan zakázán, výdej jen v kanceláři v centru Tirany (so 8:30, ne na letišti). Pro nás nic z toho nevadí – jedeme ve dvou, po vnitrozemí, spíme v penzionech.</li>
+<li><b>Záloha: Discovery 4 od Overland 4x4 (100 €/den).</b> Auto pro naše dny potvrdili. Firma je nová (od jara 2026), na webu nemá obchodní podmínky ani pojistné podmínky – proto jsme jim poslali 13 otázek (pojištění, kauce, firma, stav auta, předání na letišti). Bez písemných odpovědí neplatit.</li>
+    <li><b>Spát v penzionech; vlastní lehký stan v kufru, ne střešní stan z půjčovny.</b> Chceme postel a domácí večeři, stan je jen pojistka pro případ plné bujtiny. Střešní stan jsme zavrhli z těchto důvodů:
+      <ul>
+        <li><i>Bezpečnost v terénu.</i> Střešní stan váží 50–70 kg a sedí na nejvyšším bodě auta. Na bočních náklonech, ve vymletých kolejích a při najíždění do erozních rýh (sjezd z Tomorru, cesty v Zagorii) výrazně zvyšuje páku na převrácení. Na lesních úsecích hrozí zachycení o nízké větve.</li>
+        <li><i>Vylučuje Jimny.</i> Půjčovna ho zakazuje – nosnost střechy 30 kg, těžiště. Volba stanu na střeše by nás nutila vzít starší a hůř pojištěné auto.</li>
+        <li><i>Cena.</i> +20 €/den za stan, +50 €/den s kompletní kempovací sadou = 120–300 € navíc. Šest nocí v bujtinách pro dva stojí přibližně 240 € včetně večeří – stan tedy nic neušetří, jen přidá vaření na vařiči.</li>
+        <li><i>Komfort.</i> Ve výškách nad 1 000 m klesají zářijové noční teploty k 5–8 °C a fouká; ranní sprcha a večeře v penzionu jsou po dni v kaňonu k nezaplacení.</li>
+      </ul>
+      Stan z domova: samonosný (na skalnatém podloží Kurveleshe nejde zatlouct kolík), 2–3 kg, dvě karimatky, spacáky s komfortem 5 °C. Vejde se do jednoho 60l batohu, který jde jako odbavené zavazadlo (+30–50 €), a v Jimny leží naplocho na sklopených sedadlech. Použije se jen, když v Nivicë nebude místo – a i tehdy spíme na hraně kaňonu, což je samo o sobě zážitek.</li>
+<li><b>Rezervovat Nivicë předem.</b> Vesnice nad kaňonem má jen pár lůžek a nejbližší jiný nocleh je hodinu daleko. Ostatní noclehy stačí den předem přes WhatsApp.</li>
+    <li><b>Kaňon Osumi ráno, ne jen z vyhlídky.</b> Brodění dnem kaňonu je jeden ze tří vodních zážitků trasy; kvůli němu je pondělí nejdelší den (start 7:00, příjezd do Nivicë kolem 17:00).</li>
+    <li><b>V Zagorii jet okruh, ne průjezd.</b> Z údolí Zagoria vede do Përmetu jen pěší stezka přes hřeben Dhëmbel; autem se z údolí vyjíždí přes plošinu Çajupi zpět ke Gjirokastru a do Përmetu po asfaltu (1,5 h). Počítat s příjezdem k termálům Bënja za soumraku.</li>
+    <li><b>Vynechat neověřené odbočky.</b> Škrtli jsme "terénní zkratku" pod pohořím Gramoz (žádná ověřená cesta, hrozí dojezd za tmy) a v D i přehradu Bovilla první den (leží opačným směrem). Každý úsek v plánu má potvrzenou průjezdnost z aktuálních zdrojů.</li>
+    <li><b>Půjčovně poslat trasu písemně.</b> Půjčovny zakazují některé konkrétní cesty (pláž Gjipe, jižní sjezd z jezer Lura) – ani jedna v plánu není, ale písemné potvrzení chrání kauci.</li>
+  </ol>
+</div>
+
+
+<h2 style="font-size:18px;margin:0 0 6px">Mapa</h2>
+<p class="sub">Body jsou orientační, čáry spojují zastávky vzdušnou čarou – slouží k porovnání tvaru tras, ne k navigaci. Kliknutím na bod se zobrazí den a poznámka. U každého dne v tabulkách je odkaz „Mapy.cz", který otevře body etapy na turistické mapě. Odkazy používají plánovač pro horská kola, protože silniční režim Mapy.cz šotoliny obchází a spočítal by objížďku po asfaltu; časové odhady v plánovači proto ignorujte. Přesný průjezd tracků je v GPX z Wikilocu.</p>
+<div id="map"></div>
+<div class="legend">
+  <label><input type="checkbox" id="chkH" checked><span class="sw" style="background:var(--h)"></span> Alternativa H – Divoký jih (Honza): Osum, Frashër, Zagoria, Kurvelesh, Kuç, moře</label>
+  <label><input type="checkbox" id="chkB" checked><span class="sw" style="background:var(--b)"></span> Alternativa B – Jihovýchod: Tomorr, Osum, Frashër, Gramoz, Korça, jezera</label>
+  <label><input type="checkbox" id="chkD" checked><span class="sw" style="background:var(--d)"></span> Doporučená trasa D – Centrální masivy: Tomorr, Kurvelesh, Gjirokastër, Zagoria, Përmet</label>
+</div>
+
+
+<div class="route d">
+  <h2>Doporučená trasa D – Centrální masivy: Tomorr, Kurvelesh, Gjirokastër, Zagoria, Përmet</h2>
+  <p class="tag">Čistě vnitrozemí, nejdivočejší údolí země, tři kaňony ve vodě (Osum, Nivica, Lengarica). Bez jezer; horský přejezd přes Frashër je v alternativě B.</p>
+  <div class="stats"><span>≈ 760 km celkem</span><span>≈ 210 km tracků</span><span>Vrchol: Tomorr 2 417 m</span><span>Nejtěžší den: 3 (Osum + Nivicë)</span><span>Neověřených úseků: 0</span></div>
+  <p class="links"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=19.8187,41.3275&waypoints=19.9522,40.7058;20.13,40.65;20.19,40.61;20.227,40.504;20.3,40.42;20.019,40.296;19.885,40.183;20.04,40.1;20.26,40.033;20.325,40.105;20.225,40.095;20.43,40.25">🗺 Celá trasa na Mapy.cz</a> (plánovač v režimu horské kolo – jde po šotolinách, časy ignorovat) · <a href="Doporucena-trasa-D.gpx">⬇ GPX celé trasy</a> (import do Mapy.cz / OsmAnd – zakreslí linii i body s poznámkami ke dnům)</p>
+  <table>
+    <tr><th>Den</th><th>Etapa</th><th>Nocleh / km</th><th>Terén</th><th>Mapa</th></tr>
+    <tr><th>So 19. 9.</th><td class="what">Jimny: kancelář Drive Albania 8:30, výjezd ~9:00 (Overland/Jurgen: auto už z pátku). Tirana → Lushnjë → <b>Berat</b> (Mangalem, hrad, 2 h) → <b>Roshnik</b> (sklípky Çobo/Nurellari). Odpoledne <span class="ot">šotolina nad Roshnikem do podhůří Tomorru</span> jako test redukce, tlaku pneu a rezervy – Bovilla vynechána (opačný směr, 1,5 h navíc).</td><td>Nocleh bujtina Roshnik (Alpeta). 140 km.</td><td class="diff">lehký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=20.07,40.75&waypoints=19.9522,40.7058">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Ne 20. 9.</th><td class="what">Roshnik → Poliçan → asfalt na <b>Qafa e Kulmakut</b> → <span class="ot">šotolina na vrchol, türbe Abbase Aliho (2 379 m)</span>. <span class="hk">Çuka e Partizanit, 1,5 h.</span> <span class="ot">Průjezd Kulmak → Ujanik → Gjerbës → Çorovodë</span> údolím Tomorrice, podvečer vyhlídky na kaňon Osumi od silnice.</td><td>Nocleh Çorovodë. 100 km. Ověřeno: průjezd existuje.</td><td class="diff">těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.07,40.75&end=20.227,40.504&waypoints=20.13,40.65;20.151,40.636;20.13,40.65;20.19,40.61;20.24,40.57">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Po 21. 9.</th><td class="what">Start 7:00. <b>Kaňon Osumi</b>: stará SH74 nad kaňonem, sestup k řece u mostu Hambar, <span class="hk">2 h chůze a brodění, koupání</span> – do 10:00 zpět u auta. Pak <span class="ot">Ballaban → Këlcyrë</span> (částečně šotolina, údolí Vjosy, soutěska Këlcyrë) → Tepelenë (jen průjezd) → <span class="ot">Progonat → náhorní plošina Kurvelesh → Nivicë</span>.</td><td>Nocleh Nivicë, bujtina nad kaňonem (rezervovat, jinak stan na hraně). 150 km, 5–6 h jízdy + 2 h kaňon. Nejdelší den trasy, příjezd ~17:00.</td><td class="diff">střední–těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.227,40.504&end=19.885,40.183&waypoints=20.22,40.47;20.227,40.504;20.3,40.42;20.19,40.313;20.019,40.296;19.91,40.25">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Út 22. 9.</th><td class="what"><span class="hk">Kaňon Nivica: sestup 700 m k vodopádům a tůním, 3 h, koupání.</span> Odpoledne <span class="ot">horský přejezd Progonat → Zhulat → Kardhiq</span> (trasa místních 4x4 túr z Gjirokastru, vodopád Peshtura, GPX z Honzovy rešerše) → <b>Gjirokastër</b> (UNESCO: hrad, Zekate house, bazar, večer na Qafa e Pazarit). Záloha za deště: asfalt přes Tepelenë.</td><td>Nocleh Gjirokastër. 80 km, z toho ~35 tracku.</td><td class="diff">střední</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.885,40.183&end=20.1389,40.0758&waypoints=19.91,40.25;19.97,40.15;20.04,40.1">🗺 Mapy.cz</a></td></tr>
+    <tr><th>St 23. 9.</th><td class="what">Gjirokastër → Libohovë → <span class="ot">soutěska Selckë → Poliçan (Zagoria) → Sheper → Ndëran → plošina Fushë Çajupi (1 200 m) → zpět ke Gjirokastru</span> – okruh údolím Zagoria, osmanské mosty, kostel Hoshtevë, vodopád Selckë (půl dne, cesty v dobrém stavu, ze Çajupi jen 4x4). Pak asfalt Gjirokastër → Këlcyrë → <b>Përmet</b> (1,5 h). Večer <b>termály Bënja</b> bez lidí. Průjezd do Përmetu přes Dhëmbel nebo na sever k Këlcyrë je jen pěší – autem to je vždy okruh.</td><td>Nocleh Përmet. 150 km, 7–8 h. Nejtěsnější den: start 8:30, v Zagorii neprotahovat zastávky, Bënja kolem 17:30 za soumraku (západ 18:40). Ověřeno.</td><td class="diff">střední</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.1389,40.0758&end=20.351,40.233&waypoints=20.26,40.033;20.3,40.09;20.325,40.105;20.3,40.135;20.225,40.095;20.1389,40.0758;20.19,40.313">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Čt 24. 9.</th><td class="what">Ráno <span class="hk">kaňon Lengarica, 2 h ve vodě</span> → Këlcyrë → Tepelenë → Fier → Tirana (SH4, 4 h). <span class="ot">Volitelně Apollonia</span> u Fieru, 1 h.</td><td>Vrácení auta. 250 km.</td><td class="diff">přejezd</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.351,40.233&end=19.8187,41.3275&waypoints=20.43,40.25;20.19,40.313;20.019,40.296;19.5559,40.7239">🗺 Mapy.cz</a></td></tr>
+  </table>
+  <div class="pros"><b>Pro:</b> Kurvelesh a Zagoria jsou nejdivočejší obydlená údolí Albánie, Gjirokastër jako kulturní protiváha, méně asfaltu než B.<br><b>Proti:</b> Zagoria je okruh, ne průjezd (odpoledne 1,5 h asfaltu zpět kolem Gjirokastru), den 6 je 4 h čistého přesunu, žádné jezero ani moře.<br><b>Rezerva:</b> pokud Zagoria → Përmet neprojde, nocleh Gjirokastër podruhé a den 6 Bënja/Lengarica cestou domů.</div>
+</div>
+<div class="route b">
+  <h2>Alternativa B – Jihovýchod: Tomorr, Osum, Frashër, Gramoz, Korça, jezera</h2>
+  <p class="tag">Tři pohoří, dva kaňony ve vodě, dvě jezera. Nejvíc šotoliny na kilometr.</p>
+  <div class="stats"><span>≈ 820 km celkem</span><span>≈ 200 km tracků</span><span>Vrchol: Tomorr 2 417 m</span><span>Nejtěžší den: 3 (Frashër)</span><span>Neověřených úseků: 0</span></div>
+  <p class="links"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=19.8187,41.3275&waypoints=19.89,41.465;20.13,40.65;20.19,40.61;20.227,40.504;20.418,40.383;20.418,40.247;20.63,40.245;20.7808,40.6186;20.585,40.525;20.906,40.838;20.635,41.065">🗺 Celá trasa na Mapy.cz</a> (plánovač v režimu horské kolo – jde po šotolinách, časy ignorovat) · <a href="Alternativa-B.gpx">⬇ GPX celé trasy</a> (import do Mapy.cz / OsmAnd – zakreslí linii i body s poznámkami ke dnům)</p>
+  <table>
+    <tr><th>Den</th><th>Etapa</th><th>Nocleh / km</th><th>Terén</th><th>Mapa</th></tr>
+    <tr><th>So 19. 9.</th><td class="what">Tirana → <b>Bovilla</b> (přehrada v kaňonu, <span class="ot">šotolina k vyhlídce Gamti</span>, 30 min pěšky nahoru – test redukce, pérování a rezervy hned první hodinu) → zpět přes Tiranu → Lushnjë → <b>Berat</b> (UNESCO: Mangalem, hrad s obydlenými domy, Onufriho muzeum).</td><td>Nocleh Berat. 190 km. Elbasan vynechán – leží na cestě až v den 6.</td><td class="diff">lehký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=19.9522,40.7058&waypoints=19.89,41.465;19.8187,41.3275">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Ne 20. 9.</th><td class="what">Berat → Poliçan → nový asfalt na <b>Qafa e Kulmakut</b> (tekke Kulmak, nejstarší bektašická v Albánii) → <span class="ot">800 výškových metrů šotoliny na vrchol k türbe Abbase Aliho (2 379 m)</span>. <span class="hk">Hřebenem na Çuka e Partizanit (2 417 m), 1,5 h tam a zpět.</span> Zpět do sedla a <span class="ot">průjezd na jih Kulmak → Ujanik (konec asfaltu) → Gjerbës → Çorovodë</span>, údolí Tomorrice – jeden z nejhezčích off-roadů v zemi.</td><td>Nocleh Çorovodë. 100 km, z toho ~45 tracku. Ověřeno: průjezd existuje.</td><td class="diff">těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.9522,40.7058&end=20.227,40.504&waypoints=20.13,40.65;20.151,40.636;20.13,40.65;20.19,40.61;20.24,40.57">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Po 21. 9.</th><td class="what">Brzy ráno <b>kaňon Osumi</b>: stará SH74 nad kaňonem, sestup k řece u mostu Hambar, <span class="hk">2 h chůze a brodění, koupání</span>. Od 11:00 <span class="ot">horská šotolina Çorovodë → Frashër → Përmet</span> (60 km, 3–4 h, opuštěné vesnice, NP Hotova-Dangëlli) – jádro trasy.</td><td>Nocleh Përmet. 110 km.</td><td class="diff">střední–těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.227,40.504&end=20.351,40.233&waypoints=20.22,40.47;20.418,40.383">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Út 22. 9.</th><td class="what">Ráno <b>termály Bënja</b> u osmanského mostu. <span class="hk">Kaňon Lengarica proti proudu, 2–3 h, boty do vody.</span> Odpoledne scénický asfalt SH75: Përmet → Leskovik (káva, případně Farma Sotira) → průsmyk Barmash s výhledy na hřeben Gramozu → Ersekë → <b>Korçë</b> (večer staré město, pivovar). Odpočinkový den bez tracku – záměrně.</td><td>Nocleh Korçë, příjezd ~17:00. 160 km.</td><td class="diff">přejezd</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.351,40.233&end=20.7808,40.6186&waypoints=20.418,40.247;20.598,40.151;20.63,40.245;20.679,40.337">🗺 Mapy.cz</a></td></tr>
+    <tr><th>St 23. 9.</th><td class="what">Korçë → <b>Voskopojë</b> (kostely s freskami, 18. stol.) → <span class="ot">track Voskopojë → Vithkuq → Dardhë</span> jako okruh zpět do Korçë (60 km, 3 h) → asfalt do <b>Pustecu</b> u jezera Prespa (člunem na ostrov Maligrad s jeskynním kostelem, pokud zbude světlo).</td><td>Nocleh Pustec nebo Pogradec. 170 km.</td><td class="diff">střední</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.7808,40.6186&end=20.906,40.838&waypoints=20.588,40.633;20.585,40.525;20.822,40.519;20.7808,40.6186">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Čt 24. 9.</th><td class="what">Prespa → Pogradec (Ohridské jezero, koran) → vesnice <b>Lin</b> (mozaiky, poloostrov, 1 h) → Elbasan (průjezd, případně hrad) → Tirana.</td><td>Vrácení auta. 180 km, 3,5 h čistého času.</td><td class="diff">přejezd</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.906,40.838&end=19.8187,41.3275&waypoints=20.6525,40.9025;20.635,41.065;20.0822,41.1125">🗺 Mapy.cz</a></td></tr>
+  </table>
+  <div class="pros"><b>Pro:</b> Tomorr a Frashër jsou plnohodnotný off-road, Osum a Lengarica jsou jiný typ zážitku, den 6 je krátký.<br><b>Proti:</b> žádný neověřený úsek. Dny 2–3 jsou dva náročné za sebou, den 4 je záměrně odpočinkový.<br><b>Rezerva:</b> pokud den 2 nebo 3 přeteče, škrtnout Dardhë (den 5) – Prespa je pak pohodový den.</div>
+</div>
+<div class="route h">
+  <h2>Alternativa H – „Divoký jih" z Honzovy rešerše (červenec 2026), přepočtená na náš termín</h2>
+  <p class="tag">Nejvíc tracků ze všech variant, končí u moře. Nemá Tomorr ani večer v Gjirokastru. Původně počítala s ranním příletem a spaním pod stanem – zde upraveno na sobotní start z Tirany a bujtiny. Zdroj: <a href="https://palmovnik.github.io/albanie/">palmovnik.github.io/albanie</a> (včetně GPX odkazů).</p>
+  <div class="stats"><span>≈ 720 km celkem</span><span>≈ 260 km tracků</span><span>Nejtěžší den: 5 (Kuç Connection)</span><span>Neověřených úseků: 0 (Kuç → pobřeží je silnice)</span></div>
+  <p class="links"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=19.8187,41.3275&waypoints=19.9522,40.7058;20.22,40.47;20.351,40.233;20.19,40.313;20.225,40.095;20.29,40.16;19.97,40.15;19.885,40.183;19.782,40.21;19.588,40.205">🗺 Celá trasa na Mapy.cz</a> (plánovač v režimu horské kolo – jde po šotolinách, časy ignorovat) · <a href="Alternativa-H.gpx">⬇ GPX celé trasy</a> (import do Mapy.cz / OsmAnd – zakreslí linii i body s poznámkami ke dnům)</p>
+  <table>
+    <tr><th>Den</th><th>Etapa</th><th>Nocleh / km</th><th>Terén</th><th>Mapa</th></tr>
+    <tr><th>So 19. 9.</th><td class="what">Tirana 9:00 → <b>Berat</b> (2 h, Mangalem, hrad) → <span class="ot">šotolina podél kaňonu Osumi</span> → <b>Çorovodë</b>. Odpoledne <span class="hk">sestup k řece u mostu Hambar, 2 h brodění</span>.</td><td>Nocleh Çorovodë. 170 km.</td><td class="diff">lehký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.8187,41.3275&end=20.22,40.47&waypoints=19.9522,40.7058;20.227,40.504">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Ne 20. 9.</th><td class="what"><span class="ot">Çorovodë → Frashër → Përmet</span>, ověřený track 52,7 km / 1 178 m převýšení, 3–5 h (<a href="https://www.wikiloc.com/offroading-trails/permet-to-osumi-canyon-and-corovode-2001654">GPX Wikiloc</a>). Za sucha tvrdší varianta Çorovodë–Piskovë (dangerousroads, exponovaná). Odpoledne <b>Bënja</b>.</td><td>Nocleh Përmet. 70 km, skoro celé track.</td><td class="diff">střední–těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.227,40.504&end=20.351,40.233&waypoints=20.418,40.383">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Po 21. 9.</th><td class="what">Ráno <span class="hk">kaňon Lengarica, 2 h</span> → asfalt Këlcyrë → Gjirokastër (1,5 h; jen oběd a hrad, max. 1,5 h – jinak Shepër za tmy) → <span class="ot">plošina Çajupi (1 300 m, konec asfaltu) → 15 km rozbité šotoliny do Shepëru</span>, údolí Zagoria.</td><td>Nocleh guesthouse Shepër nebo Hoshtevë. 140 km. Nejtěsnější den H: Lengarica 8:00, Gjirokastër 12:30–14:00, Çajupi 15:30, Shepër ~18:00.</td><td class="diff">střední</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.351,40.233&end=20.3,40.135&waypoints=20.43,40.25;20.19,40.313;20.1389,40.0758;20.225,40.095">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Út 22. 9.</th><td class="what">Zagoria: mosty, kostel Hoshtevë, vodopád Selckë → ven <span class="ot">přes Çajupi</span> → <span class="ot">Kardhiq → Zhulat → Progonat</span> (vodopád Peshtura) → <b>Nivicë</b>. Odpoledne <span class="hk">kaňon Nivica, 3 h</span>.</td><td>Nocleh Nivicë. 110 km, většina track.</td><td class="diff">střední–těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=20.3,40.135&end=19.885,40.183&waypoints=20.29,40.16;20.225,40.095;20.04,40.1;19.97,40.15;19.91,40.25">🗺 Mapy.cz</a></td></tr>
+    <tr><th>St 23. 9.</th><td class="what"><span class="ot">Kuç Connection: Nivicë → Gusmar → Kuç</span> – sedla s expozicí, koryta řek, brody, u Progonatu redukce (<a href="https://www.wikiloc.com/offroading-trails/the-kuc-connection-part-2-amp-3-kuc-gusmar-golem-7498443">GPX Wikiloc</a>). Track končí v Kuçi; údolím Shushicë vede k pobřeží nová silnice (pravděpodobně už asfalt), přes hřeben Çiky auto neprojede. Sjezd na <b>Himarë</b> nebo Vlorë je tedy přesun, ne terén. Koupání (Gjipe jen pěšky 45 min z parkoviště, track dolů půjčovny zakazují).</td><td>Nocleh Himarë. 90 km, 5–6 h.</td><td class="diff">těžký</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.885,40.183&end=19.744,40.101&waypoints=19.83,40.205;19.782,40.21">🗺 Mapy.cz</a></td></tr>
+    <tr><th>Čt 24. 9.</th><td class="what">Himarë → průsmyk <b>Llogara</b> (1 027 m, vyhlídky, krátká procházka) → Orikum → Vlorë → Tirana (200 km, 4 h).</td><td>Vrácení auta. 230 km.</td><td class="diff">přejezd</td><td class="mapl"><a href="https://mapy.com/fnc/v1/route?mapset=outdoor&routeType=bike_mountain&start=19.744,40.101&end=19.8187,41.3275&waypoints=19.588,40.205;19.489,40.466">🗺 Mapy.cz</a></td></tr>
+  </table>
+  <div class="pros"><b>Pro:</b> pět dní za sebou v terénu (Frashër, Çajupi–Shepër, Kardhiq–Zhulat, Kuç Connection), tři kaňony ve vodě, konec u moře, GPX ke všem klíčovým úsekům.<br><b>Proti:</b> bez Tomorru, Gjirokastër jen v poledne, pondělí a středa jsou dlouhé, poslední den a půl je pobřežní asfalt a v září ještě plná Riviéra. Brody na Kuç Connection jsou přesně to, co CASCO nekryje – po dešti jet asfaltem Tepelenë → Vlorë.<br><b>Kdy zvolit H místo D:</b> když chcete co nejvíc šotoliny a moře na konci a Tomorr oželíte.</div>
+</div>
+
+<div class="notes">
+  <h2>Co mít s sebou</h2>
+  <div class="cols">
+  <div>
+  <b>Doklady a peníze</b>
+  <ul>
+    <li>Pas/OP, řidičský průkaz (český stačí, mezinárodní netřeba), platební karta, potvrzení rezervace auta a Nivicë v telefonu.</li>
+    <li>Cestovní pojištění s krytím horských aktivit a záchrany – půjčovna ho vyžaduje ve smlouvě a v Kurveleshi není nic než vrtulník.</li>
+    <li>Hotovost: Drive Albania bere kauci 300 € <b>v hotovosti v eurech</b> (web to uvádí výslovně) a vrací ji při předání auta – ty peníze tedy během cesty nemáme. K tomu 300–400 € na bujtiny, jídlo a palivo, ideálně už v lecích z bankomatu BKT/Credins v Tiraně. Celkem tedy vézt cca 650–700 € v hotovosti, z toho 300 € v eurových bankovkách na kauci.</li>
+  </ul>
+  <b>K autu</b>
+  <ul>
+    <li>12V→USB-C adaptér 30 W, držák telefonu na mřížku ventilace, powerbanka – port v autě je slabý a navigace na slunci telefon vybíjí.</li>
+    <li>Hned při převzetí Jimny sklopit zadní sedadla do roviny (85 → 377 l): batoh naplocho dolů, příručky nahoru, těžké věci za přední sedadla.</li>
+    <li>Offline mapy (OsmAnd + Mapy.cz) se staženou Albánií a vrstevnicemi; GPX celé trasy z tohoto dokumentu nahrát do Mapy.cz (Moje mapy → import) – vzdušné spojnice mezi body, ne přesný průjezd. GPX: Tomorr (Kulmak–Gjerbës), Kardhiq–Zhulat, Zagoria, Kuç Connection a Frashër z Wikiloc, plus <a href="https://transeurotrail.org/albania/">TET Albania</a> (796 km, zdarma po registraci) jako záložní síť spojek – odkazy v Honzově rešerši.</li>
+    <li>Vlastní tlakoměr na pneu a malý kompresor 12V, pokud nebude v autě; sada na opravu bezdušových pneu (hříbky) – proražení bokem je nejčastější albánská závada a Jimny má jen jednu rezervu.</li>
+    <li>Pracovní rukavice, čelovka, lopatka/hasák nejsou nutné – vyprošťovací pás si vyžádat od půjčovny.</li>
+  </ul>
+  </div>
+  <div>
+  <b>Kaňony a chůze</b>
+  <ul>
+    <li>Boty do vody s patou (staré tenisky, Keen) – Osum, Lengarica, Nivica jsou chůze v řece.</li>
+    <li>Pohorky nebo pevné trailové boty na Tomorr a sestup do Nivicy, hůlky na 700 m sestupu se hodí.</li>
+    <li>Vodotěsný vak 10–20 l na telefon a doklady v kaňonu, rychleschnoucí ručník, plavky.</li>
+    <li>2 l vody na osobu a den ve vozidle navíc; ve vesnicích jsou prameny.</li>
+  </ul>
+  <b>Oblečení</b>
+  <ul>
+    <li>Rozsah 8–30 °C: v Përmetu odpoledne 30 °C, na Kulmaku ráno 8 °C. Vrstvy, lehká péřovka nebo fleece, větrovka, čepice.</li>
+    <li>Sluneční brýle, krém 50, klobouk – plošiny jsou bez stínu.</li>
+  </ul>
+  <b>Stan (záloha)</b>
+  <ul>
+    <li>Samonosný stan, 2 karimatky, spacáky komfort 5 °C, čelovky. Jeden 60l batoh do odbaveného zavazadla.</li>
+  </ul>
+  <b>Lékárnička</b>
+  <ul>
+    <li>Klíšťata a repelent (Kurvelesh, Zagoria – pastviny), náplasti na puchýře, elastické obinadlo, léky na průjem a proti bolesti, dezinfekce. Lékárny jsou v každém městě, v horách ne.</li>
+  </ul>
+  </div>
+  </div>
+</div>
+
+<div class="notes">
+  <h2>Na co dát pozor</h2>
+  <ul>
+    <li><b>Nejezdit po tmě.</b> Na silnicích se pohybují neosvětlené vozy, oslové, krávy a psi; v horách chybí svodidla. Všechny dny jsou plánované s příjezdem do 17:30, poslední světlo je v 18:40. Když se něco protáhne, spát tam, kde jsme.</li>
+    <li><b>Pastevečtí psi.</b> Na Çajupi, v Kurveleshi a na Tomorru hlídají stáda velcí ovčáčtí psi. Nevystupovat z auta u stáda, při chůzi se zastavit, nesahat po kamenech, nechat pastevce psy odvolat.</li>
+    <li><b>Voda v kaňonech.</b> Po bouřce stoupne hladina v Osumu i Lengarici za desítky minut. Při dešti v horách nad kaňonem den odložit nebo vynechat; nepřespávat v korytech řek.</li>
+    <li><b>Brody a podvozek.</b> CASCO nekryje utopený motor, boky pneumatik ani podvozek. Brody jen tam, kde vidíme dno, krokem, ne hlouběji než po náboj. Na kamení pomalu; tlak v pneu na tracku snížit na ~1,8 bar a před asfaltem dofouknout.</li>
+    <li><b>Převzetí auta.</b> Nafotit každý panel, podvozek, pneumatiky a sklo, zkontrolovat rezervu, hever, klíč, lékárničku, trojúhelník a vestu (v Albánii povinné). Nechat si podepsat protokol s kaucí.</li>
+    <li><b>Palivo.</b> Tankovat jen ve městech u Kastrati/Eida; vesnické pumpy mívají naředěné palivo, které zničí vstřikování. Do hor s plnou nádrží – na tracích Tomorr a Zagoria není pumpa 80 km.</li>
+    <li><b>Řidiči a policie.</b> Albánský styl je předjíždění kdekoli; jet předvídavě a nechat je. Policejní kontroly jsou časté, doklady a vesta po ruce, limity 40 v obci / 80 mimo / 110 dálnice. Nula alkoholu za volantem – rakie od hostitelů je až po zaparkování.</li>
+    <li><b>Signál a data.</b> Albánie není v EU roamingu – koupit eSIM (Airalo/Vodafone AL) nebo SIM Vodafone/One na letišti, ~10 € za 20 GB. V kaňonech a v Zagorii signál není, proto offline mapy a domluvený čas ozvání se domů.</li>
+    <li><b>Tekke na Tomorru.</b> Poutní místo bektašiů: boty ven, žádné pití alkoholu v areálu, dlouhé kalhoty. Na vrcholu bývá silný vítr – bundu s sebou i v 30 °C v údolí.</li>
+    <li><b>Slunce a horko.</b> V kaňonech se odráží od bílého vápence; pít průběžně, pauza v poledne. Klíšťata kontrolovat večer po chůzi pastvinami.</li>
+    <li><b>Hostitelé.</b> V bujtinách se cena domlouvá při příjezdu a platí hotově; večeře se objednává hned při ubytování, ne v 19:00. Odmítnout rakii je v pořádku, když řídíte druhý den brzy – řekněte to rovnou.</li>
+  </ul>
+</div>
+
+<div class="notes">
+  <h2>Legenda a začátek cesty</h2>
+  <p><span class="ot">Oranžově</span> v tabulkách = úsek, kde je terénní auto nutné. <span class="hk">Zeleně</span> = pěší část. Bujtina = rodinný horský penzion s večeří.</p>
+  <ul>
+    <li>Pátek večer: pokud bude auto od Overlandu, převzít ho na letišti a přespat v Tiraně; u Drive Albania nocleh v Tiraně a vyzvednutí v sobotu 8:30 v kanceláři u Pazari i Ri (taxi z letiště ~20 €).</li>
+    <li>Kaňony (Osum, Lengarica, Nivica) jsou v září nízké a teplé, ideální pro brodění. Vše ostatní k výbavě a rizikům je v sekcích výše.</li>
+  </ul>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const map = L.map('map').setView([40.55, 20.15], 8);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 17, attribution: '&copy; OpenStreetMap' }).addTo(map);
+const css = k => getComputedStyle(document.documentElement).getPropertyValue(k).trim();
+const routes = {
+  H: { color: css('--h'), pts: [
+    ['Tirana', 41.3275, 19.8187, 'So 9:00 – start'], ['Berat', 40.7058, 19.9522, 'So'], ['Çorovodë', 40.5040, 20.2270, 'So nocleh'], ['Kaňon Osumi', 40.4700, 20.2200, 'So brodění'],
+    ['Frashër', 40.3830, 20.4180, 'Ne track'], ['Përmet', 40.2330, 20.3510, 'Ne nocleh, Bënja'], ['Lengarica', 40.2500, 20.4300, 'Po ráno'], ['Këlcyrë', 40.3130, 20.1900, 'Po'],
+    ['Gjirokastër', 40.0758, 20.1389, 'Po poledne'], ['Fushë Çajupi', 40.0950, 20.2250, 'Po track'], ['Sheper', 40.1350, 20.3000, 'Po nocleh'], ['Hoshtevë', 40.1600, 20.2900, 'Út'],
+    ['Fushë Çajupi', 40.0950, 20.2250, ''], ['Kardhiq', 40.1000, 20.0400, 'Út'], ['Zhulat', 40.1500, 19.9700, 'Út track, Peshtura'], ['Progonat', 40.2500, 19.9100, 'Út'],
+    ['Nivicë', 40.1830, 19.8850, 'Út nocleh, kaňon'], ['Gusmar', 40.2050, 19.8300, 'St Kuç Connection'], ['Kuç', 40.2100, 19.7820, 'St'], ['Himarë', 40.1010, 19.7440, 'St nocleh, po silnici'],
+    ['Llogara', 40.2050, 19.5880, 'Čt'], ['Vlorë', 40.4660, 19.4890, 'Čt'], ['Tirana', 41.3275, 19.8187, 'Čt konec']
+  ]},
+  B: { color: css('--b'), pts: [
+    ['Tirana', 41.3275, 19.8187, 'So – start'], ['Bovilla', 41.4650, 19.8900, 'So – test auta'], ['Berat', 40.7058, 19.9522, 'So nocleh'],
+    ['Qafa e Kulmakut', 40.6500, 20.1300, 'Ne asfalt, tekke'], ['Tomorr – türbe', 40.6360, 20.1510, 'Ne šotolina, 2 379 m'], ['Ujanik', 40.6100, 20.1900, 'Ne konec asfaltu'], ['Gjerbës', 40.5700, 20.2400, 'Ne track'], ['Çorovodë', 40.5040, 20.2270, 'Ne nocleh'], ['Kaňon Osumi', 40.4700, 20.2200, 'Po ráno pěšky'],
+    ['Frashër', 40.3830, 20.4180, 'Po track'], ['Përmet', 40.2330, 20.3510, 'Po nocleh'], ['Bënja / Lengarica', 40.2470, 20.4180, 'Út ráno'],
+    ['Leskovik', 40.1510, 20.5980, 'Út'], ['Barmash', 40.2450, 20.6300, 'Út průsmyk SH75'], ['Ersekë', 40.3370, 20.6790, 'Út'],
+    ['Korçë', 40.6186, 20.7808, 'Út nocleh'], ['Voskopojë', 40.6330, 20.5880, 'St'], ['Vithkuq', 40.5250, 20.5850, 'St track'], ['Dardhë', 40.5190, 20.8220, 'St track'],
+    ['Korçë', 40.6186, 20.7808, ''], ['Pustec (Prespa)', 40.8380, 20.9060, 'St nocleh'], ['Pogradec', 40.9025, 20.6525, 'Čt'], ['Lin', 41.0650, 20.6350, 'Čt'],
+    ['Elbasan', 41.1125, 20.0822, 'Čt průjezd'], ['Tirana', 41.3275, 19.8187, 'Čt konec']
+  ]},
+  D: { color: css('--d'), pts: [
+    ['Tirana', 41.3275, 19.8187, 'So 9:00 – start'], ['Berat', 40.7058, 19.9522, 'So'], ['Roshnik', 40.7500, 20.0700, 'So nocleh'],
+    ['Qafa e Kulmakut', 40.6500, 20.1300, 'Ne asfalt, tekke'], ['Tomorr – türbe', 40.6360, 20.1510, 'Ne šotolina, 2 379 m'], ['Ujanik', 40.6100, 20.1900, 'Ne konec asfaltu'], ['Gjerbës', 40.5700, 20.2400, 'Ne track'], ['Çorovodë', 40.5040, 20.2270, 'Ne nocleh'], ['Kaňon Osumi', 40.4700, 20.2200, 'Po 7:00 brodění'], ['Çorovodë', 40.5040, 20.2270, ''], ['Ballaban', 40.4200, 20.3000, 'Po šotolina'],
+    ['Këlcyrë', 40.3130, 20.1900, 'Po'], ['Tepelenë', 40.2960, 20.0190, 'Po'], ['Progonat', 40.2500, 19.9100, 'Po track / Út nástup na Peshturu'], ['Nivicë', 40.1830, 19.8850, 'Po nocleh, Út kaňon'],
+    ['Progonat', 40.2500, 19.9100, ''], ['Zhulat', 40.1500, 19.9700, 'Út track, Peshtura'], ['Kardhiq', 40.1000, 20.0400, 'Út'], ['Gjirokastër', 40.0758, 20.1389, 'Út nocleh'], ['Libohovë', 40.0330, 20.2600, 'St start okruhu'], ['Soutěska Selckë', 40.0900, 20.3000, 'St'], ['Poliçan (Zagoria)', 40.1050, 20.3250, 'St'], ['Zagoria – Sheper', 40.1350, 20.3000, 'St track, mosty'],
+    ['Fushë Çajupi', 40.0950, 20.2250, 'St plošina 1 200 m'], ['Gjirokastër', 40.0758, 20.1389, 'St tranzit'], ['Këlcyrë', 40.3130, 20.1900, 'St asfalt'],
+    ['Përmet', 40.2330, 20.3510, 'St nocleh, Bënja večer'], ['Lengarica', 40.2500, 20.4300, 'Čt ráno'], ['Fier / Apollonia', 40.7239, 19.5559, 'Čt'], ['Tirana', 41.3275, 19.8187, 'Čt konec']
+  ]}
+};
+const layers = {};
+for (const k in routes) {
+  const r = routes[k], g = L.layerGroup();
+  L.polyline(r.pts.map(p => [p[1], p[2]]), { color: r.color, weight: 4, opacity: 0.85 }).addTo(g);
+  const seen = new Set();
+  r.pts.forEach(p => {
+    if (seen.has(p[0])) return; seen.add(p[0]);
+    L.circleMarker([p[1], p[2]], { radius: 6, color: '#fff', weight: 1.5, fillColor: r.color, fillOpacity: 1 })
+      .bindPopup('<b>' + k + ' · ' + p[0] + '</b>' + (p[3] ? '<br>' + p[3] : '')).addTo(g);
+  });
+  g.addTo(map); layers[k] = g;
+  document.getElementById('chk' + k).addEventListener('change', e => e.target.checked ? g.addTo(map) : map.removeLayer(g));
+}
+</script>
+</body>
+</html>
