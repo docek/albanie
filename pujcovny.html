@@ -4,255 +4,401 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Půjčovny 4x4 v Tiraně – srovnání pro 18.–24. 9. 2026</title>
-<style>
-  :root { --ink:#1f2a1f; --muted:#5e6b5e; --line:#cdd6c9; --bg:#fbfcf9; --head:#e7eee3; --ok:#1e7a3c; --warn:#a15c00; --bad:#9a2b2b; }
-  body { margin:0; padding:24px; font:15px/1.45 "Source Sans 3", "Segoe UI", system-ui, sans-serif; color:var(--ink); background:var(--bg); }
-  h1 { font-size:22px; margin:0 0 4px; }
-  p.sub { margin:0 0 16px; color:var(--muted); }
-  .legend { display:flex; gap:18px; flex-wrap:wrap; font-size:13px; color:var(--muted); margin-bottom:14px; }
-  .legend span::before { content:"■ "; }
-  .legend .v::before { color:var(--ok); } .legend .g::before { color:var(--warn); } .legend .n::before { color:var(--bad); }
-  .wrap { overflow-x:auto; }
-  table { border-collapse:collapse; width:100%; min-width:1500px; background:#fff; }
-  th, td { border:1px solid var(--line); padding:8px 10px; vertical-align:top; text-align:left; font-size:13.5px; }
-  th { background:var(--head); position:sticky; top:0; z-index:1; font-weight:600; }
-  td:nth-child(2) { font-weight:600; white-space:nowrap; }
-  td.rank { font-weight:700; font-size:18px; text-align:center; }
-  td.verdict { min-width:260px; font-weight:500; }
-  tr.top td { background:#f3f8ee; }
-  a { color:#1d5fa8; }
-  .v { color:var(--ok); } .g { color:var(--warn); } .n { color:var(--bad); }
-  .tag { display:inline-block; font-size:11px; padding:1px 6px; border-radius:3px; margin-left:4px; vertical-align:middle; }
-  .tag.v { background:#e2f2e6; } .tag.g { background:#fdf0dc; } .tag.n { background:#f7e1e1; }
-  small { color:var(--muted); }
-  ul { margin:0; padding-left:16px; }
-  .notes { margin-top:18px; font-size:13.5px; }
-  .notes h2 { font-size:16px; margin:0 0 6px; }
-</style>
+<meta name="description" content="Osm půjčoven terénních aut v Tiraně srovnaných podle ceny, pojištění, kauce a výbavy pro šestidenní off-road po jižní Albánii.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%231f4d3a'/><path d='M18 68l16-26 12 16 10-22 26 32z' fill='%23f4efe6'/></svg>">
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<h1>Půjčovny 4x4 v Tiraně – off-road jen v rámci Albánie</h1>
-<p class="sub">Termín 18.–24. 9. 2026 (7 dní), 2 osoby. Stav ověření k 10. 9. 2026. Seřazeno podle doporučení (1 = nejlepší). The Lada Guys vyřazeni – nemají volné auto.</p>
 
-<div class="legend">
-  <span class="v">ověřeno na webu půjčovny / Google profilu</span>
-  <span class="g">podle Gemini reportu nebo recenzí, neověřeno</span>
-  <span class="n">chybí – nutno se zeptat</span>
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="index.html"><span class="dot"></span>Albánie 4x4</a>
+    <nav>
+      <a href="index.html">← Plán cesty</a>
+      <a href="#poradi">Pořadí</a>
+      <a href="#tabulka">Tabulka</a>
+      <a href="#otazky">Otázky před platbou</a>
+      <a href="#zdroje">Zdroje</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero" id="top">
+  <div class="wrap">
+    <div class="eyebrow">Půjčovny 4x4 · Tirana · 18.–24. 9. 2026</div>
+    <h1>Osm půjčoven,<br><em>jedna s havarijkou</em></h1>
+    <p class="lead">Terénní auto pro dva na sedm dní, off-road jen v rámci Albánie. Seřazeno podle doporučení. The Lada Guys vyřazeni – nemají volné auto. Stav ověření k 10. 9. 2026; hodnocení na Google jsme nedokázali ověřit strojově, berte je jako orientační.</p>
+    <div class="stats">
+      <div class="stat"><b>640 €</b><span>Jimny + CASCO · 8 dní</span></div>
+      <div class="stat"><b>700 €</b><span>Discovery 4 · 7 dní</span></div>
+      <div class="stat"><b>300–500 €</b><span>kauce v hotovosti</span></div>
+      <div class="stat"><b>1</b><span>půjčovna s CASCO v ceně</span></div>
+    </div>
+    <div class="actions">
+      <a class="btn primary" href="#poradi">Pořadí a verdikty</a>
+      <a class="btn ghost" href="#tabulka">Srovnávací tabulka</a>
+    </div>
+  </div>
 </div>
 
-<div class="wrap">
-<table>
-<thead>
-<tr>
-  <th>#</th>
-  <th>Půjčovna</th>
-  <th>Auta</th>
-  <th>Cena / den (září)</th>
-  <th>Odhad 7 dní</th>
-  <th>Kauce</th>
-  <th>Pojištění a výluky</th>
-  <th>Off-road povolen</th>
-  <th>Letiště / výdej</th>
-  <th>Kemp / střešní stan</th>
-  <th>Google</th>
-  <th>Kontakt</th>
-  <th>Rizika a poznámky</th>
-  <th>Verdikt</th>
-</tr>
-</thead>
-<tbody>
-<tr class="top">
-  <td class="rank">1</td>
-  <td><a href="https://drivealbania.com/">Drive Albania</a><br><small>DTB Travel SHPK / Drive The Balkans Ltd (UK)</small></td>
-  <td><span class="v">4× Suzuki Jimny JB64, r. 2024, automat, 1.5 benzín. Výbava Des Sol: šnorchl, rock-sliders, kryty diferenciálů, střešní nosič.</span></td>
-  <td><span class="v">80 €</span></td>
-  <td><span class="v">640 €</span><br><small>min. 8 dní (1. 4.–31. 10.) – nutná výjimka</small></td>
-  <td><span class="v">300 € hotově</span></td>
-  <td><span class="v">Plné CASCO v ceně. Výluky: podvozek, boky pneumatik, utopený motor. Oděrky a kamínky tolerují („pre-scratched").</span></td>
-  <td><span class="v">Ano, primární účel</span></td>
-  <td><span class="v">Na letiště nevozí. Kancelář Rruga Jani Vreto 142 (Pazari i Ri), 8:30–18:30 denně. Taxi z letiště cca 20 €, bus 4 €.</span></td>
-  <td><span class="v">Stan zakázán (limit střechy 30 kg)</span></td>
-  <td><span class="v">5,0 (21)</span></td>
-  <td>+355 69 389 0830<br><a href="mailto:rent@drivealbania.com">rent@drivealbania.com</a></td>
-  <td><ul>
-    <li><span class="v">20% záloha, doplatek do 7 pracovních dnů před startem</span> – lhůta pro 18. 9. už vypršela, nutná domluva.</li>
-    <li>Platba kartou (Visa/MC přes Protected Trust) nebo převodem na UK účet.</li>
-    <li>Nikdy nezadrželi kauci (tvrzení firmy). Auta &lt; 42 000 km, servis u Suzuki Ioannina.</li>
-    <li>Jimny: malý kufr pro 2 osoby na týden.</li>
-  </ul></td>
-  <td class="verdict">Jasná první volba, pokud dají výjimku na 7 dní a přijmou pozdní platbu. Jediné CASCO v tabulce. Bez stanu.</td>
-</tr>
+<section id="poradi">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <span class="kicker">Pořadí</span>
+        <h2>Od nejlepší volby k rezervám</h2>
+        <p class="legend-inline"><span class="v">ověřeno na webu půjčovny</span><span class="g">z rešerše nebo recenzí, neověřeno přímo</span><span class="n">chybí – nutno se zeptat</span></p>
+      </div>
+    </div>
 
-<tr class="top">
-  <td class="rank">2</td>
-  <td><a href="https://overland4x4rental.com/">Overland 4x4 Rental</a></td>
-  <td><span class="v">Land Rover Discovery 4, Discovery 3, Nissan Navara (5 míst)</span></td>
-  <td><span class="v">od 100 € (všechny tři modely)</span></td>
-  <td><span class="g">od 700 €</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="n">nutno se zeptat</span><br><small class="g">Gemini: základní havarijní + asistence pro nezpevněné cesty</small></td>
-  <td><span class="v">Ano, primární účel</span></td>
-  <td><span class="g">Letiště TIA na vyžádání</span><br><small>Sídlo Rruga Fabrika e Qelqit</small></td>
-  <td><span class="v">Střešní stan, kuchyň a vyprošťovací nářadí v ceně</span></td>
-  <td><span class="v">5,0 (13)</span></td>
-  <td>+355 69 305 0853<br><a href="mailto:book@overland4x4rental.com">book@overland4x4rental.com</a></td>
-  <td><ul>
-    <li><span class="v">Podpora 24/7; recenze: náhradní auto dovezli přímo do terénu.</span></li>
-    <li>Málo recenzí, online rezervace na webu nefunkční („no selected car class").</li>
-    <li><span class="v">Doručení 24/7: letiště Rinas, přístavy Durrës a Vlorë.</span></li>
-    <li>Min. délka pronájmu: web neuvádí.</li>
-    <li>Velké auto = pohodlí na asfaltu, ale limit na úzkých horských tracích.</li>
-  </ul></td>
-  <td class="verdict">Auto mají potvrzené (D4 automat, 100 €/den). Cena dobrá, ale zatím nula informací o pojištění a kauci – pořadí platí jen pokud odpoví na 8 otázek přijatelně.</td>
-</tr>
+    <!-- 1 -->
+    <div class="co top">
+      <div class="head">
+        <span class="rank top">1</span>
+        <div><h3><a href="https://drivealbania.com/">Drive Albania</a></h3><div class="sub">DTB Travel SHPK / Drive The Balkans Ltd (UK) · Rruga Jani Vreto 142, Pazari i Ri</div></div>
+        <div class="price"><b>80 €</b><span>den · min. 8 dní = 640 €</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">4× Suzuki Jimny JB64, r. 2024, automat, 1.5 benzín. Šnorchl, rock-sliders, kryty diferenciálů, střešní nosič.</span></div>
+        <div><b>Pojištění</b><span class="v">Plné CASCO v ceně. Výluky: podvozek, boky pneu, utopený motor, škody od střešního stanu.</span></div>
+        <div><b>Kauce</b><span class="v">300 € hotově</span></div>
+        <div><b>Výdej</b><span class="v">Jen kancelář, 8:30–18:30 denně. Na letiště nevozí (taxi ~20 €, bus 4 €).</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="v">Minimum 8 dní v sezóně 1. 4.–31. 10. (mimo sezónu 60 €/den, min. 4 dny)</span> – na našich 7 dní nutná výjimka.</li>
+            <li><span class="v">20 % záloha, doplatek do 7 pracovních dnů před startem</span> – lhůta už vypršela, nutná domluva.</li>
+            <li>Platba kartou (Visa/MC přes Protected Trust) nebo převodem na UK účet.</li>
+            <li><span class="v">Střešní stan zakázán (dynamická nosnost střechy 30 kg). Výjezd mimo Albánii +50 €.</span></li>
+            <li>Nikdy nezadrželi kauci (tvrzení firmy). Auta &lt; 42 000 km, servis u Suzuki Ioannina.</li>
+            <li>Jimny: malý kufr pro 2 osoby na týden – sklopit zadní sedadla.</li>
+            <li><span class="g">Google 5,0 (21) – neověřeno.</span></li>
+          </ul>
+          <div class="contact"><span>📞 +355 69 389 0830</span><a href="mailto:rent@drivealbania.com">rent@drivealbania.com</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Jasná první volba, pokud dají výjimku na 7 dní a přijmou pozdní platbu. Jediné CASCO v tabulce, nejnovější auta, nejlepší poměr rozměrů k albánským cestám. Bez stanu, bez letiště – pro nás obojí nevadí.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">3</td>
-  <td><a href="https://albania4x4carrental.al/">4x4 Car Rental Tirana</a><br><small>= „Albania 4x4 Off-Road Car Rental" (stejný telefon, Jurgen / Ervin)</small></td>
-  <td><span class="v">Starší terénní: Nissan Terrano, X-Terra, Mitsubishi Pajero, Toyota Land Cruiser, Land Rover Discovery, G-třída (1984, OM606), BMW X5, Cayenne. Manuál i automat, AT pneu.</span></td>
-  <td><span class="v">120–170 € podle vozu: Pajero II 2.5 manuál 120; Cherokee, ML, X5 130; Pajero IV, Grand Cherokee, Discovery, Land Cruiser LJ70, Cayenne 150; G-třída 170</span></td>
-  <td><span class="v">840–1 190 €</span><br><small>Pajero II 840 / Land Cruiser 1 050</small></td>
-  <td><span class="v">300 € hotově</span> (T&amp;C 2026)</td>
-  <td><span class="v">Full Cover +80 € (kryje plnou hodnotu vozu při vlastní vině). Nekryto nikdy: podvozek, rám, zavěšení, utopený motor. Neopravitelná pneu = 250 € z kauce.</span></td>
-  <td><span class="v">Ano</span></td>
-  <td><span class="v">Doručí na letiště TIA</span></td>
-  <td><span class="v">Střešní stany ano, kemp výbava +20 €/den</span></td>
-  <td><span class="v">4,9 (130)</span></td>
-  <td>+355 69 525 7213<br><a href="mailto:albania4x4carrental@gmail.com">albania4x4carrental@gmail.com</a></td>
-  <td><ul>
-    <li>Vlastní servis, GPS tracker v každém autě.</li>
-    <li>Recenze: auta stará, ale mechanicky v pořádku; výměna auta při závadě klimatizace.</li>
-    <li>Web od 2022 nemá aktuální ceník – vše přes WhatsApp.</li>
-    <li><span class="v">Řidič min. 23 let, ŘP min. 36 měsíců. Storno do 30 dnů před startem = 100 % ceny.</span></li>
-    <li>Druhý web téže firmy: <a href="https://www.albania4x4offroad-carrentalholidays.com/">albania4x4offroad-carrentalholidays.com</a> – aktuální ceník (únor 2026), rezervační formulář, 20+ vozů, základna přímo u letiště Rinas. Polsky vedená firma (Paul/Vini), nabízí i vlastní 7denní overland itinerář.</li>
-    <li>Min. délka pronájmu: v T&amp;C neuvedena.</li>
-  </ul></td>
-  <td class="verdict">Nejprověřenější provoz (130 recenzí, vlastní servis, letiště, stany). Odpadá jen kvůli ceně 120–170 €/den – o 40–70 % dráž než č. 2 za srovnatelné auto bez CASCO.</td>
-</tr>
+    <!-- 2 -->
+    <div class="co top">
+      <div class="head">
+        <span class="rank top">2</span>
+        <div><h3><a href="https://overland4x4rental.com/">Overland 4x4 Rental</a></h3><div class="sub">Tirana · sídlo Rruga Fabrika e Qelqit</div></div>
+        <div class="price"><b>od 100 €</b><span>den · 7 dní ≈ 700 €</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">Land Rover Discovery 4, Discovery 3, Nissan Navara (5 míst)</span></div>
+        <div><b>Pojištění</b><span class="n">Web neuvádí</span><br><small class="g">rešerše: základní havarijní + asistence</small></div>
+        <div><b>Kauce</b><span class="n">neuvedeno</span></div>
+        <div><b>Výdej</b><span class="v">Doručení a meet &amp; greet 24/7</span><br><small class="g">letiště Rinas, Durrës, Vlorë – z nabídky, web konkrétně nejmenuje</small></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="v">Střešní stan, kuchyň a vyprošťovací nářadí v ceně. Podpora 24/7.</span></li>
+            <li>Recenze: náhradní auto dovezli přímo do terénu. Recenzí je ale málo, online rezervace na webu nefunkční.</li>
+            <li>Datum založení firmy nedohledáno (naše informace: jaro 2026). Obchodní a pojistné podmínky na webu nejsou.</li>
+            <li>Velké auto = pohodlí na asfaltu, ale limit na úzkých horských tracích a 2,5 t na vytlačení.</li>
+            <li><span class="g">Google 5,0 (13) – neověřeno.</span></li>
+          </ul>
+          <div class="contact"><span>📞 +355 69 305 0853</span><a href="mailto:book@overland4x4rental.com">book@overland4x4rental.com</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Auto mají potvrzené (D4 automat, 100 €/den). Cena dobrá, ale zatím nula informací o pojištění a kauci – pořadí platí jen pokud odpoví na naše otázky přijatelně a písemně.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">4</td>
-  <td><a href="https://ridingalbania.com/">Riding Albania</a></td>
-  <td><span class="v">4× Nissan Patrol Y61 3.0 diesel – 2 manuál, 2 automat. Jen Patroly.</span></td>
-  <td><span class="v">od 90 € (manuál) / od 100 € (automat)</span></td>
-  <td><span class="v">630–700 €</span></td>
-  <td><span class="v">až 500 € hotově</span></td>
-  <td><span class="v">T&amp;C: podvozek, pneu a tlumiče vždy na nájemci. Brodění řeky, nevhodná cesta nebo špatné palivo = hrubá nedbalost, plná úhrada bez ohledu na pojistku. Typ pojištění na webu neuveden.</span></td>
-  <td><span class="v">Ano, ale výslovně zakázána cesta na Gjipe a do NP Lura</span></td>
-  <td><span class="n">neuvedeno</span><br><small>Sídlo Kompleksi Delijorgji, Rruga Sali Butka</small></td>
-  <td><span class="v">Pozemní stany a kemp výbava na přání</span></td>
-  <td><span class="v">5,0 (19)</span></td>
-  <td>+355 67 454 5454<br><a href="mailto:info@ridingalbania.com">info@ridingalbania.com</a></td>
-  <td><ul>
-    <li><span class="v">Záloha 30 % nevratná, doplatek při převzetí. Storno do 30 dnů = 100 %. Řidič 23+, ŘP 36 měsíců. Mytí před vrácením, jinak −20 €.</span></li>
-    <li>Web listopad 2025, T&amp;C jsou zkopírované od Lada Guys („LEGAL ENTITY HERE", zmínka Lada Niva) – smluvní strana není uvedena.</li>
-    <li>Nejlevnější velký off-road v tabulce, ale bez CASCO a s kaucí 500 €.</li>
-    <li>Min. délka pronájmu: neuvedena.</li>
-  </ul></td>
-  <td class="verdict">Nejlevnější Patrol, ale neznámá právnická osoba, T&C zkopírované od Lada Guys, žádné údaje o pojistce, kauce 500 €. Jen pokud 1–3 vypadnou a odpoví na dotaz o firmě a pojištění.</td>
-</tr>
+    <!-- 3 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">3</span>
+        <div><h3><a href="https://albania4x4carrental.al/">4x4 Car Rental Tirana</a></h3><div class="sub">= „Albania 4x4 Off-Road Car Rental" (stejný telefon, Jurgen / Ervin) · základna u letiště Rinas</div></div>
+        <div class="price"><b>120–170 €</b><span>den · 7 dní 840–1 190 €</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">Starší terénní: Nissan Terrano, X-Terra, Mitsubishi Pajero, Toyota Land Cruiser, Land Rover Discovery, G-třída (1984), BMW X5, Cayenne. AT pneu.</span></div>
+        <div><b>Pojištění</b><span class="v">Full Cover +80 €. Nekryto nikdy: podvozek, rám, zavěšení, utopený motor. Neopravitelná pneu 100 € z kauce.</span></div>
+        <div><b>Kauce</b><span class="v">300 € hotově</span></div>
+        <div><b>Výdej</b><span class="g">Doručí na letiště TIA</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="g">Ceník: Pajero II 2.5 manuál 120; Cherokee, ML, X5 130; Pajero IV, Grand Cherokee, Discovery, Land Cruiser LJ70, Cayenne 150; G-třída 170 (WhatsApp, únor 2026)</span> – web při ověřování vracel chybu 500.</li>
+            <li>Vlastní servis, GPS tracker v každém autě. Recenze: auta stará, ale mechanicky v pořádku.</li>
+            <li><span class="v">ŘP min. 36 měsíců.</span> <span class="g">Řidič min. 23 let, storno do 30 dnů = 100 %, střešní stany a kemp výbava +20 €/den.</span></li>
+            <li>Druhý web téže firmy: <a href="https://www.albania4x4offroad-carrentalholidays.com/">albania4x4offroad-carrentalholidays.com</a> – jen kontakt a přehled služeb, bez ceníku.</li>
+            <li><span class="g">Google 4,9 (102)</span> – původní údaj 130 recenzí patřil jiné firmě.</li>
+          </ul>
+          <div class="contact"><span>📞 +355 69 525 7213</span><a href="mailto:albania4x4carrental@gmail.com">albania4x4carrental@gmail.com</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Nejprověřenější provoz (vlastní servis, letiště, stany). Odpadá jen kvůli ceně 120–170 €/den – o 40–70 % dráž než č. 2 za srovnatelné auto bez CASCO.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">5</td>
-  <td><a href="https://nrgmotors.al/4x4-off-road-car-rental/">NRG Motors</a></td>
-  <td><span class="v">10× Nissan Patrol 4x4, 4+1 míst, upravené pro terén (motory 3.0 diesel, cca r. 2009).</span></td>
-  <td><span class="v">100 €</span></td>
-  <td><span class="v">700 €</span></td>
-  <td><span class="v">500 € / vozidlo</span></td>
-  <td><span class="v">Mezinárodní pojištění, auto nesmí opustit Albánii.</span><br><span class="g">Gemini: škody zaviněné nájemcem nekryty</span></td>
-  <td><span class="v">Ano – Bovilla, Tomorr, Ersekë, Përmet, Theth, Valbona</span></td>
-  <td><span class="g">Na vyžádání; základna Marikaj, dálnice Tirana–Durrës km 14</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="n">bez Google profilu</span></td>
-  <td><span class="g">+355 69 249 7771</span><br><a href="mailto:info@nrgmotors.al">info@nrgmotors.al</a></td>
-  <td><ul>
-    <li>Nejvyšší kauce. Platba převážně hotově, poplatek za mytí.</li>
-    <li>Zpoždění vrácení nad 1 h se účtuje.</li>
-    <li>Autobazar + půjčovna – při převzetí zkontrolovat redukci, tlumiče, pneu.</li>
-    <li>Nabízí i pronájem s řidičem.</li>
-  </ul></td>
-  <td class="verdict">Patrol za 100 €, ale kauce 500 €, hotovost, autobazar bez Google recenzí. Rezerva.</td>
-</tr>
+    <!-- 4 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">4</span>
+        <div><h3><a href="https://ridingalbania.com/">Riding Albania</a></h3><div class="sub">Kompleksi Delijorgji, Rruga Sali Butka</div></div>
+        <div class="price"><b>od 90 €</b><span>den · manuál / 100 € automat</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">Nissan Patrol 3.0 diesel 4x4</span> <span class="g">(4 kusy Y61, 2 manuál, 2 automat)</span></div>
+        <div><b>Pojištění</b><span class="g">T&amp;C: podvozek, pneu a tlumiče vždy na nájemci. Brodění, nevhodná cesta nebo špatné palivo = hrubá nedbalost, plná úhrada. Typ pojištění neuveden.</span></div>
+        <div><b>Kauce</b><span class="g">až 500 € hotově</span></div>
+        <div><b>Výdej</b><span class="n">neuvedeno</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="g">Záloha 30 % nevratná, doplatek při převzetí. Storno do 30 dnů = 100 %. Řidič 23+, ŘP 36 měsíců. Mytí před vrácením, jinak −20 €.</span></li>
+            <li><span class="g">Výslovně zakázána cesta na Gjipe a do NP Lura.</span></li>
+            <li>Web listopad 2025, T&amp;C zkopírované od Lada Guys („LEGAL ENTITY HERE", zmínka Lada Niva) – smluvní strana není uvedena.</li>
+            <li>Pozemní stany a kemp výbava na přání.</li>
+            <li><span class="g">Google 5,0 (19) – neověřeno.</span></li>
+          </ul>
+          <div class="contact"><span>📞 +355 67 454 5454</span><a href="mailto:info@ridingalbania.com">info@ridingalbania.com</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Nejlevnější velký off-road, ale neznámá právnická osoba, žádné údaje o pojistce, kauce 500 €. Jen pokud 1–3 vypadnou a odpoví na dotaz o firmě a pojištění.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">6</td>
-  <td><a href="https://camper4x4albania.com/">Camper 4x4 Albania</a></td>
-  <td><span class="g">4x4 campery: Jimny 1.3, 2.5 benzín s uzávěrkou, 2.7 diesel (dle Gemini)</span></td>
-  <td><span class="g">100–130 €</span></td>
-  <td><span class="g">700–910 €</span></td>
-  <td><span class="g">300 € hotově</span></td>
-  <td><span class="g">základní pojistka v ceně</span></td>
-  <td><span class="g">Ano (marketing)</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="v">Stan Quechua MH500, lednice 50 l, vařič, stůl a židle v ceně</span></td>
-  <td><span class="n">neověřeno</span></td>
-  <td><span class="g">+355 69 631 2827</span><br><a href="mailto:latorental@gmail.com">latorental@gmail.com</a></td>
-  <td><ul>
-    <li>Jen pro kempovací scénář.</li>
-    <li>Většina údajů z Gemini bez ověření.</li>
-  </ul></td>
-  <td class="verdict">Jen pro kempovací scénář a jen pokud odpoví Honzovi s konkrétními podmínkami. Vše z Gemini, nic ověřeno.</td>
-</tr>
+    <!-- 5 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">5</span>
+        <div><h3><a href="https://nrgmotors.al/4x4-off-road-car-rental/">NRG Motors</a></h3><div class="sub">Autobazar + půjčovna · Marikaj, dálnice Tirana–Durrës</div></div>
+        <div class="price"><b>100 / 120 €</b><span>den · základní / plné pojištění</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">10× Nissan Patrol 4x4, 4+1 míst, 3.0 diesel cca r. 2009, upravené pro terén</span></div>
+        <div><b>Pojištění</b><span class="v">Dva tarify: 100 € „simple", 120 € „full". Auto nesmí opustit Albánii.</span></div>
+        <div><b>Kauce</b><span class="v">500 € / vozidlo</span></div>
+        <div><b>Výdej</b><span class="g">Na vyžádání</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="v">Minimální pronájem 3 dny.</span> Off-road výslovně povolen – Bovilla, Tomorr, Ersekë, Përmet, Theth, Valbona.</li>
+            <li>Nejvyšší kauce. Platba převážně hotově, poplatek za mytí, zpoždění nad 1 h se účtuje.</li>
+            <li>Autobazar – při převzetí zkontrolovat redukci, tlumiče, pneu. Bez Google profilu.</li>
+          </ul>
+          <div class="contact"><span class="g">📞 +355 69 249 7771</span><a href="mailto:info@nrgmotors.al">info@nrgmotors.al</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Patrol za 100–120 €, ale kauce 500 €, hotovost, autobazar bez recenzí. Rezerva.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">7</td>
-  <td><a href="http://www.gorilla.al/">Gorilla Overlanding</a><br><small>(4x4 Rental Albania)</small></td>
-  <td><span class="v">Land Rover Discovery se střešními stany</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="n">–</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="n">nutno se zeptat</span></td>
-  <td><span class="v">Ano</span></td>
-  <td><span class="n">neuvedeno</span><br><small>Sídlo Rruga Asim Zeneli</small></td>
-  <td><span class="v">Střešní stany</span></td>
-  <td><span class="v">4,1 (44)</span></td>
-  <td>+355 67 500 7770</td>
-  <td><ul>
-    <li>Nejhorší hodnocení; recenze: chyběl hever, ale mechanika pošlou do terénu.</li>
-    <li>Platba půl hotově, půl převodem.</li>
-  </ul></td>
-  <td class="verdict">Nejhorší recenze (4,1), chyběl hever. Neberu.</td>
-</tr>
+    <!-- 6 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">6</span>
+        <div><h3><a href="https://discovery-compass.com/">Discovery Compass</a></h3><div class="sub">Nová firma (2025)</div></div>
+        <div class="price"><b>85 €</b><span>den · Jimny / 130 € Patrol</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">Suzuki Jimny, Nissan Patrol; s kempovací sadou (Alu-Cab stan) Jimny 120 €, Patrol 185 €</span></div>
+        <div><b>Pojištění</b><span class="v">Jen povinné ručení v ceně; částečné havarijní jako příplatek</span></div>
+        <div><b>Kauce</b><span class="n">neuvedeno</span></div>
+        <div><b>Výdej</b><span class="n">neuvedeno</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="v">Neomezené km, 2. řidič zdarma.</span> Ceny na webu jsou vyšší než v Honzově rešerši z července (75/110 €).</li>
+            <li>Stan na Jimny – proti tomu Drive Albania výslovně varuje (těžiště, limit 30 kg).</li>
+            <li>Nejlevnější Jimny v Tiraně, ale rozbité auto platíte celé. Rozdíl proti Drive Albania je cena za CASCO.</li>
+          </ul>
+          <div class="contact"><span>přes web</span></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Jimny za 85 € bez CASCO. Jediný důvod: pokud Drive Albania nedá výjimku a nechcete Discovery. Pak jet výrazně pod limit auta a zeptat se na cenu částečného havarijního.</p>
+        </div>
+      </div>
+    </div>
 
-<tr>
-  <td class="rank">8</td>
-  <td><a href="https://discovery-compass.com/">Discovery Compass</a></td>
-  <td><span class="v">Suzuki Jimny, Nissan Patrol; volitelně pevný stan Alu-Cab s markýzou</span></td>
-  <td><span class="g">Jimny 75 € (se stanem 110), Patrol 120 € (se stanem 175); neomezené km, 2. řidič zdarma (Honzova rešerše, 8. 7. 2026)</span></td>
-  <td><span class="g">Jimny 450–525 €</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="v">Jen povinné ručení</span></td>
-  <td><span class="v">Ano, horské trasy</span></td>
-  <td><span class="n">neuvedeno</span></td>
-  <td><span class="v">Stan na Jimny – proti tomu Drive Albania výslovně varuje (těžiště, limit 30 kg)</span></td>
-  <td><span class="n">neověřeno</span></td>
-  <td>přes web</td>
-  <td><ul>
-    <li>Nová firma (2025), jen povinné ručení – nejlevnější Jimny v Tiraně, ale rozbité auto platíte celé. Rozdíl ~200 € proti Drive Albania je cena za CASCO.</li>
-  </ul></td>
-  <td class="verdict">Jimny za 75 € bez CASCO. Jediný důvod: pokud Drive Albania nedá výjimku a nechcete Discovery. Pak jet výrazně pod limit auta.</td>
-</tr>
+    <!-- 7 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">7</span>
+        <div><h3><a href="https://camper4x4albania.com/">Camper 4x4 Albania</a></h3><div class="sub">Lato Rental</div></div>
+        <div class="price"><b>120 €</b><span>den · Jimny camper</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="v">4x4 campery, Jimny camper 120 €/den</span> <span class="g">(další modely 2.5 benzín s uzávěrkou, 2.7 diesel)</span></div>
+        <div><b>Pojištění</b><span class="v">„Všechna auta pojištěná, další pojištění není třeba", nájemce ručí za nedbalost. Bez rozpisu výluk.</span></div>
+        <div><b>Kauce</b><span class="v">300 € při převzetí</span></div>
+        <div><b>Výdej</b><span class="n">neuvedeno</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="v">Stan Quechua MH500, lednice 50 l, vařič, stůl a židle v ceně.</span></li>
+            <li>Jen pro kempovací scénář. Minimální délka pronájmu neuvedena.</li>
+          </ul>
+          <div class="contact"><span class="g">📞 +355 69 631 2827</span><a href="mailto:latorental@gmail.com">latorental@gmail.com</a></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Jen pro kempovací scénář, a ten jsme zavrhli. Vynechat.</p>
+        </div>
+      </div>
+    </div>
 
-</tbody>
-</table>
-</div>
+    <!-- 8 -->
+    <div class="co">
+      <div class="head">
+        <span class="rank">8</span>
+        <div><h3><a href="http://www.gorilla.al/">Gorilla Overlanding</a></h3><div class="sub">(4x4 Rental Albania) · Rruga Asim Zeneli</div></div>
+        <div class="price"><b>?</b><span>ceník nezveřejněn</span></div>
+      </div>
+      <div class="facts">
+        <div><b>Auta</b><span class="g">Land Rover Discovery se střešními stany (z TripAdvisoru, web fleet neuvádí)</span></div>
+        <div><b>Pojištění</b><span class="n">nutno se zeptat</span></div>
+        <div><b>Kauce</b><span class="n">neuvedeno</span></div>
+        <div><b>Výdej</b><span class="n">neuvedeno</span></div>
+      </div>
+      <div class="body">
+        <div>
+          <h4>Poznámky</h4>
+          <ul>
+            <li><span class="g">Google 4,1 (44) – nejhorší v tabulce, neověřeno.</span> Recenze: chyběl hever, mechanika pošlou do terénu.</li>
+            <li><span class="v">Recenze na TripAdvisoru hlásí nevrácenou kauci 700 €.</span></li>
+            <li>Platba půl hotově, půl převodem.</li>
+          </ul>
+          <div class="contact"><span>📞 +355 67 500 7770</span></div>
+        </div>
+        <div class="verdict-box">
+          <h4>Verdikt</h4>
+          <p>Nejhorší recenze a doložená stížnost na kauci. Neberu.</p>
+        </div>
+      </div>
+    </div>
 
-<div class="notes">
-<h2>Zprostředkovatel, ne půjčovna</h2>
-<p><a href="https://travelbuddy.livealbania.cz/">TravelBuddy (LiveAlbania)</a> – Čech Vladimír Přikryl, do Albánie jezdí od 2006, mluví albánsky. Za 1 500 Kč/týden sestaví itinerář, zarezervuje ubytování, zajistí auto přes vlastní kontakty a je na WhatsAppu jako „buddy na telefonu" (řešil klientům i poruchu v horách). Stránka s pronájmem aut <code>/pronajem-auta.php</code> nešla načíst, konkrétní auta ani ceny tedy neznám. Kontakt: <a href="mailto:vladimir@livealbania.cz">vladimir@livealbania.cz</a>, +355 68 550 1058. Smysl má, pokud chceš českého prostředníka pro dohadování podmínek a nouzový kontakt – ale auto stejně přijde od některé z lokálních půjčoven, takže se ptej, od které.</p>
-</div>
+    <div class="grid c2" style="margin-top:28px">
+      <div class="card">
+        <h3>Zprostředkovatel, ne půjčovna</h3>
+        <p><a href="https://travelbuddy.livealbania.cz/">TravelBuddy (LiveAlbania)</a> – Čech Vladimír Přikryl, do Albánie jezdí od 2006, mluví albánsky. Za 1 500 Kč za první týden (+750 Kč každý další) sestaví itinerář, zarezervuje ubytování, zajistí auto přes vlastní kontakty a je na WhatsAppu jako „buddy na telefonu". Je to cena za službu, ne za auto – to stejně přijde od některé z lokálních půjčoven, takže se ptát, od které. Kontakt: <a href="mailto:vladimir@livealbania.cz">vladimir@livealbania.cz</a>, +355 68 550 1058.</p>
+      </div>
+      <div class="card">
+        <h3>Vyřazené a nepoužitelné</h3>
+        <ul style="margin-bottom:0">
+          <li><b>The Lada Guys</b> (albania4x4rentals.com) – Honzova původní záloha, nejlepší recenze, ale na náš termín nemají auto.</li>
+          <li><b>Camp &amp; Drive, Pampa Cruz</b> – z Honzovy rešerše, neprověřeno, nabídku jsme nežádali.</li>
+          <li><b>LocalRent a běžné půjčovny</b> – Jimny/Duster od 40–60 €/den, ale smluvně zakazují sjet z asfaltu. Pro tento trip nepoužitelné.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 
-<div class="notes">
-<h2>Otázky pro každou půjčovnu před platbou</h2>
-<ul>
-  <li>Je jízda mimo zpevněné cesty výslovně povolena ve smlouvě? Pošlete plánované trasy a chtějte písemné potvrzení (WhatsApp stačí).</li>
-  <li>Co pojistka <em>vylučuje</em> – brodění, podvozek, pneumatiky, střecha?</li>
-  <li>Výše kauce, forma (hotově/karta) a lhůta vrácení.</li>
-  <li>Denní limit km.</li>
-  <li>Výbava: hever, klíč na kola, funkční rezerva, kompresor, lékárnička.</li>
-  <li>Plán B při poruše v terénu – náhradní auto, nebo vlastní odtah?</li>
-  <li>Předání v pátek 18. 9. večer – kde a v kolik.</li>
-</ul>
-</div>
+<section id="tabulka">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <span class="kicker">Tabulka</span>
+        <h2>Vše na jednom řádku</h2>
+        <p>Odhad na 7 dní. U Drive Albania platí minimum 8 dní, proto 640 €.</p>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table class="cmp" style="min-width:980px">
+        <thead><tr><th>#</th><th>Půjčovna</th><th>Auto</th><th>€/den</th><th>7 dní</th><th>Kauce</th><th>Havarijní</th><th>Letiště</th><th>Stan</th></tr></thead>
+        <tbody>
+          <tr><th>1</th><td><b>Drive Albania</b></td><td>Jimny 2024</td><td>80</td><td>640 (min. 8 d)</td><td>300 € hot.</td><td><span class="v">CASCO v ceně</span></td><td><span class="n">ne</span></td><td><span class="n">zakázán</span></td></tr>
+          <tr><th>2</th><td><b>Overland 4x4</b></td><td>Discovery 4</td><td>100</td><td>700</td><td><span class="n">?</span></td><td><span class="n">?</span></td><td><span class="v">ano 24/7</span></td><td><span class="v">v ceně</span></td></tr>
+          <tr><th>3</th><td>4x4 Car Rental Tirana</td><td>Pajero … Land Cruiser</td><td>120–170</td><td>840–1 190</td><td>300 € hot.</td><td><span class="g">Full Cover +80 €</span></td><td><span class="v">ano</span></td><td><span class="v">+20 €/den</span></td></tr>
+          <tr><th>4</th><td>Riding Albania</td><td>Patrol Y61</td><td>90–100</td><td>630–700</td><td>až 500 € hot.</td><td><span class="n">neuvedeno</span></td><td><span class="n">?</span></td><td><span class="v">na přání</span></td></tr>
+          <tr><th>5</th><td>NRG Motors</td><td>Patrol 2009</td><td>100 / 120</td><td>700 / 840</td><td>500 €</td><td><span class="g">„full" tarif 120 €</span></td><td><span class="g">na vyžádání</span></td><td><span class="n">?</span></td></tr>
+          <tr><th>6</th><td>Discovery Compass</td><td>Jimny / Patrol</td><td>85 / 130</td><td>595 / 910</td><td><span class="n">?</span></td><td><span class="n">jen POV</span></td><td><span class="n">?</span></td><td><span class="v">+35–55 €/den</span></td></tr>
+          <tr><th>7</th><td>Camper 4x4 Albania</td><td>Jimny camper</td><td>120</td><td>840</td><td>300 €</td><td><span class="g">„pojištěno", bez výluk</span></td><td><span class="n">?</span></td><td><span class="v">v ceně</span></td></tr>
+          <tr><th>8</th><td>Gorilla Overlanding</td><td>Discovery</td><td>?</td><td>?</td><td><span class="n">?</span></td><td><span class="n">?</span></td><td><span class="n">?</span></td><td><span class="v">ano</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section id="otazky">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <span class="kicker">Před platbou</span>
+        <h2>Otázky pro každou půjčovnu</h2>
+        <p>Odpovědi chtít písemně – WhatsApp stačí. Bez nich neplatit zálohu.</p>
+      </div>
+    </div>
+    <div class="grid c2">
+      <div class="card"><h3>Smlouva a pojištění</h3><ul style="margin-bottom:0">
+        <li>Je jízda mimo zpevněné cesty výslovně povolena ve smlouvě? Poslat plánované trasy a chtít potvrzení.</li>
+        <li>Co pojistka <em>vylučuje</em> – brodění, podvozek, pneumatiky, střecha? Jaká je spoluúčast?</li>
+        <li>Kdo je smluvní strana (název firmy, IČ) – u Riding Albania a Overlandu není na webu.</li>
+        <li>Výše kauce, forma (hotově/karta) a lhůta vrácení.</li>
+      </ul></div>
+      <div class="card"><h3>Auto a předání</h3><ul style="margin-bottom:0">
+        <li>Denní limit km.</li>
+        <li>Výbava: hever, klíč na kola, funkční rezerva (druhá?), kompresor, lékárnička, vesta, trojúhelník, vyprošťovací pás.</li>
+        <li>Plán B při poruše v terénu – náhradní auto, nebo vlastní odtah?</li>
+        <li>Předání v pátek 18. 9. večer nebo sobotu ráno – kde a v kolik; vrácení ve čtvrtek 24. 9. odpoledne.</li>
+      </ul></div>
+    </div>
+  </div>
+</section>
+
+<section id="zdroje" class="sources">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <span class="kicker">Zdroje</span>
+        <h2>Odkud to víme</h2>
+        <p>Weby půjčoven načteny 10. 9. 2026. Hodnocení na Google jsou z dřívější ruční rešerše a strojově se je ověřit nepodařilo.</p>
+      </div>
+    </div>
+    <ol>
+      <li data-n="1"><div><a href="https://drivealbania.com/">drivealbania.com</a>, <a href="https://drivealbania.com/reviews/">/reviews</a><span>Ceny, minimum, kauce, CASCO a výluky, zákaz stanu, kancelář, platební podmínky.</span></div></li>
+      <li data-n="2"><div><a href="https://overland4x4rental.com/">overland4x4rental.com</a><span>Fleet, cena od 100 €, výbava v ceně, doručení 24/7.</span></div></li>
+      <li data-n="3"><div><a href="https://albania4x4carrental.al/terms/">albania4x4carrental.al/terms</a> (HTTP 500, z indexu vyhledávače), <a href="https://www.albania4x4offroad-carrentalholidays.com/">albania4x4offroad-carrentalholidays.com</a><span>Kauce 300 €, Full Cover +80 €, pneu 100 €, ŘP 36 měsíců.</span></div></li>
+      <li data-n="4"><div><a href="https://ridingalbania.com/">ridingalbania.com</a><span>Patrol 3.0d, 90/100 €.</span></div></li>
+      <li data-n="5"><div><a href="https://nrgmotors.al/4x4-off-road-car-rental/">nrgmotors.al</a><span>100/120 €, kauce 500 €, min. 3 dny, Marikaj.</span></div></li>
+      <li data-n="6"><div><a href="https://discovery-compass.com/">discovery-compass.com</a><span>Jimny 85/120 €, Patrol 130/185 €, jen POV, neomezené km.</span></div></li>
+      <li data-n="7"><div><a href="https://camper4x4albania.com/rent-a-4x4-camper/">camper4x4albania.com</a>, <a href="https://camper4x4albania.com/insurance/">/insurance</a><span>Jimny camper 120 €, kauce 300 €, pojištění bez výluk.</span></div></li>
+      <li data-n="8"><div><a href="https://gorilla.al/">gorilla.al</a>, <a href="https://www.tripadvisor.com/Attraction_Review-g294446-d27692413-Reviews-Gorilla_Overlanding-Tirana_Tirana_County.html">TripAdvisor – Gorilla Overlanding</a><span>Web bez fleetu a ceníku; recenze o nevrácené kauci 700 €.</span></div></li>
+      <li data-n="9"><div><a href="https://travelbuddy.livealbania.cz/">travelbuddy.livealbania.cz</a><span>1 500 Kč první týden, +750 Kč další; „nejsme cestovka ani průvodce".</span></div></li>
+      <li data-n="10"><div><a href="https://palmovnik.github.io/albanie/">palmovnik.github.io/albanie</a><span>Honzova rešerše (červenec 2026): Lada Guys, Camp &amp; Drive, Pampa Cruz, LocalRent, doporučení podle rozpočtu.</span></div></li>
+    </ol>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>Albánie 4x4 · půjčovny · stav k 10. 9. 2026</span>
+    <span><a href="index.html">Plán cesty</a> · <a href="https://github.com/docek/albanie">GitHub</a></span>
+  </div>
+</footer>
 </body>
 </html>
