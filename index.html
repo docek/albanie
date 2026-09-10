@@ -119,8 +119,8 @@
       <div class="map-ctl">
         <div class="box">
           <label><input type="checkbox" id="chkD" checked><span class="sw" style="background:var(--D)"></span> D – Centrální masivy <b>(doporučená)</b></label>
-          <label><input type="checkbox" id="chkH" checked><span class="sw" style="background:var(--H)"></span> H – Divoký jih (Honza)</label>
-          <label><input type="checkbox" id="chkB" checked><span class="sw" style="background:var(--B)"></span> B – Jihovýchod, jezera</label>
+          <label><input type="checkbox" id="chkH" checked><span class="sw" style="background:repeating-linear-gradient(90deg,var(--H) 0 8px,transparent 8px 12px)"></span> H – Divoký jih (Honza)</label>
+          <label><input type="checkbox" id="chkB" checked><span class="sw" style="background:repeating-linear-gradient(90deg,var(--B) 0 3px,transparent 3px 7px)"></span> B – Jihovýchod, jezera</label>
         </div>
         <div class="box tiles">
           <button data-tile="osm" class="on">Mapa</button>
@@ -751,7 +751,7 @@ const routes = {
 const layers = {}, coords = {};
 for (const k in routes) {
   const r = routes[k], g = L.layerGroup();
-  L.polyline(r.pts.map(p => [p[1], p[2]]), { color: r.color, weight: 4, opacity: .85, lineJoin: 'round' }).addTo(g);
+  L.polyline(r.pts.map(p => [p[1], p[2]]), { color: r.color, weight: k === 'D' ? 5 : 4, opacity: .9, lineJoin: 'round', dashArray: k === 'H' ? '10 7' : (k === 'B' ? '2 6' : null) }).addTo(g);
   const seen = new Set();
   coords[k] = {};
   r.pts.forEach(p => {
