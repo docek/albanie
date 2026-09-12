@@ -1,61 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="albanie-4x4-plan" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Albánie 4x4 – trasa D (Tomorr, Kurvelesh, Gjirokastër, Zagoria, Përmet)</name></metadata>
-  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>So 9:00 – start</desc></wpt>
-  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>So</desc></wpt>
-  <wpt lat="40.75" lon="20.07"><name>Roshnik</name><desc>So nocleh</desc></wpt>
-  <wpt lat="40.65" lon="20.13"><name>Qafa e Kulmakut</name><desc>Ne asfalt, tekke</desc></wpt>
-  <wpt lat="40.636" lon="20.151"><name>Tomorr – türbe</name><desc>Ne šotolina, 2 379 m</desc></wpt>
-  <wpt lat="40.61" lon="20.19"><name>Ujanik</name><desc>Ne konec asfaltu</desc></wpt>
-  <wpt lat="40.57" lon="20.24"><name>Gjerbës</name><desc>Ne track</desc></wpt>
-  <wpt lat="40.504" lon="20.227"><name>Çorovodë</name><desc>Ne nocleh</desc></wpt>
-  <wpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name><desc>Po 7:00 brodění</desc></wpt>
-  <wpt lat="40.42" lon="20.3"><name>Ballaban</name><desc>Po šotolina</desc></wpt>
-  <wpt lat="40.313" lon="20.19"><name>Këlcyrë</name><desc>Po</desc></wpt>
-  <wpt lat="40.296" lon="20.019"><name>Tepelenë</name><desc>Po</desc></wpt>
-  <wpt lat="40.25" lon="19.91"><name>Progonat</name><desc>Po track / Út nástup na Peshturu</desc></wpt>
-  <wpt lat="40.183" lon="19.885"><name>Nivicë</name><desc>Po nocleh, Út kaňon</desc></wpt>
-  <wpt lat="40.15" lon="19.97"><name>Zhulat</name><desc>Út track, Peshtura</desc></wpt>
-  <wpt lat="40.1" lon="20.04"><name>Kardhiq</name><desc>Út</desc></wpt>
-  <wpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name><desc>Út nocleh</desc></wpt>
-  <wpt lat="40.033" lon="20.26"><name>Libohovë</name><desc>St start okruhu</desc></wpt>
-  <wpt lat="40.09" lon="20.3"><name>Soutěska Selckë</name><desc>St</desc></wpt>
-  <wpt lat="40.105" lon="20.325"><name>Poliçan (Zagoria)</name><desc>St</desc></wpt>
-  <wpt lat="40.135" lon="20.3"><name>Zagoria – Sheper</name><desc>St track, mosty</desc></wpt>
-  <wpt lat="40.095" lon="20.225"><name>Fushë Çajupi</name><desc>St plošina 1 200 m</desc></wpt>
-  <wpt lat="40.233" lon="20.351"><name>Përmet</name><desc>St nocleh, Bënja večer</desc></wpt>
-  <wpt lat="40.25" lon="20.43"><name>Lengarica</name><desc>Čt ráno</desc></wpt>
-  <wpt lat="40.7239" lon="19.5559"><name>Fier / Apollonia</name><desc>Čt</desc></wpt>
-  <trk><name>Albánie 4x4 – trasa D (Tomorr, Kurvelesh, Gjirokastër, Zagoria, Përmet)</name><trkseg>
+  <metadata><name>Albánie 4x4 – trasa D (Tomorr, Frashër, Përmet, Zagoria, Gjirokastër, Kurvelesh) 18.–24. 9. 2026</name></metadata>
+  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>Pá 7:55 přílet, auto ~9:00</desc></wpt>
+  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>Pá – Mangalem, hrad</desc></wpt>
+  <wpt lat="40.7500" lon="20.0700"><name>Roshnik</name><desc>Pá nocleh – bujtina, vinařství</desc></wpt>
+  <wpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name><desc>So – konec asfaltu, tekke</desc></wpt>
+  <wpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name><desc>So – 8,7 km šotoliny, 2 379 m</desc></wpt>
+  <wpt lat="40.6100" lon="20.1900"><name>Ujanik</name><desc>So</desc></wpt>
+  <wpt lat="40.5700" lon="20.2400"><name>Gjerbës</name><desc>So – track údolím Tomorrice</desc></wpt>
+  <wpt lat="40.5040" lon="20.2270"><name>Çorovodë</name><desc>So nocleh</desc></wpt>
+  <wpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name><desc>Ne 7:00 – brodění 2 h</desc></wpt>
+  <wpt lat="40.3830" lon="20.4180"><name>Frashër</name><desc>Ne – track 52,7 km</desc></wpt>
+  <wpt lat="40.2330" lon="20.3510"><name>Përmet</name><desc>Ne nocleh – Bënja večer</desc></wpt>
+  <wpt lat="40.2500" lon="20.4300"><name>Lengarica</name><desc>Po ráno – 2 h ve vodě</desc></wpt>
+  <wpt lat="40.3130" lon="20.1900"><name>Këlcyrë</name><desc>Po – asfalt</desc></wpt>
+  <wpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name><desc>Po průjezd, nocleh po Zagorii</desc></wpt>
+  <wpt lat="40.0330" lon="20.2600"><name>Libohovë</name><desc>Po – start okruhu</desc></wpt>
+  <wpt lat="40.0900" lon="20.3000"><name>Soutěska Selckë</name><desc>Po</desc></wpt>
+  <wpt lat="40.1050" lon="20.3250"><name>Poliçan (Zagoria)</name><desc>Po</desc></wpt>
+  <wpt lat="40.1350" lon="20.3000"><name>Zagoria – Sheper</name><desc>Po – mosty, Hoshtevë</desc></wpt>
+  <wpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name><desc>Po – plošina 1 300 m</desc></wpt>
+  <wpt lat="40.1000" lon="20.0400"><name>Kardhiq</name><desc>Út</desc></wpt>
+  <wpt lat="40.1500" lon="19.9700"><name>Zhulat</name><desc>Út – track (neověřený online)</desc></wpt>
+  <wpt lat="40.2500" lon="19.9100"><name>Progonat</name><desc>Út / St Peshtura</desc></wpt>
+  <wpt lat="40.1830" lon="19.8850"><name>Nivicë</name><desc>Út nocleh (rezervovat!), kaňon</desc></wpt>
+  <wpt lat="40.2960" lon="20.0190"><name>Tepelenë</name><desc>St – stavba A2</desc></wpt>
+  <wpt lat="40.7239" lon="19.5559"><name>Fier / Apollonia</name><desc>St – volitelně</desc></wpt>
+  <wpt lat="41.4650" lon="19.8900"><name>Bovilla</name><desc>Čt ráno volitelně</desc></wpt>
+  <trk><name>Albánie 4x4 – trasa D</name><trkseg>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
     <trkpt lat="40.7058" lon="19.9522"><name>Berat</name></trkpt>
-    <trkpt lat="40.75" lon="20.07"><name>Roshnik</name></trkpt>
-    <trkpt lat="40.65" lon="20.13"><name>Qafa e Kulmakut</name></trkpt>
-    <trkpt lat="40.636" lon="20.151"><name>Tomorr – türbe</name></trkpt>
-    <trkpt lat="40.61" lon="20.19"><name>Ujanik</name></trkpt>
-    <trkpt lat="40.57" lon="20.24"><name>Gjerbës</name></trkpt>
-    <trkpt lat="40.504" lon="20.227"><name>Çorovodë</name></trkpt>
-    <trkpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name></trkpt>
-    <trkpt lat="40.504" lon="20.227"><name>Çorovodë</name></trkpt>
-    <trkpt lat="40.42" lon="20.3"><name>Ballaban</name></trkpt>
-    <trkpt lat="40.313" lon="20.19"><name>Këlcyrë</name></trkpt>
-    <trkpt lat="40.296" lon="20.019"><name>Tepelenë</name></trkpt>
-    <trkpt lat="40.25" lon="19.91"><name>Progonat</name></trkpt>
-    <trkpt lat="40.183" lon="19.885"><name>Nivicë</name></trkpt>
-    <trkpt lat="40.25" lon="19.91"><name>Progonat</name></trkpt>
-    <trkpt lat="40.15" lon="19.97"><name>Zhulat</name></trkpt>
-    <trkpt lat="40.1" lon="20.04"><name>Kardhiq</name></trkpt>
+    <trkpt lat="40.7500" lon="20.0700"><name>Roshnik</name></trkpt>
+    <trkpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name></trkpt>
+    <trkpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name></trkpt>
+    <trkpt lat="40.6100" lon="20.1900"><name>Ujanik</name></trkpt>
+    <trkpt lat="40.5700" lon="20.2400"><name>Gjerbës</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.3830" lon="20.4180"><name>Frashër</name></trkpt>
+    <trkpt lat="40.2330" lon="20.3510"><name>Përmet</name></trkpt>
+    <trkpt lat="40.2500" lon="20.4300"><name>Lengarica</name></trkpt>
+    <trkpt lat="40.3130" lon="20.1900"><name>Këlcyrë</name></trkpt>
     <trkpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name></trkpt>
-    <trkpt lat="40.033" lon="20.26"><name>Libohovë</name></trkpt>
-    <trkpt lat="40.09" lon="20.3"><name>Soutěska Selckë</name></trkpt>
-    <trkpt lat="40.105" lon="20.325"><name>Poliçan (Zagoria)</name></trkpt>
-    <trkpt lat="40.135" lon="20.3"><name>Zagoria – Sheper</name></trkpt>
-    <trkpt lat="40.095" lon="20.225"><name>Fushë Çajupi</name></trkpt>
+    <trkpt lat="40.0330" lon="20.2600"><name>Libohovë</name></trkpt>
+    <trkpt lat="40.0900" lon="20.3000"><name>Soutěska Selckë</name></trkpt>
+    <trkpt lat="40.1050" lon="20.3250"><name>Poliçan (Zagoria)</name></trkpt>
+    <trkpt lat="40.1350" lon="20.3000"><name>Zagoria – Sheper</name></trkpt>
+    <trkpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name></trkpt>
     <trkpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name></trkpt>
-    <trkpt lat="40.313" lon="20.19"><name>Këlcyrë</name></trkpt>
-    <trkpt lat="40.233" lon="20.351"><name>Përmet</name></trkpt>
-    <trkpt lat="40.25" lon="20.43"><name>Lengarica</name></trkpt>
+    <trkpt lat="40.1000" lon="20.0400"><name>Kardhiq</name></trkpt>
+    <trkpt lat="40.1500" lon="19.9700"><name>Zhulat</name></trkpt>
+    <trkpt lat="40.2500" lon="19.9100"><name>Progonat</name></trkpt>
+    <trkpt lat="40.1830" lon="19.8850"><name>Nivicë</name></trkpt>
+    <trkpt lat="40.2500" lon="19.9100"><name>Progonat</name></trkpt>
+    <trkpt lat="40.2960" lon="20.0190"><name>Tepelenë</name></trkpt>
     <trkpt lat="40.7239" lon="19.5559"><name>Fier / Apollonia</name></trkpt>
+    <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
+    <trkpt lat="41.4650" lon="19.8900"><name>Bovilla</name></trkpt>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
   </trkseg></trk>
 </gpx>
