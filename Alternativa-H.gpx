@@ -1,50 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="albanie-4x4-plan" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Albánie 4x4 – trasa H (Osum, Frashër, Zagoria, Kurvelesh, Kuç, moře)</name></metadata>
-  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>So 9:00 – start</desc></wpt>
-  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>So</desc></wpt>
-  <wpt lat="40.504" lon="20.227"><name>Çorovodë</name><desc>So nocleh</desc></wpt>
-  <wpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name><desc>So brodění</desc></wpt>
-  <wpt lat="40.383" lon="20.418"><name>Frashër</name><desc>Ne track</desc></wpt>
-  <wpt lat="40.233" lon="20.351"><name>Përmet</name><desc>Ne nocleh, Bënja</desc></wpt>
-  <wpt lat="40.25" lon="20.43"><name>Lengarica</name><desc>Po ráno</desc></wpt>
-  <wpt lat="40.313" lon="20.19"><name>Këlcyrë</name><desc>Po</desc></wpt>
+  <metadata><name>Albánie 4x4 – trasa H (Osum, Tomorr, Frashër, Zagoria, Kurvelesh, Kuç, moře) 18.–24. 9. 2026</name></metadata>
+  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>Pá 7:55 přílet, auto ~9:00</desc></wpt>
+  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>Pá</desc></wpt>
+  <wpt lat="40.5040" lon="20.2270"><name>Çorovodë</name><desc>Pá + So nocleh</desc></wpt>
+  <wpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name><desc>Pá odpoledne – brodění</desc></wpt>
+  <wpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name><desc>So – tekke</desc></wpt>
+  <wpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name><desc>So – 2 379 m</desc></wpt>
+  <wpt lat="40.6100" lon="20.1900"><name>Ujanik</name><desc>So</desc></wpt>
+  <wpt lat="40.5700" lon="20.2400"><name>Gjerbës</name><desc>So – track</desc></wpt>
+  <wpt lat="40.3830" lon="20.4180"><name>Frashër</name><desc>Ne – track 52,7 km</desc></wpt>
+  <wpt lat="40.2330" lon="20.3510"><name>Përmet</name><desc>Ne nocleh, Bënja</desc></wpt>
+  <wpt lat="40.2500" lon="20.4300"><name>Lengarica</name><desc>Po ráno</desc></wpt>
+  <wpt lat="40.3130" lon="20.1900"><name>Këlcyrë</name><desc>Po</desc></wpt>
   <wpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name><desc>Po poledne</desc></wpt>
-  <wpt lat="40.095" lon="20.225"><name>Fushë Çajupi</name><desc>Po track</desc></wpt>
-  <wpt lat="40.135" lon="20.3"><name>Sheper</name><desc>Po nocleh</desc></wpt>
-  <wpt lat="40.16" lon="20.29"><name>Hoshtevë</name><desc>Út</desc></wpt>
-  <wpt lat="40.1" lon="20.04"><name>Kardhiq</name><desc>Út</desc></wpt>
-  <wpt lat="40.15" lon="19.97"><name>Zhulat</name><desc>Út track, Peshtura</desc></wpt>
-  <wpt lat="40.25" lon="19.91"><name>Progonat</name><desc>Út</desc></wpt>
-  <wpt lat="40.183" lon="19.885"><name>Nivicë</name><desc>Út nocleh, kaňon</desc></wpt>
-  <wpt lat="40.205" lon="19.83"><name>Gusmar</name><desc>St Kuç Connection</desc></wpt>
-  <wpt lat="40.21" lon="19.782"><name>Kuç</name><desc>St</desc></wpt>
-  <wpt lat="40.101" lon="19.744"><name>Himarë</name><desc>St nocleh, po silnici</desc></wpt>
-  <wpt lat="40.205" lon="19.588"><name>Llogara</name><desc>Čt</desc></wpt>
-  <wpt lat="40.466" lon="19.489"><name>Vlorë</name><desc>Čt</desc></wpt>
-  <trk><name>Albánie 4x4 – trasa H (Osum, Frashër, Zagoria, Kurvelesh, Kuç, moře)</name><trkseg>
+  <wpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name><desc>Po – track</desc></wpt>
+  <wpt lat="40.1350" lon="20.3000"><name>Sheper</name><desc>Po nocleh</desc></wpt>
+  <wpt lat="40.1600" lon="20.2900"><name>Hoshtevë</name><desc>Út</desc></wpt>
+  <wpt lat="40.1000" lon="20.0400"><name>Kardhiq</name><desc>Út</desc></wpt>
+  <wpt lat="40.1500" lon="19.9700"><name>Zhulat</name><desc>Út – track</desc></wpt>
+  <wpt lat="40.2500" lon="19.9100"><name>Progonat</name><desc>Út</desc></wpt>
+  <wpt lat="40.1830" lon="19.8850"><name>Nivicë</name><desc>Út nocleh (rezervovat!), kaňon</desc></wpt>
+  <wpt lat="40.2050" lon="19.8300"><name>Gusmar</name><desc>St – Kuç Connection</desc></wpt>
+  <wpt lat="40.2100" lon="19.7820"><name>Kuç</name><desc>St – konec tracku, dál asfalt</desc></wpt>
+  <wpt lat="40.1010" lon="19.7440"><name>Himarë</name><desc>St odpoledne – moře</desc></wpt>
+  <wpt lat="40.4660" lon="19.4890"><name>Vlorë</name><desc>St nocleh (tunel Llogara)</desc></wpt>
+  <trk><name>Albánie 4x4 – trasa H (Osum, Tomorr, Frashër, Zagoria, Kurvelesh, Kuç, moře) 18.–24. 9. 2026</name><trkseg>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
     <trkpt lat="40.7058" lon="19.9522"><name>Berat</name></trkpt>
-    <trkpt lat="40.504" lon="20.227"><name>Çorovodë</name></trkpt>
-    <trkpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name></trkpt>
-    <trkpt lat="40.383" lon="20.418"><name>Frashër</name></trkpt>
-    <trkpt lat="40.233" lon="20.351"><name>Përmet</name></trkpt>
-    <trkpt lat="40.25" lon="20.43"><name>Lengarica</name></trkpt>
-    <trkpt lat="40.313" lon="20.19"><name>Këlcyrë</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name></trkpt>
+    <trkpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name></trkpt>
+    <trkpt lat="40.6100" lon="20.1900"><name>Ujanik</name></trkpt>
+    <trkpt lat="40.5700" lon="20.2400"><name>Gjerbës</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.3830" lon="20.4180"><name>Frashër</name></trkpt>
+    <trkpt lat="40.2330" lon="20.3510"><name>Përmet</name></trkpt>
+    <trkpt lat="40.2500" lon="20.4300"><name>Lengarica</name></trkpt>
+    <trkpt lat="40.3130" lon="20.1900"><name>Këlcyrë</name></trkpt>
     <trkpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name></trkpt>
-    <trkpt lat="40.095" lon="20.225"><name>Fushë Çajupi</name></trkpt>
-    <trkpt lat="40.135" lon="20.3"><name>Sheper</name></trkpt>
-    <trkpt lat="40.16" lon="20.29"><name>Hoshtevë</name></trkpt>
-    <trkpt lat="40.095" lon="20.225"><name>Fushë Çajupi</name></trkpt>
-    <trkpt lat="40.1" lon="20.04"><name>Kardhiq</name></trkpt>
-    <trkpt lat="40.15" lon="19.97"><name>Zhulat</name></trkpt>
-    <trkpt lat="40.25" lon="19.91"><name>Progonat</name></trkpt>
-    <trkpt lat="40.183" lon="19.885"><name>Nivicë</name></trkpt>
-    <trkpt lat="40.205" lon="19.83"><name>Gusmar</name></trkpt>
-    <trkpt lat="40.21" lon="19.782"><name>Kuç</name></trkpt>
-    <trkpt lat="40.101" lon="19.744"><name>Himarë</name></trkpt>
-    <trkpt lat="40.205" lon="19.588"><name>Llogara</name></trkpt>
-    <trkpt lat="40.466" lon="19.489"><name>Vlorë</name></trkpt>
+    <trkpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name></trkpt>
+    <trkpt lat="40.1350" lon="20.3000"><name>Sheper</name></trkpt>
+    <trkpt lat="40.1600" lon="20.2900"><name>Hoshtevë</name></trkpt>
+    <trkpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name></trkpt>
+    <trkpt lat="40.1000" lon="20.0400"><name>Kardhiq</name></trkpt>
+    <trkpt lat="40.1500" lon="19.9700"><name>Zhulat</name></trkpt>
+    <trkpt lat="40.2500" lon="19.9100"><name>Progonat</name></trkpt>
+    <trkpt lat="40.1830" lon="19.8850"><name>Nivicë</name></trkpt>
+    <trkpt lat="40.2050" lon="19.8300"><name>Gusmar</name></trkpt>
+    <trkpt lat="40.2100" lon="19.7820"><name>Kuç</name></trkpt>
+    <trkpt lat="40.1010" lon="19.7440"><name>Himarë</name></trkpt>
+    <trkpt lat="40.4660" lon="19.4890"><name>Vlorë</name></trkpt>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
   </trkseg></trk>
 </gpx>

@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="albanie-4x4-plan" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Albánie 4x4 – trasa B (Tomorr, Osum, Frashër, Korça, jezera)</name></metadata>
-  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>So – start</desc></wpt>
-  <wpt lat="41.465" lon="19.89"><name>Bovilla</name><desc>So – test auta</desc></wpt>
-  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>So nocleh</desc></wpt>
-  <wpt lat="40.65" lon="20.13"><name>Qafa e Kulmakut</name><desc>Ne asfalt, tekke</desc></wpt>
-  <wpt lat="40.636" lon="20.151"><name>Tomorr – türbe</name><desc>Ne šotolina, 2 379 m</desc></wpt>
-  <wpt lat="40.61" lon="20.19"><name>Ujanik</name><desc>Ne konec asfaltu</desc></wpt>
-  <wpt lat="40.57" lon="20.24"><name>Gjerbës</name><desc>Ne track</desc></wpt>
-  <wpt lat="40.504" lon="20.227"><name>Çorovodë</name><desc>Ne nocleh</desc></wpt>
-  <wpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name><desc>Po ráno pěšky</desc></wpt>
-  <wpt lat="40.383" lon="20.418"><name>Frashër</name><desc>Po track</desc></wpt>
-  <wpt lat="40.233" lon="20.351"><name>Përmet</name><desc>Po nocleh</desc></wpt>
-  <wpt lat="40.247" lon="20.418"><name>Bënja / Lengarica</name><desc>Út ráno</desc></wpt>
-  <wpt lat="40.151" lon="20.598"><name>Leskovik</name><desc>Út</desc></wpt>
-  <wpt lat="40.245" lon="20.63"><name>Barmash</name><desc>Út průsmyk SH75</desc></wpt>
-  <wpt lat="40.337" lon="20.679"><name>Ersekë</name><desc>Út</desc></wpt>
-  <wpt lat="40.6186" lon="20.7808"><name>Korçë</name><desc>Út nocleh</desc></wpt>
-  <wpt lat="40.633" lon="20.588"><name>Voskopojë</name><desc>St</desc></wpt>
-  <wpt lat="40.525" lon="20.585"><name>Vithkuq</name><desc>St track</desc></wpt>
-  <wpt lat="40.519" lon="20.822"><name>Dardhë</name><desc>St track</desc></wpt>
-  <wpt lat="40.838" lon="20.906"><name>Pustec (Prespa)</name><desc>St nocleh</desc></wpt>
-  <wpt lat="40.9025" lon="20.6525"><name>Pogradec</name><desc>Čt</desc></wpt>
-  <wpt lat="41.065" lon="20.635"><name>Lin</name><desc>Čt</desc></wpt>
-  <wpt lat="41.1125" lon="20.0822"><name>Elbasan</name><desc>Čt průjezd</desc></wpt>
-  <trk><name>Albánie 4x4 – trasa B (Tomorr, Osum, Frashër, Korça, jezera)</name><trkseg>
+  <metadata><name>Albánie 4x4 – trasa B (Bovilla, Tomorr, Osum, Frashër, Korça, jezera) 18.–24. 9. 2026</name></metadata>
+  <wpt lat="41.3275" lon="19.8187"><name>Tirana</name><desc>Pá 7:55 přílet, auto ~9:00</desc></wpt>
+  <wpt lat="41.4650" lon="19.8900"><name>Bovilla</name><desc>Pá – test auta, Gamti</desc></wpt>
+  <wpt lat="40.7058" lon="19.9522"><name>Berat</name><desc>Pá nocleh</desc></wpt>
+  <wpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name><desc>So – tekke</desc></wpt>
+  <wpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name><desc>So – 2 379 m</desc></wpt>
+  <wpt lat="40.6100" lon="20.1900"><name>Ujanik</name><desc>So</desc></wpt>
+  <wpt lat="40.5700" lon="20.2400"><name>Gjerbës</name><desc>So – track</desc></wpt>
+  <wpt lat="40.5040" lon="20.2270"><name>Çorovodë</name><desc>So nocleh</desc></wpt>
+  <wpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name><desc>Ne 7:00 pěšky</desc></wpt>
+  <wpt lat="40.3830" lon="20.4180"><name>Frashër</name><desc>Ne – track</desc></wpt>
+  <wpt lat="40.2330" lon="20.3510"><name>Përmet</name><desc>Ne nocleh</desc></wpt>
+  <wpt lat="40.2470" lon="20.4180"><name>Bënja / Lengarica</name><desc>Po ráno</desc></wpt>
+  <wpt lat="40.1510" lon="20.5980"><name>Leskovik</name><desc>Po</desc></wpt>
+  <wpt lat="40.2450" lon="20.6300"><name>Barmash</name><desc>Po – průsmyk SH75</desc></wpt>
+  <wpt lat="40.3370" lon="20.6790"><name>Ersekë</name><desc>Po</desc></wpt>
+  <wpt lat="40.6186" lon="20.7808"><name>Korçë</name><desc>Po nocleh</desc></wpt>
+  <wpt lat="40.6330" lon="20.5880"><name>Voskopojë</name><desc>Út</desc></wpt>
+  <wpt lat="40.5250" lon="20.5850"><name>Vithkuq</name><desc>Út – track</desc></wpt>
+  <wpt lat="40.5190" lon="20.8220"><name>Dardhë</name><desc>Út – track</desc></wpt>
+  <wpt lat="40.8380" lon="20.9060"><name>Pustec (Prespa)</name><desc>Út nocleh, St loď Maligrad</desc></wpt>
+  <wpt lat="40.9025" lon="20.6525"><name>Pogradec</name><desc>St</desc></wpt>
+  <wpt lat="41.0650" lon="20.6350"><name>Lin</name><desc>St</desc></wpt>
+  <wpt lat="41.1125" lon="20.0822"><name>Elbasan</name><desc>St – průjezd</desc></wpt>
+  <trk><name>Albánie 4x4 – trasa B (Bovilla, Tomorr, Osum, Frashër, Korça, jezera) 18.–24. 9. 2026</name><trkseg>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
-    <trkpt lat="41.465" lon="19.89"><name>Bovilla</name></trkpt>
+    <trkpt lat="41.4650" lon="19.8900"><name>Bovilla</name></trkpt>
     <trkpt lat="40.7058" lon="19.9522"><name>Berat</name></trkpt>
-    <trkpt lat="40.65" lon="20.13"><name>Qafa e Kulmakut</name></trkpt>
-    <trkpt lat="40.636" lon="20.151"><name>Tomorr – türbe</name></trkpt>
-    <trkpt lat="40.61" lon="20.19"><name>Ujanik</name></trkpt>
-    <trkpt lat="40.57" lon="20.24"><name>Gjerbës</name></trkpt>
-    <trkpt lat="40.504" lon="20.227"><name>Çorovodë</name></trkpt>
-    <trkpt lat="40.47" lon="20.22"><name>Kaňon Osumi</name></trkpt>
-    <trkpt lat="40.383" lon="20.418"><name>Frashër</name></trkpt>
-    <trkpt lat="40.233" lon="20.351"><name>Përmet</name></trkpt>
-    <trkpt lat="40.247" lon="20.418"><name>Bënja / Lengarica</name></trkpt>
-    <trkpt lat="40.151" lon="20.598"><name>Leskovik</name></trkpt>
-    <trkpt lat="40.245" lon="20.63"><name>Barmash</name></trkpt>
-    <trkpt lat="40.337" lon="20.679"><name>Ersekë</name></trkpt>
+    <trkpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name></trkpt>
+    <trkpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name></trkpt>
+    <trkpt lat="40.6100" lon="20.1900"><name>Ujanik</name></trkpt>
+    <trkpt lat="40.5700" lon="20.2400"><name>Gjerbës</name></trkpt>
+    <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
+    <trkpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name></trkpt>
+    <trkpt lat="40.3830" lon="20.4180"><name>Frashër</name></trkpt>
+    <trkpt lat="40.2330" lon="20.3510"><name>Përmet</name></trkpt>
+    <trkpt lat="40.2470" lon="20.4180"><name>Bënja / Lengarica</name></trkpt>
+    <trkpt lat="40.1510" lon="20.5980"><name>Leskovik</name></trkpt>
+    <trkpt lat="40.2450" lon="20.6300"><name>Barmash</name></trkpt>
+    <trkpt lat="40.3370" lon="20.6790"><name>Ersekë</name></trkpt>
     <trkpt lat="40.6186" lon="20.7808"><name>Korçë</name></trkpt>
-    <trkpt lat="40.633" lon="20.588"><name>Voskopojë</name></trkpt>
-    <trkpt lat="40.525" lon="20.585"><name>Vithkuq</name></trkpt>
-    <trkpt lat="40.519" lon="20.822"><name>Dardhë</name></trkpt>
+    <trkpt lat="40.6330" lon="20.5880"><name>Voskopojë</name></trkpt>
+    <trkpt lat="40.5250" lon="20.5850"><name>Vithkuq</name></trkpt>
+    <trkpt lat="40.5190" lon="20.8220"><name>Dardhë</name></trkpt>
     <trkpt lat="40.6186" lon="20.7808"><name>Korçë</name></trkpt>
-    <trkpt lat="40.838" lon="20.906"><name>Pustec (Prespa)</name></trkpt>
+    <trkpt lat="40.8380" lon="20.9060"><name>Pustec (Prespa)</name></trkpt>
     <trkpt lat="40.9025" lon="20.6525"><name>Pogradec</name></trkpt>
-    <trkpt lat="41.065" lon="20.635"><name>Lin</name></trkpt>
+    <trkpt lat="41.0650" lon="20.6350"><name>Lin</name></trkpt>
     <trkpt lat="41.1125" lon="20.0822"><name>Elbasan</name></trkpt>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
   </trkseg></trk>
