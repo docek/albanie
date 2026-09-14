@@ -1395,7 +1395,7 @@
     <trkpt lat="40.5046" lon="20.22832"/>
     <trkpt lat="40.50358" lon="20.22841"/>
   </trkseg></trk>
-  <trk><name>3 Ne – Kaňon Osumi → Përmet</name><trkseg>
+  <trk><name>3 Ne – Kaňon Osumi → Përmet → Bënja a Lengarica</name><trkseg>
     <trkpt lat="40.50358" lon="20.22841"/>
     <trkpt lat="40.50279" lon="20.22814"/>
     <trkpt lat="40.50215" lon="20.22893"/>
@@ -1955,7 +1955,7 @@
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.25178" lon="20.41668"/>
   </trkseg></trk>
-  <trk><name>4 Po – Lengarica → Zagoria → Gjirokastër</name><trkseg>
+  <trk><name>4 Po – Përmet → okruh Zagoria → Gjirokastër</name><trkseg>
     <trkpt lat="40.25178" lon="20.41668"/>
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.2507" lon="20.41663"/>
@@ -2957,7 +2957,7 @@
     <trkpt lat="40.07733" lon="20.13996"/>
     <trkpt lat="40.07713" lon="20.13932"/>
   </trkseg></trk>
-  <trk><name>5 Út – Gjirokastër → Tepelenë → Nivicë</name><trkseg>
+  <trk><name>5 Út – Gjirokastër → Peshtura → Nivicë</name><trkseg>
     <trkpt lat="40.07713" lon="20.13932"/>
     <trkpt lat="40.07733" lon="20.13996"/>
     <trkpt lat="40.07742" lon="20.1388"/>
@@ -3284,7 +3284,7 @@
     <trkpt lat="40.23987" lon="19.89249"/>
     <trkpt lat="40.23971" lon="19.89184"/>
   </trkseg></trk>
-  <trk><name>6 St – Nivicë → Apollonia → Tirana</name><trkseg>
+  <trk><name>6 St – Kaňon Nivica → Apollonia → Tirana</name><trkseg>
     <trkpt lat="40.23971" lon="19.89184"/>
     <trkpt lat="40.23987" lon="19.89249"/>
     <trkpt lat="40.24034" lon="19.89269"/>

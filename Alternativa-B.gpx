@@ -1710,7 +1710,7 @@
     <trkpt lat="40.5046" lon="20.22832"/>
     <trkpt lat="40.50358" lon="20.22841"/>
   </trkseg></trk>
-  <trk><name>3 Ne – Kaňon Osumi → Përmet</name><trkseg>
+  <trk><name>3 Ne – Kaňon Osumi → Përmet → Bënja a Lengarica</name><trkseg>
     <trkpt lat="40.50358" lon="20.22841"/>
     <trkpt lat="40.50279" lon="20.22814"/>
     <trkpt lat="40.50215" lon="20.22893"/>
@@ -2270,7 +2270,7 @@
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.25178" lon="20.41668"/>
   </trkseg></trk>
-  <trk><name>4 Po – Lengarica → SH75 → Korçë</name><trkseg>
+  <trk><name>4 Po – Përmet → SH75 → Korçë</name><trkseg>
     <trkpt lat="40.25178" lon="20.41668"/>
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.2507" lon="20.41663"/>
