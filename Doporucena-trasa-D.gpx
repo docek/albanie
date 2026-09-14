@@ -6,8 +6,7 @@
   <wpt lat="40.7500" lon="20.0700"><name>Roshnik</name><desc>Pá nocleh – bujtina, vinařství</desc></wpt>
   <wpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name><desc>So – konec asfaltu, tekke</desc></wpt>
   <wpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name><desc>So – 8,7 km šotoliny, 2 379 m</desc></wpt>
-  <wpt lat="40.6100" lon="20.1900"><name>Ujanik</name><desc>So</desc></wpt>
-  <wpt lat="40.5700" lon="20.2400"><name>Gjerbës</name><desc>So – track údolím Tomorrice</desc></wpt>
+  <wpt lat="40.5800" lon="20.0600"><name>Bogovë</name><desc>So – vodopád, volitelně</desc></wpt>
   <wpt lat="40.5040" lon="20.2270"><name>Çorovodë</name><desc>So nocleh</desc></wpt>
   <wpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name><desc>Ne 7:00 – brodění 2 h</desc></wpt>
   <wpt lat="40.3830" lon="20.4180"><name>Frashër</name><desc>Ne – track 52,7 km</desc></wpt>
@@ -20,21 +19,19 @@
   <wpt lat="40.1050" lon="20.3250"><name>Poliçan (Zagoria)</name><desc>Po</desc></wpt>
   <wpt lat="40.1350" lon="20.3000"><name>Zagoria – Sheper</name><desc>Po – mosty, Hoshtevë</desc></wpt>
   <wpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name><desc>Po – plošina 1 300 m</desc></wpt>
-  <wpt lat="40.1000" lon="20.0400"><name>Kardhiq</name><desc>Út</desc></wpt>
-  <wpt lat="40.1500" lon="19.9700"><name>Zhulat</name><desc>Út – track (neověřený online)</desc></wpt>
+  <wpt lat="40.2960" lon="20.0190"><name>Tepelenë</name><desc>Út – asfalt</desc></wpt>
   <wpt lat="40.2500" lon="19.9100"><name>Progonat</name><desc>Út / St Peshtura</desc></wpt>
   <wpt lat="40.1830" lon="19.8850"><name>Nivicë</name><desc>Út nocleh (rezervovat!), kaňon</desc></wpt>
-  <wpt lat="40.2960" lon="20.0190"><name>Tepelenë</name><desc>St – stavba A2</desc></wpt>
   <wpt lat="40.7239" lon="19.5559"><name>Fier / Apollonia</name><desc>St – volitelně</desc></wpt>
   <wpt lat="41.4650" lon="19.8900"><name>Bovilla</name><desc>Čt ráno volitelně</desc></wpt>
-  <trk><name>Albánie 4x4 – trasa D</name><trkseg>
+  <trk><name>Albánie 4x4 – trasa D (Tomorr, Frashër, Përmet, Zagoria, Gjirokastër, Kurvelesh) 18.–24. 9. 2026</name><trkseg>
     <trkpt lat="41.3275" lon="19.8187"><name>Tirana</name></trkpt>
     <trkpt lat="40.7058" lon="19.9522"><name>Berat</name></trkpt>
     <trkpt lat="40.7500" lon="20.0700"><name>Roshnik</name></trkpt>
     <trkpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name></trkpt>
     <trkpt lat="40.6360" lon="20.1510"><name>Tomorr – türbe</name></trkpt>
-    <trkpt lat="40.6100" lon="20.1900"><name>Ujanik</name></trkpt>
-    <trkpt lat="40.5700" lon="20.2400"><name>Gjerbës</name></trkpt>
+    <trkpt lat="40.6500" lon="20.1300"><name>Qafa e Kulmakut</name></trkpt>
+    <trkpt lat="40.5800" lon="20.0600"><name>Bogovë</name></trkpt>
     <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
     <trkpt lat="40.4700" lon="20.2200"><name>Kaňon Osumi</name></trkpt>
     <trkpt lat="40.5040" lon="20.2270"><name>Çorovodë</name></trkpt>
@@ -49,8 +46,7 @@
     <trkpt lat="40.1350" lon="20.3000"><name>Zagoria – Sheper</name></trkpt>
     <trkpt lat="40.0950" lon="20.2250"><name>Fushë Çajupi</name></trkpt>
     <trkpt lat="40.0758" lon="20.1389"><name>Gjirokastër</name></trkpt>
-    <trkpt lat="40.1000" lon="20.0400"><name>Kardhiq</name></trkpt>
-    <trkpt lat="40.1500" lon="19.9700"><name>Zhulat</name></trkpt>
+    <trkpt lat="40.2960" lon="20.0190"><name>Tepelenë</name></trkpt>
     <trkpt lat="40.2500" lon="19.9100"><name>Progonat</name></trkpt>
     <trkpt lat="40.1830" lon="19.8850"><name>Nivicë</name></trkpt>
     <trkpt lat="40.2500" lon="19.9100"><name>Progonat</name></trkpt>
