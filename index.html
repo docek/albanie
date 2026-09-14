@@ -74,7 +74,7 @@
       <div class="card">
         <div class="ico">🗺️</div>
         <h3>Kudy</h3>
-        <p>Dvě trasy se společnými prvními třemi dny (Berat, Tomorr, kaňon Osumi, Përmet). <b>D</b> pokračuje na jih: Gjirokastër, Zagoria, Kurvelesh. <b>B</b> na východ: Korçë, spojka Vithkuq–Osumi, Gramsh, kaňon Holta – vše po cestách, které TravelBuddy jel osobně. Rozhodne auto: s redukcí D, bez redukce B.</p>
+        <p><b>Jedeme trasu D</b> (rozhodnuto 14. 9. po domluvě s Honzou): Berat, Tomorr, kaňon Osumi, Përmet, Zagoria, Gjirokastër a Kurvelesh. Trasa <b>B</b> přes Korçë, Gramsh a kaňon Holta zůstává jako záloha se stejným začátkem.</p>
       </div>
       <div class="card">
         <div class="ico">🛏️</div>
@@ -119,8 +119,8 @@
       <div id="map"></div>
       <div class="map-ctl">
         <div class="box">
-          <label><input type="checkbox" id="chkD" checked><span class="sw" style="background:var(--D)"></span> D – Centrální masivy <b>(doporučená)</b></label>
-          <label><input type="checkbox" id="chkB" checked><span class="sw" style="background:repeating-linear-gradient(90deg,var(--B) 0 8px,transparent 8px 12px)"></span> B – Jihovýchod po prověřených cestách</label>
+          <label><input type="checkbox" id="chkD" checked><span class="sw" style="background:var(--D)"></span> D – jih <b>(preferovaná)</b></label>
+          <label><input type="checkbox" id="chkB" checked><span class="sw" style="background:repeating-linear-gradient(90deg,var(--B) 0 8px,transparent 8px 12px)"></span> B – východ (záloha)</label>
         </div>
         <div class="box tiles">
           <button data-tile="osm" class="on">Mapa</button>
@@ -145,8 +145,8 @@
     </div>
 
     <div class="tabs" role="tablist">
-      <button class="tab D on" data-route="D"><span class="sw" style="background:var(--D)"></span>Trasa D · jih</button>
-      <button class="tab B" data-route="B"><span class="sw" style="background:var(--B)"></span>Trasa B · východ</button>
+      <button class="tab D on" data-route="D"><span class="sw" style="background:var(--D)"></span>Trasa D · jih · preferovaná</button>
+      <button class="tab B" data-route="B"><span class="sw" style="background:var(--B)"></span>Trasa B · východ · záloha</button>
       <button class="tab tab-cmp" data-route="cmp">Srovnání D · B v tabulce</button>
     </div>
 
@@ -409,7 +409,7 @@
         </tbody>
       </table>
       </div>
-      <div class="callout green" style="margin-top:20px"><b>Verdikt: rozhodne auto.</b> Obě trasy sdílejí první tři dny (Berat, Tomorr, kaňon Osumi, Përmet). Liší se druhou půlkou: <b>D</b> jde na jih do Gjirokastru, Zagorie a Kurveleshe (víc „jen tady" zážitků, kamenitější, dva úseky s expozicí), <b>B</b> jde na východ přes Korçë a po prověřených šotolinách od TravelBuddy zpět do Beratu a na Gramsh (lehčí terén, každý úsek z první ruky, konec 2 h od letiště). Auto s redukcí (Jimny, Niva, Discovery): D. Freelander nebo jiné SUV bez redukce: B. Rozhodnout se dá až v neděli večer v Përmetu podle počasí a toho, jak auto snáší terén.</div>
+      <div class="callout green" style="margin-top:20px"><b>Rozhodnuto: D.</b> Po domluvě s Honzou (14. 9.) jedeme jih: Gjirokastër, Zagoria a Kurvelesh, tři kaňony ve vodě. Obě trasy sdílejí první tři dny, takže přejít na B jde nejpozději v neděli večer v Përmetu, kdyby auto nebo počasí na jih nestačily.</div>
     </div>
   </div>
 </section>
@@ -426,13 +426,13 @@
     </div>
 
     <details class="acc" open>
-      <summary>Dvě trasy, jedno auto: D pro auto s redukcí, B pro auto bez ní</summary>
-      <div class="in">Z původních tří variant zůstaly dvě. Honzovu „Divoký jih" (Kuç Connection, brody, konec u moře) jsme vyřadili úplně: bez off-road praxe a s pojistkou, která brody nekryje, nedávala smysl, a její nejlepší kusy (Zagoria, Kurvelesh) má D. Zbylé dvě trasy sdílejí pátek až neděli a liší se až od Përmetu:
+      <summary>Jedeme D; B zůstává jako záloha</summary>
+      <div class="in"><b>Rozhodnuto 14. 9. po domluvě s Honzou: trasa D.</b> Zvažovali jsme i Vláďovu původní trasu (Lurë, Ohrid, střední Albánie), pestřejší a lehčí; jih nás ale láká víc. Z původních tří variant zůstaly dvě. Honzovu „Divoký jih" (Kuç Connection, brody, konec u moře) jsme vyřadili úplně: bez off-road praxe a s pojistkou, která brody nekryje, nedávala smysl, a její nejlepší kusy (Zagoria, Kurvelesh) má D. Zbylé dvě trasy sdílejí pátek až neděli a liší se až od Përmetu:
         <ul>
           <li><i>D – jih.</i> Gjirokastër s noclehem, okruh Zagoria, Kurvelesh a kaňon Nivica. Tři kaňony ve vodě, dvě UNESCO města, kamenitější cesty a dva úseky s expozicí. Vyžaduje auto, které leze v redukci, a řidiče, který se nebojí úzkých cest nad údolím.</li>
           <li><i>B – východ.</i> Korçë, spojka Vithkuq–Osumi po trase plynovodu, Gramsh a kaňon Holta s teplými prameny. Každou šotolinu jel Vladimír z TravelBuddy osobně a má k ní GPX. Lehčí terén, víc asfaltu, konec 2 h od letiště, funguje i pro Freelander. Bez Gjirokastru a bez Kurveleshe.</li>
         </ul>
-        Rozhodnutí padne s autem, nejpozději v neděli večer v Përmetu: pokud auto a posádka po Tomorru a kaňonu Osumi chtějí víc, D; pokud stačilo, B. Původní důvod pro B – závislost D na maličkých penzionech v Nivicë – padl tím, že vezeme záložní stan a Nivicë rezervujeme přes Vladimíra.</div>
+        Na B se dá přejít nejpozději v neděli večer v Përmetu, pokud auto nebo počasí na jih nestačí. Původní důvod pro B – závislost D na maličkých penzionech v Nivicë – padl tím, že vezeme záložní stan a Nivicë rezervujeme přes Vladimíra.</div>
     </details>
 
     <details class="acc" open>
