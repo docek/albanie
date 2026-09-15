@@ -319,3 +319,16 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 10px 28px; justify-content: 
   a { color: inherit; text-decoration: none; }
   section { padding: 24px 0; }
 }
+
+/* ---------- per-day detail blocks (food, sleep, extensions) ---------- */
+.day .more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+@media (max-width: 960px) { .day .more { grid-template-columns: 1fr; } }
+.day .more > div { background: var(--paper-2); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; color: var(--ink-2); }
+.day .more h4 { font-family: var(--font-body); font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-2); margin: 0 0 6px; display: flex; align-items: center; gap: 6px; }
+.day .more ul { margin: 0; padding-left: 16px; }
+.day .more li { margin: 3px 0; }
+.day .more li + li { border-top: 0; }
+.day .more b { color: var(--ink); }
+.day .more .pick { color: var(--forest); font-weight: 700; }
+.day .more .n { color: var(--muted); font-size: 12.5px; }
+.day .more .ext { background: #fbf5e6; }
