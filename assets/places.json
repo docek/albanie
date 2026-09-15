@@ -1,0 +1,1288 @@
+{
+ "places": [
+  {
+   "id": "uji-i-ftohte",
+   "name": "Uji i Ftohtë",
+   "kind": "jídlo",
+   "what": "Přírodní pramen studené vody cca 8 km jižně od Tepelenë (obec Bënçë), vyvěrající ze skalnatého podloží na kontaktu vápence s údolím Drina; voda odtéká do Vjosy. Pramen je od roku 2020 chráněn jako přírodní památka o rozloze 1,5 ha. Vedle pramene stojí stejnojmenný hotel s restaurací.",
+   "why": "Podle místní tradice pramen na počátku 19. století objevil Ali Pasha Tepelenský. Je to oblíbené místo místních pro osvěžení v horkých měsících, s restaurací přímo u vody.",
+   "experience": "Restaurace hotelu Uji i Ftohtë je otevřená denně 7:00-22:45, nabízí albánskou i mezinárodní kuchyni. Kolem pramene lze posedět ve stínu dubů a hlohů, v okolí je i menší vodní tok k osvěžení nohou.",
+   "access": "Leží přímo u silnice Tepelenë-Gjirokastër, dostupné celoročně osobním autem, cca 10-15 min jízdy z Tepelenë.",
+   "tips": "Zastávka na oběd cestou na plošinu Kurvelesh nebo do kaňonu Nivica - obojí se odbočuje ze stejné silnice směrem na Bënçë.",
+   "links": [
+    {
+     "label": "Wikipedia - Uji i Ftohtë, Tepelenë",
+     "url": "https://en.wikipedia.org/wiki/Uji_i_Ftoht%C3%AB,_Tepelen%C3%AB"
+    },
+    {
+     "label": "Hotel Uji i Ftohtë - restaurace",
+     "url": "https://ujiiftohte.al/restaurant.html"
+    }
+   ],
+   "img": {
+    "file": "Uji i Ftohtë Tepelen.jpg",
+    "author": "Zamozamota",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "tepelene",
+   "name": "Tepelenë a hrad Aliho paši",
+   "kind": "město",
+   "what": "Město na soutoku řek Drino a Vjosa, sídlo Tepelenského okresu (cca 9000 obyvatel). Nad městem se tyčí pevnost o rozloze cca 4 hektary, kterou v letech 1804-1819 rozšířil Ali Pasha Tepelenský na svou druhou rezidenci vedle Janiny.",
+   "why": "Ali Pasha z Tepelenë se stal jedním z nejmocnějších osmanských místodržících Balkánu; jeho palác v roce 1809 navštívil lord Byron, což popsal ve své poezii. Hrad má tři brány a tři polygonální věže, zdi místy silné až 5 m.",
+   "experience": "Hrad je volně přístupný, uvnitř hradeb je dnes obytná čtvrť, takže procházka kombinuje historii s běžným životem města. Pevnost byla poškozena zemětřesením a boji na počátku 20. století a za obou světových válek, takže dochované zbytky jsou fragmentární.",
+   "access": "Hrad stojí přímo nad centrem Tepelenë, dosažitelný pěšky z města, žádné omezené otevírací hodiny ani vstupné nejsou oficiálně uváděny.",
+   "tips": "Kombinovat s pohledem na soutok Drina a Vjosy pod hradem; odtud také vede silnice směrem na Bënçë a dál na plošinu Kurvelesh.",
+   "links": [
+    {
+     "label": "Wikipedia - Tepelena Castle",
+     "url": "https://en.wikipedia.org/wiki/Tepelena_Castle"
+    },
+    {
+     "label": "Albanian Official Tourism - Kalaja e Ali Pashë Tepelenës",
+     "url": "https://akt.gov.al/en/atraksionet/kalaja-e-ali-pashe-tepelenes/"
+    }
+   ],
+   "img": {
+    "file": "Tepelena Castle and New Town (cropped).jpg",
+    "author": "Albinfo",
+    "license": "CC0 1.0"
+   }
+  },
+  {
+   "id": "kurvelesh",
+   "name": "Plošina Kurvelesh a Progonat",
+   "kind": "cesta",
+   "what": "Horská vápencová plošina jižně od Tepelenë, silně rozčleněná potoky do hlubokých a úzkých kaňonů (až 150 m hloubky), útesů a propastí. Cesta od Bënçë stoupá v sériích serpentin na plošinu; u vesnice Progonat (950 m n. m., největší vesnice horního Kurveleshe) jsou stěny bočních kaňonů vysoké několik set metrů.",
+   "why": "Region byl centrem tradičního života horských kmenů jižní Albánie, dodnes řídce osídlený. Cestou stojí za pozornost viadukt Ura e Bënçës a osmanská tekke (bektášijská svatyně) v údolí Bënçë.",
+   "experience": "Jízda přes horské serpentiny s výhledy do kaňonů, blízko Progonatu je i vodopád Peshtura. Terén je náročný, se strmými stoupáními a zatáčkami, postup je pomalejší, než by se dle mapy zdálo.",
+   "access": "Silnice z Tepelenë přes Bënçë do Progonatu a dál na Golem Pass je z velké části asfaltovaná, ale úzká horská s výmoly na některých úsecích; part komunikace k Nivicë byl v posledních letech opravován/asfaltován.",
+   "tips": "Počítejte s pomalejší jízdou terénním autem než ukazuje mapa; dobré spojit s návštěvou Nivicy, protože obě trasy vedou ze stejného výchozího bodu Bënçë.",
+   "links": [
+    {
+     "label": "Wikivoyage - Tepelene",
+     "url": "https://en.wikivoyage.org/wiki/Tepelene"
+    },
+    {
+     "label": "Wikipedia - Progonat",
+     "url": "https://en.wikipedia.org/wiki/Progonat"
+    },
+    {
+     "label": "Albania Travel Guide - Kurvelesh",
+     "url": "https://www.albaniatravelguide.net/vjosa-valley/kurvelesh/"
+    }
+   ],
+   "img": {
+    "file": "Kurvelesh with Këndrevica.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "nivica",
+   "name": "Kaňon Nivica",
+   "kind": "příroda",
+   "what": "Dramatický kaňon vyhloubený řekou Shushica ve vápencové plošině Kurvelesh, se stěnami místy až 250 m vysokými (úsek přezdívaný „Nekonečný koridor\"). Vesnice Nivicë leží na okraji kaňonu; v okolí jsou i zbytky starobylé pevnosti Kalaja e Nivicës, podle historika Pouquevilla založené ilyrským kmenem již ve 4. stol. př. n. l., později přestavěné za Justiniána.",
+   "why": "Krátká stezka ke koupacímu jezírku a vodopádu je nejnavštěvovanějším bodem Kurveleshe; delší okružní trasa (cca 6,9 km, 4 hodiny) prochází celým kaňonem, kolem zřícenin hradu a starobylé svatyně v dubovém lese.",
+   "experience": "Krátká varianta: cca 1,3 km (2,6 km tam a zpět), 150 m převýšení, mírně náročná, sestup strmější, cca 30 min tam k vodopádu a tůni ke koupání. Okružní trasa: cca 6,9 km / 4 hodiny, prochází kolem zřícenin hradu. Vstup je zdarma, parkování je volně ve vesnici Nivicë.",
+   "access": "Nivicë leží cca 31 km od Tepelenë (cca 1 hodina jízdy). Přístupová silnice byla ještě před pár lety částečně nezpevněná (cca 5 km), v posledních letech probíhala asfaltace; počítejte s možností kratšího nezpevněného úseku.",
+   "tips": "Vyrazit na okruh spíš ráno kvůli délce trasy (4 h); na krátkou stezku k vodopádu stačí pevná obuv, v kaňonu je i možnost koupání v sezóně.",
+   "links": [
+    {
+     "label": "Walk My World - Nivicë Canyon",
+     "url": "https://www.walkmyworld.com/posts/nivice-canyon-waterfall"
+    },
+    {
+     "label": "Alpventurer - Nivica Canyon",
+     "url": "https://alpventurer.com/nivica-canyon/"
+    },
+    {
+     "label": "Camp Nivica - Hiking (round tour)",
+     "url": "https://campnivica.com/hiking"
+    }
+   ],
+   "img": {
+    "file": "Waterfall in Nivica Canyon, Kurvelesh.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "peshtura",
+   "name": "Vodopád Peshtura",
+   "kind": "příroda",
+   "what": "Dvoustupňový vodopád v kaňonu mezi vesnicemi Progonat a Lekdush v regionu Kurvelesh (Tepelenë). Voda padá do tyrkysové tůně, protéká úžinou ve skále a padá do druhé tůně; celková scenérie je popisována jako vápencový kaňon s jeskyněmi.",
+   "why": "Jedno z méně navštěvovaných přírodních míst jižní Albánie, kombinuje divokou horskou krajinu s koupáním v tyrkysové vodě.",
+   "experience": "Počítejte s 2-3 hodinami na výlet včetně cesty tam, pobytu u tůní a krátké procházky dál po proudu. Stezka je úzká, kamenitá a místy kluzká - nutná pevná obuv, návštěvníci ji popisují jako náročnější a mírně nebezpečnou v mokru. Voda je studená, koupání jen na pár minut.",
+   "access": "Od Lekdushe je to kratší přístup, cca 10-15 minut chůze. Od Progonatu je cesta delší (cca hodina túry). Signál mobilu je v kaňonu nespolehlivý, u vodopádu nejsou žádné služby ani koše.",
+   "tips": "Nejlepší průtok je po dešti nebo tání sněhu, v suchu voda výrazně slábne. Doporučováno pozdní dopoledne kvůli světlu v kaňonu. Podle recenzí nepřecházet přes malý dřevěný most zmiňovaný některými návštěvníky, jinak minete nejlepší vyhlídku.",
+   "links": [
+    {
+     "label": "Nomads Travel Guide - Progonati Waterfall",
+     "url": "https://www.nomads-travel-guide.com/places/progonati-waterfall/"
+    },
+    {
+     "label": "Visit Gjirokastra - Progonati/Peshtura Waterfall",
+     "url": "https://visit-gjirokastra.com/article/progonati_waterfall_aka_peshtura_waterfall"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "golem-kolonje",
+   "name": "Cesta Progonat – Golem – Kolonjë",
+   "kind": "cesta",
+   "what": "Horská off-road trasa vedoucí přes vesnice Kurveleshe (Progonat, Golem, Kolonjë) z náhorní plošiny Kurveleshe dolů do údolí řeky Drino u Gjirokastru. Progonat leží v nadmořské výšce cca 950 m, Kolonjë je vzdálená přibližně 8 km jihovýchodně.",
+   "why": "Přímé propojení odlehlé horské oblasti Kurveleshe s Gjirokastrem, které šetří objížďku po hlavní silnici; zároveň scénická trasa horskými průsmyky.",
+   "experience": "Trasa je popisována jako nezpevněná horská cesta s určitou exponovaností, vedoucí přes štěrkovitá koryta a brody s čistou vodou. Vyžaduje 4x4 a zkušenost s terénní jízdou, sekce bývají v proměnlivém stavu podle počasí.",
+   "access": "Nejlépe terénním vozem, mimo hlavní sezónu doporučeno ověřit aktuální průjezdnost lokálně (deště mohou brody a svahy znepřístupnit). Trasu nabízejí i komerční off-road tury z Gjirokastru.",
+   "tips": "Kombinuje se často s návštěvou vodopádu Peshtura v rámci jednoho výletu do Kurveleshe. Počítejte s pomalým průměrem jízdy kvůli terénu.",
+   "links": [
+    {
+     "label": "Wikipedia - Progonat",
+     "url": "https://en.wikipedia.org/wiki/Progonat"
+    },
+    {
+     "label": "Indefinite Adventure - Kurvelesh and Peshtura Waterfall Off-Road Tour",
+     "url": "https://www.indefiniteadventure.com/kurvelesh-and-peshtura-waterfall-off-road-tour-with-lunch/"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "gjirokaster",
+   "name": "Gjirokastër",
+   "kind": "město",
+   "what": "Historické centrum Gjirokastru bylo v roce 2005 zapsáno na seznam UNESCO (společně s Beratem) jako \"Historická centra Beratu a Gjirokastry\". Město je známé jako \"kamenné město\" díky osmanským domům se střechami z plochých vápencových desek, přes 500 domů má status kulturní památky.",
+   "why": "Nejlépe dochované osmanské město jižní Albánie, rodiště Envera Hodži a spisovatele Ismaila Kadareho.",
+   "experience": "Starý bazar z 17. století (přestavěný v 19. století po požáru) je centrem obchodu s dřevořezbami, břidlicovými výrobky a textilem, lemovaný kavárnami. Za jeden večer lze projít bazar, vystoupat úzkými dlážděnými uličkami k pevnosti a užít výhled na údolí Drina při západu slunce.",
+   "access": "Staré město je pěší zóna, uličky jsou dlážděné a strmé, vhodná pevná obuv. Bazar a přilehlé uličky jsou přístupné kdykoli.",
+   "tips": "Mešita z roku 1757 a pravoslavná katedrála (přestavěná 1773) leží při okraji bazaru; k prohlídce typického osmanského domu lze navštívit dům Skënduli.",
+   "links": [
+    {
+     "label": "Wikipedia - Gjirokastër",
+     "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+    },
+    {
+     "label": "Wander-Lush - Things to Do in Gjirokaster",
+     "url": "https://wander-lush.org/things-to-do-in-gjirokaster/"
+    }
+   ],
+   "img": {
+    "file": "Gjirokaster_Rooftops.jpg",
+    "author": "Jocelyn Erskine-Kellie",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "gjirokaster-hrad",
+   "name": "Hrad Gjirokastër",
+   "kind": "památka",
+   "what": "Pevnost tyčící se nad městem, jádro pochází z 12.-13. století, s pozdějšími osmanskými přístavbami. Otevřeno duben-září 9:00-19:00, říjen-březen 9:00-17:00, vstupné 200 lekí. Uvnitř areálu je bufet s občerstvením.",
+   "why": "Nejvýraznější dominanta Gjirokastru s výhledem na údolí Drina, kombinuje historickou architekturu s neobvyklou vojenskou expozicí.",
+   "experience": "Prohlídka trvá typicky 1-2 hodiny. V areálu je Národní muzeum zbrojení (otevřeno 1971 v prostorách bývalého vězení z roku 1932) s albánskými zbraněmi od nezávislosti 1912 do konce druhé světové války, dělostřelecká galerie se zbraněmi po italských a německých okupačních silách a vrak amerického cvičného letounu Lockheed T-33, který zde nouzově přistál v prosinci 1957.",
+   "access": "Vchod je z centra starého bazaru, přístup je pěšky do kopce po dlážděné cestě. Malá Bektašiovská turbe (hrobka) je asi 50 m za hlavní branou.",
+   "tips": "Areál hostí jednou za čtyři roky Albánský národní folklórní festival na pevnostním pódiu z 80. let.",
+   "links": [
+    {
+     "label": "Gjirokastra.org - Castle",
+     "url": "https://www.gjirokastra.org/sub_links/visiting_sub/visiting_castle.html"
+    },
+    {
+     "label": "Key.aero - How did a USAF T-33 end up outside a castle in Albania?",
+     "url": "https://www.key.aero/article/how-did-usaf-t-33-end-outside-castle-albania"
+    }
+   ],
+   "img": {
+    "file": "Gjirokastër_Castle,_Albania.jpg",
+    "author": "Christoph Strässler",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "kardhiq",
+   "name": "Hrad Kardhiq",
+   "kind": "památka",
+   "what": "Zříceniny osmanské pevnosti na kopci nad vesnicí Kardhiq v okrese Gjirokastër, s pěti věžemi (dvě polygonální) a hradbami silnými až 1,7 m. Postavil ji na přelomu 14. a 15. století rod Zenebishi jako obranu proti osmanskému postupu, poprvé je zmíněna v tureckém registru sandžaku z let 1431-32. Na počátku 19. století ji nechal opravit Ali Paša Tepelenský.",
+   "why": "Kardhiq byl původně velké otevřené městečko s pevností srovnatelnou s Gjirokastrou, jen menší, kontrolující horské obchodní trasy. Koncem 18. století je Ali Paša ze soukromé msty vypálil, pobil přes 700 mužů a zbytek obyvatel odvlekl do otroctví - město se z toho už nevzpamatovalo a lidé se přesunuli do Gjirokastry. Dnes tak jde spíš o tiché, ale silně příběhové místo než turistický cíl.",
+   "experience": "Kolem hradu i naproti ve svahu jsou vidět základy zbořených domů a pahýly minaretů - pozůstatky zaniklého městečka. Pevnost je volně přístupná, žádné vstupné ani otevírací doba se neuvádí.",
+   "access": "Ze silnice Gjirokastra-Tepelena odbočka doleva do údolí Kardhiq (cesta z Gjirokastry cca hodina autem). K hradu vede pěšina mezi domy vesnice, výstup nahoru trvá 15-20 minut.",
+   "tips": "Před cestou raději ověřit stav přístupové cesty na místě nebo přes Visit Gjirokastra (+355 69 409 8988) - oficiální zdroje neuvádějí otevírací dobu ani vstupné, protože jde o volně přístupnou zříceninu.",
+   "links": [
+    {
+     "label": "Wikipedia - Kardhiq Castle",
+     "url": "https://en.wikipedia.org/wiki/Kardhiq_Castle"
+    },
+    {
+     "label": "Visit Gjirokastra - Kardhiq Valley and Fortress",
+     "url": "https://visit-gjirokastra.com/article/kardhiq_valley_and_fortress"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "labove",
+   "name": "Kostel Labovë e Kryqit",
+   "kind": "památka",
+   "what": "Byzantský kostel Zesnutí Bohorodičky (Dormition of Theotokos) ve vesnici Labovë e Kryqit u Libohovy, jeden z nejvýznamnějších dokladů byzantské architektury v Albánii. Základ založení sahá k 6. století za císaře Justiniána, dnešní stavba pochází podle různých zdrojů z 10. nebo 13. století (doba Epirského despotátu) a má kupoli s křížovým půdorysem a trojitým průchodem (tribelon) mezi hlavní a bočními loděmi.",
+   "why": "Kostel prý uchovával úlomek pravého kříže darovaný byzantským císařem a zázračnou ikonu Labovitissy; obojí zmizelo v roce 1989. Desetitistá kupole je podle Wikipedie nejstarším dochovaným příkladem kruhové kupole v regionu Epiru. Za komunistického režimu byl provoz kostela od roku 1967 zastaven kvůli ateistické politice.",
+   "experience": "Interiér zdobí fresky rozložené do devíti vrstev z různých období. Kostel je zapsaný jako kulturní památka Albánie.",
+   "access": "Ze silnice SH4 jet cca 11 km na jih od Gjirokastry, pak odbočit na SH96 směr Libohova a pokračovat dál po zpevnění silnice asfaltem - cesta trvá kolem 40 minut. Kostel bývá zamčený, ke vstupu je potřeba zavolat na kontakt ke klíči uvedený na místě; vstup je 200 ALL nebo dobrovolný příspěvek do pokladničky.",
+   "tips": "Počítat s tím, že bez předchozího zavolání klíčníkovi se dovnitř nemusí dostat - podle turistických průvodců kostel není trvale otevřený.",
+   "links": [
+    {
+     "label": "Wikipedia - Dormition of Theotokos Church, Labovë e Kryqit",
+     "url": "https://en.wikipedia.org/wiki/Dormition_of_Theotokos_Church,_Labov%C3%AB_e_Kryqit"
+    },
+    {
+     "label": "Visit-Gjirokastra - Labova of the Cross",
+     "url": "https://visit-gjirokastra.com/article/labova_of_the_cross"
+    }
+   ],
+   "img": {
+    "file": "Labovë e Kryqit, Albania - Church 01.jpg",
+    "author": "Pasztilla (Attila Terbócs)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ardenica",
+   "name": "Klášter Ardenica",
+   "kind": "památka",
+   "what": "Pravoslavný klášter cca 18 km jižně od Lushnjë, založený roku 1282 byzantským císařem Andronikem II. Palaiologem po vítězství nad Anjouovci u Beratu. V roce 1451 se v klášteře konala svatba albánského národního hrdiny Skanderbega s Andronikou Arianiti. Je to jediný v Albánii nepřetržitě fungující klášter tohoto typu.",
+   "why": "V roce 1780 zde vznikla teologická škola pro řecké pravoslavné duchovenstvo s knihovnou o 32 000 svazcích, kterou zničil požár v roce 1932. Za komunistického ateistického režimu byl klášter od roku 1967 uzavřen a chátral, obnova začala až 1988; po pádu režimu byl majetek vrácen albánské pravoslavné církvi.",
+   "experience": "Kostel Narození Bohorodičky zdobí fresky bratří Kostandina a Athanase Zografi, mj. se zobrazením svatého Jana Kukuzela. Z areálu je výhled na okolní pole až k moři, ročně sem zavítá přes 10 000 návštěvníků.",
+   "access": "Otevřeno běžně přibližně 8:00-16:00 (přesné hodiny se mohou sezónně lišit). Vstup je oficiálně zdarma na dobrovolný příspěvek, některé zdroje uvádějí drobný poplatek řádově 100 ALL / 3-4 EUR za prohlídku. Když je brána zavřená, stačí zaklepat - mnich uvnitř otevře.",
+   "tips": "Zdroje se v otevírací době i výši poplatku rozcházejí (od zcela zdarma po pár eur) - na místě raději počítat s drobnou hotovostí na dobrovolný dar.",
+   "links": [
+    {
+     "label": "Ecotour Albania - Monastery of Ardenice",
+     "url": "https://ecotouralbania.com/en/location/monastery-of-ardenice/"
+    },
+    {
+     "label": "Live the World - Ardenica Monastery",
+     "url": "https://www.livetheworld.com/activities/albania/ardenica-monastery"
+    }
+   ],
+   "img": {
+    "file": "Ardenica Monastery (by Pudelek).JPG",
+    "author": "Pudelek",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "libohove",
+   "name": "Libohovë",
+   "kind": "město",
+   "what": "Malé městečko v okrese Gjirokastër na úpatí hory Bureto, s pohledem do údolí Drina. Na náměstí roste starý platan, pod nímž je bar-restaurace, a nad městem stojí pevnost Kalaja e Libohovës.",
+   "why": "Kompaktní zastávka spojující historickou pevnost, stinný starý strom uprostřed městečka a výhled do Drinského údolí – ideální krátká přestávka na cestě do Zagorie.",
+   "experience": "Procházka centrem k platanu (posezení u kávy), pěšky nebo autem nahoru k pevnosti (cca 15–20 min prohlídky, polygonální nárožní věže a hradby, dnes prázdný areál), fotky na Drinské údolí. Celkem 45–60 minut.",
+   "access": "Cca 30 minut autem od Gjirokastëru – jet směr Kakavijë asi 15 km, pak odbočit značenou silnicí na východ přes údolí. Do centra i k patě pevnosti vede asfalt, sjízdné běžným autem. Bez vstupného, areál pevnosti volně přístupný.",
+   "tips": "Pevnost je bez turistické infrastruktury (žádné cedule, WC), chodit opatrně po nezajištěných částech hradeb. Platan a kavárna pod ním jsou dobrým místem na kávu/oběd před pokračováním do Zagorie.",
+   "links": [
+    {
+     "label": "Wikipedia – Libohovë",
+     "url": "https://en.wikipedia.org/wiki/Libohov%C3%AB"
+    },
+    {
+     "label": "Albania Travel Guide – Libohovë",
+     "url": "https://www.albaniatravelguide.net/gjirokaster/libohove/"
+    },
+    {
+     "label": "Gjirokastra.org – Libohova",
+     "url": "https://gjirokastra.org/gjirokastra/libohove/"
+    }
+   ],
+   "img": {
+    "file": "Castle_of_Libohova-1.JPG",
+    "author": "TorbjørnS",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "zagoria",
+   "name": "Údolí Zagoria",
+   "kind": "příroda",
+   "what": "Zhruba 27 km dlouhé horské údolí severně od Gjirokastëru (Přírodní park Zagoria, cca 25 000 ha), sevřené mezi hřebeny s nadmořskou výškou 350–2155 m. Zahrnuje soutěsku a vodopád Selckë, vesnice Poliçan, Shepër, Ndëran, Nivan a řadu opuštěných kamenných vesnic a osmanských mostů.",
+   "why": "Nejdivočejší a nejméně turistická část jižní Albánie dostupná autem – kombinace kaňonu s koupáním, opuštěných horských vesnic, byzantských kostelů a osmanských mostů na jednom průjezdu.",
+   "experience": "Průjezd celým údolím (Gjirokastër – Çajupi – Poliçan/Selckë – Hoshtevë – Nivan – Shepër) je celodenní výlet. Počítejte s několika zastávkami: soutěska Selckë (15min brodění/scrambling k vodopádu, možnost koupání ve studené vodě), vesnické kostely, most u Nivanu. Cesty jsou úzké, klikaté, místy štěrkové – vhodné pro terénní auto typu Jimny.",
+   "access": "Z Gjirokastëru po asfaltu na náhorní plošinu Çajupi (cca 1300 m), odtud dál štěrková/horská cesta v proměnlivém stavu (úsek na Shepër cca 15 km je kvůli opotřebené cestě náročnější). Alternativně vjezd přes Poliçan a soutěsku Selckë (tato větev je sjízdná i běžným autem). Bez vstupného, žádná pevná otevírací doba.",
+   "tips": "Mobilní signál v údolí je nespolehlivý, natankujte předem v Gjirokastëru. Po dešti může být štěrková cesta kluzká/rozbahněná – ověřit aktuální stav. Počítat s tím, že vesnice jsou téměř vylidněné (odchod obyvatel po roce 1990), občerstvení není zaručeno.",
+   "links": [
+    {
+     "label": "Himara.net – Zagoria Valley Guide",
+     "url": "https://himara.net/blog/zagoria-valley-guide"
+    },
+    {
+     "label": "PeakVisor – Parku Natyror i Zagorisë",
+     "url": "https://peakvisor.com/park/parku-natyror-i-zagorise.html"
+    },
+    {
+     "label": "RTSH English – Zagoria Valley",
+     "url": "https://rtsh.al/rti/en/zagoria-valley-a-hikers-paradise-in-southern-albania/"
+    },
+    {
+     "label": "Visit Gjirokastra – Selcke, the village with waterfall",
+     "url": "https://visit-gjirokastra.com/article/selcke_the_village_with_waterfall"
+    }
+   ],
+   "img": {
+    "file": "Ujevara e Selckes.jpg",
+    "author": "JaniBaçi",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "hosteve",
+   "name": "Kostel v Hoshtevë",
+   "kind": "památka",
+   "what": "Byzantský/pravoslavný kostel Kisha e Shën Apostujve ve vesnici Hoshtevë v hluboké Zagorii, chráněná kulturní památka Albánie. Podle místní tradice patří k nejstarším sakrálním stavbám v regionu (odkazy na založení kolem roku 1000), dochované fresky pocházejí přibližně z 19. století (kolem 1843).",
+   "why": "Jeden z posledních dochovaných kostelů z původních cca 24 kostelů v nejodlehlejší části Zagorie – zbytek téměř zaniklé sakrální krajiny horské oblasti, dlouho ohrožený zřícením.",
+   "experience": "Krátká zastávka (20–30 min) – exteriér kostela, případně nahlédnutí do interiéru s freskami a vyřezávaným dřevem, pokud je otevřeno. Kostel byl v minulosti restaurován kvůli hrozícímu zřícení.",
+   "access": "Vesnice Hoshtevë leží uprostřed Zagorie, přístup po horské (částečně štěrkové) cestě z Poliçan/Selckë směrem k Nivanu. Bez pevné otevírací doby ani vstupného, kostel bývá zamčený – klíč případně u místních.",
+   "tips": "Datace ‚999‘ není v dostupných zdrojích jednoznačně doložena – albánské zdroje mluví o kostelu jako jednom z nejstarších ve Zagorii, ale bez přesného datovaného nápisu; berte rok jako místní tradici, ne ověřený fakt. Interiér nemusí být přístupný, počítejte s možností, že uvidíte jen exteriér.",
+   "links": [
+    {
+     "label": "Wikipedia – Holy Apostles' Church, Hoshtevë",
+     "url": "https://en.wikipedia.org/wiki/Holy_Apostles'_Church,_Hoshtev%C3%AB"
+    },
+    {
+     "label": "ATSH – Kisha e Shën Apostujve në Hoshtevë i shpëton rrënimit",
+     "url": "http://ata.gov.al/2018/11/06/kisha-e-shen-apostujve-ne-hoshteve-te-zaagorise-i-shpeton-rrenimit/"
+    }
+   ],
+   "img": {
+    "file": "Holy Apostles' Church, Hoshtevë.jpg",
+    "author": "Christoph Strässler",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "most-1777",
+   "name": "Osmanský most u Nivanu",
+   "kind": "památka",
+   "what": "Kamenný osmanský most Ura e Nivanit přes řeku Zagoria mezi vesnicemi Ndëran a Nivan, dlouhý 34 m a široký 3,15 m, se dvěma oblouky (hlavní přes tok, menší přes souš). Postavil ho na počátku 19. století Ali Pasha Tepelena jako součást karavanní obchodní trasy Gjirokastër–Përmet.",
+   "why": "Nejlépe dochovaný osmanský most v Zagorii, spojený s obchodní historií oblasti – karavany od Gjirokastëru přes most pokračovaly k blízkému klášteru z roku 1777 a dál na Nivan, Shepër a přes průsmyk Dhëmbel na Përmet.",
+   "experience": "Sestup pěší stezkou (cca 1,2 km) od vesnice Ndëran dolů k mostu, prohlídka mostu a případně pokračování k opuštěným pravoslavným klášterům (sv. Michael a Taxiarchové, 18. stol.) na zpáteční cestě k Nivanu. Celkem 1–1,5 hodiny včetně chůze.",
+   "access": "Autem k vesnici Ndëran po horské cestě ze Zagorie, dál pouze pěšky (silnice k mostu nevede). Bez vstupného a bez otevírací doby, chráněná kulturní památka.",
+   "tips": "Pozor na datum: rok 1777 patří sousednímu klášteru v Nivanu, samotný most byl postaven až začátkem 19. století za Ali Paši Tepelenského – zdroje (ATSH) tento rozdíl výslovně uvádějí. Stezka dolů k mostu je strmá, vhodná pevná obuv.",
+   "links": [
+    {
+     "label": "ATSH – Ura e Nivanit, monumenti që u ndërtua nga Ali Pashë Tepelena",
+     "url": "https://ata.gov.al/2023/02/26/ura-e-nivanit-monumenti-qe-u-ndertua-nga-ali-pashe-tepelena/"
+    },
+    {
+     "label": "Petit Futé – Pont de Nivan",
+     "url": "https://www.petitfute.co.uk/v76638-sheper/c1173-visites-points-d-interet/c937-monuments/c967-ouvrage-d-art/2082481-pont-de-nivan.html"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "cajupi",
+   "name": "Plošina Fushë Çajupi",
+   "kind": "příroda",
+   "what": "Horská náhorní plošina v nadmořské výšce cca 1300 m na hřebeni nad Gjirokastërem, kde končí asfaltová silnice a začíná štěrková cesta do nitra Zagorie. Pojmenována po albánském básníkovi Andonu Zako Çajupim, rodákovi z nedaleké vesnice Shepër.",
+   "why": "Poslední bod s kvalitním asfaltem před sjezdem do divoké Zagorie – zároveň sama o sobě působivé místo s výhledy do všech stran a výchozí bod treku na hřeben Maja e Strakovecit.",
+   "experience": "Zastávka na rozhlednu/fotopauzu (15–20 min), případně start pěší túry na Maja e Strakovecit (Strakavec, cca 1959 m). V okolí je farma/kemp s možností přespání v bungalovech a večerní vyjížďkou na koni.",
+   "access": "Z Gjirokastëru po asfaltové silnici až na plošinu (sjízdné běžným autem), odtud dál do Zagorie pokračuje již jen štěrková horská cesta – zde doporučeno terénní auto. Bez vstupného, volně přístupné.",
+   "tips": "Za plošinou mizí mobilní signál a kvalita cesty prudce klesá – naplánujte dostatek paliva a vody předem. Kemp Cajupi (cca 1200 m v údolí pod plošinou) je jedinou blízkou možností ubytování/občerstvení.",
+   "links": [
+    {
+     "label": "PeakVisor – Parku Natyror i Zagorisë",
+     "url": "https://peakvisor.com/park/parku-natyror-i-zagorise.html"
+    },
+    {
+     "label": "Visit Gjirokastra – Camping Cajupi",
+     "url": "https://visit-gjirokastra.com/accommodation/camping_cajupi"
+    },
+    {
+     "label": "Albania Travel Guide – Zagoria Valley from Gjirokastër (off-roading)",
+     "url": "https://albaniatravelguide.net/experiences/off-roading/gjirokaster-zagoria"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "albanik",
+   "name": "Ferma Albanik",
+   "kind": "jídlo",
+   "what": "Agroturistická farma a boutique hotel v údolí Dëshnicë, cca 20 km východně od Këlcyrë (17 km od Përmetu). Vznikla přestavbou komunistického zemědělského skladiště, nadstaveného dřevěným patrem, uprostřed lesů a kopců.",
+   "why": "Ukázka albánského agroturismu s vlastní produkcí – zelenina, byliny a část surovin z farmy nebo od okolních rodin, tradiční kuchyně kombinovaná s francouzskými recepty. Dobrý kontrast k památkám – jde o živý venkovský provoz, ne skanzen.",
+   "experience": "Oběd nebo večeře v restauraci farmy, možnost prohlídky zahrady a hospodářství (psi, kočky, kachna), volně dostupná kola. V okolí turistika, cykloturistika, jízda na koni, jízdy terénním autem, koupání v řece cca 3 km daleko. Počítejte s 1–3 hodinami návštěvy podle toho, jestli jen jíte, nebo zůstáváte na aktivity.",
+   "access": "Z Përmetu cca 35 km, z Këlcyrë cca 17–20 km po silnici do údolí Dëshnicë. Přesný stav poslední části cesty (asfalt/štěrk) se v zdrojích neuvádí – u agroturistických farem v této oblasti je ale běžné, že poslední kilometry jsou nezpevněné, s Jimny by neměl být problém. Doporučuje se předem zavolat/napsat kvůli otevírací době restaurace a rezervaci.",
+   "tips": "Ověřit telefonicky aktuální otevírací dobu restaurace, mimo hlavní sezónu může být zavřeno. Vzít hotovost, platba kartou na takto odlehlém místě není jistá.",
+   "links": [
+    {
+     "label": "Ferma Albanik – oficiální stránka (o nás)",
+     "url": "https://ferma-albanik.com/en/about-us/"
+    },
+    {
+     "label": "Agritourism AL – Ferma Albanik",
+     "url": "https://agroturizem.gov.al/grand-albanik-farm/"
+    },
+    {
+     "label": "Visit Albania – Ferma Albanik",
+     "url": "https://albaniavisit.com/accommodation/ferma-albanik/"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "permet",
+   "name": "Përmet",
+   "kind": "město",
+   "what": "Malé město na řece Vjosë v jižní Albánii, správní centrum stejnojmenného municipality. Dominantou je Guri i Qytetit – 42 m vysoký osamocený skalní blok přímo v centru u řeky, na jehož vrcholu jsou ruiny opevnění ze 4.–6. století, sloužícího jako signální bod kontrolující údolí Vjosy.",
+   "why": "Podle legendy se roku 1417 při osmanském vpádu z vrcholu skály vrhl místní vládce Premt i se svou dcerou, a podle něj má město dostat jméno. Përmet je zároveň centrem gastronomie regionu – odtud pochází gliko (kandované ovoce) a petanik (koláč se sýrem a bylinkami/špenátem a rýží).",
+   "experience": "Výstup na Guri i Qytetit po cca 70 kovových schodech, asi 30 minut včetně kochání se výhledem na řeku a město, přístupné kdykoliv. Navazuje procházka po nové pěší promenádě podél Vjosy směrem na jih k mostu – parky, sochy a vyhlídkové plošiny nad řekou. K tomu ochutnávka gliko a petaniku v některé z místních restaurací/pekáren.",
+   "access": "Parkování přímo ve městě, skála i promenáda jsou v docházkové vzdálenosti odkudkoliv z centra. Vstup na skálu i promenádu zdarma, bez otevírací doby (24/7), za nepřízně počasí (bouřky jsou v oblasti časté) raději nechodit nahoru.",
+   "tips": "Nejlepší světlo na skálu a řeku za východu nebo západu slunce. Gliko kupovat v obchůdcích/na trhu v Përmetu jako suvenýr, vydrží dlouho. Petanik zkusit spíš teplý, čerstvě upečený.",
+   "links": [
+    {
+     "label": "Wander-Lush – Things to do in Permet",
+     "url": "https://wander-lush.org/things-to-do-in-permet-albania/"
+    },
+    {
+     "label": "Sailingstone Travel – Permet, Big Rock",
+     "url": "https://sailingstonetravel.com/permet-benje-thermal-springs/"
+    },
+    {
+     "label": "Wikipedia – Gliko",
+     "url": "https://en.wikipedia.org/wiki/Gliko"
+    },
+    {
+     "label": "Slow Food Foundation – Përmet Gliko",
+     "url": "https://www.fondazioneslowfood.com/en/slow-food-presidia/permet-gliko/"
+    },
+    {
+     "label": "Votra Magazine – Petanik recipe",
+     "url": "https://www.votramagazine.com/recipe/delightful-petanik-recipe-a-taste-of-albanian-tradition/"
+    }
+   ],
+   "img": {
+    "file": "Përmet – Guri i Qytetit.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "kosine",
+   "name": "Kostel v Kosinë",
+   "kind": "památka",
+   "what": "Kostel Zesnutí Přesvaté Bohorodičky (Fjetja e Shën Mërisë) ve vesnici Kosinë, cca 6–7 km severozápadně od Përmetu. Stavba typu vepsaného kříže s kupolí, tvořená nartexem, naosem a oltářní částí, datovaná podle exteriéru a dekorativních prvků do 12. století – patří mezi nejstarší dochované byzantské kostely v Albánii.",
+   "why": "Vnitřek obsahuje fresky ze dvou různých historických fází – z doby výstavby a z post-byzantského období, což je pro region neobvyklá vrstevnatost. Kostel prošel v posledních letech rozsáhlou restaurací financovanou Nadací kulturního dědictví Autokefální pravoslavné církve Albánie.",
+   "experience": "Krátká zastávka v klidné vesnici, prohlídka exteriéru a případně interiéru s freskami (záleží na tom, zda je otevřeno/kdo má klíč). Počítejte s 20–30 minutami. Nejde o turisticky vybavené místo – autenticita venkovské vesnice je součástí zážitku.",
+   "access": "Z Përmetu cca 6–7 km po silnici, terén podle dostupných zdrojů v okolí sjízdný i osobním autem, s Jimny bez problémů. Kostel bývá zamčený, klíč drží někdo z místních – bez místního kontaktu (např. přes ubytovatele v Përmetu) může být obtížné se dostat dovnitř; zvenku je přístup volný a bezplatný.",
+   "tips": "Předem si přes ubytovatele v Përmetu zjistit, kdo drží klíč, jinak riziko, že uvidíte jen exteriér. Slavnost Zesnutí Panny Marie se koná 14.–15. srpna – mimo tento den bude ve vsi klid.",
+   "links": [
+    {
+     "label": "Orthodox Autocephalous Church of Albania – restaurace kostela v Kosinë",
+     "url": "https://orthodoxalbania.org/2020/en/2018/09/04/restoration-work-completed-in-the-dormition-of-theotokos-church-in-kosina-village-in-permet/"
+    },
+    {
+     "label": "Kryeministria.al – 500-year old Kosina Church revitalized",
+     "url": "https://www.kryeministria.al/en/newsroom/rilind-kisha-500-vjecare-e-kosines/"
+    },
+    {
+     "label": "Firenze University Press – Three villages of Përmet: Bënjë, Kosinë and Leusë",
+     "url": "https://books.fupress.com/catalogue/three-villages-of-prmet-bnj-kosin-and-leus/4719"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "leuse",
+   "name": "Kostel v Leusë",
+   "kind": "památka",
+   "what": "Pravoslavný byzantský kostel svaté Marie ve vesnici Leusë jižně od Përmetu, postavený v 18. století na základech starší stavby sahající do doby byzantského císaře Justiniána I. Má plochu 345 m², tvoří ho nartex, naos, oltář a předsíň.",
+   "why": "Interiér zdobí vysoce kvalitní fresky z roku 1812 od malířů Fjonjatiho, Mihaliho a Gjergjiho v sytých modrých a červených tónech, a řezaný ikonostas z ořechového dřeva z roku 1817 se scénami z Bible – jde o jednu z nejvýznamnějších památek albánského církevního umění v regionu.",
+   "experience": "Pěší výstup z centra Përmetu trvá 30–45 minut po nezpevněné cestě strmým, zalesněným svahem. Prohlídka interiéru s freskami (pokud je otevřeno) plus cesta zpět – počítejte celkem s 1,5–2 hodinami.",
+   "access": "Autem lze dojet blíž, ale zdroje doporučují terénní vozidlo (4x4) pro poslední úsek – s Jimny by to mělo jít. Kostel je běžně zamčený, klíč má někdo z místních; nejjistější je domluvit si přístup přes penzion Chri Chri Guest House v Leusë, jehož majitel návštěvu zprostředkuje. Bez rezervace hrozí, že se dovnitř nedostanete.",
+   "tips": "Před cestou kontaktovat Chri Chri Guest House kvůli klíči. Zprávy z terénu zmiňují i poškozování fresek turisty – chovat se ohleduplně, nedotýkat se maleb. Cesta je fyzicky náročnější, počítat s pevnou obuví.",
+   "links": [
+    {
+     "label": "Wander-Lush – Short Guide to Visiting the Church of Leus",
+     "url": "https://wander-lush.org/church-of-leus-permet-albania/"
+    },
+    {
+     "label": "Wikipedia – St. Mary's Church, Leusë",
+     "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Leus%C3%AB"
+    },
+    {
+     "label": "Balkanweb – poškozování fresek turisty",
+     "url": "https://www.balkanweb.com/en/i-mbijetoi-shekujve-dhe-luftrave-turistet-armiqte-e-kishes-se-leuses-ja-krimi-ndaj-afreskeve/"
+    }
+   ],
+   "img": {
+    "file": "Leusa – Kisha e Shën Mërisë.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "benja",
+   "name": "Termály Bënja a most Katiu",
+   "kind": "koupání",
+   "what": "Přírodní termální prameny podél řeky Lengarica v kaňonu cca 13–14 km od Përmetu, součást Národního parku Bredhi i Hotovës-Dangëlli. Šest sirných pramenů vyvěrá tektonickými puklinami do kamenných jezírek s teplotou cca 23–32 °C. Hned vedle stojí osmanský kamenný most Ura e Kadiut (most Katiu), jednoobloukový, postavený roku 1760 za Aliho Paši Tepelenského.",
+   "why": "Kombinace teplé minerální vody, studené horské řeky hned vedle a historického osmanského mostu na jednom místě je v Albánii ojedinělá. Vstup do vody je zdarma.",
+   "experience": "Koupání v hlavním jezírku u mostu (přístupné rovnou od parkoviště) i v menších jezírkách dál v kaňonu, kam se chodí broděním přes bahnitou vodu a kluzké kameny – počítejte s 1–3 hodinami podle toho, kolik jezírek chcete navštívit. Bez převlékáren a toalet.",
+   "access": "Autem z Përmetu cca 13–14 km, poslední úsek cesty místy nezpevněný, ale sjízdný osobním autem, Jimny bez problémů. Parkování u vstupu do kaňonu, možný drobný poplatek za parkování. Vstup do pramenů samotných zdarma, bez otevírací doby, funguje celoročně (v zimě je kontrast teplé vody a chladného vzduchu obzvlášť atraktivní).",
+   "tips": "Vzít boty do vody (kluzké bahnité dno), vlastní ručník/plavky, protože chybí zázemí. Odpoledne bývá u hlavního jezírka u mostu více lidí, dřívější dopoledne je klidnější. Pozor na kluzké kameny při přechodu k dalším jezírkám v kaňonu.",
+   "links": [
+    {
+     "label": "Himara.net – Benjë Thermal Baths & Langarica Canyon guide",
+     "url": "https://himara.net/blog/benja-thermal-baths-destination-guide"
+    },
+    {
+     "label": "Sailingstone Travel – Permet, Bënjë Thermal Springs",
+     "url": "https://sailingstonetravel.com/permet-benje-thermal-springs/"
+    },
+    {
+     "label": "Wikipedia – Thermal Springs of Banjë",
+     "url": "https://en.wikipedia.org/wiki/Thermal_Springs_of_Banj%C3%AB"
+    }
+   ],
+   "img": {
+    "file": "Katiu Bridge - Benje, Permet, Albania.jpg",
+    "author": "Klejdi Shtrepi (Dokfot)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "lengarica",
+   "name": "Kaňon Lengarica",
+   "kind": "příroda",
+   "what": "Vápencový kaňon řeky Lengarica u vesnice Bënjë, asi 13-15 km od Përmetu, se stěnami vysokými až 150 m. U vstupu do soutěsky je osmanský kamenný most a volně přístupné sirné termální prameny s vodou o teplotě 20-24 °C.",
+   "why": "Kombinace teplých pramenů, osmanského mostu a úzké soutěsky s tůněmi je jedno z nejfotogeničtějších míst jižní Albánie a leží přímo na trase mezi Përmetem a horami.",
+   "experience": "Procházka proti proudu kaňonem v korytě řeky, částečně broděním a po kamenech - 7 km jedním směrem (14 km tam a zpět), 3-5 hodin, obtížnost střední (kluzké kameny, pár strmějších úseků). Kratší varianta je dojít jen k prvním tůním a koupat se v termálech u mostu.",
+   "access": "Autem po silnici z Përmetu směr Bënjë (cca 15 km, poslední úsek štěrková cesta, sjízdné i osobákem, pro Jimny bez problému), parkování u termálních pramenů. Koupání v pramenech zdarma, bez rezervace, jen drobný poplatek za parkování. Nejlepší sezóna duben-červen a září-říjen, v létě vedro (30-35 °C), v zimě kluzko.",
+   "tips": "Vzít pevnou obuv do vody, převlečení a vodu s sebou (zdroje v kaňonu nejsou spolehlivé). Po dešti jsou kameny kluzké a brody hlubší. Značení stezky je místy řídké.",
+   "links": [
+    {
+     "label": "Lengarica Canyon Hike Guide",
+     "url": "https://www.takeyourbackpack.com/backpacking-in-albania/hike-lengarica-canyon/"
+    },
+    {
+     "label": "Bënja Thermal Baths - albaniavisit.com",
+     "url": "https://albaniavisit.com/attractions/benja-thermal-baths/"
+    },
+    {
+     "label": "Lëngarica Gorge - outdooractive.com",
+     "url": "https://www.outdooractive.com/en/route/hiking-trail/permet/lengarica-gorge-region-permet-/63490724/"
+    }
+   ],
+   "img": {
+    "file": "Water gap of river Lengarica.jpg",
+    "author": "Malenki",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "rafting-vjosa",
+   "name": "Rafting na Vjose",
+   "kind": "cesta",
+   "what": "Komerční rafting na řece Vjosa (jedné z posledních velkých divokých řek Evropy) organizovaný firmou Albania Rafting Group, se srazem v jejich kempu Vjosa Albania Rafting & Kayak Camping v Qilarisht u Përmetu.",
+   "why": "Vjosa teče volně bez přehrad přes 270 km a je symbolem albánské divoké přírody (v roce 2023 vyhlášen národní park Vjosa Wild River). Rafting je nenáročný, vhodný i pro netrénované, s koupáním a skoky ze skal cestou.",
+   "experience": "Samotné splutí trvá asi 2 hodiny (obtížnost stupeň II-III, mírná fyzická zátěž), s přípravou a instruktáží celkem 2,5-3,5 hodiny. Zahrnuje zastávky na koupání a skoky do vody, cenu 35 EUR/dospělý, 30 EUR/dítě (4-12 let), fotoservis navíc 3 EUR/osoba.",
+   "access": "Sraz na adrese Vjosa Albania Rafting & Kayak Camping, Qilarisht, Përmet 6401 - asi 10 minut jízdy autem od centra Përmetu, bezplatné parkování v kempu. Sezóna březen-prosinec, provoz podle stavu vody. Doporučuje se rezervace předem přes albrafting.org.",
+   "tips": "Vzít náhradní oblečení a obuv do vody. V hlavní sezóně (červenec-srpen) doporučeno objednat s předstihem, mimo sezónu se termíny domlouvají individuálně podle průtoku řeky.",
+   "links": [
+    {
+     "label": "Rafting Vjosa River - Albania Rafting Group",
+     "url": "https://www.albrafting.org/tour/rafting-vjosa-river-albania-adventure-tours"
+    },
+    {
+     "label": "Rafting in Albania Guide - Lovealbania",
+     "url": "https://lovealbania.al/rafting-in-albania/"
+    }
+   ],
+   "img": {
+    "file": "Vjosa, near Permet 1.jpg",
+    "author": "Krzysztof Dudzik-Górnicki (ToSter)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "frasher",
+   "name": "Frashër",
+   "kind": "památka",
+   "what": "Horská vesnice (387 obyvatel, sčítání 2011) v Gjirokastërském kraji, od reformy 2015 součást obce Përmet, se dvěma historickými památkami: bektášijskou tekke (Nasibî Tâhir Baba Tekke, založena 1781) a muzeem v rodném domě bratří Frashëri.",
+   "why": "Frashër je rodištěm Abdyla, Naima a Samiho Frashëriho - klíčových postav albánského národního obrození (Rilindja) 19. století, kteří položili kulturní a politické základy nezávislosti Albánie z roku 1912. Tekke byla za vůdce Baba Alushiho (1846-1902) centrem Prizeňské ligy (1878-1881) a albánského nacionálního hnutí.",
+   "experience": "Prohlídka rodného domu bratří Frashëri přeměněného na malé muzeum (se třemi sochami před domem) a bektášijské tekke o kus dál ve vesnici - dohromady stačí 1-1,5 hodiny, nenáročné pěší přesuny po vesnici.",
+   "access": "Odbočka ze silnice Këlcyrë-Përmet u Piskove, odtud dobrá štěrková cesta asi 30 km do Frashëru přes Bredhi i Hotovës (sjízdné pro terénní auto, pro osobák místy náročnější). Otevírací doba muzea není jednotně publikovaná - doporučeno ověřit na místě nebo přes InYourPocket Përmet.",
+   "tips": "Cesta je dlouhá a klikatá, počítat s pomalejší jízdou. V okolí minimum občerstvení, doporučeno vzít vodu a jídlo s sebou. Kombinovatelné s průjezdem národním parkem Hotovë-Dangëlli.",
+   "links": [
+    {
+     "label": "Frashër - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Frash%C3%ABr"
+    },
+    {
+     "label": "Tekke of Frashër - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Teqe_of_Frash%C3%ABr"
+    },
+    {
+     "label": "Frashër village - InYourPocket",
+     "url": "https://www.inyourpocket.com/permet/frasher-village_170114v"
+    }
+   ],
+   "img": {
+    "file": "Museum in Frashër.jpg",
+    "author": "Inna.k20",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "hotova",
+   "name": "NP Hotova-Dangëlli a cesta do Ersekë",
+   "kind": "cesta",
+   "what": "Národní park Bredhi i Hotovës-Dangëlli je největší národní park Albánie (34 361 ha, dle infoboxu Wikipedie 36 004 ha), vyhlášený 1996/2008, v Gjirokastërském kraji poblíž Përmetu. Jméno nese po řídkém porostu jedle řecké (Abies borisii-regis), jednom z nejvýznamnějších mediteránních reliktů země.",
+   "why": "Hornatý terén s vápencovými a pískovcovými útvary, kaňony a soutěskami je domovem divoké kočky, srnce, kance, vydry a medvěda hnědého. Horská cesta přes park je zároveň jediné přímé spojení Përmet-Frashër-Ersekë a sama o sobě je zážitkem pro terénní auto.",
+   "experience": "Průjezd národním parkem po horské cestě mezi Përmetem, Frashërem a Ersekë - panoramata jedlových lesů, hlubokých údolí a soutěsek, bez nutnosti vystupovat z auta na prohlídku (park nemá turistickou infrastrukturu typu návštěvnického centra).",
+   "access": "Cesta Përmet-Frashër je štěrková, cca 30 km, sjízdná i osobním autem za sucha; pokračování na Ersekë je náročnější, s nezpevněnými úseky - doporučeno terénní auto (Jimny ideální), zejména po dešti. Bez vstupného, bez závory. V zimě může být cesta sněhem neprůjezdná.",
+   "tips": "Natankovat předem v Përmetu nebo Ersekë - v parku není žádná infrastruktura ani signál mobilu na mnoha úsecích. Počítat s pomalou jízdou (výmoly, serpentiny), naplánovat průjezd za světla.",
+   "links": [
+    {
+     "label": "Fir of Hotovë-Dangëlli National Park - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fir_of_Hotov%C3%AB-Dangelli_National_Park"
+    },
+    {
+     "label": "National Park Bredhi i Hotoves-Dangelli - Parks Dinarides",
+     "url": "https://www.parksdinarides.org/en/park/national_park_bredhi_i_hotoves_dangelli"
+    },
+    {
+     "label": "Blocal Travel - Përmet mountainous south",
+     "url": "https://www.blocal-travel.com/road-trip/permet-mountainous-south-of-albania-html/"
+    }
+   ],
+   "img": {
+    "file": "Bredhi i Hotovës.jpg",
+    "author": "Amaro",
+    "license": "GFDL 1.2"
+   }
+  },
+  {
+   "id": "erseke",
+   "name": "Ersekë",
+   "kind": "město",
+   "what": "Ersekë je hlavní město obce a bývalého kraje Kolonjë v jihovýchodní Albánii, s nadmořskou výškou přes 1000 m - jedno z nejvýše položených měst v zemi. Leží u paty pohoří Gramoz, jehož nejvyšší vrchol Maja e Çukapeçit dosahuje 2523 m.",
+   "why": "Ersekë je poslední větší zastávka s občerstvením a benzinem před/po průjezdu horami z Frashëru, a zároveň místo pro ochutnávku lakroru - tradičního plněného chlebového koláče typického pro region Korça/Kolonjë.",
+   "experience": "Zastávka na oběd - lakror (tenké vrstvy těsta plněné pórkem, špenátem, cibulí nebo sýrem gjizë, tradičně pečený pod saç, litinovým poklopem zasypaným žhavým popelem) v místní pekárně nebo restauraci. Město samo je malé, stačí krátká procházka centrem a parkem (Lulishte).",
+   "access": "Ersekë leží na silnici mezi Përmetem/Frashërem a Korçë, dostupné po asfaltové silnici od Korçë, ze strany od Frashëru po horské cestě přes národní park. V centru běžné placené i volné parkování na ulici.",
+   "tips": "Pro výlet k ledovcovému jezeru Gramoz (2400 m) vede trasa Ersekë - Starjë - jezero, ale vyžaduje fyzickou přípravu a není součástí tras s autem. V Ersekë doplnit palivo, dál k Frashëru čerpací stanice nejsou jisté.",
+   "links": [
+    {
+     "label": "Ersekë - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ersek%C3%AB"
+    },
+    {
+     "label": "Lakror - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lakror"
+    },
+    {
+     "label": "Gramozi Mountain - Visit Korca",
+     "url": "https://visitkorca.al/destinations/gramozi-mountain/"
+    }
+   ],
+   "img": {
+    "file": "Ersekë Lulishte.jpg",
+    "author": "Albinfo",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "korce",
+   "name": "Korçë",
+   "kind": "město",
+   "what": "Korçë je hlavní město stejnojmenného kraje v jihovýchodní Albánii, centrum regionu Korça. Starý bazar (Pazari i Vjetër) je osmanská tržnice starou přes 500 let, tvořená kamennými uličkami s obchůdky, hany a mešitou. Dominantou centra je pravoslavná katedrála Ringjallja e Krishtit (Vzkříšení Kristovo), největší v Albánii.",
+   "why": "Bazar patří mezi 138 památkově chráněných objektů a je přezdívaný \"bazar serenád\" díky tradici pouliční hudby. Katedrála nahradila původní chrám sv. Jiří zbořený za komunismu (1970) a byla postavena 1979–1990 jako symbol návratu náboženské svobody – je největší pravoslavnou katedrálou v zemi.",
+   "experience": "Odpolední procházka bazarem (kamenné uličky, Mirahoriho mešita z roku 1494, hodinová věž), pěšky cca 1–1,5 hodiny, pak návštěva katedrály (interiér s freskami a mozaikami, volný vstup). Náročnost nízká, rovinatý terén, dobré pro protažení nohou po jízdě autem.",
+   "access": "Auto lze nechat na placeném parkovišti v centru Korçë, bazar i katedrála jsou v docházkové vzdálenosti od sebe (cca 10 min pěšky). Bazar je volně přístupný celoročně, katedrála má bohoslužby ráno a večer, mimo ně lze nahlédnout do interiéru zdarma.",
+   "tips": "Večer je bazar živější (restaurace, kavárny), přes den v létě může být vedro bez stínu v uličkách. Na náměstí před katedrálou fontána a lavičky k odpočinku.",
+   "links": [
+    {
+     "label": "Wikipedia – Old Bazaar of Korçë",
+     "url": "https://en.wikipedia.org/wiki/Old_Bazaar_of_Kor%C3%A7%C3%AB"
+    },
+    {
+     "label": "Wikipedia – Resurrection Cathedral, Korçë",
+     "url": "https://en.wikipedia.org/wiki/Resurrection_Cathedral,_Kor%C3%A7%C3%AB"
+    },
+    {
+     "label": "Mitropolia e Shenjtë Korçë – historie katedrály",
+     "url": "https://mitropoliaeshenjtekorce.com/2023/10/15/katedralja-ringjallja-e-krishtit-pika-me-atraktive-ne-korce-fakte-interesante-rreth-ndertimit/"
+    }
+   ],
+   "img": {
+    "file": "Korca Old Bazaar.jpg",
+    "author": "Armin (Flickr: octopuzz)",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "birra-korca",
+   "name": "Pivovar Birra Korça",
+   "kind": "jídlo",
+   "what": "Birra Korça je nejstarší pivovar v Albánii, založený roku 1928 italským investorem Umbertem Umbertim a místním podnikatelem Selimem Mborjou se základním kapitálem 950 000 zlatých franků. Areál na bulváru Fan Noli zahrnuje výrobní halu, restauraci a pivní zahradu.",
+   "why": "Symbol albánského pivovarnictví přes sto let historie (přežil monarchii, komunismus i tranzici) a jedna z mála prohlídkových průmyslových památek v regionu Korça.",
+   "experience": "Prohlídka výroby (zdarma, informativní) obvykle v 10, 12 a 14 hodin, poté posezení v restauraci/pivní zahradě s čepovaným pivem Korça a tradičními albánskými jídly. Počítejte s 1–2 hodinami celkem, nenáročné.",
+   "access": "Adresa Bulevardi Fan Noli, Korçë, v docházkové vzdálenosti od centra a starého bazaru. Parkování v okolních ulicích. Areál otevřen denně cca 8:00–24:00, prohlídky výroby po–so v uvedených časech bez nutnosti rezervace, doporučeno ale ověřit předem telefonicky (+355 68 609 4101) nebo přes rezervační portály (GetYourGuide).",
+   "tips": "V sezóně může být zahrada plná, na oběd/večeři raději dorazit dřív. Prohlídky výroby nemusí být v neděli.",
+   "links": [
+    {
+     "label": "Wikipedia – Birra Korça",
+     "url": "https://en.wikipedia.org/wiki/Birra_Kor%C3%A7a"
+    },
+    {
+     "label": "Birra Korça – oficiální stránka",
+     "url": "https://birrakorca.com.al/en/about-us/"
+    },
+    {
+     "label": "Albania Travel Guide – Korçë Brewery",
+     "url": "https://albaniatravelguide.net/korce/brewery"
+    }
+   ],
+   "img": {
+    "file": "Birra Korça Brewery.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "muzeum-korce",
+   "name": "Muzeum středověkého umění",
+   "kind": "památka",
+   "what": "Národní muzeum středověkého umění v Korçë, založené 1980, od roku 2016 v nově zrekonstruované budově na bulváru Fan Noli. Sbírka čítá přes 7000 předmětů – byzantské a povizantské ikony (13.–19. století), fresky, liturgické předměty a rukopisy, z toho kolem 6500 ikon.",
+   "why": "Jedna z největších sbírek byzantského ikonopisného umění na Balkáně, včetně děl slavných albánských malířů Onufriho a Shpataraku. Nejznámější exponát – ikona archanděla Michaela – bývá přezdívána \"balkánská Mona Lisa\".",
+   "experience": "Prohlídka expozice trvá cca 1–1,5 hodiny, klimatizované moderní prostory, k dispozici i 3D virtuální prohlídka online pro přípravu předem. Nenáročné, vhodné jako kulturní zastávka mezi bazarem a obědem.",
+   "access": "Adresa Bulevardi Fan Noli 59, Korçë. Otevřeno denně přibližně 10:00–13:00 a 17:00–18:00 (ověřit aktuálnost před cestou, albánská muzea mění hodiny sezónně). Vstupné se pohybuje v řádu stovek lek, přesnou částku doporučeno ověřit na místě nebo na oficiálním webu.",
+   "tips": "Kvůli přerušované otevírací době (dopolední a podvečerní blok) si návštěvu naplánujte na začátek nebo konec odpoledního programu v Korçë.",
+   "links": [
+    {
+     "label": "Wikipedia – National Museum of Medieval Art (Albania)",
+     "url": "https://en.wikipedia.org/wiki/National_Museum_of_Medieval_Art_(Albania)"
+    },
+    {
+     "label": "Oficiální turistický web Albánie – muzeum",
+     "url": "https://akt.gov.al/en/muze/muzeu-i-artit-mesjetar/"
+    }
+   ],
+   "img": {
+    "file": "Muzeu i Artit Mesjetar.jpg",
+    "author": "Kj1595",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "mborje",
+   "name": "Kostel Ristozi v Mborje",
+   "kind": "památka",
+   "what": "Kostel Vzkříšení (Kisha e Ristozit, také Kostel Životodárného pramene) ve vesnici Mborje u paty hory Morava, jihovýchodně od Korçë. Postaven 1389–1390 z podnětu biskupa Nimfoniho, tehdy pod panstvím feudálního rodu Muzaka.",
+   "why": "Považován za nejstarší dochovaný kostel v Albánii. Má typ kříže vepsaného do čtvercové cely s kupolí, vysoký jen 7,5 metru, s dochovanými anonymními freskami z roku 1390 – vzácný doklad byzantského umění před osmanskou nadvládou.",
+   "experience": "Krátká zastávka (30–45 minut), malý interiér s freskami, klidné venkovské prostředí. Nenáročné, kostel je spíše kuriozitou pro milovníky historie než velkým zážitkem rozměrem.",
+   "access": "Mborje leží cca 5 km jihovýchodně od Korçë, dostupné autem po asfaltce, parkování přímo u kostela. Kostel bývá zamčený mimo bohoslužby (svátek sv. Ristozi) – ke vstupu je potřeba najít správce/kostelníka ve vesnici.",
+   "tips": "Pokud je kostel zamčený, zeptejte se v okolních domech na klíč – místní jsou zvyklí na návštěvníky. Kombinovatelné s cestou do Voskopoje nebo Boboshticë.",
+   "links": [
+    {
+     "label": "Wikipedia – Holy Resurrection Church, Mborje",
+     "url": "https://en.wikipedia.org/wiki/Holy_Resurrection_Church,_Mborje"
+    },
+    {
+     "label": "Telegrafi – 630letý kostel Ristoz",
+     "url": "https://telegrafi.com/en/kisha-630-vjecare-e-ristozit/"
+    }
+   ],
+   "img": {
+    "file": "Mborje, Church of Ristoz 1.jpg",
+    "author": "Krzysztof Dudzik-Górnicki (ToSter)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "boboshtice",
+   "name": "Boboshticë",
+   "kind": "jídlo",
+   "what": "Boboshticë je vesnice v bývalé obci Drenovë v kraji Korçë, proslulá výrobou tradiční morušové rakije (raki mani/rakimani) – na rozdíl od běžné balkánské rakije ze švestek nebo hroznů se destiluje ze zralých moruší sbíraných v červenci a srpnu.",
+   "why": "Jde o chráněný gastronomický unikát zapsaný do katalogu Slow Food Ark of Taste, vyráběný po generace stejným rodinným postupem – rakije má nazelenalou barvu a jemné aroma moruší a bylin. Vyrábí se prakticky jen zde a v sousední Drenově.",
+   "experience": "Procházka vesnicí s tradiční architekturou, ochutnávka rakije mani v místní taverně (obvykle rodinný podnik), možnost koupě lahve na památku. Počítejte s 1–2 hodinami, nenáročné.",
+   "access": "Boboshticë leží cca 10 km jihovýchodně od Korçë, dostupná po horší, ale sjízdné asfaltce – vhodné i pro Jimny. Parkování na návsi. Tavernu je lepší kontaktovat/navštívit přes den, mimo hlavní sezónu sklizně (červenec–srpen) může být výroba omezená.",
+   "tips": "Rakije má vyšší obsah alkoholu, ochutnávka v menším množství. V srpnu při Raki Festivalu ve vesnici bývá bohatší nabídka a atmosféra.",
+   "links": [
+    {
+     "label": "Slow Food Foundation – Boboshtica Mulberry Raki",
+     "url": "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/boboshtica-mulberry-raki/"
+    },
+    {
+     "label": "Wikipedia – Boboshticë",
+     "url": "https://en.wikipedia.org/wiki/Boboshtic%C3%AB"
+    },
+    {
+     "label": "Invest in Albania – Raki Festival Boboshtica",
+     "url": "https://invest-in-albania.org/raki-festival-on-its-second-edition-gathered-visitors-to-boboshtica/"
+    }
+   ],
+   "img": {
+    "file": "Boboshticë.jpg",
+    "author": "Nikol Likja (Nlikja)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "voskopoje",
+   "name": "Voskopojë",
+   "kind": "památka",
+   "what": "Voskopojë, dříve Moschopolis, bylo v 17.–18. století jedno z největších obchodních a kulturních center Balkánu mimo Istanbul s odhadovaným počtem 30 000–60 000 obyvatel, první tiskárnou na Balkáně mimo Istanbul a 26 pravoslavnými kostely bohatě zdobenými byzantskými freskami. Město bylo zničeno nájezdy v roce 1769 a definitivně upadlo po přesunu obchodních tras.",
+   "why": "Dnes zbylo jen 5 kostelů a klášter z původních 26, ale patří mezi nejcennější doklady balkánského církevního umění 18. století. Kostel sv. Mikuláše (Shën Kolli), postavený 1721–1722, obsahuje fresky od malířů Davida Selenici, Konstantina Jeromonacha a Anastase – jedny z nejlepších ukázek ikonografie regionu.",
+   "experience": "Doporučená procházka pěšky mezi rozptýlenými kostely (ne autem) – umožňuje vnímat i běžný život a přírodu vesnice. Prohlídka hlavních kostelů a fresek zabere 2–3 hodiny, terén mírně kopcovitý, nenáročný.",
+   "access": "Voskopojë leží cca 21 km severozápadně od Korçë v nadmořské výšce přes 1160 m, přístupná po horské silnici vhodné pro terénní auto. Kostely bývají zamčené – ke vstupu je nutné najít místního správce (žije obvykle v centru vesnice) nebo faráře, který odemkne.",
+   "tips": "Počítejte s tím, že najít správce klíčů může chvíli trvat – zeptejte se v místní taverně nebo obchodě. V zimě může být přístupová silnice zasněžená, ověřit před cestou v září by neměl být problém.",
+   "links": [
+    {
+     "label": "Wikipedia – St. Nicholas Church, Moscopole",
+     "url": "https://en.wikipedia.org/wiki/St._Nicholas_Church,_Moscopole"
+    },
+    {
+     "label": "Invest in Albania – Voskopoja",
+     "url": "https://invest-in-albania.org/voskopoja-place-churches-ancient-civilization/"
+    },
+    {
+     "label": "Albania360 – historie kostelů Voskopoje",
+     "url": "https://albania360.com/only-in-albania/history-of-voskopoja-its-churches/"
+    }
+   ],
+   "img": {
+    "file": "Voskopoje St Nicholas.JPG",
+    "author": "Markussep",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "vithkuq",
+   "name": "Vithkuq a klášter",
+   "kind": "památka",
+   "what": "Vithkuq je horská vesnice cca 20 km jižně od Korçi, dnes součást obce Korçë, s rozptýlenými osadami v podhůří pohoří Gramoz. Nedaleko vesnice stojí klášter Svatých apoštolů Petra a Pavla, jehož zděná katholikon dominuje okolní krajině. Historie osídlení sahá do byzantského období, první kostel (zasvěcený sv. Atanášovi) je doložen tradicí k roku 1162.",
+   "why": "Vithkuq bylo v 17.-18. století jedním z hospodářsky a kulturně nejvýznamnějších center jihovýchodní Albánie, srovnatelné s Voskopojou. Místní obyvatelé v roce 1724 finančně podpořili založení první řecké školy v Korçi a vesnice je spojena s albánským národním obrozením (Vithkuqi script, Naum Veqilharxhi). Je to typický příklad prudkého rozkvětu a pádu osmanské éry, dnes téměř vylidněná zapadlá osada s výraznými památkami.",
+   "experience": "Klášter Petra a Pavla se stavěl ve dvou fázích – základ položen 1709/1710 po sultánově fermanu, katholikon dostavěn 1759 za opata Nika Tarasia a vymalován 1763 malíři Konstandinem a Athanasem Zografi. Komplex zahrnuje i hřbitovní kostel sv. Kosmy a Damiána. Areál byl v posledních letech částečně zrekonstruován (dokumentováno i v rámci Wiki Loves Monuments 2024). Každý rok 19. června se u kláštera koná tradiční pouť/jarmark, kam se sjíždějí lidé z Korçi a okolních vesnic.",
+   "access": "Vithkuq leží na horské silnici vedoucí z Korçe směrem na jih k průsmyku a dál k Çorovodë (viz záznam spojka-osumi). Vesnice i klášter jsou dostupné běžným autem po místní silnici, poslední úsek ke klášteru může být nezpevněný. Kvůli řídkému osídlení počítejte s minimem služeb (žádné restaurace/obchody zaručeně otevřené).",
+   "tips": "Kombinujte s cestou na horskou spojku Vithkuq–Çorovodë – je to přirozený výchozí/koncový bod trasy. Ověřte si aktuální otevření kláštera přímo na místě, oficiální otevírací dobu nemá zveřejněnou. Fotograficky zajímavé zejména ráno v mlze, vesnice leží v nadmořské výšce přes 1000 m, počítejte s chladnějším počasím i v září.",
+   "links": [
+    {
+     "label": "Wikipedia – Vithkuq",
+     "url": "https://en.wikipedia.org/wiki/Vithkuq"
+    },
+    {
+     "label": "Religious Routes – Monastery of Peter and Paul, Vithkuq",
+     "url": "https://religiousroutes.eu/en/destination/monastery-of-the-holy-apostles-peter-and-paul-vithkuq/"
+    },
+    {
+     "label": "Visit Korça – Vithkuq Village",
+     "url": "https://visitkorca.al/destinations/vithkuq-village-albania/"
+    }
+   ],
+   "img": {
+    "file": "Manastiri i Shën Pjetrit dhe kisha e Shën Kozmait.jpg",
+    "author": "SualdoDino",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "spojka-osumi",
+   "name": "Spojka Vithkuq – Osumi",
+   "kind": "cesta",
+   "what": "Jde o horskou spojnici mezi Korçskou kotlinou a Skraparem, vedoucí přes vesnice Shtyllë, Panarit, Backë a Potom až do Çorovodë. Trasa z velké části kopíruje koridor, který si pro přístup ke stavbě plynovodu Trans Adriatic Pipeline (TAP) v letech 2015-2016 nechala vybudovat/zrekonstruovat firma TAP AG – v úseku Vithkuq zrekonstruovala cca 13 km cest a čtyři mosty na trase Ura–Floq–Vithkuq.",
+   "why": "Cesta je zajímavá právě kombinací industriální historie (přístupové koridory k plynovodu) a divoké horské scenérie mezi Korçí a Skraparem – jedna z mála spojnic, které tudy vůbec vedou, jinak je nutná velká okružní jízda přes hlavní silnice.",
+   "experience": "TAP AG cesty vyštěrkovala pro průjezd těžké techniky, definitivní zaasfaltování zůstalo na albánském státu. To se částečně děje až nyní: v červenci 2026 premiér Edi Rama oznámil zahájení asfaltování úseku Potom–Backë–Qafa e Martës jako investice propojující Skrapar s Korçou. V době vaší cesty (září 2026) tedy část úseku Potom–Backë může být čerstvě po/v procesu asfaltování, zbytek trasy (Vithkuq–Shtyllë–Panarit) je pravděpodobně stále štěrkový/nezpevněný horský povrch.",
+   "access": "Pro osobní auto s nízkou světlou výškou nedoporučeno – jde o horskou, místy štěrkovou cestu se serpentinami. Pro vozidlo typu Suzuki Jimny (4x4, vysoká světlost) by měla být sjízdná za sucha bez problémů, po dešti počítejte s bahnem a horší přilnavostí na nezpevněných úsecích. Doporučuje se ověřit aktuální stav (probíhající stavební práce mohou trasu dočasně uzavírat nebo zpomalovat) těsně před jízdou, např. na místních FB skupinách nebo přes recenze na Wikiloc.",
+   "tips": "Naplánujte dostatek času – i při nízké vzdálenosti jde o pomalou horskou jízdu. Vezměte rezervní palivo, po trase pravděpodobně nejsou čerpací stanice. Trasu lze pojmout jako propojku mezi návštěvou Vithkuqu/kláštera a kaňonu Osumi bez nutnosti vracet se přes Korçu a Beratu.",
+   "links": [
+    {
+     "label": "TAP AG – TAP in Vithkuq",
+     "url": "https://www.tap-ag.com/news-and-events/tap-stories/2015/10/21/tap-in-vithkuq-operating-with-respect-for-tradition-cultural-heritage-and-the-environment"
+    },
+    {
+     "label": "Koha Jonë – Nis asfaltimi i rrugës Potom-Backë-Qafa e Martës",
+     "url": "https://kohajone.com/aktualitet/rama-poston-fotot-nis-asfaltimi-i-rruges-potom-backe-qafa-e-martes-investim-qe-lidh-skraparin-me-korcen/"
+    },
+    {
+     "label": "RTSH – Lidhja e re strategjike Skrapar–Korçë",
+     "url": "https://rtsh.al/lidhja-e-re-strategjike-skrapar-korce-rama-nisi-asfaltimi-i-rruges-potom-backe-qafa-e-martes/"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "osumi",
+   "name": "Kaňon Osumi",
+   "kind": "příroda",
+   "what": "Kaňon Osumi je přibližně 26 km dlouhá soutěska vyhloubená řekou Osum v oblasti Skrapar, označovaná za \"albánský Grand Canyon\". Silnice SH72 vede z Beratu přes Poliçan a Bogovë do Çorovodë a nabízí vyhlídky na kaňon shora, pro vstup přímo do kaňonu je třeba sejít pěšky k řece.",
+   "why": "Jde o jedno z nejvýraznějších přírodních míst jižní Albánie s kombinací vysokých vápencových stěn, tyrkysové vody a starého kamenného mostu Ura e Zabërzanit (Zabërzanský most) zavěšeného přes úzkou průrvu – vyhledávaného cíle pěší turistiky a fotografů.",
+   "experience": "Okruh kolem kaňonu měří asi 18 km (9 km po každé straně); západní strana vede po nezpevněných cestách přes pole a skalnatý terén k římse podél stěn vedoucí ke starému mostu Zabërzan. V létě, kdy voda klesne, lze procházet i přímo korytem řeky (na rozdíl od mnoha jiných kaňonů lze zde fyzicky vstoupit a procházet úseky pěšky, v nižších partiích i v sandálech). Organizované výpravy nabízejí rafting a river tubing z Çorovodë.",
+   "access": "Nejjednodušší přístup je autem po SH72 z Beratu přes Poliçan a Bogovë do Çorovodë, odkud se lze vydat k vesnici Zabërzan a dál pěšky k mostu. Za sucha zvládne cestu k vesnici běžné auto, terénní vozidlo typu Jimny je výhodou na posledních nezpevněných úsecích a při horším počasí.",
+   "tips": "Sezónnost: únor–červen je vysoký vodní stav (tání sněhu, jarní srážky) vhodný na rafting (obtížnost II/III, bezpečné i pro rodiny), ale méně vhodný na brodění kaňonem pěšky. Od června do listopadu voda klesá, v srpnu bývají místy jen po kolena a vodopády téměř vyschlé – to je ideální doba na pěší průchod. V polovině září (termín vaší cesty) lze očekávat nízký až střední stav vody, tedy dobré podmínky pro pěší vstup do kaňonu; aktuální stav po srážkách je ale třeba ověřit na místě.",
+   "links": [
+    {
+     "label": "The Wom Travel – Osumi Canyon",
+     "url": "https://www.thewomtravel.com/albania/osumi-canyon-albania.html"
+    },
+    {
+     "label": "Albania Inbound – Osumi Canyon Adventure Guide",
+     "url": "https://albaniainbound.com/osumi-canyon-adventure-guide-hiking-bridge-views/"
+    },
+    {
+     "label": "The Sandy Feet – Osumi Canyon + Bogovë Waterfall",
+     "url": "https://thesandyfeet.com/osumi-canyon-bogove-waterfall-albania/"
+    }
+   ],
+   "img": {
+    "file": "Osumi Canyons - Outside Corovoda - Albania - 03 (42486434472).jpg",
+    "author": "Adam Jones",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  {
+   "id": "kasabashi",
+   "name": "Most Kasabashi",
+   "kind": "památka",
+   "what": "Kamenný osmanský most přes rameno řeky Osum/Çorovoda asi 1 km severně od Çorovodë. Má tři segmentové oblouky, hlavní s rozpětím kolem 12 m, celková délka asi 25 m a šířka 3 m. Je zapsán jako kulturní památka I. kategorie pod správou Regionálního ředitelství pro kulturní dědictví Berat.",
+   "why": "Patří mezi nejstarší dochované osmanské mosty v Albánii a je jasně datovaný (kolem roku 1640), na rozdíl od mnoha jiných mostů v regionu, kde se datace jen odhaduje. Leží přímo na trase mezi kaňonem Osum a jeskyní Pirogoshi, takže se dá zařadit bez velké zajížďky.",
+   "experience": "Most stojí osaměle v suché strži/kaňonu Gradec, obklopený vápencovými stěnami — fotogenické místo bez turistického davu. Podle místních zdrojů sloužil karavanní trase spojující Berat, Skrapar a Korçë. Přesný stavitel se tradičně uvádí jako \"mistr Kasëm\" (odtud jméno Kasabashi/Kabashi), historické prameny se ale v detailech historie rozcházejí.",
+   "access": "Cca 1 km od centra Çorovodë, sjízdné terénním autem po nezpevněné cestě/stezce; místo je zahrnuto i v pěších/turistických trasách ke kaňonu Gradec a jeskyni Pirogoshi. Volný přístup, bez vstupného.",
+   "tips": "Kombinovat s výletem do jeskyně Pirogoshi — organizované tury (např. Albania Rafting Group/AAR) vedou pěší trasu tak, že most je na zpáteční cestě. Nejlepší světlo ráno, kdy slunce nesvítí přímo proti kaňonu.",
+   "links": [
+    {
+     "label": "Corovodaonline.com – Kasabashi Bridge",
+     "url": "https://www.corovodaonline.com/2017/09/kasabashi-bridge.html"
+    },
+    {
+     "label": "Euronews Albania – Kasabashi Bridge",
+     "url": "https://euronews.al/en/kasabashi-bridge-a-cultural-monument-of-special-engineering-work/"
+    },
+    {
+     "label": "Wikimedia Commons – Category:Ura e Kasabashit",
+     "url": "https://commons.wikimedia.org/wiki/Category:Ura_e_Kasabashit"
+    },
+    {
+     "label": "Tripadvisor – Kasabashi Bridge",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g801291-d19807882-Reviews-Kasabashi_Bridge-Corovode_Berat_County.html"
+    }
+   ],
+   "img": {
+    "file": "Ura e Kasabashit Skrapar 01.jpg",
+    "author": "Fatjonkaloci",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "pirogoshi",
+   "name": "Jeskyně Pirogoshi",
+   "kind": "příroda",
+   "what": "Největší a nejznámější jeskyně kraje Skrapar, podle zdroje udávaná délka kolísá mezi cca 1250 a 1500 m (šířka místy až 30 m, výška do 5 m). Leží u vesnice Radesh nedaleko Çorovodë, vchod se otevírá v kaňonu Gradec obklopeném vápencovými stěnami. Je chráněná jako přírodní památka (IUCN kategorie III).",
+   "why": "Kombinuje jeskynní útvary (krápníky, sintrové záclony, tzv. \"červené jeskynní perly\") s neobvyklou vrstvou novodobé historie — síť tunelů vytesaných v komunistické éře do svahu kaňonu. Jde o autentické, málo komerční místo bez turistické infrastruktury, což k Jimny výpravě sedí lépe než upravené jeskyně jinde v zemi.",
+   "experience": "Prohlídka trvá řádově 1-2 hodiny, cesta vede úzkými i širšími prostorami se sály a chodbami. Na zpáteční trase z jeskyně se prochází i vojenskými tunely z 80. let – uměle vyraženým podzemním komplexem, který za diktatury sloužil jako skryté vojenské skladiště zbraní a munice (stavba trvala údajně 17 let); dnes část tunelů místní stále využívají jako sklad potravin.",
+   "access": "Bez vlastního auta/GPS bodu se doporučuje jít s průvodcem – Albania Rafting Group / Albanian Adventure Resort (AAR) nabízí organizovaný pěší okruh jeskyně + tunely + most Kasabashi se startem z náměstí u radnice v Çorovodë (možný svoz z Beratu). Cena kolem 50 EUR/os., v ceně průvodce, přeprava minibusem, helmy, čelovky, lékárnička, voda a oběd. Bez průvodce reálně hrozí ztráta orientace v postranních chodbách i riziko v opuštěných tunelech.",
+   "tips": "Vzít pevnou obuv a vlastní čelovku jako zálohu, uvnitř je vlhko a v místech kluzko. Domluvit tour předem telefonicky/mailem (viz kontakt níže), v sezóně 9/2026 může být potřeba rezervace pár dní dopředu.",
+   "links": [
+    {
+     "label": "AAR.al – Hiking in the Cave and Tunnels of Pirogoshi",
+     "url": "https://www.aar.al/albania-tour-hiking-in-the-cave-and-tunnels-of-pirogoshivisit-in-kasabashi-bridgeskrapar/"
+    },
+    {
+     "label": "Albania Rafting Group – tour Pirogoshi/Kasabashi",
+     "url": "https://www.albrafting.org/tour/hiking-pirogoshi-cave-tunnels-and-kasabashi-bridge-corovode-albania-tours"
+    },
+    {
+     "label": "Wikipedia – Pirogoshi Cave",
+     "url": "https://en.wikipedia.org/wiki/Pirogoshi_Cave"
+    },
+    {
+     "label": "Wikimedia Commons – Category:Pirogoshi Cave",
+     "url": "https://commons.wikimedia.org/wiki/Category:Pirogoshi_Cave"
+    }
+   ],
+   "img": {
+    "file": "Pirogoshi Cave 01 - entrance.jpg",
+    "author": "malenki",
+    "license": "CC BY 3.0"
+   }
+  },
+  {
+   "id": "corovode",
+   "name": "Çorovodë a Skrapar",
+   "kind": "město",
+   "what": "Çorovodë (cca 3 900 obyvatel, sčítání 2023) je správní centrum kraje/municipality Skrapar, leží na řece Osum obklopené horami (masiv Tomorr). Za komunismu byla \"uzavřeným městem\" s vojenským letištěm a další vojenskou infrastrukturou, dnes je výchozím bodem pro rafting v kaňonu Osum.",
+   "why": "Skrapar je synonymem pro tradiční pálenku Raki e Skraparit (65 % obj.), která má v Albánii pověst nejlepší v zemi — dobrý důvod na zastávku i mimo přírodní atrakce. Město samo je malé a klidné, s dochovanou komunistickou architekturou a atmosférou, takže dává smysl jako základna na den v okolí (jeskyně, most, kaňon).",
+   "experience": "Centrum tvoří kamenná dlažba připomínající tradiční skraparský dvůr, s pomníkem lidového hrdiny Rizy Cerovy a amfiteátrem před Domem kultury. Çorovodë je zmiňována jako první město osvobozené od nacistické okupace (5. 9. 1942), což se promítá do pomníků ve městě. Raki se tu pálí tradičně v měděných kotlích na dubové dřevo na podzim (\"sezóna rakije\"); město pořádá i festival Skrapari në gotë (\"Skrapar ve sklenici\") věnovaný místní pálence.",
+   "access": "Çorovodë leží cca 1,5 h jízdy od Beratu a je přirozeným výchozím bodem k Osum kaňonu (rafting/tubing, cca 3hodinová trasa), mostu Kasabashi i jeskyni Pirogoshi. Silnice od Beratu je asfaltová, dál do kaňonu a k jeskyni už terén vyžaduje 4x4.",
+   "tips": "Raki na ochutnání/koupi sehnat nejjistěji přímo u místních producentů nebo v hospůdkách na náměstí — vlastní palírny často prodávají neoznačené lahve, ptát se je normální. Pokud termín návštěvy padne na období festivalu Skrapari në gotë, stojí za zjištění aktuální datum u obce (Bashkia Skrapar).",
+   "links": [
+    {
+     "label": "Wikipedia – Çorovodë",
+     "url": "https://en.wikipedia.org/wiki/%C3%87orovod%C3%AB"
+    },
+    {
+     "label": "Visit Skrapar – Raki of Skrapar",
+     "url": "https://www.visitskrapar.com/raki-of-skrapar-the-widely-known-drink-of-albania/"
+    },
+    {
+     "label": "Orakujt e Tomorrit – Skrapari në gotë / Festa e Rakisë",
+     "url": "https://orakujtetomorrit.al/skrapari-ne-gote-festa-e-rakise-e-zjarrit-te-muhabetit-dhe-lezetit-te-kesaj-krahine-te-vecante-mikpritese/"
+    },
+    {
+     "label": "Wikimedia Commons – Category:Çorovodë",
+     "url": "https://commons.wikimedia.org/wiki/Category:%C3%87orovod%C3%AB"
+    }
+   ],
+   "img": {
+    "file": "Çorovodë, Skrapar, Albania – Main square 01.jpg",
+    "author": "Pasztilla (aka Attila Terbócs)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "bogove",
+   "name": "Vodopád Bogovë",
+   "kind": "příroda",
+   "what": "Vodopád Ujëvara e Bogovës leží v Přírodním parku Tomorr u vesnice Bogovë, asi hodinu jízdy od Beratu. Voda padá z výšky kolem 20 metrů do zeleného jezírka hlubokého přibližně 12 metrů. Lokalita je vyhlášená jako přírodní památka pro svou hydrologickou a estetickou hodnotu.",
+   "why": "Nejsnáze dostupný vodopád v okolí Tomorru a oblíbené místo na osvěžení v horkém albánském létě — voda je i v létě ledová (6–10 °C).",
+   "experience": "Od vesnice Bogovë vede k vodopádu rovná prašná cesta, chůze trvá 30–45 minut podle toho, kde zaparkujete (cca 1,6–2,5 km). Koupání je možné, ale voda je bolestivě studená a kameny kolem jsou kluzké, doporučují se boty do vody. Přes den sem jezdí organizované výlety z Beratu, které dorazí typicky mezi 11. a 13. hodinou.",
+   "access": "Parkování je přímo ve vesnici Bogovë, přesná vzdálenost k vodopádu pak závisí na tom, kde auto necháte — cesta k pěší stezce je sjízdná i běžným autem, terénní vozidlo není nutné.",
+   "tips": "Přijeďte před 10:00, než dorazí turistické skupiny z Beratu — pak je u vodopádu klid. Vezměte si boty s pevnou podrážkou na kluzké kameny.",
+   "links": [
+    {
+     "label": "AKT – Ujëvara e Bogovës (oficiální turistický portál)",
+     "url": "https://akt.gov.al/monumente-natyrore/ujevara-e-bogoves/"
+    },
+    {
+     "label": "Just Wandr – Bogovë Waterfall",
+     "url": "https://www.justwandr.com/destinations/albania/places/bogove-waterfall"
+    }
+   ],
+   "img": {
+    "file": "Bogova_Waterfall_-_Mapillary_(urmOoawelw6W67SolMO-zQ).jpg",
+    "author": "malenki (Mapillary)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "kulmak",
+   "name": "Sedlo Kulmak a tekke",
+   "kind": "památka",
+   "what": "Qafa e Kulmakut je horský průsmyk pod vrcholem Tomorru, kde stojí bektášské tekke (dervišský klášter) Kulmak. Původní stavbu z roku 1908 zničili řečtí povstalci v roce 1914, dnešní budovu nechal roku 1916 postavit dervish Iljas Qafoku podle bektášských zásad — se čtyřmi podlažími, modlitebnou, kuchyní, pekárnou a ubytovnou z kamene a vápenné malty.",
+   "why": "Bektašismus je synkretický súfijský řád islámu se silným šíitským akcentem (úcta k Alímu a jeho synu Abbásovi ibn Alímu), který má od 20. let 20. století světové ústředí v Tiraně; tvoří asi 20–25 % muslimské populace Albánie. Kulmak je jedno z nejstarších a nejdůležitějších bektášských poutních míst v zemi.",
+   "experience": "Každoročně od 18.–20. do 25. srpna se v Kulmaku a na vrcholu Tomorru koná pouť ke cti Abbáse ibn Alího — vrchol návštěvnosti připadá na 22.–23. srpna. Poutníci týdny předem stavějí u tekke stany, konají se modlitby a rituální porážky beránků, které se pak sdílí jako společné jídlo. Odhady účasti se v jednotlivých letech výrazně liší, novinové zdroje uvádějí řády statisíců poutníků za celé období pouti.",
+   "access": "K průsmyku vede od města Poliçan zpevněná asfaltová silnice, sjízdná běžným autem; teprve za Kulmakem pokračuje výše k vrcholu nezpevněná horská cesta.",
+   "tips": "Mimo termín pouti (20.–25. srpna) je místo klidné a prázdné — pokud chcete zažít atmosféru poutě, počítejte naopak s davy, stany a přeplněnou přístupovou cestou.",
+   "links": [
+    {
+     "label": "Kryegjyshata Botërore Bektashiane – 105. výročí tekke v Kulmaku",
+     "url": "https://kryegjyshataboterorebektashiane.org/en/is-commemorated-the-105th-anniversary-of-the-founding-of-the-tekke-of-the-iljas-dervishes-in-kulmak-skrapar/"
+    },
+    {
+     "label": "inAlbania – Kulmak Festival",
+     "url": "https://www.inalbania.info/kulmak-festival-thousands-of-bektashi-pilgrims-gather-on-mount-tomor/"
+    },
+    {
+     "label": "Wikipedia – Bektashi Order",
+     "url": "https://en.wikipedia.org/wiki/Bektashi_Order"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "turbe",
+   "name": "Türbe Abbase Aliho na Tomorru",
+   "kind": "památka",
+   "what": "Türbe (hrobka) Abbáse ibn Alího stojí na jižním vrcholu pohoří Tomorr (podle různých zdrojů 2379–2416 m). Původní svatyně byla vysvěcena roku 1620, podle bektášské tradice zde leží ostatky Abbáse ibn Alího, syna Alího a poloviny brata imáma Husajna, padlého u Karbalá. Podle bektášů stojí tekke na místě starověkého pohanského chrámu spojovaného s kultem hory Tomorr (možná i s věštírnou v Dodóně a božstvem Tomaros zmiňovaným Hérodotem).",
+   "why": "Nejvýznamnější bektášské poutní místo v Albánii a zároveň vrchol posvátné hory, které Albánci přezdívají svým Olympem — kombinace náboženské historie, pohanské vrstvy a panoramatu je na jihu Albánie ojedinělá.",
+   "experience": "Z vesnice Ujanik vede k vrcholu 8,7 km dlouhá horská cesta s převýšením 989 m — štěrková, s ostrými serpentinami a v horní části strmá, oficiální doporučení je vozidlo 4x4. Nahoře je samotná türbe/tekke, plocha k táboření a při srpnové pouti (20.–25. 8.) i rituální porážky beránků. Z vrcholu je za jasného počasí kruhový výhled do údolí Osumu, na Berat a přes velkou část jižní Albánie.",
+   "access": "Cesta z Ujaniku je sjízdná terénním autem typu Jimny za sucha; v dešti nebo brzy na jaře může být blátivá až neschůdná, sníh na horních partiích leží často do pozdního jara — v sezóně (léto/podzim) je vrchol dostupný autem.",
+   "tips": "Počítejte s tím, že v termínu poule (20.–25. 8.) je cesta ucpaná davy poutníků; mimo tento týden je nahoře klid. Vezměte dost paliva a rezervu — na cestě nejsou žádné služby.",
+   "links": [
+    {
+     "label": "Wikipedia – Abbas Ali Türbe",
+     "url": "https://en.wikipedia.org/wiki/Abbas_Ali_T%C3%BCrbe"
+    },
+    {
+     "label": "Adria Fun – Mount Tomorr, home of the Abaz Ali Türbe",
+     "url": "https://adria.fun/en/mount-tomorr-home-of-the-abaz-ali-turbe/"
+    },
+    {
+     "label": "Wikiloc – Maja e Tomorrit (Tyrbja e Abaz Aliut) Trail",
+     "url": "https://www.wikiloc.com/hiking-trails/maja-e-tomorrit-tyrbja-e-abaz-aliut-198439483"
+    }
+   ],
+   "img": {
+    "file": "Tekke_of_Abaz_Aliu,_Mount_Tomorr_-_Mapillary_(A9CNc-HZ7wJaldOTQQ3fEw).jpg",
+    "author": "malenki (Mapillary)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "cobo",
+   "name": "Vinařství Çobo",
+   "kind": "jídlo",
+   "what": "Rodinné vinařství v Poshnjë u města Ura Vajgurore, na úpatí hory Tomorr nedaleko Beratu. Vinice a sklep vedou v páté generaci potomci zakladatelské rodiny Çobo, dnes Muharrem Çobo.",
+   "why": "Vinařství pěstuje a zpracovává původní albánské odrůdy Shesh i Zi (červená) a Shesh i Bardhë (bílá), tedy odrůdy, které jinde v zemi téměř vymizely. Je to jedna z mála možností ochutnat albánské víno přímo u výrobce, ne v restauraci.",
+   "experience": "Prohlídka zahrnuje sklepy, vysvětlení výroby a historie rodiny, degustaci spojenou s domácím sýrem a olivami. Mezi vína patří Pulsi, Shesh i Zi, Kashmer, dále lahůdková 'E Bardha e Beratit' a šumivé 'Shendeverë'. Z vinice je výhled na horu Tomorr a hrad Berat.",
+   "access": "Vinařství leží při silnici mezi Ura Vajgurore a Beratem, sjízdné běžným autem i Jimny. Doporučuje se dopředu zavolat a domluvit termín degustace, zejména mimo hlavní sezónu.",
+   "tips": "Kontaktní telefon +355 67 407 0562. Otevírací dobu ani ceník oficiální stránky neuvádějí – ověřit telefonicky před příjezdem. Počítat s tím, že jde o rodinný provoz, ne turistický velkoprovoz, takže je vhodné přijet v rozumnou denní dobu.",
+   "links": [
+    {
+     "label": "AKT – oficiální turistická stránka Albánie: Çobo Winery",
+     "url": "https://akt.gov.al/en/agrotourism/cobo-winery-a/"
+    },
+    {
+     "label": "Tripadvisor recenze Cobo Winery",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g19239008-d2459669-Reviews-or20-Cobo_Winery-Ura_Vajgurore_Berat_County.html"
+    },
+    {
+     "label": "Facebook – Kantina e Verës Çobo",
+     "url": "https://www.facebook.com/Cobo.Winery/"
+    }
+   ],
+   "img": null
+  },
+  {
+   "id": "bovilla",
+   "name": "Přehrada Bovilla",
+   "kind": "příroda",
+   "what": "Umělá přehradní nádrž postavená v letech 1988–1998 na řece Tërkuzë asi hodinu jízdy severovýchodně od Tirany. Hráz vysoká 91 m vytváří jezero o ploše 4,6 km², které zásobuje pitnou vodou zhruba 850 tisíc lidí, tedy asi třetinu obyvatel Albánie.",
+   "why": "Koupání i jiné znečišťující aktivity jsou zakázané, protože jde o zdroj pitné vody pro Tiranu. Návštěvníci sem jezdí kvůli vyhlídce na hoře Gamti nad jezerem s pohledem na celou nádrž a okolní hory.",
+   "experience": "Od parkoviště u restaurace Bovilla vede na vyhlídku asi 20–30minutový výstup po sypké, kamenité stezce – vhodná pevná obuv. Cesta samotná k přehradě je velmi rozbitá, plná výmolů, ne asfaltová.",
+   "access": "Přístupová cesta je nezpevněná, silně poškozená horská cesta. Většina půjčoven aut v Tiraně má v podmínkách výslovně zakázanou jízdu po nezpevněných/off-road úsecích a takové poškození (defekt, podvozek) pojištění nekryje – smlouva se tím stává neplatnou. Řešení s vlastním/pronajatým Jimnym: mít auto s vyšším podvozkem a trvat na písemném potvrzení povolených cest v nájemní smlouvě, případně mít samostatné off-road připojištění.",
+   "tips": "Počítat s pomalou jízdou a možností potkat protijedoucí minibusy s turisty na úzké cestě. Zvážit, zda vzhledem k riziku poškození auta a klimatu 18.–24. 9. dává větší smysl organizovaný výlet než vlastní Jimny – jinak jet opatrně a mimo špičku.",
+   "links": [
+    {
+     "label": "Lake Bovilla – Tirana's Scenic Mountain Reservoir",
+     "url": "https://albaniavisit.com/attractions/lake-bovilla/"
+    },
+    {
+     "label": "Runaway Traveller – Visiting Lake Bovilla",
+     "url": "https://runawaytraveller.com/how-to-visit-lake-bovilla/"
+    },
+    {
+     "label": "Tripadvisor – Lake Bovilla",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g3575835-d12292810-Reviews-Lake_Bovilla-Tirana_County.html"
+    }
+   ],
+   "img": {
+    "file": "Bovilla Reservoir.jpg",
+    "author": "Albinfo",
+    "license": "CC BY 3.0 / GFDL 1.2+"
+   }
+  },
+  {
+   "id": "kruje",
+   "name": "Krujë",
+   "kind": "památka",
+   "what": "Hrad Krujë je spojen s národním hrdinou Gjergjem Kastriotim – Skanderbegem, který odsud v 15. století odrážel osmanská vojska. V areálu hradu stojí Národní muzeum Gjergje Kastriotiho Skënderbeu a Etnografické muzeum, pod hradem se táhne historický bazar.",
+   "why": "Skanderbeg je pro Albánce ústřední postava národní identity a hrad v Krujë je hlavním místem spojeným s jeho odkazem. Bazar zase ukazuje dochovanou tradiční obchodní uličku z osmanské éry.",
+   "experience": "V bazaru se prodávají suvenýry, ručně tkané textilie, staré mince, tradiční albánské řemeslné výrobky a upomínkové předměty – jde o živou obchodní ulici, ne skanzen. Prohlídka hradních hradeb je volná, muzea se platí zvlášť u vstupu.",
+   "access": "Vstup na hradby a do bazaru je volný a bez otevírací doby (přístupné za denního světla). Obě muzea (Skanderbegovo i etnografické) mají otevřeno denně přibližně 9:00–17:00, pokladny přestávají prodávat vstupenky před uzavřením, proto nejezdit na poslední chvíli.",
+   "tips": "Vstupné do muzeí se platí v hotovosti v albánských lecích (řádově 400–500 lek za muzeum), vstupenky online nejsou. Bazar je nejživější dopoledne, kdy mají otevřeno všechny krámky.",
+   "links": [
+    {
+     "label": "VisitKruja – Kruja Castle Tickets & Hours",
+     "url": "https://visitkruja.com/guides/kruja-castle-tickets-hours/"
+    },
+    {
+     "label": "The Balkan Guide – Krujë Castle & Bazaar",
+     "url": "https://www.thebalkanguide.com/country/albania/kruje/castle-and-bazaar/"
+    },
+    {
+     "label": "Tripadvisor – Museumi Gjergj Kastrioti Skënderbeu",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g469423-d500567-Reviews-Museumi_Gjergj_Kastrioti_Skenderbeu-Kruje_Durres_County.html"
+    }
+   ],
+   "img": {
+    "file": "Kruja Castle (by Pudelek).JPG",
+    "author": "Pudelek (Marcin Szala)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "ujanik",
+   "name": "Ujanik",
+   "kind": "cesta",
+   "what": "Ujanik je vesnice v bývalé obci Gjerbës (dnes obec Skrapar) v kraji Berat, ležící na konci asfaltové silnice vedoucí od Poliçanu k průsmyku Kulmak. Odtud je to zhruba 4 km k hoře Tomorr.",
+   "why": "Ujanik je posledním bodem s asfaltem před výstupem na türbe Abbase Aliho na jižním vrcholu Tomorru (2379–2384 m) – bektašijskou svatyni z roku 1620, kam se v srpnu koná velká pouť.",
+   "experience": "Za Ujanikem pokračuje štěrková, silně vyjetá cesta se strmými serpentinami vyžadující 4x4 – pro Jimny reálná, ale pomalá a náročná trasa. Pěší varianta na vrchol měří od vesnice asi 8,7 km s převýšením kolem 990 m, v terénu 3–5 hodin.",
+   "access": "Bujtina e Tomorrit v Ujaniku nabízí pokoje s klimatizací, vlastní koupelnou, balkonem a snídaní, k dispozici je bar a zahrada. Tomorr je odtud asi 25 minut pěšky/jízdy, dům je vzdálený cca 165 km od letiště Tirana.",
+   "tips": "Kontakt na Bujtinu e Tomorrit: +355 69 740 2204 (doporučeno rezervovat předem, jde o malý rodinný penzion). Počítat s tím, že trasa dál na Gjerbës/Çorovodë je čistě off-road a náročnější než jen výjezd k türbe.",
+   "links": [
+    {
+     "label": "Wikipedia – Ujanik",
+     "url": "https://en.wikipedia.org/wiki/Ujanik"
+    },
+    {
+     "label": "Wikipedia – Abbas Ali Türbe",
+     "url": "https://en.wikipedia.org/wiki/Abbas_Ali_T%C3%BCrbe"
+    },
+    {
+     "label": "Booking.com – Bujtina e Tomorrit",
+     "url": "https://www.booking.com/hotel/al/bujtina-e-tomorrit.html"
+    },
+    {
+     "label": "Wikiloc – Tomorri Peak Abaz Ali Trail",
+     "url": "https://www.wikiloc.com/hiking-trails/tomorri-peak-abaz-ali-15791138"
+    }
+   ],
+   "img": {
+    "file": "Tomorr mountain – tyrbe on top of the peak - Mapillary (dbzVXIxZI1Dyb0zEVQMOzQ).jpg",
+    "author": "malenki (via Mapillary)",
+    "license": "CC BY-SA 4.0"
+   }
+  }
+ ],
+ "terms": {
+  "tekke": "Tekke (albánsky teqe): klášter a modlitebna bektašiů, súfijského islámského řádu. Bývá otevřená všem, uvnitř se zouvá.",
+  "teqe": "Teqe (tekke): klášter a modlitebna bektašiů, súfijského islámského řádu.",
+  "türbe": "Türbe: hrobka světce nebo významného derviše, často malá kupolovitá stavba. Na Tomorru je to hrob Abbase Aliho, cíl srpnové pouti.",
+  "bektaš": "Bektašismus: súfijský (mystický) směr islámu s uctíváním Alího, tolerantní, bez závoje a se svobodným pitím rakije. Světové ústředí je od roku 1925 v Tiraně.",
+  "bujtin": "Bujtina: rodinný penzion nebo hostinec, obvykle s domácí večeří. Základ albánské agroturistiky.",
+  "agroturiz": "Agroturizëm: statek nebo rodinný podnik zapsaný ve státním registru agroturistiky (AKT), vaří z vlastní produkce.",
+  "byrek": "Byrek: pečivo z listového těsta plněné sýrem, špenátem, masem nebo dýní. Snídaně i svačina za pár desítek leků.",
+  "lakror": "Lakror: korçský plněný koláč z tenkého těsta (pórek, špenát, sýr gjizë, rajčata), tradičně pečený pod saçem.",
+  "saç": "Saç: železný poklop, na který se nahrne žhavé uhlí. Jídlo pod ním se peče pomalu ze všech stran; „ze saçe“ znamená pečené tímto způsobem.",
+  "petanik": "Petanik: përmetský koláč z vrstev tenkých placek, mezi nimi sýr, špenát nebo rýže, prolitý vývarem nebo máslem.",
+  "gliko": "Gliko: ovoce nebo zelenina (ořechy, fíky, třešně, lilek) vařené v hustém sirupu. Podává se lžička k vodě a kávě nebo k rakii. Përmetské gliko je Slow Food presidium.",
+  "qifqi": "Qifqi: gjirokasterská specialita, smažené kuličky z rýže, vajec a máty.",
+  "pasha qofte": "Pasha qofte: gjirokasterské masové kuličky v bílé omáčce z vajec a citronu.",
+  "shapkat": "Shapkat: kukuřičný koláč se šťovíkem nebo špenátem, typický pro Gjirokastër.",
+  "oshaf": "Oshaf: dezert z ovčího mléka se sušenými fíky, gjirokasterský.",
+  "kukurec": "Kukurec: jehněčí nebo kozlečí droby a střívka namotané na rožni a upečené, sváteční jídlo horských oblastí.",
+  "mish në hell": "Mish në hell: maso na rožni, nejčastěji jehněčí; „hell“ je rožeň.",
+  "fërgesë": "Fërgesë: dušená paprika, rajčata a slaný tvaroh (gjizë), někdy s játry; tiranská klasika.",
+  "tavë kosi": "Tavë kosi: jehněčí zapečené v jogurtu s vejci, národní jídlo, nejlepší v Elbasanu a Beratu.",
+  "kërnacka": "Kërnacka: korçské grilované klobásky z mletého hovězího.",
+  "paidhaqe": "Paidhaqe: grilovaná jehněčí žebra.",
+  "përshesh": "Përshesh: chléb rozdrobený do vývaru nebo omáčky z masa, staré pastevecké jídlo.",
+  "trahana": "Trahana: fermentovaná směs pšenice a jogurtu, sušená a vařená jako hustá polévka.",
+  "kačkavall": "Kačkavall (kaçkavall): tvrdý sýr z ovčího nebo kravského mléka, často se peče nebo smaží.",
+  "raki": "Raki (rakia): destilát z hroznů (jih) nebo moruší (Korçë), 40–65 %. Podává se ke kávě i k jídlu; řidič ochutnává až po zaparkování.",
+  "lek": "Lek (ALL): albánská měna, 1 € je zhruba 98–100 lek (2026). Ceny „200 lek“ = asi 2 €.",
+  "qafa": "Qafa (Qafë): sedlo, průsmyk. Qafa e Kulmakut je sedlo pod Tomorrem.",
+  "ura": "Ura: most. Ura e Kadiut je most Katiu u Bënji, Ura e Kasabashit most u Çorovodë.",
+  "kalaja": "Kalaja: hrad, pevnost.",
+  "han": "Han: karavanseráj, osmanský zájezdní hostinec pro kupce a jejich zvířata. Hani i Pazarit v Korçë je přestavěný na hotel.",
+  "gjizë": "Gjizë: slaný tvaroh podobný ricottě, náplň do byreku i lakroru.",
+  "redukc": "Redukce (4L): převod, který zpomalí auto a znásobí tah. Používá se na strmé sjezdy a rozjezdy v terénu; Jimny ji zapíná páčkou vedle řadicí páky.",
+  "šotolin": "Šotolina: nezpevněná štěrková cesta, nejčastější albánský horský povrch. Tempo 15–25 km/h.",
+  "CASCO": "CASCO: havarijní pojištění auta. U albánských půjčoven obvykle nekryje podvozek, pneumatiky, rám ani motor zatopený vodou.",
+  "AKT": "AKT: Agjencia Kombëtare e Turizmit, státní turistická agentura, vede registr agroturistik a přírodních památek.",
+  "TAP": "TAP: Trans Adriatic Pipeline, plynovod z Řecka přes Albánii do Itálie (2020). Pro stavbu se vybudovaly přístupové cesty, po jedné z nich vede spojka Vithkuq–Osumi.",
+  "SH7": "SH: Rruga Shtetërore, státní silnice. SH72, SH74, SH75 jsou horské silnice v našem plánu.",
+  "Kurvelesh": "Kurvelesh: vápencová horská plošina mezi Tepelenë, Vlorou a Gjirokastrem, s hlubokými kaňony a pár vesnicemi (Progonat, Nivicë, Golem).",
+  "Zagori": "Zagoria: odlehlé údolí severně od Gjirokastru, přírodní park, skoro vylidněné kamenné vesnice, osmanské mosty a byzantské kostely.",
+  "Skrapar": "Skrapar: horský kraj kolem Çorovodë pod Tomorrem, proslulý kaňonem Osumi a hroznovou rakií.",
+  "Kolonj": "Kolonjë: kraj kolem Ersekë pod pohořím Gramoz, známý lakrorem a sýry. Pozor, vesnice Kolonjë u Gjirokastru na sobotní zkoušce je jiné místo.",
+  "UNESCO": "UNESCO: Berat a Gjirokastër jsou od roku 2005 společně na seznamu světového dědictví jako „Historická centra Beratu a Gjirokastry“.",
+  "Rilindj": "Rilindja: albánské národní obrození 19. století; bratři Frashëri z Frashëru byli jeho hlavní postavy.",
+  "Ali Paš": "Ali Paša Tepelenský (1740–1822): osmanský místodržící z Tepelenë, vládl velké části Epiru z Janiny, stavěl hrady i mosty; navštívil ho lord Byron.",
+  "Skanderbeg": "Skanderbeg (Gjergj Kastrioti, 1405–1468): albánský národní hrdina, z Krujë 25 let odolával Osmanům.",
+  "Onufri": "Onufri: nejvýznamnější albánský malíř ikon 16. století, známý sytou červení; muzeum v hradu v Beratu.",
+  "Vjos": "Vjosa: jedna z posledních divokých řek Evropy, bez přehrad, od roku 2023 národní park. Teče kolem Përmetu a Tepelenë.",
+  "Osum": "Osum: řeka od Tomorru přes kaňon Osumi a Çorovodë do Beratu.",
+  "Drino": "Drino: řeka v údolí pod Gjirokastrem, přítok Vjosy."
+ }
+}
