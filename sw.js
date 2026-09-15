@@ -1,5 +1,5 @@
 /* Albánie 4x4 – offline service worker */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CORE = ['./', 'index.html', 'pujcovny.html', 'assets/style.css', 'assets/places.json', 'assets/routes.json',
   'Doporucena-trasa-D.gpx', 'Varianty-D.gpx', 'Alternativa-B.gpx',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css',
@@ -15,7 +15,7 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
-  const isImg = u.hostname.endsWith('wikimedia.org') || u.hostname.endsWith('openstreetmap.org') || u.hostname.endsWith('opentopomap.org');
+  const isImg = u.hostname.endsWith('wikimedia.org') || u.hostname.endsWith('openstreetmap.org') || u.hostname.endsWith('opentopomap.org') || u.hostname.endsWith('arcgisonline.com');
   if (isImg) {
     e.respondWith(caches.open(IMG).then(async c => {
       const hit = await c.match(e.request); if (hit) return hit;
@@ -34,14 +34,14 @@ self.addEventListener('message', async e => {
   if (!e.data || e.data.type !== 'PRECACHE') return;
   const urls = e.data.urls || [], c = await caches.open(IMG);
   let done = 0, failed = 0;
-  const port = e.source;
+  const port = e.source; const say = m => { try { if (port) port.postMessage(m); } catch (err) {} };
   const worker = async () => {
     while (urls.length) {
       const u = urls.shift();
       try { if (!(await c.match(u))) { const r = await fetch(u, { mode: 'no-cors' }); await c.put(u, r); } } catch (err) { failed++; }
-      done++; if (done % 10 === 0 || !urls.length) port.postMessage({ type: 'PROGRESS', done, failed, total: e.data.total });
+      done++; if (done % 10 === 0 || !urls.length) say({ type: 'PROGRESS', done, failed, total: e.data.total });
     }
   };
   await Promise.all([worker(), worker(), worker(), worker()]);
-  port.postMessage({ type: 'DONE', done, failed, total: e.data.total });
+  say({ type: 'DONE', done, failed, total: e.data.total });
 });
