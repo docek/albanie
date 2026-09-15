@@ -5348,20 +5348,20 @@
    "id": "sluzba-travelbuddy",
    "name": "TravelBuddy (Vladimír Přikryl)",
    "kind": "služba",
-   "what": "Česká služba „průvodce na telefonu“ pro Albánii. Vláďa Přikryl žije v Albánii, jezdí terénem po celé zemi a je na WhatsAppu k dispozici během cesty.",
+   "what": "Česká služba „průvodce na telefonu“ pro Albánii (travelbuddy.cz). Vláďa Přikryl žije v Albánii, jezdí terénem po celé zemi a je na WhatsAppu k dispozici během cesty.",
    "why": "Zná z první ruky Kurvelesh, Tomorr, Osumi i spojku Vithkuq–Osumi; jeho poznámky přeskládaly celý plán (otočený směr, zkušební dny, Bogovë, Voskopojë).",
    "experience": "Odpovídá rychle, česky, konkrétně: stav cest, brody, kde spát, co vynechat. Poslal i vlastní alternativní itinerář (Lurë, Dibër, Ohrid, Korçë, Berat, Gramsh), který je naše trasa B.",
-   "access": "Objednáno 14. 9. 2026 přes travelbuddy.livealbania.cz. Kontakt WhatsApp +420 731 675 782.",
-   "tips": "Před každým neověřeným úsekem (Frashër–Ersekë, spojka k Osumu) mu napsat ráno, kde jsme a kam jedeme. Auto nemá, s půjčovnou nepomáhá.",
-   "contact": "WhatsApp +420 731 675 782",
+   "access": "Objednáno 14. 9. 2026, balíček Buddy (2 490 Kč): databáze míst, itinerář na míru, pomoc s rezervacemi, WhatsApp podpora na cestě.",
+   "tips": "Před každým neověřeným úsekem (Frashër–Ersekë, spojka k Osumu) mu napsat ráno, kde jsme a kam jedeme. Jeho Freelander nemá redukci, na naši trasu ho půjčit nemůže.",
+   "contact": "WhatsApp (číslo máme v telefonu), web travelbuddy.cz",
    "facts": [
-    "Kontakt: WhatsApp +420 731 675 782",
+    "Balíček: Buddy, 2 490 Kč",
     "Služba: rady na telefonu po celou cestu"
    ],
    "links": [
     {
-     "label": "travelbuddy.livealbania.cz",
-     "url": "https://travelbuddy.livealbania.cz/"
+     "label": "travelbuddy.cz",
+     "url": "https://travelbuddy.cz/"
     },
     {
      "label": "Vláďův itinerář",
