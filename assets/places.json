@@ -23,7 +23,8 @@
     "file": "Uji i Ftohtë Tepelen.jpg",
     "author": "Zamozamota",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": []
   },
   {
    "id": "tepelene",
@@ -48,7 +49,34 @@
     "file": "Tepelena Castle and New Town (cropped).jpg",
     "author": "Albinfo",
     "license": "CC0 1.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "044_Tepelene_Castle_pano.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "046_Tepelene_Castle_and_Road.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Tepelena_-_panoramio_(1).jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Tepelena_Castle_and_New_Town.jpg",
+     "author": "Albinfo",
+     "license": "CC0"
+    },
+    {
+     "file": "Tepelene_002.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "kurvelesh",
@@ -77,7 +105,29 @@
     "file": "Kurvelesh with Këndrevica.jpg",
     "author": "Albinfo",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Bridge_NIVICË.jpg",
+     "author": "AriLamaj",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Golemi_pamje_nga_drone_Studio_Golemi.jpg",
+     "author": "Xrhstos mehilli",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Nivica_(Kurvelesh)_–_Canyon.jpg",
+     "author": "Albinfo",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Nivica_Village.jpg",
+     "author": "Aurontare",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "nivica",
@@ -106,7 +156,19 @@
     "file": "Waterfall in Nivica Canyon, Kurvelesh.jpg",
     "author": "Albinfo",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Bridge_NIVICË.jpg",
+     "author": "AriLamaj",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Nivica_(Kurvelesh)_–_Canyon.jpg",
+     "author": "Albinfo",
+     "license": "CC BY 4.0"
+    }
+   ]
   },
   {
    "id": "peshtura",
@@ -127,7 +189,8 @@
      "url": "https://visit-gjirokastra.com/article/progonati_waterfall_aka_peshtura_waterfall"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": []
   },
   {
    "id": "golem-kolonje",
@@ -148,7 +211,8 @@
      "url": "https://www.indefiniteadventure.com/kurvelesh-and-peshtura-waterfall-off-road-tour-with-lunch/"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": []
   },
   {
    "id": "gjirokaster",
@@ -173,7 +237,39 @@
     "file": "Gjirokaster_Rooftops.jpg",
     "author": "Jocelyn Erskine-Kellie",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "House_Babameto_Gjirokastër_01.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "House_Babameto_Gjirokastër_02.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "House_Babameto_Gjirokastër_03.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "House_Babameto_Gjirokastër_04.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "House_Babameto_Gjirokastër_05.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "House_Babameto_Gjirokastër_06.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "gjirokaster-hrad",
@@ -198,7 +294,39 @@
     "file": "Gjirokastër_Castle,_Albania.jpg",
     "author": "Christoph Strässler",
     "license": "CC BY-SA 2.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Clock_Tower_and_Festival_stage,_Gjirokastër_Castle,_September_2022_01.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Clock_Tower_and_Festival_stage,_Gjirokastër_Castle,_September_2022_02.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Clock_Tower_and_Festival_stage,_Gjirokastër_Castle,_September_2022_03.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Festival_stage,_Gjirokastër_Castle,_September_2022_01.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Festival_stage,_Gjirokastër_Castle,_September_2022_02.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Gjirokastër,_interiér_pevnosti_08.jpg",
+     "author": "Aktron",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "kardhiq",
@@ -219,7 +347,39 @@
      "url": "https://visit-gjirokastra.com/article/kardhiq_valley_and_fortress"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": [
+    {
+     "file": "Kardhiq_Valley_2022.jpg",
+     "author": "Albinfo",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Kardhiqit_River,_Albania,_September_2022_01.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kardhiqit_River,_Albania,_September_2022_02.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Road_from_Kardhiq_to_Sarande,_Albania,_September_2022_02.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Rruga_Kardhiq-Delvine.jpg",
+     "author": "Albinfo",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "World_War_II_monument_near_Kardhiq,_Albania,_September_2022_01.jpg",
+     "author": "Calistemon",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "labove",
@@ -244,7 +404,39 @@
     "file": "Labovë e Kryqit, Albania - Church 01.jpg",
     "author": "Pasztilla (Attila Terbócs)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_04.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_07.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_08.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_09.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_11.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Labovë_e_Kryqit,_Albania_-_Church_12.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "ardenica",
@@ -269,7 +461,39 @@
     "file": "Ardenica Monastery (by Pudelek).JPG",
     "author": "Pudelek",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Ardenica_Monastery_-_interior_02.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ardenica_Monastery_-_interior_05.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ardenica_Monastery_-_interior_09.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ardenica_Monastery_-_interior_11.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ardenica_Monastery_-_interior_12.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ardenica_Monastery_-_interior_13.jpg",
+     "author": "Adert",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "libohove",
@@ -298,7 +522,39 @@
     "file": "Castle_of_Libohova-1.JPG",
     "author": "TorbjørnS",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Dwelling_with_Mosque_Spire_-_Libohova_-_Albania_(41735154814).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Libohova.jpg",
+     "author": "Albinfo",
+     "license": "Public domain"
+    },
+    {
+     "file": "Libohovë,_Gjirokastër,_Albania_2017-08_01.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Libohovë,_Gjirokastër,_Albania_2017-08_02.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Men_at_Work_-_Libohova_-_Albania_(27586946647).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Panorama_from_Ramparts_of_Libohova_Castle_-_Libohova_-_Albania_(42407372232).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    }
+   ]
   },
   {
    "id": "zagoria",
@@ -331,7 +587,39 @@
     "file": "Ujevara e Selckes.jpg",
     "author": "JaniBaçi",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Old_bridge_in_Zagoria_valley,_Albania_-_48081664266.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Zagori_with_bunker_-_Mapillary_(XblsYznAZARXDnqdc-Slrw).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Zagoria_River_-_Mapillary_(o245WVZKZh7xCYZ8UEs5Uw).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Zagoria_Valley,_Albania_-_48081620536.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Zagoria_Valley_at_Sheper,_Albania_-_48081590461.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Zagoria_dhe_Pogon_-_Mapillary_(UEjrAE4kDftLOE6cH-gvtw).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "hosteve",
@@ -356,7 +644,29 @@
     "file": "Holy Apostles' Church, Hoshtevë.jpg",
     "author": "Christoph Strässler",
     "license": "CC BY-SA 2.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Holy_Apostles'_Church,_Hoshtevë1.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Holy_Apostles'_Church,_Hoshtevë2.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Holy_Apostles'_Church,_Hoshtevë3.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Holy_Apostles'_Church,_Hoshtevë4.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    }
+   ]
   },
   {
    "id": "most-1777",
@@ -377,7 +687,8 @@
      "url": "https://www.petitfute.co.uk/v76638-sheper/c1173-visites-points-d-interet/c937-monuments/c967-ouvrage-d-art/2082481-pont-de-nivan.html"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": []
   },
   {
    "id": "cajupi",
@@ -402,7 +713,8 @@
      "url": "https://albaniatravelguide.net/experiences/off-roading/gjirokaster-zagoria"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": []
   },
   {
    "id": "albanik",
@@ -427,7 +739,29 @@
      "url": "https://albaniavisit.com/accommodation/ferma-albanik/"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": [
+    {
+     "file": "Church_at_Dëshnicë,_Albania.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Church_at_Dëshnicë,_Albania_-_48081668533.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Meadow_near_Dëshnicë,_Albania.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Waterfall_near_Dëshnicë,_Albania.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    }
+   ]
   },
   {
    "id": "permet",
@@ -464,7 +798,39 @@
     "file": "Përmet – Guri i Qytetit.jpg",
     "author": "Albinfo",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Pamje_nga_ballkoni_i_lulishtes_-_panoramio_(cropped).jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Permet_from_Leuse.jpg",
+     "author": "Lkd998",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Përmet,_Albania_-_panoramio.jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Përmet,_Albania_-_panoramio_(13).jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Përmet,_Albania_-_panoramio_(5)_(cropped).jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Përmet,_Albania_-_panoramio_(6).jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    }
+   ]
   },
   {
    "id": "kosine",
@@ -489,7 +855,14 @@
      "url": "https://books.fupress.com/catalogue/three-villages-of-prmet-bnj-kosin-and-leus/4719"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": [
+    {
+     "file": "Kisha_Fjetja_e_Shën_Mërisë.jpg",
+     "author": "Fabiola Muhollari",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "leuse",
@@ -518,7 +891,29 @@
     "file": "Leusa – Kisha e Shën Mërisë.jpg",
     "author": "Albinfo",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Saint_Maria_Church_of_Leuse,_Albania.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Saint_Maria_Church_of_Leuse,_Albania_-_48081659107.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Saint_Maria_Church_of_Leuse,_Albania_-_48081664687.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Saint_Maria_Church_of_Leuse,_Albania_-_48081668482.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    }
+   ]
   },
   {
    "id": "benja",
@@ -547,7 +942,39 @@
     "file": "Katiu Bridge - Benje, Permet, Albania.jpg",
     "author": "Klejdi Shtrepi (Dokfot)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Banjat_e_Benjës.jpg",
+     "author": "Marcela Střelcová",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Banjat_e_Benjës_with_river_Lengarica.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Banjat_e_Benjës_with_river_Lengarica_and_Ura_e_Kadiut.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Banjat_e_Bënjës,_Përmet.jpg",
+     "author": "Azhukin2000",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Banjat_e_Bënjës_-_Përmet.jpg",
+     "author": "Rexhino lahe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bënjë_Përmet.jpg",
+     "author": "Albinfo",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "lengarica",
@@ -576,7 +1003,39 @@
     "file": "Water gap of river Lengarica.jpg",
     "author": "Malenki",
     "license": "CC BY 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Amazed_by_the_canyon_-_Langarica_Canyon,_Permet,_Albania.jpg",
+     "author": "Klejdi Shtrepi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Lengarica-Cañon.jpg",
+     "author": "Norbert.hillebrecht",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Lengarica_-_River_and_Canyon_(inside)_2.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Lengarica_-_River_and_Canyon_(inside)_3.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Lengarica_gorge,_Albania_-_48081579828.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Lëngarica_-_River_and_Canyon.jpg",
+     "author": "Malenki",
+     "license": "CC BY 3.0"
+    }
+   ]
   },
   {
    "id": "rafting-vjosa",
@@ -601,7 +1060,39 @@
     "file": "Vjosa, near Permet 1.jpg",
     "author": "Krzysztof Dudzik-Górnicki (ToSter)",
     "license": "CC BY-SA 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Përmet_–_Gur_i_Qytetit,_mosque_i_Vjosa_zoom_01.jpg",
+     "author": "Malenki",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Përmet_–_Gur_i_Qytetit,_mosque_i_Vjosa_zoom_02.jpg",
+     "author": "Malenki",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Qilarisht,_Përmet_(Upper_Vjosa_Valley).jpg",
+     "author": "Renald.m",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Vjosa,_near_Permet_2.jpg",
+     "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Vjosa,_near_Permet_3.jpg",
+     "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Vjosa,_near_Permet_4.jpg",
+     "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "frasher",
@@ -630,7 +1121,39 @@
     "file": "Museum in Frashër.jpg",
     "author": "Inna.k20",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Banesa_e_Vëllazërisë_Frashëri_01.jpg",
+     "author": "ShkelzenRexha",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Banesa_e_Vëllazërisë_Frashëri_02.jpg",
+     "author": "ShkelzenRexha",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Banesa_e_Vëllazërisë_Frashëri_03.jpg",
+     "author": "ShkelzenRexha",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Banesa_e_Vëllazërisë_Frashëri_04.jpg",
+     "author": "ShkelzenRexha",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Museum_in_Frashër,_Albania.jpg",
+     "author": "Malenki",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Museum_in_Frashër,_Albania_-_Original.jpg",
+     "author": "Malenki",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "hotova",
@@ -659,7 +1182,39 @@
     "file": "Bredhi i Hotovës.jpg",
     "author": "Amaro",
     "license": "GFDL 1.2"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Banjat_e_Bënjës.jpg",
+     "author": "Rexhino lahe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bredhi_I_Hotovës.jpg",
+     "author": "Rexhino lahe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bredhi_I_Hotovës_-Përmet.jpg",
+     "author": "Rexhino lahe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bredhi_I_Hotovës_-_Pyjet.jpg",
+     "author": "Rexhino lahe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Hotove.jpg",
+     "author": "Android4smarts",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Hotove_(2).jpg",
+     "author": "Android4smarts",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "erseke",
@@ -688,7 +1243,24 @@
     "file": "Ersekë Lulishte.jpg",
     "author": "Albinfo",
     "license": "CC BY 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Erseka,_Kolonja.jpg",
+     "author": "albinfo",
+     "license": "CC0"
+    },
+    {
+     "file": "Erseka,_Kolonja_page_banner.jpg",
+     "author": "albinfo",
+     "license": "CC0"
+    },
+    {
+     "file": "Erseke_Albania_2010.jpg",
+     "author": "Maju603",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "korce",
@@ -717,7 +1289,34 @@
     "file": "Korca Old Bazaar.jpg",
     "author": "Armin (Flickr: octopuzz)",
     "license": "CC BY-SA 2.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "2014_Korçë_,_Pazari_i_Vjetër.JPG",
+     "author": "Berberi PG",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "2014_Korçë_,_Pazari_i_Vjetër_01.JPG",
+     "author": "Berberi PG",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korca_Old_Bazaar_(banner).jpg",
+     "author": "Liridon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korca_Old_Bazaar_(banner)_(cropped).jpg",
+     "author": "Liridon",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Sheshi_i_Pazarit_Korce.jpg",
+     "author": "InaMyrtollari",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "birra-korca",
@@ -746,7 +1345,39 @@
     "file": "Birra Korça Brewery.jpg",
     "author": "Albinfo",
     "license": "CC BY-SA 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Beer_Korça_Albania_2018_1.jpg",
+     "author": "Karelj",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Birra_Korça.JPG",
+     "author": "Gertjan R.",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Birra_Korça_e_zezë.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Elbasan,_Albania_-_Local_beer_Birra_Korça.jpg",
+     "author": "Sharon Hahn Darlin",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Local_beer_Birra_Korça_(cropped).jpg",
+     "author": "Sharon Hahn Darlin",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Mapillary_Blloku_Tirana_by_denisju_osm_-_2025-03-22_06H40M29S358_(9331148853621086_of_nZcf2CRPTuK59wxDXOb0tN).jpg",
+     "author": "denisju_osm",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "muzeum-korce",
@@ -771,7 +1402,39 @@
     "file": "Muzeu i Artit Mesjetar.jpg",
     "author": "Kj1595",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Korçë_NMMA_-_Ausstellungsraum.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_NMMA_-_Ikonostase_1.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_NMMA_-_St.Georg.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "National_Museum_of_Medieval_Art_01.jpg",
+     "author": "Muzeu Kombëtar i Artit Mesjetar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "National_Museum_of_Medieval_Art_03.jpg",
+     "author": "Muzeu Kombëtar i Artit Mesjetar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "National_Museum_of_Medieval_Art_04.jpg",
+     "author": "Muzeu Kombëtar i Artit Mesjetar",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "mborje",
@@ -796,7 +1459,39 @@
     "file": "Mborje, Church of Ristoz 1.jpg",
     "author": "Krzysztof Dudzik-Górnicki (ToSter)",
     "license": "CC BY-SA 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Mborje,_Albania_2018_01.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Mborje,_Albania_2018_03.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Mborje,_Albania_2018_04.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Mborje,_Albania_2018_06.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Mborje,_Church_of_Ristoz_2.jpg",
+     "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Mborje,_Church_of_Ristoz_3.jpg",
+     "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "boboshtice",
@@ -825,7 +1520,8 @@
     "file": "Boboshticë.jpg",
     "author": "Nikol Likja (Nlikja)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": []
   },
   {
    "id": "voskopoje",
@@ -854,7 +1550,39 @@
     "file": "Voskopoje St Nicholas.JPG",
     "author": "Markussep",
     "license": "CC BY-SA 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Kisha_e_Shen_Kollit.jpg",
+     "author": "InaMyrtollari",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kisha_e_Shën_Kollit,_Hoçisht.jpg",
+     "author": "SualdoDino",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kisha_e_Shën_Kollit,_Krutje_e_Sipërme.jpg",
+     "author": "Albinfo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kisha_e_Shën_Kollit_Kavajë.jpg",
+     "author": "Kj1595",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Voskopojë_St.Nikolaos_1.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Voskopojë_St.Nikolaos_2_Apsis.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "vithkuq",
@@ -883,7 +1611,29 @@
     "file": "Manastiri i Shën Pjetrit dhe kisha e Shën Kozmait.jpg",
     "author": "SualdoDino",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Archeologist_monintoring_the_Church_of_Saint_Michael,_Vithkuq,_Albania.jpg",
+     "author": "Arkeologe",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Kisha_Shën_Nikodhimi,_Vithkuq,_Korçë.jpg",
+     "author": "Orthodox Church of Albania",
+     "license": "CC0"
+    },
+    {
+     "file": "Kisha_e_Shen_Mehillit.jpg",
+     "author": "DDxh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kisha_e_Shën_Mëhillit_(Vithkuq).jpg",
+     "author": "Antonio p96",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "spojka-osumi",
@@ -908,7 +1658,19 @@
      "url": "https://rtsh.al/lidhja-e-re-strategjike-skrapar-korce-rama-nisi-asfaltimi-i-rruges-potom-backe-qafa-e-martes/"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": [
+    {
+     "file": "A_POTOM,_ŽE_NIE_SÚ_NA_ZEMI..._-_panoramio.jpg",
+     "author": "ANDREJ NEUHERZ",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "NAJSKÔR_OBYDICK,_POTOM_MANHATTAN..._-_panoramio.jpg",
+     "author": "ANDREJ NEUHERZ",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "osumi",
@@ -937,7 +1699,39 @@
     "file": "Osumi Canyons - Outside Corovoda - Albania - 03 (42486434472).jpg",
     "author": "Adam Jones",
     "license": "CC BY-SA 2.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Kanjoni_i_Osumit_Arben_Llapashtica.jpg",
+     "author": "Arbenllapashtica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Opening_of_Osum_Canyon.jpg",
+     "author": "PurpleChicken25",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Osum-Canyon.jpg",
+     "author": "Reisevogel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Osum_Canyon,_2016-07_01.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Osum_Canyon,_2016-07_02.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Osum_Canyon,_2016-07_03.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "kasabashi",
@@ -970,7 +1764,39 @@
     "file": "Ura e Kasabashit Skrapar 01.jpg",
     "author": "Fatjonkaloci",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Dji_fly_20241011_130836_0_1728736681921_photo.jpg",
+     "author": "Marjus cepelja",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ottoman_Bridge_over_Corovoda_River_-_Outside_Corovoda_-_Albania_-_02_(42486331172).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Ottoman_Bridge_over_Corovoda_River_-_Outside_Corovoda_-_Albania_-_03_(41815291774).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Ottoman_Bridge_over_Corovoda_River_-_Outside_Corovoda_-_Albania_-_04_(42538353491).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Panorama_including_Ottoman_Bridge_over_Corovoda_River_-_Outside_Corovoda_-_Albania_(42486106592).jpg",
+     "author": "Adam Jones from Kelowna, BC, Canada",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Ura_e_Kasabashit.jpg",
+     "author": "Grtek",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
   },
   {
    "id": "pirogoshi",
@@ -1003,7 +1829,39 @@
     "file": "Pirogoshi Cave 01 - entrance.jpg",
     "author": "malenki",
     "license": "CC BY 3.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Pirogoshi_Cave_02_-_entrance.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Pirogoshi_Cave_03_-_sinter.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Pirogoshi_Cave_05_-_Grafitti.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Pirogoshi_Cave_06_-_sinter_rocks.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Pirogoshi_Cave_07_-_sinter_ceiling.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Pirogoshi_Cave_08_-_stalagtites.jpg",
+     "author": "malenki",
+     "license": "CC BY 3.0"
+    }
+   ]
   },
   {
    "id": "corovode",
@@ -1036,7 +1894,39 @@
     "file": "Çorovodë, Skrapar, Albania – Main square 01.jpg",
     "author": "Pasztilla (aka Attila Terbócs)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Mali_i_Ramijes_me_debore_1.jpg",
+     "author": "Ertan Gogo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Çorovodë,_Skrapar,_Albania_2019_01.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Çorovodë,_Skrapar,_Albania_2019_03.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Çorovodë,_Skrapar,_Albania_2019_04_–_Municipality_Hall.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Çorovodë,_Skrapar,_Albania_2019_05_–_Municipality_Hall.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Çorovodë,_Skrapar,_Albania_–_Main_square_02.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "bogove",
@@ -1061,7 +1951,39 @@
     "file": "Bogova_Waterfall_-_Mapillary_(urmOoawelw6W67SolMO-zQ).jpg",
     "author": "malenki (Mapillary)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Bogove_Waterfall.jpg",
+     "author": "Saranda lover",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ujvara_e_Bogoves,_Bogova_Waterfall.jpg",
+     "author": "Genc Krasniqi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ujëvara_e_Bogovës.jpg",
+     "author": "Orkido",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ujëvara_e_Bogovës1.jpg",
+     "author": "Orkido",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ujëvara_e_Bogovës_-_Mapillary_(9WBLveMBaZmD7958C5W7PQ).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ujëvarat_e_Bogovës.jpg",
+     "author": "Orkido",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "kulmak",
@@ -1086,7 +2008,8 @@
      "url": "https://en.wikipedia.org/wiki/Bektashi_Order"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": []
   },
   {
    "id": "turbe",
@@ -1115,7 +2038,24 @@
     "file": "Tekke_of_Abaz_Aliu,_Mount_Tomorr_-_Mapillary_(A9CNc-HZ7wJaldOTQQ3fEw).jpg",
     "author": "malenki (Mapillary)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Mount_Tomorr_Peak_-_Mapillary_(mTzY62Yldu3jKjFLnRQsOg).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Tomorr_mountain_–_tyrbe_on_top_of_the_peak_-_Mapillary_(dbzVXIxZI1Dyb0zEVQMOzQ).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Tyrbe_on_Mount_Tomorr_-_Mapillary_(594b8tPNXU8Xzg9iPMoobQ).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "cobo",
@@ -1140,7 +2080,24 @@
      "url": "https://www.facebook.com/Cobo.Winery/"
     }
    ],
-   "img": null
+   "img": null,
+   "gallery": [
+    {
+     "file": "Kantina_Çobo.jpg",
+     "author": "Klein Muçi",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Kantina_Çobo_02.jpg",
+     "author": "Klein Muçi",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Kantina_Çobo_03.jpg",
+     "author": "Klein Muçi",
+     "license": "CC BY 4.0"
+    }
+   ]
   },
   {
    "id": "bovilla",
@@ -1169,7 +2126,24 @@
     "file": "Bovilla Reservoir.jpg",
     "author": "Albinfo",
     "license": "CC BY 3.0 / GFDL 1.2+"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Albania_bovila.jpg",
+     "author": "Hassanisawi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Great_shoot_in_bovila.jpg",
+     "author": "Hassanisawi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Great_view_from_bovila.jpg",
+     "author": "Hassanisawi",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "kruje",
@@ -1198,7 +2172,39 @@
     "file": "Kruja Castle (by Pudelek).JPG",
     "author": "Pudelek (Marcin Szala)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": [
+    {
+     "file": "Kruje_Castle_2016.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kruje_Castle_2016_2.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kruje_Castle_2016_3.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kruje_Castle_2016_5.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kruje_Castle_2016_6.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Kruje_Castle_Cannon.jpg",
+     "author": "BBB2021",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
   },
   {
    "id": "ujanik",
@@ -1231,7 +2237,8 @@
     "file": "Tomorr mountain – tyrbe on top of the peak - Mapillary (dbzVXIxZI1Dyb0zEVQMOzQ).jpg",
     "author": "malenki (via Mapillary)",
     "license": "CC BY-SA 4.0"
-   }
+   },
+   "gallery": []
   }
  ],
  "terms": {

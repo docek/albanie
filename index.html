@@ -1048,7 +1048,10 @@ document.querySelectorAll('.day .fly').forEach(a => a.addEventListener('click', 
     }
     const sec = (t, v) => v ? `<h4>${t}</h4><p>${esc(v)}</p>` : '';
     const links = (p.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');
-    return `${img}<div class="in"><h3>${esc(p.name)}</h3><div class="kind">${esc(p.kind)}</div>${sec('Co to je', p.what)}${sec('Proč tam', p.why)}${sec('Co zažijeme', p.experience)}${sec('Jak se tam dostat', p.access)}${sec('Tipy', p.tips)}<div class="links">${links}</div></div>`;
+    const gal = (p.gallery || []).map(g => { const fn = g.file.replace(/ /g, '_'); const enc = encodeURIComponent(fn);
+      return `<a class="th" href="https://commons.wikimedia.org/wiki/File:${enc}" target="_blank" rel="noopener" title="${esc(g.author)}, ${esc(g.license)}"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/${enc}?width=480" alt="" loading="lazy"><span>${esc(g.author)} · ${esc(g.license)}</span></a>`; }).join('');
+    const galHtml = gal ? `<h4>Další fotky (Wikimedia Commons)</h4><div class="gallery">${gal}</div>` : '';
+    return `${img}<div class="in"><h3>${esc(p.name)}</h3><div class="kind">${esc(p.kind)}</div>${sec('Co to je', p.what)}${sec('Proč tam', p.why)}${sec('Co zažijeme', p.experience)}${sec('Jak se tam dostat', p.access)}${sec('Tipy', p.tips)}<div class="links">${links}</div>${galHtml}</div>`;
   }
   document.addEventListener('click', e => {
     const t = e.target.closest('.pl'); if (!t) return;
