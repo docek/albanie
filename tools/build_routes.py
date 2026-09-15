@@ -40,7 +40,7 @@ ROUTES = {
    ('Ne', 'Okruh Zagoria → Përmet, Bënja a Lengarica', [('Gjirokastër','Libohovë','car'),('Libohovë','Selckë','track'),('Selckë','Poliçan (Zagoria)','track'),('Poliçan (Zagoria)','Sheper','track'),('Sheper','Ndëran','track'),('Ndëran','Fushë Çajupi','track'),('Fushë Çajupi','Gjirokastër','car'),('Gjirokastër','Këlcyrë','car'),('Këlcyrë','Përmet','car'),('Përmet','Bënja / Lengarica','car')], 'Përmet'),
    ('Po', 'Zkouška 2: Përmet → Frashër → Ersekë → Korçë → Voskopojë', [('Bënja / Lengarica','Përmet','car'),('Përmet','Frashër','track'),('Frashër','Ersekë','track'),('Ersekë','Korçë','car'),('Korçë','Voskopojë','car')], 'Voskopojë'),
    ('Út', 'Vithkuq → Osumi → Çorovodë', [('Voskopojë','Vithkuq','car'),('Vithkuq','Çorovodë','track')], 'Çorovodë'),
-   ('St', 'Tomorr → Bogovë → Roshnik', [('Çorovodë','Bogovë','car'),('Bogovë','Poliçan','car'),('Poliçan','Qafa e Kulmakut','car'),('Qafa e Kulmakut','Tomorr – türbe','track'),('Tomorr – türbe','Qafa e Kulmakut','track'),('Qafa e Kulmakut','Poliçan','car'),('Poliçan','Roshnik','car')], 'Roshnik'),
+   ('St', 'Tomorr → Bogovë → Roshnik', [('Çorovodë','Bogovë','car'),('Bogovë','Poliçan','car'),('Poliçan','Qafa e Kulmakut','car'),('Qafa e Kulmakut','Tomorr – türbe','track'),('Tomorr – türbe','Qafa e Kulmakut','track'),('Qafa e Kulmakut','Poliçan','car'),('Poliçan','Roshnik','car')], 'Berat'),
    ('Čt', 'Roshnik → Berat → letiště', [('Roshnik','Berat','car'),('Berat','Lushnjë','car'),('Lushnjë','Letiště Tirana','car')], None),
  ]},
  'B': {'color': '#b5461f', 'days': [

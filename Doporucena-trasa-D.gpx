@@ -2898,8 +2898,7 @@
     <trkpt lat="40.61339" lon="20.77656"/>
     <trkpt lat="40.614" lon="20.77645"/>
     <trkpt lat="40.61534" lon="20.77691"/>
-    <trkpt lat="40.61587" lon="20.77735"/>
-    <trkpt lat="40.616" lon="20.7772"/>
+    <trkpt lat="40.6159" lon="20.77735"/>
     <trkpt lat="40.61699" lon="20.77596"/>
     <trkpt lat="40.61805" lon="20.77574"/>
     <trkpt lat="40.61824" lon="20.77543"/>
@@ -3032,10 +3031,10 @@
     <trkpt lat="40.63313" lon="20.59126"/>
     <trkpt lat="40.6327" lon="20.59108"/>
     <trkpt lat="40.63279" lon="20.59052"/>
-    <trkpt lat="40.63324" lon="20.59053"/>
+    <trkpt lat="40.63319" lon="20.59056"/>
   </trkseg></trk>
   <trk><name>5 Út – Vithkuq → Osumi → Çorovodë</name><trkseg>
-    <trkpt lat="40.63324" lon="20.59053"/>
+    <trkpt lat="40.63319" lon="20.59056"/>
     <trkpt lat="40.63282" lon="20.59241"/>
     <trkpt lat="40.63215" lon="20.5931"/>
     <trkpt lat="40.63259" lon="20.59438"/>
@@ -3179,11 +3178,13 @@
     <trkpt lat="40.52532" lon="20.70774"/>
     <trkpt lat="40.52439" lon="20.70549"/>
     <trkpt lat="40.52294" lon="20.70326"/>
-    <trkpt lat="40.51733" lon="20.7018"/>
+    <trkpt lat="40.51746" lon="20.70184"/>
+    <trkpt lat="40.5169" lon="20.70145"/>
     <trkpt lat="40.51669" lon="20.70106"/>
-    <trkpt lat="40.51764" lon="20.7008"/>
+    <trkpt lat="40.51678" lon="20.70095"/>
+    <trkpt lat="40.51754" lon="20.70084"/>
     <trkpt lat="40.51901" lon="20.70006"/>
-    <trkpt lat="40.51971" lon="20.69928"/>
+    <trkpt lat="40.51981" lon="20.6991"/>
     <trkpt lat="40.52062" lon="20.69665"/>
     <trkpt lat="40.52163" lon="20.69488"/>
     <trkpt lat="40.52283" lon="20.69342"/>
