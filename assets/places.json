@@ -24,7 +24,11 @@
     "author": "Zamozamota",
     "license": "CC BY-SA 4.0"
    },
-   "gallery": []
+   "gallery": [],
+   "facts": [
+    "Otevřeno: denně 7:00–22:45",
+    "Objednat: +355 69 703 4448 (doporučeno v sezóně)"
+   ]
   },
   {
    "id": "tepelene",
@@ -43,6 +47,10 @@
     {
      "label": "Albanian Official Tourism - Kalaja e Ali Pashë Tepelenës",
      "url": "https://akt.gov.al/en/atraksionet/kalaja-e-ali-pashe-tepelenes/"
+    },
+    {
+     "label": "himara.net – road conditions 2026",
+     "url": "https://himara.net/blog/albania-road-conditions-2026"
     }
    ],
    "img": {
@@ -76,7 +84,8 @@
      "author": "Arianit",
      "license": "CC BY-SA 4.0"
     }
-   ]
+   ],
+   "warning": "Na příjezdu po silnici SH4/A2 kolem Tepelenë probíhá v roce 2026 stavba – jednopruhové úseky mohou v sezóně (duben–říjen) znamenat zdržení 30–60 minut."
   },
   {
    "id": "kurvelesh",
@@ -127,6 +136,12 @@
      "author": "Aurontare",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Serpentiny z Bënçë na plošinu jsou pomalé a klikaté – naplánujte návrat tak, abyste po nich nesjížděli za tmy (západ slunce koncem září cca 18:40).",
+   "facts": [
+    "Povrch: asfalt s výmoly, úsek k Nivicë částečně opravován",
+    "Tempo: reálně pomalejší, než ukazuje mapa",
+    "Signál: na plošině nespolehlivý"
    ]
   },
   {
@@ -168,6 +183,13 @@
      "author": "Albinfo",
      "license": "CC BY 4.0"
     }
+   ],
+   "warning": "Okružní trasa trvá 6–7 hodin – vyrazte brzy ráno, jinak hrozí návrat po setmění (cca 18:40).",
+   "facts": [
+    "Čas: krátká stezka cca 1 h tam a zpět, okruh 6–7 h",
+    "Náročnost: krátká stezka mírná se strmějším sestupem, okruh náročný",
+    "Voda: studená horská tůň, teplota neuvedena",
+    "Výbava: pevná obuv, plavky"
    ]
   },
   {
@@ -190,7 +212,14 @@
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "warning": "Stezka v kaňonu je úzká, kamenitá a po dešti kluzká; mobilní signál je nespolehlivý a u vodopádu nejsou žádné služby ani pomoc.",
+   "facts": [
+    "Čas: 2–3 hodiny včetně cesty",
+    "Náročnost: středně náročná, místy kluzko",
+    "Voda: studená, koupání jen na pár minut",
+    "Výbava: pevná obuv"
+   ]
   },
   {
    "id": "golem-kolonje",
@@ -209,10 +238,21 @@
     {
      "label": "Indefinite Adventure - Kurvelesh and Peshtura Waterfall Off-Road Tour",
      "url": "https://www.indefiniteadventure.com/kurvelesh-and-peshtura-waterfall-off-road-tour-with-lunch/"
+    },
+    {
+     "label": "TravelBuddy – itinerář a zpětná vazba průvodce",
+     "url": "https://travelbuddy.cz/i/itinerar-pro-jan-sefranek-vn7v8b"
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "warning": "Trasa vede přes štěrkovitá koryta a brody – bez zkušenosti s terénní jízdou a po dešti je riziko uvíznutí; zvažte spíš komerční off-road túru s průvodcem než sólo průjezd nezkušenou posádkou.",
+   "note": "Podle zpětné vazby místního průvodce trvá úsek Progonat–Golem–Kolonjë reálně zhruba půl dne i se zkušeným řidičem terénního auta – nepočítejte s tím jako s krátkou zkratkou.",
+   "facts": [
+    "Povrch: nezpevněná horská cesta s brody",
+    "Tempo: pomalé, počítejte s půldnem",
+    "Signál: nespolehlivý"
+   ]
   },
   {
    "id": "gjirokaster",
@@ -231,6 +271,42 @@
     {
      "label": "Wander-Lush - Things to Do in Gjirokaster",
      "url": "https://wander-lush.org/things-to-do-in-gjirokaster/"
+    },
+    {
+     "label": "Castle of Gjirokastra – hodiny a ceny",
+     "url": "https://hungariandreamers.com/gjirokastra-castle/"
+    },
+    {
+     "label": "Gjirokastra Castle – Trip.com",
+     "url": "https://www.trip.com/travel-guide/attraction/gjirokaster/castle-of-gjirokastra-18694977/"
+    },
+    {
+     "label": "Parkování a bazar – Tripadvisor",
+     "url": "https://www.tripadvisor.co.uk/Attraction_Review-g318867-d5411045-Reviews-Gjirokastra_Bazaar-Gjirokaster_Gjirokaster_County.html"
+    },
+    {
+     "label": "Restaurace v Gjirokastře – doporučení",
+     "url": "https://adventurealbania.com/gjirokaster-restaurants/"
+    },
+    {
+     "label": "Cold War Tunnel",
+     "url": "https://visit-gjirokastra.com/article/the_cold_war_tunnel"
+    },
+    {
+     "label": "Weapons Museum – oficiální turistický web",
+     "url": "https://akt.gov.al/en/heritage/Gjirokaster-Castle-Weapons-Museum/"
+    },
+    {
+     "label": "Zekate House – ceny a info",
+     "url": "https://www.visitsaranda.net/see/zekate-house/"
+    },
+    {
+     "label": "Skenduli House – hodiny a ceny",
+     "url": "https://whichmuseum.com/museum/skenduli-house-gjirokastra-24510/tickets-prices"
+    },
+    {
+     "label": "OTP Bank pobočky a bankomaty",
+     "url": "https://otpbank.al/en/branches-and-atms/"
     }
    ],
    "img": {
@@ -269,7 +345,18 @@
      "author": "JoraKasapi",
      "license": "CC BY-SA 4.0"
     }
-   ]
+   ],
+   "facts": [
+    "Parkování: u staré čtvrti/bazaru omezené, počítejte s procházkou",
+    "Bankomat: v centru i v příletové hale letiště",
+    "Pumpa: Kastrati a Alpet ve městě"
+   ],
+   "city_parking": "Do centra/bazaru s autem nevjíždět – uličky jsou úzké dlažební kočičí hlavy a strmé. Zaparkovat pod starým městem na náměstí Sheshi Çerçiz Topulli (odtud i vchod do Cold War Tunnel a turistické informace), je tam podzemní parkoviště, cena cca 2 EUR/3 h. Alternativně volně podél cest pod hradem, pak pěšky nahoru do bazaru (5–10 min do kopce).",
+   "city_route": "16:30–17:00 příjezd, zaparkovat na Sheshi Çerçiz Topulli. 17:15–18:30 hrad Gjirokastër + Muzeu i Armëve (v létě otevřeno zhruba do 19:00, v září ověřit na místě, může být kratší). 18:30–19:15 sestup a procházka starým bazarem (obchůdky, řemesla). 19:30 večeře v bazaru (Odaja nebo Kujtim). 20:30–21:00 volno/káva, případně pokud zbude čas ještě Zekate/Skenduli house zvenku (interiéry večer zavřené).",
+   "city_eat": "Odaja – tradiční kuchyně přímo nad bazarem, doporučeno qifqi (pečené rýžové kuličky s mátou), byrek, kufte s jogurtem, k tomu sladké oshaf; velmi dobrá cena/kvalita. Restorant Gjoça Tradicional – rodinný podnik na turistické uličce, taky qifqi a kufte s jogurtem. Kujtim Restaurant – lokální oblíbenec, tavë kosi (jehněčí pečené v jogurtu) hodnocené jako nejlepší ve městě. Na snídani/kávu kterákoli kavárna v bazaru (otevírají kolem 7–8h). Pekárna (furrë buke) v bazaru na byrek k snídani cestou k autu ráno v 8:30.",
+   "city_see": "1) Hrad Gjirokastër s Muzeu i Armëve (zbraně, dějiny od nezávislosti 1912 po 2. sv. válku) – vstup cca 400 lek dospělí, děti do 12 let zdarma, studenti 120 lek, důchodci/ZTP 200 lek; jen hotovost. 2) Cold War Tunnel – 800 m dlouhý bunkr, vstup jen s průvodcem, domlouvá se na turistickém infopointu na Sheshi Çerçiz Topulli (bez rezervace může být fronta). 3) Starý bazar samotný – živé tržiště, řemeslné dílny, kavárny. 4) Zekate House – honosný osmanský dům z let 1811–1812, vstup cca 200 lek, provede rodinný příslušník. 5) Skenduli House – cca 300 let starý dům, otevřeno cca 9–19, vstup s prohlídkou cca 200 lek. Na oba domy s naším časem (odjezd 8:30 ráno) reálně nezbyde – zvážit jen jeden, nebo je vynechat a nahradit klidnou procházkou bazarem za soumraku.",
+   "city_shop": "Suvenýry a řemesla (dřevořezba, textil, kožené zboží) v obchůdcích přímo v bazaru. Bankomat: pobočka OTP Bank (Lagja 18 Shtatori) – ověřit přesnou polohu na místě, v centru bývají i další bankomaty, ale konkrétní umístění nepotvrzeno. Lékárna (farmaci) v okolí bazaru – běžně otevřeno do večera, přesnou adresu ověřit na místě. Benzín: Gjirokastër je okresní město, čerpací stanice (např. síť Kastrati) jsou podél hlavní obchvatové silnice, ne v samotném starém městě – natankovat cestou dovnitř nebo ven z města.",
+   "city_local": "Večerní ruch v bazaru houstne po 19. hodině, rodiny vyrážejí na procházku (xhiro). Platba v hradu a mnoha obchodech jen v hotovosti (lek, někde i EUR). Dlažba v bazaru je kluzká a strmá – pevná obuv nutná. Auto přes noc nechávat na hlídaném/placeném parkovišti nebo u ubytování, ne volně na kraji staré čtvrti. Pokud nocleh na farmě 20 min mimo město, počítat s tím, že poslední úsek může být bez osvětlení – přijet za světla nebo mít nabitou baterku/světla auta v pořádku."
   },
   {
    "id": "gjirokaster-hrad",
@@ -288,6 +375,10 @@
     {
      "label": "Key.aero - How did a USAF T-33 end up outside a castle in Albania?",
      "url": "https://www.key.aero/article/how-did-usaf-t-33-end-outside-castle-albania"
+    },
+    {
+     "label": "tripjive – Gjirokastër & Zekate house guide",
+     "url": "https://tripjive.com/explore-gjirokaster-zekate-house-visit-guide/"
     }
    ],
    "img": {
@@ -326,6 +417,13 @@
      "author": "Aktron",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Oficiální vstupné je 200 lek, ale návštěvníci v roce 2025 hlásí, že se u pokladny vybírá 400–500 lek – mějte při sobě dost hotovosti.",
+   "fun": "V areálu je dodnes vystaven vrak amerického cvičného letounu Lockheed T-33, který zde v prosinci 1957 nouzově přistál.",
+   "facts": [
+    "Otevřeno: duben–září 9:00–19:00, říjen–březen 9:00–17:00",
+    "Vstup: oficiálně 200 lek (reálně hlášeno až 400–500 lek)",
+    "Klíč: není potřeba"
    ]
   },
   {
@@ -379,6 +477,11 @@
      "author": "Calistemon",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: volně přístupné, bez otevírací doby",
+    "Vstup: zdarma",
+    "Klíč: není potřeba"
    ]
   },
   {
@@ -436,6 +539,12 @@
      "author": "Pasztilla aka Attila Terbócs",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Bez předchozího zavolání klíčníkovi se pravděpodobně dovnitř nedostanete – kostel bývá zamčený a nemá pevnou otevírací dobu.",
+   "facts": [
+    "Otevřeno: jen po předchozí domluvě s klíčníkem",
+    "Vstup: 200 lek nebo dobrovolný příspěvek",
+    "Klíč: nutno předem zavolat na kontakt uvedený na místě"
    ]
   },
   {
@@ -493,6 +602,11 @@
      "author": "Adert",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: cca 8:00–16:00 (sezónně se může lišit)",
+    "Vstup: zdarma / dobrovolný příspěvek, ojediněle uváděno ~100 lek",
+    "Klíč: při zavřené bráně stačí zaklepat"
    ]
   },
   {
@@ -554,6 +668,10 @@
      "author": "Adam Jones from Kelowna, BC, Canada",
      "license": "CC BY-SA 2.0"
     }
+   ],
+   "note": "Libohovë je malé městečko bez ověřeného bankomatu či pumpy – natankujte a vyberte hotovost předem v Gjirokastëru.",
+   "facts": [
+    "Parkování: volně u náměstí s platanem"
    ]
   },
   {
@@ -619,6 +737,11 @@
      "author": "malenki @ Mapillary.com",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Po dešti může být štěrková cesta v údolí kluzká a rozbahněná a mobilní signál je nespolehlivý – naplánujte celodenní průjezd tak, abyste nedojížděli za tmy (západ slunce cca 18:40).",
+   "facts": [
+    "Signál: nespolehlivý v celém údolí",
+    "Palivo: natankujte předem v Gjirokastëru"
    ]
   },
   {
@@ -666,6 +789,11 @@
      "author": "Christoph Strässler",
      "license": "CC BY-SA 2.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: bez pevné doby, kostel bývá zamčený",
+    "Vstup: bez oficiálního vstupného",
+    "Klíč: případně u místních ve vesnici"
    ]
   },
   {
@@ -688,7 +816,13 @@
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "note": "K mostu vede jen strmá pěší stezka (cca 1,2 km) od vesnice Ndëran, autem se tam nedostanete – vhodná pevná obuv.",
+   "facts": [
+    "Otevřeno: volně přístupné, bez otevírací doby",
+    "Vstup: zdarma",
+    "Klíč: není potřeba"
+   ]
   },
   {
    "id": "cajupi",
@@ -714,7 +848,15 @@
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "warning": "Za plošinou mizí mobilní signál a kvalita cesty prudce klesá na štěrk – dál už jde o horský terén bez infrastruktury.",
+   "note": "Naplánujte doplnění paliva a vody ještě v Gjirokastëru – Çajupi je poslední bod s asfaltem a signálem před sjezdem do Zagorie.",
+   "facts": [
+    "Nadmořská výška: cca 1300 m",
+    "Povrch: asfalt do plošiny, dál štěrk",
+    "Signál: mizí za plošinou",
+    "Palivo: doplnit předem v Gjirokastëru"
+   ]
   },
   {
    "id": "albanik",
@@ -761,6 +903,12 @@
      "author": "Christoph Strässler",
      "license": "CC BY-SA 2.0"
     }
+   ],
+   "note": "Zavolejte předem kvůli otevírací době a rezervaci stolu – mimo hlavní sezónu bývá restaurace zavřená. Vezměte hotovost, platba kartou na odlehlé farmě není jistá.",
+   "facts": [
+    "Objednat: telefonicky předem",
+    "Otevřeno: sezónně proměnlivé, ověřit",
+    "Cena: střední, oběd/večeře"
    ]
   },
   {
@@ -792,6 +940,30 @@
     {
      "label": "Votra Magazine – Petanik recipe",
      "url": "https://www.votramagazine.com/recipe/delightful-petanik-recipe-a-taste-of-albanian-tradition/"
+    },
+    {
+     "label": "Përmet – centrum a promenáda podél Vjosy",
+     "url": "https://www.nomads-travel-guide.com/city/permet/"
+    },
+    {
+     "label": "Bënja Thermal Baths – vstup a parkovné",
+     "url": "https://vjosarafting.com/benja-thermal-baths-permet/"
+    },
+    {
+     "label": "Bënja Thermal Baths – info a doporučení",
+     "url": "https://albaniannight.com/benja-thermal-baths-2026-how-to-visit-permets-hot-springs/"
+    },
+    {
+     "label": "Slow Food Permet – restaurace",
+     "url": "https://albaniavoyagers.com/slow-food-permet/"
+    },
+    {
+     "label": "Traditional GuestHouse Permet, Bual – přístup a hodnocení",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g19260585-d14419488-Reviews-Traditional_GuestHouse_Permet-Bual_Gjirokaster_County.html"
+    },
+    {
+     "label": "Bual – historie penzionu a přístupová cesta",
+     "url": "https://www.intoalbania.com/a-visit-to-bual-the-magical-village-and-the-cultural-monument-turned-traditional-guesthouse-in-permet/"
     }
    ],
    "img": {
@@ -830,7 +1002,19 @@
      "author": "Thanas Todhe (Guri Q…",
      "license": "CC BY 3.0"
     }
-   ]
+   ],
+   "fun": "Podle legendy se roku 1417 při osmanském vpádu z vrcholu skály Guri i Qytetit vrhl místní vládce Premt se svou dcerou, aby unikli zajetí – odtud prý jméno města.",
+   "facts": [
+    "Parkování: v centru, na ulici",
+    "Bankomat: ano, v centru",
+    "Pumpa: ano, ve městě"
+   ],
+   "city_parking": "Centrum Përmetu je malé a klidné, parkování na hlavním náměstí nebo podél nábřeží Vjosy je běžně volné a bez závor. Auto k termálům Bënja se nechává na neoficiálním parkovišti u pramenů (poplatek cca 200 lek/vozidlo). Cesta nahoru do Bualu (30 min nad městem) je neasfaltovaná a hrbolatá – zvládne ji i menší osobák, ale s Jimny obezřetně a raději za světla.",
+   "city_route": "15:00 příjezd do Përmetu, zaparkovat v centru. 15:00–16:00 procházka historickým centrem – skalní symbol Guri i Qytetit, promenáda podél Vjosy, kostely Shën Premte a Shën Nikolla, mešita. 16:00–16:30 káva/oběd v centru. 16:30–17:00 přejezd (cca 20 min) k termálům Bënja a osmanskému mostu Katiu. 17:00–19:00 koupel v termálech (voda cca 22–30 °C, vlažná, ne horká) + západ slunce nad kaňonem Langarica. 19:15 přejezd do Bualu, 19:30–20:00 večeře v ubytování (snídaně/večeře bufetového typu bývá součástí penzionu).",
+   "city_eat": "Trifilia – nejlepší (fine dining) verze místní slow food kuchyně v Përmetu, doporučená rezervace předem. Restorant Familjari Përmet – rodinný podnik, byrek, spinaq në furrë (špenát v troubě), fërgesë, vlastní raki a červené víno. Te Fuçitë (The Barrels) – tradiční jídla a domácí raki. Místní specialita: pstruh z Vjosy. Snídaně řešena přímo v ubytování v Bualu (buffet).",
+   "city_see": "1) Termální lázně Bënja + osmanský most Katiu – volně přístupné, žádná otevírací doba ani vstupné, jen parkovné cca 200 lek; doporučeno brzy ráno nebo pozdě odpoledne kvůli klidu. 2) Historické centrum Përmetu – Guri i Qytetit, kostely Shën Premte a Shën Nikolla, mešita, promenáda podél řeky se sochami a vyhlídkami. 3) Kaňon Langarica u Bënji – krátká procházka od termálů.",
+   "city_shop": "Gliko – tradiční celoovocný kompot (Slow Food Presidium, typicky z vlašských ořechů, třešní nebo fíků), raki (domácí pálenka, drobná lokální produkce), sýry a solené máslo – kupovat přímo v obchůdcích/tržnici v centru nebo přímo v restauracích/u výrobců. Bankomat a benzinka: Përmet má bankovní síť (národní banky jako Credins/OTP/Raiffeisen mají pobočky v regionálních městech), ale konkrétní adresu v Përmetu se nepodařilo ověřit – doporučeno vzít dostatek hotovosti předem a natankovat plnou nádrž v Përmetu, protože cesta na Frashër v pondělí ráno vede přes hory bez jistoty čerpací stanice.",
+   "city_local": "Përmet je centrum albánského slow food hnutí – tempo je pomalejší a klidnější než v Gjirokastře, večer se soustředí na promenádu podél Vjosy. O víkendu bývají termály Bënja plnější, v neděli večer klidnější. Přístupová cesta do Bualu je bez osvětlení – lepší dorazit za světla. Vzhledem k plánovanému brzkému odjezdu na Frashër v pondělí je rozumné natankovat a vybrat hotovost ještě v neděli odpoledne/večer v Përmetu, ne až ráno."
   },
   {
    "id": "kosine",
@@ -862,6 +1046,13 @@
      "author": "Fabiola Muhollari",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Kostel bývá zamčený a bez předem domluveného místního kontaktu se dovnitř nedostanete – zvenku je přístup vždy volný.",
+   "note": "Domluvte klíč přes ubytovatele v Përmetu ještě před cestou, jinak počítejte jen s prohlídkou exteriéru.",
+   "facts": [
+    "Otevřeno: nepravidelně, na klíč",
+    "Vstup: zdarma",
+    "Klíč: u místního, zajistit přes ubytovatele v Përmetu"
    ]
   },
   {
@@ -913,6 +1104,13 @@
      "author": "Christoph Strässler",
      "license": "CC BY-SA 2.0"
     }
+   ],
+   "warning": "Exteriérové fresky jsou poškozené vandalismem a graffiti; kostel je běžně zamčený a bez domluvy s Chri Chri Guest House riskujete, že se dovnitř nedostanete.",
+   "note": "Domluvte návštěvu předem přes Chri Chri Guest House v Leusë (majitel má klíč) a počítejte s drobným spropitným pro toho, kdo otevře – podle čerstvého ohlasu návštěvníků (2026) je to teď obvyklé.",
+   "facts": [
+    "Otevřeno: na klíč přes Chri Chri Guest House",
+    "Vstup: zdarma, spropitné vhodné",
+    "Náročnost: 45 min do kopce, nerovná cesta"
    ]
   },
   {
@@ -974,6 +1172,12 @@
      "author": "Albinfo",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "warning": "Cesta k dalším jezírkům v kaňonu vede brodem přes bahnité, kluzké kameny – bez bot do vody riziko uklouznutí. Chybí toalety i převlékárny.",
+   "facts": [
+    "Voda: 23–32 °C",
+    "Výbava: boty do vody, ručník, plavky",
+    "Čas: 1–3 h podle počtu jezírek"
    ]
   },
   {
@@ -1035,6 +1239,12 @@
      "author": "Malenki",
      "license": "CC BY 3.0"
     }
+   ],
+   "warning": "Po dešti jsou kameny v korytě kluzké a brody hlubší, značení stezky je řídké – neriskujte celý 14km okruh při nejistém počasí.",
+   "facts": [
+    "Voda: 20–24 °C",
+    "Náročnost: střední, brody a kluzké kameny",
+    "Čas: 3–5 h (14 km tam-zpět) nebo kratší k prvním tůním"
    ]
   },
   {
@@ -1092,6 +1302,13 @@
      "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "warning": "Rafting není vhodný pro těhotné ani osoby se závažnými zdravotními problémy nebo pod vlivem alkoholu/látek.",
+   "note": "Rezervujte předem přes albrafting.org – v polovině září by měl provoz běžet bez omezení. Vezměte náhradní oblečení a obuv, věci uložte do batohu na minivanu.",
+   "facts": [
+    "Cena: 35 EUR dospělý / 30 EUR dítě (4–12 let)",
+    "Otevřeno: sezóna březen–prosinec",
+    "Objednat: předem přes albrafting.org"
    ]
   },
   {
@@ -1153,6 +1370,13 @@
      "author": "Malenki",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "warning": "Cesta z Piskovë (cca 30 km štěrku) vede horským terénem bez pump a s minimem občerstvení; otevírací doba muzea není pevně daná.",
+   "note": "Vyrazte s dostatkem paliva a vody, počítejte s pomalou jízdou a naplánujte průjezd tak, abyste stihli i navazující úsek do Ersekë za světla.",
+   "facts": [
+    "Povrch: štěrk cca 30 km",
+    "Tempo: pomalá jízda, klikatá trasa",
+    "Palivo: doplnit předem v Përmetu nebo Ersekë"
    ]
   },
   {
@@ -1214,6 +1438,14 @@
      "author": "Android4smarts",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "V lesích parku žijí medvěd hnědý, vlk a liška – nenechávejte venku jídlo a nezastavujte zbytečně mimo auto. Signál mizí na většině trasy a v zimě bývá cesta sněhem neprůjezdná.",
+   "note": "S nezkušeností v terénu a pravidlem nejezdit po tmě (západ slunce cca 18:40) naplánujte průjezd parkem tak, abyste ho stihli za denního světla – po dešti se štěrkové úseky zhoršují.",
+   "facts": [
+    "Rozloha: cca 36 000 ha, největší NP Albánie",
+    "Zvěř: medvěd hnědý, vlk, liška",
+    "Signál: mizí na většině trasy",
+    "Povrch: místy nezpevněné, po dešti horší"
    ]
   },
   {
@@ -1246,20 +1478,16 @@
    },
    "gallery": [
     {
-     "file": "Erseka,_Kolonja.jpg",
-     "author": "albinfo",
-     "license": "CC0"
-    },
-    {
-     "file": "Erseka,_Kolonja_page_banner.jpg",
-     "author": "albinfo",
-     "license": "CC0"
-    },
-    {
      "file": "Erseke_Albania_2010.jpg",
      "author": "Maju603",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "note": "Doplňte palivo přímo v Ersekë – směrem na Frashër už čerpací stanice nejsou jisté.",
+   "facts": [
+    "Pumpa: ano, poslední jistá před Frashërem",
+    "Nadmořská výška: přes 1000 m",
+    "Objednat: lakror v místní pekárně"
    ]
   },
   {
@@ -1283,6 +1511,38 @@
     {
      "label": "Mitropolia e Shenjtë Korçë – historie katedrály",
      "url": "https://mitropoliaeshenjtekorce.com/2023/10/15/katedralja-ringjallja-e-krishtit-pika-me-atraktive-ne-korce-fakte-interesante-rreth-ndertimit/"
+    },
+    {
+     "label": "Old Bazaar of Korçë – Visit Korca",
+     "url": "https://visitkorca.al/destinations/old-bazaar-korca-historic-center/"
+    },
+    {
+     "label": "National Museum of Medieval Art – hodiny a ceny",
+     "url": "https://www.nomads-travel-guide.com/places/korca-national-museum-of-medieval-art/"
+    },
+    {
+     "label": "Gjon Mili Photography Museum – hodiny",
+     "url": "https://wander-lush.org/things-to-do-in-korca-albania/"
+    },
+    {
+     "label": "National Museum of Education – hodiny (WhichMuseum)",
+     "url": "https://whichmuseum.com/museum/national-museum-of-education-korce-24513/opening-hours"
+    },
+    {
+     "label": "Restaurace v Korçë – Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurants-g318868-Korce_Korce_County.html"
+    },
+    {
+     "label": "Nákupy a raki v bazaru – Evendo",
+     "url": "https://evendo.com/locations/albania/korce-region/landmark/pazari-i-korces"
+    },
+    {
+     "label": "Kastrati čerpací stanice u Korçë – myLPG.eu",
+     "url": "https://www.mylpg.eu/stations/albania/station/Kastrati-4855E13C-43CA-F579-50EE-49EC2B877FAC"
+    },
+    {
+     "label": "Parkování na Bulevardi Republika – diskuze",
+     "url": "https://albania-streets.openalfa.com/streets/bulevardi-republika-korce-bashkia-korce"
     }
    ],
    "img": {
@@ -1316,7 +1576,18 @@
      "author": "InaMyrtollari",
      "license": "CC BY-SA 4.0"
     }
-   ]
+   ],
+   "facts": [
+    "Parkování: placené parkoviště v centru",
+    "Bankomat: ano, v centru",
+    "Pumpa: ano, ve městě"
+   ],
+   "city_parking": "Parkujte na Bulevardi Republika nebo Bulevardi Fan Noli v centru – široký bulvár blízko Starého bazaru, kde lze nechat auto na okraji vozovky. Pozor: podle zpráv z roku 2025 parkování na bulváru už není zdarma, místa hlídají chlapíci v reflexních vestách a vybírají neformální poplatek (přesná částka nepotvrzena – mějte drobné v lek). Do Starého bazaru samotného (dlážděné uličky) auto nevjíždí, je to pěší zóna – zaparkujte na jeho okraji a dovnitř jděte pěšky, je to pár minut.",
+   "city_route": "Příjezd ~14:00–15:00. 1) Starý bazar (Pazari i Korçës) – 30–40 min procházka dlážděnými uličkami, kovářské a filigránské dílny. 2) Katedrála Vzkříšení Kristova (Ngjallja e Krishtit) – pár minut od bazaru, exteriér i interiér volně přístupné, prohlídka 15 min. 3) Národní muzeum středověkého umění – v září otevřeno denně 9–19 h, vstup 700 lek (v cestě od katedrály, počítejte 45–60 min s prohlídkou). 4) Kafe v bazaru (Korçë je proslulé kávovou kulturou) 20–30 min. Odjezd na Voskopojë nejpozději kolem 17:45–18:00, abyste dojeli před setměním v 18:40 – horská silnice do Voskopojë je klikatá.",
+   "city_eat": "Birrari Korça – místní pivovar/pivnice se živou hudbou, tradiční jídlo + Korça pivo, spíš večerní podnik. Taverna Vasili – tavë kosi (jehněčí se zapečeným jogurtem), domácí chleba. Antik Restaurant – fërgesë a grilovaná zelenina v bazaru. Fix si Qëmoti – grilované maso. Kavárny přímo v bazaru na kávu (Korçë = kávové hlavní město Albánie); pekárny/byrektore na rychlou svačinu za pochodu. Přesné otevírací hodiny a ceny se mi nepodařilo ověřit – doporučuju ověřit na místě nebo v Google Maps.",
+   "city_see": "1) Starý bazar – volně přístupný, kdykoliv, hlavní atrakce města. 2) Katedrála Vzkříšení Kristova – volný vstup, exteriér působivý kdykoliv. 3) Národní muzeum středověkého umění (ikony) – v září denně 9–19 h, 700 lek dospělí. Pozor: Muzeum fotografie Gjona Miliho (200 lek) a Národní muzeum vzdělávání (300 lek) mají v pondělí zavřeno – vzhledem k tomu, že jste ve městě v pondělí 21. 9., tato dvě muzea nestihnete/nebudou otevřená.",
+   "city_shop": "Raki ze Skraparu, Përmetu nebo Beratu (nejceněnější albánské hroznové raki, značkové lahve 800–2500 lek) – v obchodech Starého bazaru. Místní pivo Korça k odvezení. Měděné nádobí a filigránské šperky jako suvenýr z řemeslných dílen v bazaru. Bankomat a banky podél Bulevardi Republika. Benzinky: Kastrati a Alpet mají pobočky v okolí Korçë (mj. Kastrati na silnici Korçë–Kapshticë směr Devoll) – natankujte do plna před odjezdem do hor na Voskopojë, kde je nabídka pohonných hmot nejistá.",
+   "city_local": "Korçë je klidné, kultivované město – hlavní ruch je večerní korzo (xhiro) na bulváru od cca 18–20 h, což ale už nestihnete kvůli odjezdu. V pondělí odpoledne bude bazar fungovat normálně (funguje jako skutečná tržnice pro místní, ne turistická kulisa), ale dvě menší muzea budou zavřená. Parkování na ulici hlídané vestami je běžná neformální praxe, ne podvod – klidně zaplaťte pár desítek/stovek lek. Překvapí vás kávová kultura – Korçë bere kávu velmi vážně, výběr kaváren je nadprůměrný na albánské poměry."
   },
   {
    "id": "birra-korca",
@@ -1377,6 +1648,12 @@
      "author": "denisju_osm",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "note": "Online informace o časech prohlídek jsou kusé – radši potvrďte telefonicky (+355 68 609 4101) přímo v den návštěvy.",
+   "facts": [
+    "Objednat: telefonicky +355 68 609 4101 nebo GetYourGuide",
+    "Otevřeno: cca 8:00–24:00",
+    "Cena: prohlídka zdarma, jídlo/pivo za běžné ceny"
    ]
   },
   {
@@ -1434,6 +1711,12 @@
      "author": "Muzeu Kombëtar i Artit Mesjetar",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Otevírací doba je rozdělená na dva krátké bloky (10–13 a 17–18 h) – mimo ně před zavřenými dveřmi.",
+   "note": "Naplánujte návštěvu na začátek dopoledního nebo podvečerního bloku a hodiny si předem ověřte, albánská muzea je mění sezónně.",
+   "facts": [
+    "Otevřeno: cca 10:00–13:00 a 17:00–18:00 (ověřit)",
+    "Vstup: v řádu stovek lek"
    ]
   },
   {
@@ -1491,6 +1774,12 @@
      "author": "Krzysztof Dudzik-Górnicki (User:ToSter)",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "warning": "Kostel bývá mimo bohoslužby zamčený, bez zaručeného přístupu ke klíči.",
+   "note": "Pokud je zamčeno, zeptejte se na klíč v okolních domech ve vesnici – místní jsou na návštěvníky zvyklí. Dá se dobře skombinovat s cestou do Voskopojë nebo Boboshticë.",
+   "facts": [
+    "Otevřeno: na klíč, ptát se místních",
+    "Náročnost: krátká zastávka 30–45 min"
    ]
   },
   {
@@ -1521,7 +1810,13 @@
     "author": "Nikol Likja (Nlikja)",
     "license": "CC BY-SA 4.0"
    },
-   "gallery": []
+   "gallery": [],
+   "note": "Vesnice nemá bankomat ani pumpu – hotovost i palivo doplňte předem v Korçi.",
+   "facts": [
+    "Objednat: raki mani (morušová) v místní taverně",
+    "Cena: neuvedena, ptát se na místě",
+    "Otevřeno: přes den, mimo hlavní sklizeň (červenec–srpen) může být výroba omezená"
+   ]
   },
   {
    "id": "voskopoje",
@@ -1568,11 +1863,6 @@
      "license": "CC BY-SA 4.0"
     },
     {
-     "file": "Kisha_e_Shën_Kollit_Kavajë.jpg",
-     "author": "Kj1595",
-     "license": "CC BY-SA 3.0"
-    },
-    {
      "file": "Voskopojë_St.Nikolaos_1.jpg",
      "author": "Wolfgang Sauber",
      "license": "CC BY-SA 4.0"
@@ -1582,6 +1872,11 @@
      "author": "Wolfgang Sauber",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: po domluvě se správcem/farářem",
+    "Vstup: zdarma / dobrovolný příspěvek",
+    "Klíč: shání se u místního správce v centru vesnice"
    ]
   },
   {
@@ -1633,6 +1928,11 @@
      "author": "Antonio p96",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: bez pevné doby, ověřit na místě",
+    "Vstup: zdarma",
+    "Povrch: poslední úsek ke klášteru nezpevněný"
    ]
   },
   {
@@ -1670,6 +1970,15 @@
      "author": "ANDREJ NEUHERZ",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "warning": "Většina trasy je bez mobilního signálu a bez čerpacích stanic; probíhající asfaltování úseku Potom–Backë (od července 2026) může trasu dočasně zúžit na jeden pruh nebo uzavřít – stav ověřte den předem.",
+   "note": "Vyjeďte nejpozději kolem poledne, ať máte i s pomalou jízdou a fotopauzami rezervu na dojezd do setmění (v září zapadá slunce kolem 18:40).",
+   "facts": [
+    "Povrch: štěrk/hlína, úsek Potom–Backë se v roce 2026 asfaltuje",
+    "Délka: cca 35–40 km mezi Vithkuqem a Çorovodë",
+    "Tempo: 1,5–2,5 h bez zastávek",
+    "Signál: žádný / velmi slabý",
+    "Palivo: natankujte předem, po trase nejsou pumpy"
    ]
   },
   {
@@ -1731,6 +2040,13 @@
      "author": "Pasztilla aka Attila Terbócs",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Západní strana okruhu vede skalnatým terénem těsně u vody – po dešti nebo při vyšším průtoku je brodění korytem rizikové, stav vody ověřte na místě.",
+   "facts": [
+    "Čas: okruh cca 5–6 h (18 km, ~500 m převýšení)",
+    "Náročnost: nenáročné, ale dlouhé",
+    "Voda: v polovině září nízký stav, studená",
+    "Výbava: pevná obuv nebo boty do vody"
    ]
   },
   {
@@ -1796,6 +2112,11 @@
      "author": "Grtek",
      "license": "CC BY-SA 3.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: volně přístupné, bez omezení",
+    "Vstup: zdarma",
+    "Klíč: není potřeba"
    ]
   },
   {
@@ -1861,6 +2182,13 @@
      "author": "malenki",
      "license": "CC BY 3.0"
     }
+   ],
+   "warning": "Bez průvodce reálně hrozí ztráta orientace v bočních chodbách jeskyně i v opuštěných vojenských tunelech – nechoďte tam sami.",
+   "note": "Tour rezervujte předem přes AAR.al (+355 67 200 6623, info@aar.al), cena cca 50 EUR/os. včetně přepravy, helmy, čelovky a oběda; sraz bývá na náměstí u radnice v Çorovodë.",
+   "facts": [
+    "Čas: 1–2 h jeskyně a tunely",
+    "Náročnost: nenáročné, ale vlhko a kluzko",
+    "Výbava: pevná obuv, vlastní čelovka jako záloha"
    ]
   },
   {
@@ -1888,6 +2216,26 @@
     {
      "label": "Wikimedia Commons – Category:Çorovodë",
      "url": "https://commons.wikimedia.org/wiki/Category:%C3%87orovod%C3%AB"
+    },
+    {
+     "label": "Çorovodë a Osum Canyon – cestovní průvodce",
+     "url": "https://albaniaaudiotours.com/p/corovode-en"
+    },
+    {
+     "label": "Osum Canyon – Nomads Travel Guide",
+     "url": "https://www.nomads-travel-guide.com/places/osumi-river-gorge/"
+    },
+    {
+     "label": "Rafting/tubing sezóna na Osumu",
+     "url": "https://www.raftingosumcanyon.com/"
+    },
+    {
+     "label": "Restaurace u Osum Canyon – Tripadvisor",
+     "url": "https://www.tripadvisor.com/RestaurantsNear-g801291-d4587533-Osum_Canyon_Kanioni_i_Osumit-Corovode_Berat_County.html"
+    },
+    {
+     "label": "Ubytování v Çerenishti nad kaňonem",
+     "url": "https://www.raftingosumcanyon.com/canyon-house"
     }
    ],
    "img": {
@@ -1926,7 +2274,19 @@
      "author": "Pasztilla aka Attila Terbócs",
      "license": "CC BY-SA 4.0"
     }
-   ]
+   ],
+   "note": "Çorovodë je poslední jisté místo s bankomatem a pumpou před výlety do kaňonu, jeskyně i na Tomorr – natankujte a vyberte hotovost tady.",
+   "facts": [
+    "Parkování: volně v centru/na náměstí",
+    "Bankomat: v centru (okresní město)",
+    "Pumpa: v centru, poslední jistá před kaňonem/Tomorrem"
+   ],
+   "city_parking": "Çorovodë je malé provinční město bez turistické infrastruktury parkovišť – parkuje se neformálně na hlavní ulici/centrálním náměstí, zdarma. Žádné placené ani vyhrazené parkoviště se v dostupných zdrojích nepodařilo dohledat, počítejte s běžným pouličním stáním jako v jakémkoliv malém albánském městě.",
+   "city_route": "Odpoledne: 1) Osmanský kamenný most Kasabashi přes řeku Osum – historická dominanta, volně přístupný. 2) Vyhlídky na kaňon Osumi u města (např. Gradec Bridge Viewpoint, Varishta Viewpoint) – volný přístup, počítejte 1–2 h podle toho, kolik vyhlídek stihnete. 3) Večer přesun do guesthousu v Çerenishti nad kaňonem, večeře tam nebo cestou v Çorovodë. Ráno pokračujete na Bogovë.",
+   "city_eat": "Summer Bar v Çorovodë – doporučovaný podnik ve městě. Restaurace u starého mostu Zaberzan nabízejí venkovskou kuchyni. Obecně jsou podniky v Çorovodë jednoduché a levné, cca 8–12 € za jídlo na osobu. Konkrétní otevírací doby se mi nepodařilo ověřit – doporučuji ověřit na místě nebo přes Google Maps před příjezdem.",
+   "city_see": "1) Osmanský most Kasabashi – zdarma, kdykoliv. 2) Vyhlídky na kaňon Osumi (Gradec, Varishta) – zdarma, přístupné za světla. Rafting/tubing na Osumu se v září (červen–listopad) provozuje jako tubing při nízkém stavu vody, ne rafting – pokud byste chtěli vodní aktivitu, je potřeba domluvit předem, na cestě to není naplánované.",
+   "city_shop": "Benzinovou pumpu (Kastrati či jinou) v samotné Çorovodë se mi navzdory opakovanému hledání nepodařilo v dostupných zdrojích potvrdit – doporučuji natankovat do plna ještě v Beratu nebo Ura Vajgurore pro jistotu, než pojedete do hor na Çerenisht a dál na Bogovë. Stejně tak přítomnost konkrétní banky/bankomatu, lékárny a obchodu ve městě se mi nepodařilo ověřit jmenovitě – zdroje jen obecně potvrzují, že Çorovodë má běžnou infrastrukturu malého okresního města (je sídlem municipality Skrapar). Doporučuji ověřit na Google Maps těsně před cestou nebo počítat s tím, že poslední jistá tankovací stanice je v Beratu.",
+   "city_local": "Çorovodë je klidné hornaté městečko bez nočního života – večer bude tichý, obzvlášť mimo hlavní sezónu raftingu. Parkování u guesthousu v Çerenishti nad kaňonem by mělo být v soukromém areálu (typicky nabízí i wifi a zahradu), bezpečnost by neměla být problém. Co překvapí: samotné město nemá výraznou architekturu ani turistický ruch, hlavní atrakcí je okolní příroda (kaňon), ne město samo."
   },
   {
    "id": "bogove",
@@ -1983,6 +2343,12 @@
      "author": "Orkido",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Čas: 30–45 min pěšky tam (1,6–2,5 km)",
+    "Náročnost: nenáročné, rovná cesta",
+    "Voda: 6–10 °C i v létě",
+    "Výbava: boty do vody, kameny jsou kluzké"
    ]
   },
   {
@@ -2009,7 +2375,12 @@
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "facts": [
+    "Otevřeno: bez pevné doby, mimo pouť (18.–25. 8.) klidné",
+    "Vstup: zdarma",
+    "Povrch: asfalt z Poliçanu, dál k vrcholu už štěrk"
+   ]
   },
   {
    "id": "turbe",
@@ -2055,6 +2426,13 @@
      "author": "malenki @ Mapillary.com",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Cesta z Ujaniku na vrchol má 989 m převýšení po štěrku se strmými serpentinami – bez zkušenosti s offroadem počítejte s pomalou jízdou v nejnižších rychlostních stupních a nechte si rezervu na návrat za světla (v září západ kolem 18:40, nahoře signál není).",
+   "note": "Pokud si na strmý úsek netroufnete autem, dá se poslední část dojít pěšky – i přes den je nahoře citelně chladněji, vezměte bundu.",
+   "facts": [
+    "Otevřeno: kdykoliv, volný přístup",
+    "Vstup: zdarma",
+    "Povrch: štěrk, ostré serpentiny, 8,7 km z Ujaniku"
    ]
   },
   {
@@ -2097,6 +2475,11 @@
      "author": "Klein Muçi",
      "license": "CC BY 4.0"
     }
+   ],
+   "facts": [
+    "Objednat: degustace vín Pulsi, Shesh i Zi, Kashmer",
+    "Cena: neuvedena, domluvit telefonicky",
+    "Otevřeno: po předchozí domluvě (+355 67 407 0562)"
    ]
   },
   {
@@ -2143,6 +2526,13 @@
      "author": "Hassanisawi",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "warning": "Přístupová cesta je úzká, plná výmolů a míjí se na ní protijedoucí minibusy s turisty – s vlastním Jimny jeďte pomalu a počítejte s couváním na výhybnu; po setmění se tudy nedoporučuje jezdit vůbec.",
+   "facts": [
+    "Čas: 20–30 min výstup na vyhlídku",
+    "Náročnost: nenáročné, ale rozbitá přístupová cesta",
+    "Koupání: zakázáno (zdroj pitné vody pro Tiranu)",
+    "Výbava: pevná obuv"
    ]
   },
   {
@@ -2204,6 +2594,11 @@
      "author": "BBB2021",
      "license": "CC BY-SA 4.0"
     }
+   ],
+   "facts": [
+    "Otevřeno: denně 9:00–17:00 (pokladny přestávají prodávat dřív, přijeďte do 16:30)",
+    "Vstup: v hotovosti v lecích, přesná částka na místě",
+    "Parkování: pod hradem / u bazaru"
    ]
   },
   {
@@ -2238,6 +2633,3238 @@
     "author": "malenki (via Mapillary)",
     "license": "CC BY-SA 4.0"
    },
+   "gallery": [],
+   "warning": "Poslední asfalt je v Ujaniku – dál na Tomorr je to čistě horský štěrk se serpentinami bez signálu. Naplánujte výjezd tak, abyste byli zpět na asfaltu před setměním (v září západ kolem 18:40).",
+   "facts": [
+    "Povrch: asfalt do vesnice, dál štěrk se serpentinami k Tomorru",
+    "Délka: 8,7 km na vrchol, převýšení 989 m",
+    "Tempo: autem cca 1–1,5 h nahoru, pěšky 3–5 h",
+    "Signál: chybí od vesnice výš",
+    "Palivo: žádná pumpa, natankujte v Poliçanu"
+   ]
+  },
+  {
+   "id": "zekate",
+   "name": "Dům Zekate",
+   "kind": "památka",
+   "what": "Zekate House je věžový dům z let 1811-1812, jeden z nejvýstavnějších příkladů gjirokastrijské osmanské architektury s typickou kamennou spodní částí a dřevěnými patry. Postavil ho Beqir Zeko, generální správce Ali Paši Tepelenského.",
+   "why": "Reprezentuje bohatství a status elitní rodiny na počátku 19. století a patří k nejlépe zachovaným tzv. kullám (věžovým domům) v Gjirokastře. Z horního patra je výhled na hrad a údolí řeky Drino.",
+   "experience": "Prohlídka trvá kolem 20-30 minut, obvykle s výkladem majitele nebo rodinného průvodce o historii domu a životě osmanské šlechty. Interiér zahrnuje reprezentační místnost s bohatě zdobeným stropem a nábytkem.",
+   "access": "Dům leží v horní části starého města Gjirokastra, přístup jen pěšky po dlažebních kamenech a schodech (auto k domu nedojede). Otevřeno denně přibližně od 8:00 do večera.",
+   "tips": "Vstupné cca 300 lek (3 EUR), platba pouze v hotovosti (eura akceptována). Kombinovat s návštěvou hradu a domu Skënduli, oba jsou v docházkové vzdálenosti.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra - The Zekate House",
+     "url": "https://visit-gjirokastra.com/article/the_zekate_house"
+    },
+    {
+     "label": "Tripadvisor - Zekate House",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g318867-d2341285-Reviews-Zekate_House-Gjirokaster_Gjirokaster_County.html"
+    }
+   ],
+   "img": {
+    "file": "Gjirokastër_–_Zekate_House_01_–_front.jpg",
+    "author": "Malenki",
+    "license": "CC BY-SA 4.0"
+   },
+   "gallery": []
+  },
+  {
+   "id": "skenduli",
+   "name": "Dům Skënduli",
+   "kind": "památka",
+   "what": "Skënduli House je osmanský měšťanský dům z 18.-19. století, dodnes ve vlastnictví rodiny Skënduli, která zde stále bydlí a provádí návštěvníky. Ukazuje typické uspořádání gjirokastrijského domu se zimní a letní částí.",
+   "why": "Na rozdíl od Zekate je tu prohlídka osobní - často provází přímo člen rodiny a vypráví rodinnou historii, což dává lepší představu o skutečném životě než čistě muzejní expozice.",
+   "experience": "Prohlídka s průvodcem zahrnuje obytné místnosti, kuchyň, hosťovský salon s malovanými stropy a výklad o zvycích (např. oddělený vstup pro hosty a rodinu). Trvá zhruba 20-30 minut.",
+   "access": "Dům se nachází v uličkách starého města, přístup pouze pěšky po dlažbě, mírné stoupání od centra. Otevírací doba přibližně 9:00-19:00, ale může se lišit podle sezóny a přítomnosti rodiny.",
+   "tips": "Vstupné s prohlídkou cca 200 lek (2 EUR) na osobu, hotovost. Dobré doplnit k domu Zekate, jsou pár minut chůze od sebe.",
+   "links": [
+    {
+     "label": "WhichMuseum - Skënduli House opening hours",
+     "url": "https://whichmuseum.com/museum/skenduli-house-gjirokastra-24510/opening-hours"
+    },
+    {
+     "label": "WhichMuseum - Skënduli House tickets",
+     "url": "https://whichmuseum.com/museum/skenduli-house-gjirokastra-24510/tickets-prices"
+    }
+   ],
+   "img": {
+    "file": "Skënduli House 25.jpg",
+    "author": "JoraKasapi (JoraK)",
+    "license": "CC BY-SA 4.0"
+   },
+   "gallery": []
+  },
+  {
+   "id": "tunel",
+   "name": "Tunel studené války",
+   "kind": "památka",
+   "what": "Podzemní bunkr postavený počátkem 70. let jako úkryt pro místní stranické a vládní představitele v případě jaderného útoku. Má 800 m chodeb a 59 místností včetně zasedací síně a místnosti nejvyššího funkcionáře.",
+   "why": "Dokládá paranoiu Hodžova komunistického režimu a rozsah bunkrové infrastruktury budované po celé Albánii; dnes funguje jako muzeum studené války s dobovými exponáty (plynové masky, generátor, nábytek).",
+   "experience": "Vstup je poblíž budovy radnice (bývalé sídlo stranického výboru). Prohlídka je s průvodcem, trvá cca 20-30 minut a odchází přibližně každou hodinu.",
+   "access": "Vchod je přímo ve městě, bezbariérový přístup do tunelu není, uvnitř chladno a vlhko - vhodná obuv a vrstva navíc. V sezóně (duben-říjen) otevřeno 9:00-18:00, mimo sezónu (listopad-březen) 8:00-14:00.",
+   "tips": "Vstupné 200 lek (cca 2 EUR) na osobu. Dobré zkombinovat s prohlídkou hradu, který je od tunelu jen kousek pěšky.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra - The Cold War Tunnel",
+     "url": "https://visit-gjirokastra.com/article/the_cold_war_tunnel"
+    },
+    {
+     "label": "In Your Pocket - Cold War Tunnel",
+     "url": "https://www.inyourpocket.com/gjirokastra/cold-war-tunnel_169914v"
+    }
+   ],
+   "img": {
+    "file": "Meeting Room in Cold War Tunnel - Gjirokastra - Albania (40628981790).jpg",
+    "author": "Adam Jones",
+    "license": "CC BY-SA 2.0"
+   },
+   "gallery": []
+  },
+  {
+   "id": "antigonea",
+   "name": "Antigonea",
+   "kind": "památka",
+   "what": "Antické město založené kolem roku 295 př. n. l. epirským králem Pyrrhem, pojmenované po jeho první manželce Antigoně. Dnes park s pozůstatky hradeb, akropole a domu s peristylem (sloupovým nádvořím).",
+   "why": "Patří k nejvýznamnějším antickým lokalitám jižní Albánie a nabízí výhled do celého údolí Drino - kombinace archeologie a krajiny, kterou v regionu jinde nenajdete.",
+   "experience": "Volná prohlídka ruin po naučné stezce, k vidění základy domů, opevnění a malé muzeum/expozice u vstupu. Terén v areálu je nerovný a svažitý, potřeba pevná obuv.",
+   "access": "Park leží asi 14 km východně od Gjirokastry u vesnice Saraqinisht, přístup autem po silnici se směrovkami, parkoviště u vstupu a odtud krátká procházka k ruinám na kopci. Otevřeno ve všední dny 8:00-16:00, o víkendech 9:00-15:00.",
+   "tips": "Vstupné cca 300 lek (2-3 EUR), mimo sezónu bývá pokladna neobsazená a vstup volný. Vezměte vodu a pokrývku hlavy, na místě není stín.",
+   "links": [
+    {
+     "label": "Nomads Travel Guide - Antigonea",
+     "url": "https://www.nomads-travel-guide.com/places/antigonea/"
+    },
+    {
+     "label": "Tripadvisor - Antigonea Archaeological Park",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g318867-d19807780-Reviews-Antigonea_Archaeological_Park-Gjirokaster_Gjirokaster_County.html"
+    }
+   ],
+   "img": {
+    "file": "Antigonea Archaeological Park.jpg",
+    "author": "InaMyrtollari",
+    "license": "CC BY-SA 4.0"
+   },
+   "gallery": []
+  },
+  {
+   "id": "tomorr",
+   "name": "Hora Tomorr",
+   "kind": "příroda",
+   "what": "Tomorr je s vrcholem Çuka e Partizanit vysoký 2 416–2 417 m, nejvyšší hora střední Albánie, chráněná jako Národní park Tomorr (cca 4 000 ha, dle jiných zdrojů 24,7 km² samotného vrcholu). Žijí tu balkánští rysi, vlci, medvědi a orli skalní. Leží asi 25 km jihovýchodně od Beratu a je z něj vidět prakticky z celého města.",
+   "why": "V albánském folkloru je hora zosobněná jako Baba Tomor, starý obr s bílým vousem a čtyřmi orlicemi kroužícími nad hlavou — otec bohů a lidí. Bere se jako sídlo nebeského boha Perëndi/Zojze (indoevropský předek stejného kořene jako Zeus), takže se jí přezdívá „albánský Olymp“. Je to zároveň nejnavštěvovanější posvátné místo v zemi, uctívané souběžně bektaši, muslimy i křesťany.",
+   "experience": "Na jižním vrcholu stojí tyrbe (mauzoleum) Abbase Aliho z roku 1620 a vedle tekke bektašiů z roku 1916, kam každý rok 20.–25. srpna putují tisíce poutníků z Albánie, Kosova, Makedonie i diaspory — obětují ovce, malují si čelo obětní krví a zapalují svíčky. 15. srpna sem chodí i křesťané uctít Pannu Marii. Mimo poutní dny je hora klidná, jen s pastevci a turisty.",
+   "access": "Z Beratu vede na horu nezpevněná horská cesta vhodná pro terénní auto (Jimny bez problému), poslední úsek k tyrbe je pak pěšky. Počítejte s celodenním výletem s výhledy na celou jižní Albánii.",
+   "tips": "Mimo pouť (20.–25. 8.) je nahoře prázdno — v září tedy klid, ale i menší šance potkat místní se vyptat na cestu. Vezměte vrstvy oblečení, nahoře i v září fouká a je citelně chladněji než v Beratu.",
+   "links": [
+    {
+     "label": "Wikipedia – Tomorr",
+     "url": "https://en.wikipedia.org/wiki/Tomorr"
+    },
+    {
+     "label": "national-parks.org – Tomorr Mountain National Park",
+     "url": "https://national-parks.org/albania/tomorr-mountain-national-park/"
+    },
+    {
+     "label": "Kryegjyshata Bektashiane – The Tomorr Mountain and the Footprint of Abbas Ali",
+     "url": "https://kryegjyshataboterorebektashiane.org/en/the-tomorr-mountain-and-the-footprint-of-abbas-ali/"
+    },
+    {
+     "label": "Wikipedia – Baba Tomor",
+     "url": "https://en.wikipedia.org/wiki/Baba_Tomor"
+    },
+    {
+     "label": "Wikipedia – Perëndi",
+     "url": "https://en.wikipedia.org/wiki/Per%C3%ABndi"
+    },
+    {
+     "label": "Tirana Times – Albanians seek healing at Mount Tomor pilgrimage",
+     "url": "https://www.tiranatimes.com/albanians-seek-healing-good-luck-at-annual-mount-tomor-pilgrimage/"
+    }
+   ],
+   "img": {
+    "file": "Mali i Tomorrit.jpg",
+    "author": "Ditty ch4",
+    "license": "CC BY-SA 4.0"
+   },
+   "gallery": []
+  },
+  {
+   "id": "roshnik",
+   "name": "Roshnik a Alpeta",
+   "kind": "jídlo",
+   "what": "Roshnik je jedna z nejstarších vesnic u Beratu (ležela na trase antické Via Egnatia), asi 10 km od města, v mírném podnebí příznivém pro vinice po celý rok. Roste tu prakticky jediné místo v Albánii, kde se pěstuje autochtonní bílá odrůda Pulës (Shesh i Bardhë) — místní ji pěstují už zhruba tisíc let.",
+   "why": "Vinařství Alpeta založila v roce 1994 rodina Fiska a vede ho tradičními metodami. Kromě mezinárodních odrůd (Merlot, Cabernet Sauvignon) na jejich hlavní bílé víno a'Roshniku jde právě z hroznu Pulës — s tóny žlutého ovoce, citrusů a žlutých květů. Nedaleko funguje i konkurenční Çobo Winery, takže Roshnik má dnes nálepku malé vinařské oblasti Beratu.",
+   "experience": "Degustace v Alpetě zahrnuje procházku vinicí, návštěvu palírny, výklad o výrobě a ochutnávku tří vín plus dvou druhů rakije s naservírovanými zákusky; trvá 1,5–2 hodiny a stojí kolem 2000 lek (~20 €) na osobu. Rezervace jde přes WhatsApp nebo online formulář na webu vinařství.",
+   "access": "Z Beratu autem cca 15–20 minut po silnici do kopce, terén zvládne i běžné auto, Jimny tím spíš. Vinařství je součástí agroturistiky, takže je možné kombinovat degustaci s procházkou po vesnici.",
+   "tips": "V polovině září by měl probíhat sběr hroznů (harvest) — stojí za to zeptat se předem, jestli lze návštěvu načasovat na tuto sezónu, bývá to atraktivnější než jen degustace. Rezervovat předem, kapacita je omezená a bez rezervace může být zavřeno.",
+   "links": [
+    {
+     "label": "Alpeta – The Winery",
+     "url": "https://alpeta.al/the-winery/"
+    },
+    {
+     "label": "Wikipedia – Roshnik",
+     "url": "https://en.wikipedia.org/wiki/Roshnik"
+    },
+    {
+     "label": "TripAdvisor – Alpeta Agrotourism & Winery",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g469422-d14996885-Reviews-Alpeta_Agrotourism_Winery-Berat_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "berat",
+   "name": "Berat",
+   "kind": "město",
+   "what": "Berat je zapsaný na seznamu UNESCO jako „město tisíce oken“ díky dvěma osmanským čtvrtím po obou stranách řeky Osum — tradičně muslimský Mangalem pod hradem na jižní straně a křesťanská Gorica na severní straně, propojené kamenným mostem. Nad městem se tyčí hrad (Kalaja e Beratit), uvnitř kterého se dodnes běžně bydlí — je to obydlená citadela, ne muzeum pod širým nebem.",
+   "why": "Uvnitř hradu stojí kostel Sv. Marie (Kisha e Shën Mërisë), kde sídlí muzeum ikon Onufri — nejvýznamnější sbírka byzantsko-albánské ikonopisecké školy 16. století, pojmenovaná po malíři Onufrim. Kombinace obydlené pevnosti, ikon a dvou historických čtvrtí dělá z Beratu jedno z nejucelenějších měst na architektonickou i náboženskou historii jižní Albánie.",
+   "experience": "Muzea (Onufri i etnografické muzeum v Mangalemu) mají v květnu–září otevřeno denně 9–18 h, mimo sezónu út–so 9–16 h a ne 10–15 h. Vstup do samotného hradu stojí cca 300 lek, do muzea Onufri 400 lek (děti do 12 let zdarma, studenti 12–18 let 120 lek). Na prohlídku hradu, muzea Onufri a procházku Mangalem–most–Gorica stačí soustředěné dopoledne, cca 3–4 hodiny.",
+   "access": "Auto lze nechat na parkovišti pod hradem nebo přímo v Mangalemu; k hradu vede dlážděná, ale strmá cesta — pěšky zvládnutelná, autem (i Jimny) sjízdná po úzké klikaté silnici až k bráně. Gorica je od Mangalemu 5–10 minut chůze přes most.",
+   "tips": "Přijet co nejdřív ráno — hrad i uličky Mangalemu se přes den plní autobusovými zájezdy. Pokud chcete vidět i uvnitř obydlené domy v hradu, jde o soukromé pozemky, chovejte se ohleduplně k místním obyvatelům.",
+   "links": [
+    {
+     "label": "Qendra Muzeore Berat – Visit (hodiny, ceny)",
+     "url": "https://muzeumet-berat.al/en/visit/"
+    },
+    {
+     "label": "Lovealbania – Berat Castle guide",
+     "url": "https://lovealbania.al/berat-castle-albania/"
+    },
+    {
+     "label": "Albania Spirit – Berat Travel Guide",
+     "url": "https://www.albania-spirit.com/destinations/berat/"
+    },
+    {
+     "label": "Parkování Mangalem/Gorica – Mindtrip",
+     "url": "https://mindtrip.ai/attraction/berat-albania/gorica-parking/at-YebRCJoU"
+    },
+    {
+     "label": "Parkování Berat – přehled",
+     "url": "https://www.parkingmama.com/locations/berat-parking/"
+    },
+    {
+     "label": "Hrad Kalaja – vstupné a hodiny",
+     "url": "https://theendlesstravellers.com/visiting-berat-castle/"
+    },
+    {
+     "label": "Onufri a Etnografické muzeum – hodiny (WhichMuseum)",
+     "url": "https://whichmuseum.com/museum/onufri-iconographic-museum-berat-24523/opening-hours"
+    },
+    {
+     "label": "Snídaně a kavárny v Beratu",
+     "url": "https://www.thebalkanguide.com/eating-out/berat-restaurants/"
+    },
+    {
+     "label": "Nejlepší snídaně v Beratu – Castle Park",
+     "url": "https://castle-park.com/the-best-breakfast-in-berat/"
+    }
+   ],
+   "img": {
+    "file": "Kalaja e Beratit.jpg",
+    "author": "Desarashimi1",
+    "license": "CC BY-SA 3.0"
+   },
+   "gallery": [],
+   "city_parking": "Do čtvrtí Mangalem a Gorica (památkové UNESCO zóny) se autem nevjíždí prakticky vůbec – ulice jsou úzké dlážděné uličky do kopce. Zaparkujte na okraji Mangalemu poblíž hlavního mostu přes Osum (Ura e Goricës) nebo na bulváru v nové části města (bezplatné/neformální). V Gorice existuje placené parkoviště na Rruga Kristaq Tutulani (cca 500 lek/den), ale recenze zmiňují obavy o bezpečnost vozidla přes noc – pro krátkou ranní zastávku ho není potřeba řešit. Bezplatné parkování je i u vstupu do hradu (Kalaja) nahoře, pokud byste tam jeli autem po silnici – ale s 1,5 h na místě se tam nevyplatí.",
+   "city_route": "Jste ve městě jen 8:45–10:15 (1,5 h), na hrad ani pořádnou procházku Goricou čas nevychází. 1) Zaparkujte u mostu přes Osum, projděte pár minut na most/nábřeží pro klasický pohled na Mangalem – 'město tisíce oken' (10 min, ranní světlo je na fotky ideální). 2) Krátká procházka do spodní části Mangalemu, dlážděné uličky, staré domy (20–30 min). 3) Rychlá snídaně/káva (viz níže) 20–30 min. 4) Zpět k autu a na letiště. Hrad (Kalaja) i muzea vynechte – výstup nahoru a zpět zabere přes hodinu, na to čas nemáte.",
+   "city_eat": "Byrektore (pekárny s byrekem) na hlavním bulváru otevírají už od cca 7:00 – nejrychlejší a nejlevnější snídaně (cca 1–3 €), typicky vyprodáno do dopoledne. Bibo – italská kavárna na okraji starého města, dobrá káva. Hotel Castle Park má hodnocenou snídani, ale je to spíš pro hotelové hosty a zabere víc času. Restaurant Onufri (u Národního muzea) je spíš na oběd, ráno v 9 h asi nebude plně v provozu – neplánujte na něj čas.",
+   "city_see": "1) Pohled na Mangalem z mostu přes Osum – zdarma, kdykoliv, hlavní 'must-see' fotka Beratu. 2) Krátký průchod dolní částí Mangalemu – zdarma. 3) Hrad Kalaja (300 lek, pokladna 9–18 h) a muzea (Onufri ikonografické, Etnografické – v sezóně 9–18 h) – reálně nestihnete kvůli časové tísni, nechte je na případnou návštěvu ve středu večer, pokud byste přece jen nespali v Roshniku.",
+   "city_shop": "Berat je známý místním vínem (odrůda Shesh) a olivovým olejem – prodejny na bulváru v nové části města. Byrek na cestu z pekáren zmíněných výše. Bankomaty a lékárny jsou podél hlavního bulváru v nové (ne historické) části města. Konkrétní benzinovou pumpu v Beratu se mi nepodařilo v dostupných zdrojích ověřit – doporučuju natankovat předem (např. cestou z Roshniku nebo ještě v Çorovodë/Ura Vajgurore) pro jistotu.",
+   "city_local": "Ráno kolem 9 h je ve starém městě klid, minimum turistů a davů – ideální čas na fotky bez lidí, které přes den zaplaví autobusové zájezdy. Bezpečnost parkování na okraji města není problém, jde o běžnou turistickou lokalitu. Alternativa: pokud by se ve středu 23. 9. nespalo v Roshniku a strávili byste středeční večer v Beratu, doporučuji tento čas využít na hrad a muzea, protože ranní okno ve čtvrtek na ně nestačí."
+  },
+  {
+   "id": "stop-akuadukti-i-bences",
+   "name": "Akvadukt Bënça",
+   "kind": "památka",
+   "day": "Pá",
+   "detour": "+5 min od Bënçë (2 km severně po řece)",
+   "time": "20–30 min",
+   "what": "Kamenný akvadukt z 19. století s cca 20 oblouky, který přiváděl vodu z řeky Bënça do tepelenského hradu. Stojí asi 2 km severně od vesnice Bënçë.",
+   "why": "Nenápadná, ale technicky zajímavá ukázka osmanského vodohospodářství, navíc přímo na trase Tepelenë–Bënçë, takže prakticky bez zajížďky.",
+   "experience": "Krátká zastávka na fotku, dá se sejít i k řece pod obloukem.",
+   "access": "Odbočka ze silnice těsně za/před Bënçë, poslední úsek pěšky/terénním autem po nezpevněné cestě podél řeky.",
+   "tips": "Kombinovat s Uji i Ftohtë, je to v podstatě po cestě.",
+   "links": [
+    {
+     "label": "Nomads Travel Guide – Benca Aqueduct",
+     "url": "https://www.nomads-travel-guide.com/places/benca-aqueduct/"
+    },
+    {
+     "label": "In Your Pocket – Bënça Aqueduct",
+     "url": "https://www.inyourpocket.com/albania/tepelena/venues/benca-aqueduct"
+    },
+    {
+     "label": "cult2routes.al – Akuadukti i Bençës",
+     "url": "https://cult2routes.al/multimedia/akuadukti-i-benc%CC%A7es/?lang=en"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Bença aqueduct Albania",
+    "Akuadukti i Bençës Tepelenë"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-lumi-i-bences",
+   "name": "Řeka Bënça – koupání/canyoning",
+   "kind": "koupání",
+   "day": "Pá",
+   "detour": "+0 min (na trase u vesnice Bënçë)",
+   "time": "30–60 min",
+   "what": "Řeka Bënça teče hlubokým, cca 15km dlouhým kaňonem s čistou vodou těsně před soutokem s Vjosou u Tepelenë. Používá se i na packrafting.",
+   "why": "Rychlé osvěžení uprostřed přejezdu, voda je čirá a chladná, kaňon fotogenický.",
+   "experience": "Divoké koupací tůně, o víkendu skoro liduprázdné.",
+   "access": "Sjezd k řece z vesnice Bënçë, poslední kus terénem.",
+   "tips": "Voda je horská – studená i v září.",
+   "links": [
+    {
+     "label": "Albania Rafting Group – Bënça River, Tepelenë",
+     "url": "https://www.albrafting.org/blog/benca-rivertepelene-albania"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Bença river Albania canyon",
+    "Lumi i Bençës Tepelenë"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-ura-e-dragotit",
+   "name": "Most Dragoti (Ura e Dragotit)",
+   "kind": "cesta",
+   "day": "Pá",
+   "detour": "+10–15 min od Tepelenë (přesnou vzdálenost ověřit na místě)",
+   "time": "15–20 min",
+   "what": "110 m dlouhý ocelový příhradový (Baltimore truss) most z roku 1936 přes Vjosu u vesnice Dragot, postavený italskými inženýrskými studenty.",
+   "why": "Nejstarší dochovaná ocelová konstrukce svého druhu v regionu a fotogenický pohled na divokou Vjosu.",
+   "experience": "Zastávka na fotku, možnost sejít k řece pod mostem.",
+   "access": "Silnice k vesnici Dragot v okolí Tepelenë, terénní vůz doporučen na poslední úsek.",
+   "tips": "Ověřit aktuální stav mostu (starší konstrukce, možná omezení průjezdu).",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – Dragoti Bridge",
+     "url": "https://www.visit-gjirokastra.com/see-and-do/dragoti-bridge-tepelena/"
+    },
+    {
+     "label": "Wikidata – Dragoti Bridge",
+     "url": "https://www.wikidata.org/wiki/Q85213779"
+    }
+   ],
+   "img": {
+    "file": "Uradragotit.jpg",
+    "author": "Gitikolasi",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Ura e Dragotit Vjosa",
+    "Dragoti bridge Albania"
+   ],
+   "gallery": [
+    {
+     "file": "Iron_Bridge_culford.jpg",
+     "author": "Qazwsx777",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Jekleni_most_pri_Radečah_(Iron_bridge_on_Sava_river_at_Radeče;_IG._GRIDL_fabrik,_1894).jpg",
+     "author": "Petar Milošević",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Lake_Tawakoni_Iron_Bridge_Dam_in_East_Texas.jpg",
+     "author": "Matthew T Rader",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Stari_most_pri_Brežicah_(Old_Bridge_at_Brežice,_Slovenia).jpg",
+     "author": "Petar Milošević",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-kalaja-e-nivices",
+   "name": "Hrad Nivica",
+   "kind": "památka",
+   "day": "Pá",
+   "detour": "+0 min (přímo u kaňonu Nivica)",
+   "time": "20–30 min navíc k návštěvě kaňonu",
+   "what": "Ilyrská pevnost (dle historika Pouquevilla stavěná kmenem Amantů ve 4. stol. př. n. l., přestavěná za Justiniána) na skalním ostrohu obklopeném ze tří stran 200–400 m hlubokým kaňonem Nivica.",
+   "why": "Přirozeně nedobytná poloha dává skvělý výhled do kaňonu, logicky navazuje na už plánovanou návštěvu kaňonu a Peshtury.",
+   "experience": "Procházka mezi zbytky hradeb, výhledy do propasti na obě strany.",
+   "access": "Pěšky od vesnice Nivica/kempu, značené i neznačené pěšiny.",
+   "tips": "Dobré místo na piknik, opatrně u okrajů kaňonu (bez zábradlí).",
+   "links": [
+    {
+     "label": "In Your Pocket – Nivica Castle & Canyon",
+     "url": "https://www.inyourpocket.com/tepelena/nivica-castle-canyon_170067v"
+    },
+    {
+     "label": "Due Mari Virtual Tours – Nivica Village and Castle",
+     "url": "https://duemarivirtualtours.com/-/nivica-village-and-castle"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Kalaja e Nivices",
+    "Nivica castle Kurvelesh"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-fshati-gusmar",
+   "name": "Vesnice Gusmar",
+   "kind": "vesnice",
+   "day": "Pá",
+   "detour": "+15–20 min od Progonatu/Nivicë",
+   "time": "20–30 min",
+   "what": "Horská vesnice Kurveleshe (931 m n. m.), sousedící s Rexhinem a Nivicou, tradičně proslulá vlnářskými výrobky a řezbářstvím.",
+   "why": "Doplňuje obraz Kurveleshe o řemeslnou vesnici mimo hlavní turistický bod (Nivica), typické kamenné domy.",
+   "experience": "Procházka vesnicí, případně nákup místních vlněných/dřevěných suvenýrů.",
+   "access": "Horská silnice v rámci sítě vesnic Kurveleshe, terénní vůz vhodný.",
+   "tips": "Bez zaručené otevírací doby dílen – spíš procházka a kontakt s místními.",
+   "links": [
+    {
+     "label": "Wikipedia – Kurvelesh, Tepelenë",
+     "url": "https://en.wikipedia.org/wiki/Kurvelesh,_Tepelen%C3%AB"
+    },
+    {
+     "label": "Mapcarta – Gusmar",
+     "url": "https://mapcarta.com/18716522"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Gusmar village Albania",
+    "Gusmar Kurvelesh"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-fshati-rexhin",
+   "name": "Vesnice Rexhin",
+   "kind": "vesnice",
+   "day": "Pá",
+   "detour": "+15 min od Nivicë",
+   "time": "20–30 min",
+   "what": "Vesnice Kurveleshe (817 m n. m.) proslulá domácím sýrem, který se servíruje s domácím chlebem a zeleninou v místních guesthousech.",
+   "why": "Chuťová zastávka spojující krajinu Kurveleshe s místní gastronomií, alternativa/doplněk k Lushnjë byrek.",
+   "experience": "Ochutnávka sýra přímo u výrobce nebo v guesthousu, výhledy do kaňonu.",
+   "access": "Horská silnice mezi Nivicë a Progonatem.",
+   "tips": "Domluvit ochutnávku předem přes guesthouse (Guesthouse on Canyon v okolí).",
+   "links": [
+    {
+     "label": "Wikipedia – Rexhin",
+     "url": "https://en.wikipedia.org/wiki/Rexhin"
+    },
+    {
+     "label": "Balkan Insight – What we call Kashkaval is Just a Mess",
+     "url": "https://balkaninsight.com/2016/03/04/what-we-call-kashkaval-is-just-a-mess-03-03-2016/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Rexhin Albania village",
+    "Rexhini Kurvelesh"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-fshati-lekdush",
+   "name": "Vesnice Lekdush",
+   "kind": "vesnice",
+   "day": "Pá",
+   "detour": "+15 min od Progonatu",
+   "time": "20 min",
+   "what": "Nejvýše položená vesnice v okolí (995 m n. m.), výchozí bod turistických stezek Kurveleshe, blízko vodopádu Peshtura.",
+   "why": "Rozšiřuje zastávku u Peshtury o krátkou procházku vesnicí s výhledy na okolní hory.",
+   "experience": "Klidná horská vesnice, začátek/konec túry k Peshtuře.",
+   "access": "Odbočka ze silnice Progonat–Nivicë.",
+   "tips": "Dobré místo na rozcvičku nohou před/po sestupu k vodopádu.",
+   "links": [
+    {
+     "label": "Wikiloc – Hiking Trails in Lekdush",
+     "url": "https://www.wikiloc.com/trails/hiking/albania/gjirokaster/lekdush"
+    },
+    {
+     "label": "Mapcarta – Lekdush",
+     "url": "https://mapcarta.com/18715612"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Lekdush Albania",
+    "Lekdush Kurvelesh village"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-fshatrat-golem-kolonje",
+   "name": "Vesnice Golem a Kolonjë",
+   "kind": "vesnice",
+   "day": "So",
+   "detour": "+0 min (přímo na trase Nivicë–Golem–Kolonjë)",
+   "time": "20–30 min",
+   "what": "Golem je nejodlehlejší a nejvýše položená vesnice Gjirokasterského distriktu (1100 m n. m.), 7 km od ní leží Kolonjë. Obě patří ke komuně Picar a jsou známé tradicemi a pohostinností.",
+   "why": "Trasa Golem–Kolonjë je už v plánu jako scenérie, ale zastavení přímo ve vesnicích přidá kontakt s místními a rozhled po hraničním pásmu čtyř okresů.",
+   "experience": "Procházka vesnicí, možnost pozdravu/kávy u místních, širé horské panorama.",
+   "access": "Horská silnice, doporučen terénní vůz, bez asfaltu na části úseku.",
+   "tips": "Ptát se v Nivicë na aktuální sjízdnost – v zimě/po dešti bývá úsek náročný.",
+   "links": [
+    {
+     "label": "RTSH – Golemi i Kurveleshit, mes traditave dhe turizmit",
+     "url": "https://rtsh.al/golemi-i-kurveleshit-mes-traditave-dhe-turizmit/"
+    },
+    {
+     "label": "Wikipedia – Kurvelesh (region)",
+     "url": "https://en.wikipedia.org/wiki/Kurvelesh_(region)"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Golemi Kurvelesh Albania",
+    "Kolonjë village Gjirokastër"
+   ],
+   "gallery": [
+    {
+     "file": "Golemi_pamje_nga_drone_Studio_Golemi.jpg",
+     "author": "Xrhstos mehilli",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-zhulat-fshati",
+   "name": "Zhulat (ekovesnice)",
+   "kind": "vesnice",
+   "day": "So",
+   "detour": "+20–25 min od Gjirokastru (14 km)",
+   "time": "45–60 min",
+   "what": "Vesnice 14 km východně od Gjirokastru s tradičními kamennými domy s břidlicovými střechami; ve středověku zde žil Papa Zhuli, autor kanunu Labërie.",
+   "why": "Autentická horská vesnice mimo turistický ruch centra, propagovaná jako 'ekovesnice' pro pěší výlety do okolí.",
+   "experience": "Procházka mezi kamennými domy, možnost krátké turistiky do okolních kopců.",
+   "access": "Odbočka z hlavní silnice na východ od Gjirokastru, poslední úsek užší horská cesta.",
+   "tips": "Vhodné kombinovat s Antigoneou, je to podobným směrem.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – Zhulat Village",
+     "url": "https://visit-gjirokastra.com/article/zhulat_village"
+    },
+    {
+     "label": "Wikipedia – Zhulat",
+     "url": "https://en.wikipedia.org/wiki/Zhulat"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Zhulat village Albania",
+    "Zhulat Gjirokastër"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-ura-e-kordhoces",
+   "name": "Most Kordhocë",
+   "kind": "památka",
+   "day": "So",
+   "detour": "+10 min od Gjirokastru (2 km jižně)",
+   "time": "20 min",
+   "what": "Osmanský kamenný obloukový most z cca 1820 přes řeku Drino, 20 m dlouhý, 3,7 m široký, kdysi hlavní spojnice Gjirokastru, Libohovë a Janiny.",
+   "why": "Rychlá a snadno dostupná alternativa/doplněk k mostu Ali Pasha, méně navštěvovaná, dobrá pro fotky s hradem v pozadí.",
+   "experience": "Procházka k mostu a pod ním, klidné místo u řeky.",
+   "access": "Silnice z Gjirokastru směr Kordhocë, možnost dojet autem téměř k mostu.",
+   "tips": "Kombinovat s Antigoneou nebo Kardhiq, leží podobným směrem.",
+   "links": [
+    {
+     "label": "Wikipedia – Kordhocë bridge",
+     "url": "https://en.wikipedia.org/wiki/Kordhoc%C3%AB_bridge"
+    },
+    {
+     "label": "Adria Fun – Ottoman bridges in Gjirokaster: Ali Pasha and Kordhoca",
+     "url": "https://adria.fun/en/ottoman-bridges-in-gjirokaster-ali-pasha-and-kordhoca/"
+    }
+   ],
+   "img": {
+    "file": "Ura e Kordhoces Gjirokaster.jpg",
+    "author": "Gjirokastra1",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Ura e Kordhoces Gjirokaster",
+    "Kordhocë bridge Drino"
+   ],
+   "gallery": [
+    {
+     "file": "Gjirokastra_Stone_Bridge.jpg",
+     "author": "Albinfo",
+     "license": "CC0"
+    },
+    {
+     "file": "Kordhoce_bridge,_Albania.jpg",
+     "author": "Christoph Strässler",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Nekolik_set_let_stary_turecky_most_pres_Drinos,_v_pozadi.jpg",
+     "author": "Martin Brož",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Roman_Bridge_-_panoramio.jpg",
+     "author": "Stanisław Ludwiński",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Roman_Bridge_-_panoramio_(1).jpg",
+     "author": "Stanisław Ludwiński",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-akuadukti-ali-pashes-dunavat",
+   "name": "Akvadukt Ali Paši (Dunavat)",
+   "kind": "památka",
+   "day": "So",
+   "detour": "+0 min (30 min pěšky z centra Gjirokastru)",
+   "time": "45–60 min (tam a zpět pěšky)",
+   "what": "16 m vysoký, 40 m dlouhý kamenný akvaduktový most ve čtvrti Dunavat – dochovaný úsek akvaduktu, který od roku 1812–13 přiváděl vodu z hory Sopot (10 km) do cisteren hradu. Zbořen 1932, tento úsek přežil.",
+   "why": "Off-the-beaten-path výhled na Gjirokastr z jiného úhlu než z hradu, malá turistická procházka mezi jinými body ve městě.",
+   "experience": "Pěší okruh čtvrtí Dunavat s výhledem na kamenné domy a hrad.",
+   "access": "Pěšky z centra, cca 30 min chůze, značeno místními turistickými značkami.",
+   "tips": "Dobré na podvečer, kdy je hrad už zavřený.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – Ali Pasha Bridge",
+     "url": "https://www.visit-gjirokastra.com/see-and-do/ali-pasha-bridge/"
+    },
+    {
+     "label": "Nomads Travel Guide – Ali Pasha Bridge (Dunavat)",
+     "url": "https://www.nomads-travel-guide.com/places/dunavat-bridge/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Ali Pasha bridge Gjirokastër Dunavat",
+    "Ura e Ali Pashes Gjirokaster"
+   ],
+   "gallery": [
+    {
+     "file": "Gjirokastra_–_Ura_e_Ali_Pashës_-_Mapillary_(n3MZxlDHs6RRpr5t1uLaAw).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Pont_dit_d'Ali_Pacha,_vestige_de_l'aqueduc_de_Gjirokastër.jpg",
+     "author": "Benjamin Pepiot",
+     "license": "CC BY 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-muzeu-etnografik-gjirokastres",
+   "name": "Etnografické muzeum (dům Envera Hoxhi)",
+   "kind": "památka",
+   "day": "So",
+   "detour": "+0 min (v centru, čtvrť Palorto)",
+   "time": "45–60 min",
+   "what": "Muzeum postavené 1964–66 na místě rodného domu Envera Hoxhi (původní dům shořel); uvnitř ale není nic z Hoxhova majetku – interiéry replikují typický gjirokastrský dům 19. století na čtyřech patrech.",
+   "why": "Nejlepší způsob, jak si prohlédnout typický interiér gjirokastrského kamenného domu zevnitř, doplňuje prohlídku domů Zekate a Skënduli o kontext běžného bydlení.",
+   "experience": "Prohlídka místností s dobovým nábytkem, textilem a řezbami.",
+   "access": "V centru Gjirokastru, čtvrť Palorto, pár minut pěšky od hradu.",
+   "tips": "Kombinovat rovnou s domem Zekate a Skënduli – jsou v okolí.",
+   "links": [
+    {
+     "label": "Wikipedia – Ethnographic Museum of Gjirokastër",
+     "url": "https://en.wikipedia.org/wiki/Ethnographic_Museum_of_Gjirokast%C3%ABr"
+    },
+    {
+     "label": "Visit Gjirokastra – The Ethnographic Museum",
+     "url": "https://visit-gjirokastra.com/article/the_ethnographic_museum"
+    }
+   ],
+   "img": {
+    "file": "Shtepia e Enver Hoxhes - Muzeu Etnografik 3.JPG",
+    "author": "Tori Oseku",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Muzeu Etnografik Gjirokastër",
+    "Ethnographic Museum Gjirokaster house"
+   ],
+   "gallery": [
+    {
+     "file": "Ethnographic_Museum_of_Gjirokaster_11.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ethnographic_Museum_of_Gjirokaster_13.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ethnographic_Museum_of_Gjirokaster_25.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Ethnographic_Museum_of_Gjirokaster_31.jpg",
+     "author": "JoraKasapi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Gjirokastra_-_Enver_Hoxhas_Geburtshaus_und_Museum.jpg",
+     "author": "Malenki",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Muzeu_Etnografik,_Gjirokastër.JPG",
+     "author": "Inaina21",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-xhamia-e-pazarit",
+   "name": "Bazárová mešita (Xhamia e Pazarit)",
+   "kind": "památka",
+   "day": "So",
+   "detour": "+0 min (v centru starého bazaru)",
+   "time": "15–20 min",
+   "what": "Mešita Memi Bey z roku 1757 ve starém bazaru Gjirokastru, jedna ze 13 mešit dochovaných z osmanského období; za komunismu přežila díky využití pro kulturní účely.",
+   "why": "Rychlá zastávka přímo v místě, kde stejně budete procházet bazarem – doplňuje obraz Gjirokastru o sakrální architekturu.",
+   "experience": "Pohled na kopuli a minaret, případně nahlédnutí dovnitř mimo modlitební časy.",
+   "access": "Přímo ve starém bazaru, pár kroků od hlavního náměstí.",
+   "tips": "Respektovat modlitební časy a oblečení při vstupu dovnitř.",
+   "links": [
+    {
+     "label": "Wikipedia – Bazaar Mosque, Gjirokastër",
+     "url": "https://en.wikipedia.org/wiki/Bazaar_Mosque,_Gjirokast%C3%ABr"
+    },
+    {
+     "label": "AKT – Bazaar Mosque",
+     "url": "https://akt.gov.al/en/atraksionet/xhamia-bazaar/"
+    }
+   ],
+   "img": {
+    "file": "Xhamia e Pazarit.jpg",
+    "author": "Your Über Monkey",
+    "license": "CC BY-SA 3.0 / GFDL"
+   },
+   "commons_query": [
+    "Xhamia e Pazarit Gjirokastër",
+    "Bazaar Mosque Gjirokaster"
+   ],
+   "gallery": [
+    {
+     "file": "Gjirokaster_-_mestska_mesita.jpg",
+     "author": "Martin Brož",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "GjirokastraMoschee.JPG",
+     "author": "Joergsam",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Gjirokastër_-_Basarmoschee_1.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Gjirokastër_-_Basarmoschee_2.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Gjirokastër_-_Basarmoschee_3.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Gjirokastër_-_Teqe_Mosque.JPG",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-obelisku-gjirokastres",
+   "name": "Obelisk Gjirokastër",
+   "kind": "vyhlídka",
+   "day": "So",
+   "detour": "+0 min (v centru, na nejvyšším bodě města)",
+   "time": "20–30 min",
+   "what": "7 m vysoký kamenný obelisk (autoři Dhrami, Kostaqi, Papamihali) na nejvyšším bodě Gjirokastru u budovy první albánské školy z roku 1908, symbol boje za albánský jazyk pod osmanskou nadvládou.",
+   "why": "Nejlepší volně přístupná vyhlídka na celé město a údolí Drino, bez placeného vstupu jako hrad.",
+   "experience": "Panoramatický výhled na kamenné střechy Gjirokastru a údolí.",
+   "access": "Pěšky z centra do kopce, úzké uličky staré čtvrti.",
+   "tips": "Dobré na západ slunce.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – The Obelisk",
+     "url": "https://www.visit-gjirokastra.com/see-and-do/the-obelisk/"
+    },
+    {
+     "label": "Wikipedia – Gjirokastër Obelisk",
+     "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr_Obelisk"
+    }
+   ],
+   "img": {
+    "file": "Gjirokastër Obelisk.jpg",
+    "author": "Clemens Schmillen",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Gjirokastër Obelisk",
+    "Obelisku i Gjirokastres"
+   ],
+   "gallery": [
+    {
+     "file": "Obelisku_i_Gjirokastrës.jpg",
+     "author": "Oltashehu",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stop-lazarat-fshati",
+   "name": "Vesnice Lazarat",
+   "kind": "vesnice",
+   "day": "So",
+   "detour": "+10 min od Gjirokastru (4 km)",
+   "time": "45–90 min",
+   "what": "Největší vesnice Albánie, 4 km od Gjirokastru, dřív proslulá pěstováním konopí, dnes se přeorientovává na komunitní turistiku – výroba sýra a mléčných výrobků tradičními postupy, vaření z místních surovin.",
+   "why": "Kontrast k muzejnímu centru Gjirokastru – živá vesnice s vlastním, dost specifickým příběhem a možností zapojit se do řemesla.",
+   "experience": "Ukázka/účast na výrobě sýra, vaření, ochutnávka u místní rodiny.",
+   "access": "Krátká silnice z Gjirokastru, sjízdná běžným autem.",
+   "tips": "Návštěvu programu (Visit Gjirokastra) je lepší domluvit předem, spontánní návštěva nabídne jen průjezd vesnicí.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – Lazarat, the biggest village of Albania",
+     "url": "https://visit-gjirokastra.com/article/lazarat_the_biggest_village_of_albania"
+    },
+    {
+     "label": "Wikipedia – Lazarat",
+     "url": "https://en.wikipedia.org/wiki/Lazarat"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Lazarat Albania village",
+    "Lazarat Gjirokastër"
+   ],
+   "gallery": [
+    {
+     "file": "Albanian_landscape_(25743346038).jpg",
+     "author": "Carole Raddato from FRANKFURT, Germany",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Lazarat,_brod.jpg",
+     "author": "I would appreciate being notified if you use my work outside",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Lazarat,_cesta.jpg",
+     "author": "I would appreciate being notified if you use my work outside",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Lazarat.jpg",
+     "author": "Kris9710",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Lazarat_2020.jpg",
+     "author": "FshatiLazarat",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Lazerat.jpg",
+     "author": "FshatiLazarat",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-manastiri-nivan",
+   "name": "Klášter Nivan (Tërëshenjtëve)",
+   "kind": "památka",
+   "day": "Ne",
+   "detour": "+10 min / +5 km od trasy (odbočka mezi Libohovë a Poliçan)",
+   "time": "20-30 min",
+   "what": "Klášter Všech svatých (Tërëshenjtëve) ve vesnici Nivan v srdci Zagorie, s hlavní chrámovou budovou datovanou do roku 1702 — starší, než se v terénu obvykle uvádí (ne 1777).",
+   "why": "Nejzachovalejší sakrální památka v horní Zagorii, spojená s pravoslavnou i aromunskou komunitou vesnic Nivan a Nderan.",
+   "experience": "Kamenná klášterní budova s malým nádvořím v odlehlé horské vesnici, minimum turistů, autentická atmosféra Zagorie.",
+   "access": "Odbočka ze silnice Libohovë–Poliçan, poslední úsek štěrkem, sjízdné i osobákem za sucha.",
+   "tips": "Kombinovat s krátkou zajížďkou do sousedního Nderanu (viz samostatné místo).",
+   "links": [
+    {
+     "label": "Zagori, Albania – historie a vesnice",
+     "url": "https://en.wikipedia.org/wiki/Zagori,_Albania"
+    },
+    {
+     "label": "Manastiri i Shën Kozmait (kontext klášterů regionu)",
+     "url": "https://gazetadielli.com/manastiri-i-shen-kozmait-midis-legjendes-dhe-historise/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Nivan Zagori Albania monastery",
+    "Manastiri Nivan Gjirokastër"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-nderan-vesnice",
+   "name": "Nderan",
+   "kind": "vesnice",
+   "day": "Ne",
+   "detour": "+10 min / +6 km od trasy (odbočka u Libohovë)",
+   "time": "15-20 min",
+   "what": "Jedna z deseti tradičních vesnic etnografického regionu Zagoria, obydlená pravoslavnými Albánci a částečně Aromány (usazenými zde za komunismu ve 20. stol.).",
+   "why": "Typická kamenná horská vesnice Zagorie mimo hlavní turistický okruh — kontrast k větším zastávkám dne.",
+   "experience": "Úzké kamenné uličky, staré domy, výhledy do údolí; klidné místo na krátkou procházku.",
+   "access": "Odbočka ze silnice směr Poliçan, poslední kilometry úzké a klikaté.",
+   "tips": "Nekombinovat s dlouhým programem — jde o rychlou zajížďku, hlavní čas nechat na soutěsce Selckë a Poliçan.",
+   "links": [
+    {
+     "label": "Zagori, Albania (vesnice regionu)",
+     "url": "https://en.wikipedia.org/wiki/Zagori,_Albania"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Nderan village Zagori Albania",
+    "Nderan Gjirokastër"
+   ],
+   "gallery": [
+    {
+     "file": "Ndëran_-_Mapillary_(ipWtxk0V6hDQl2STki04tg).jpg",
+     "author": "malenki @ Mapillary.com",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-sheper-cajupi",
+   "name": "Rodný dům Andona Zaka Çajupiho, Sheper",
+   "kind": "památka",
+   "day": "Ne",
+   "detour": "+5 min / +2 km od trasy (Sheper, Horní Zagoria)",
+   "time": "15-20 min",
+   "what": "Dům, kde se 27. 3. 1866 narodil národní básník Andon Zako Çajupi, ve vesnici Sheper v Horní Zagorii. Budova je od roku 2003 chráněná jako památka I. kategorie, část byla dříve užívána jako škola.",
+   "why": "Přímý doplněk k zastávce Fushë Çajupi/Çajupi z plánu — konkrétní místo narození básníka, po kterém je pojmenováno okolí.",
+   "experience": "Skromný kamenný dům v horské vesnici, ministerstvo kultury jej nedávno prověřovalo kvůli špatnému stavu — očekávejte spíš exteriér než zpřístupněnou expozici.",
+   "access": "Krátká odbočka ze silnice na Poliçan/Zagorii, poslední úsek nezpevněný.",
+   "tips": "Ověřit na místě, zda je interiér vůbec přístupný — dle zdroje je stav budovy zanedbaný.",
+   "links": [
+    {
+     "label": "Koha.net – navrácení identity domu Çajupiho",
+     "url": "https://www.koha.net/en/kulture/i-kthehet-identiteti-shtepise-se-andon-zako-cajupit"
+    },
+    {
+     "label": "Andon Zako Çajupi – Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Andon_Zako_%C3%87ajupi"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Sheper Zagori Albania house",
+    "Andon Zako Çajupi shtëpia Sheper"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-policani-selcke",
+   "name": "Poliçan a soutěska Selckë (Gryka e Selckës)",
+   "kind": "příroda",
+   "day": "Ne",
+   "detour": "cesta samotná (na trase Libohovë–Poliçan)",
+   "time": "30-40 min včetně zastávky u vodopádu",
+   "what": "Šestikilometrová soutěska Selckë, chráněná jako přírodní památka, s vodopádem přímo u cesty pár kroků od silnice. Cesta jí prochází do vesnice Poliçan, centra oblasti Pogon v jižní Zagorii.",
+   "why": "Nejdramatičtější úsek cesty do Zagorie — úzký kaňon s vodopádem, ne jen tranzitní silnice.",
+   "experience": "Zúžená soutěska se skalními stěnami těsně u vozovky, možnost zastavit přímo u vodopádu; v Poliçanu pak kostely sv. Atanáše a Mezhan a vesnický ráz.",
+   "access": "Částečně asfaltovaná silnice Libohovë–Poliçan, nejhrbolatější úsek právě v soutěsce, sjízdné i osobním autem.",
+   "tips": "Vodopád je jen pár kroků od cesty — nevynechat kvůli časové tísni, je to bezplatná zastávka bez odbočky.",
+   "links": [
+    {
+     "label": "Visit Gjirokastra – Selcke, the village with waterfall",
+     "url": "https://www.visit-gjirokastra.com/dt-places/selcke-the-village-with-waterfall/"
+    },
+    {
+     "label": "Gryka e Selckës – Mapcarta",
+     "url": "https://mapcarta.com/13909172"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Gryka e Selckës waterfall",
+    "Selckë gorge Albania"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-kelcyre-uji-i-zi",
+   "name": "Uji i Zi (Modré oko soutěsky Këlcyrë)",
+   "kind": "koupání",
+   "day": "Ne",
+   "detour": "+15 min chůze od parkoviště u silnice SH75 (Gryka e Këlcyrës, mezi Këlcyrë a Përmetem)",
+   "time": "45-60 min",
+   "what": "Silný pramen tvořící malé jezírko sytě modrozelené barvy, jedno z albánských „modrých ok“, cca 2 km pěšky proti proudu Vjosy po levém břehu od restaurace u silnice v soutěsce Këlcyrë.",
+   "why": "Rychle dostupné koupání přímo v trase mezi Këlcyrë a Përmetem, bez nutnosti velké zajížďky — soutěska samotná je již součástí trasy.",
+   "experience": "Chladná průzračná voda uprostřed 13km vápencové soutěsky s tisícimetrovými svahy; méně turistů než u známého Syri i Kaltër u Muzine.",
+   "access": "Zaparkovat u silnice SH75 v soutěsce, dál pěšky po levém břehu Vjosy; soutěska je od 2023 součástí národního parku Vjosa Wild River.",
+   "tips": "Voda je studená i v září — spíš rychlé osvěžení než dlouhé koupání.",
+   "links": [
+    {
+     "label": "Rafting in Permet – Kelcyra Gorge guide",
+     "url": "https://raftinginpermet.com/guide-kelcyra-gorge"
+    },
+    {
+     "label": "AKT – Uji i Zi Këlcyrë",
+     "url": "https://akt.gov.al/zonat_turistike/uji-i-zi-kelcyre/"
+    }
+   ],
+   "img": {
+    "file": "Vjosa at Këlcyra- Black Water.jpg",
+    "author": "neuveden",
+    "license": "viz stránka souboru"
+   },
+   "commons_query": [
+    "Uji i Zi Këlcyrë",
+    "Vjosa Black Water Kelcyre"
+   ],
+   "gallery": [
+    {
+     "file": "Uji_i_Zi_Kelcyre_Permet_Al_-_panoramio.jpg",
+     "author": "Thanas Todhe (Guri Q…",
+     "license": "CC BY 3.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-kalaja-kelcyre",
+   "name": "Kalaja e Këlcyrës (hrad Këlcyrë)",
+   "kind": "památka",
+   "day": "Ne",
+   "detour": "+20 min pěšky nad městem Këlcyrë (na trase)",
+   "time": "40-50 min tam a zpět",
+   "what": "Zříceniny strážního hradu založeného ilyrskými kmeny ve 3.-4. stol. př. n. l., cca 20minutová procházka do kopce nad centrem Këlcyrë.",
+   "why": "Výhled do vjosského údolí a na vjezd do soutěsky Këlcyrë, historicky strategický bod kontrolující cestu na Përmet.",
+   "experience": "Skromné zbytky opevnění, ale silný výhled na město, řeku a ústí soutěsky; krátký výstup vhodný jako protažení mezi jízdami autem.",
+   "access": "Pěšky z centra Këlcyrë, cesta nahoru neznačená turisticky náročně, sjízdné jen pěšky.",
+   "tips": "Nejlepší světlo ráno nebo pozdě odpoledne kvůli orientaci údolí.",
+   "links": [
+    {
+     "label": "Këlcyrë Castle – Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/K%C3%ABlcyr%C3%AB_Castle"
+    },
+    {
+     "label": "Pine.al – Gryka e Këlcyrës",
+     "url": "https://pine.al/activity/objekte-kulti/gryka-e-kelcyres"
+    }
+   ],
+   "img": {
+    "file": "Këlcyrë 006.jpg",
+    "author": "Albani987",
+    "license": "public domain (autor uvolnil do public domain)"
+   },
+   "commons_query": [
+    "Kalaja e Këlcyrës castle",
+    "Këlcyrë fortress Albania"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-teqeja-baba-aliut",
+   "name": "Teqeja e Baba Aliut (tekke v Alipostivanu, Piskovë)",
+   "kind": "památka",
+   "day": "Ne",
+   "detour": "+15 min / +8 km od trasy (obec Piskovë u Përmetu)",
+   "time": "20-30 min",
+   "what": "Bektášská tekke ve vesnici Alipostivan (obec Piskovë), založená kolem roku 1767, znovuobnovená Baba Alim v letech 1857/1860 a znovu Baba Abdullahem roku 1903, jehož hrobka je součástí areálu.",
+   "why": "Tekke odtud šířila bektášismus do oblasti Dëshnicë a pohraničních vesnic Skraparu — přímý doplněk k tématu tekke u Përmetu, které v plánu chybí konkrétní adresou.",
+   "experience": "Klidný komplex s hrobkami (türbe) a modlitebním sálem, typický pro bektášskou architekturu jižní Albánie, bez davů turistů.",
+   "access": "Odbočka ze silnice Përmet–Piskovë, poslední úsek místní silnicí.",
+   "tips": "Respektovat, že jde o aktivní náboženské místo — tiché chování, případně se zout při vstupu do modlitebního sálu.",
+   "links": [
+    {
+     "label": "Teqe of Baba Ali – Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Teqe_of_Baba_Ali"
+    },
+    {
+     "label": "Tripadvisor – Teqeja e Baba Aliut",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g801293-d15158039-Reviews-Teqeja_e_BABA_ALIUT-Permet_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Teqe Baba Ali Alipostivan",
+    "Bektashi tekke Piskove Permet"
+   ],
+   "gallery": [
+    {
+     "file": "Këlcyrë_005.jpg",
+     "author": "Original uploader was Albani987 at sq.wikipedia",
+     "license": "Public domain"
+    }
+   ]
+  },
+  {
+   "id": "stop-petran-langarica",
+   "name": "Petran – soutok Vjosy a Langarice",
+   "kind": "vesnice",
+   "day": "Ne",
+   "detour": "cesta samotná (Përmet–Bënja, odbočka na Langaricu)",
+   "time": "10-15 min",
+   "what": "Vesnice na soutoku řek Vjosa a Langarica, přibližně v polovině cesty mezi Përmetem a termály Bënja; těsně před ní se odbočuje na osmnáctistoletý osmanský most Ura e Kadiut a do 5km kaňonu Langarica.",
+   "why": "Přirozený orientační bod a rozcestí pro Lengaricu/Bënju z plánu — vysvětluje, kde přesně odbočka je, a nabízí krátkou zastávku u soutoku dvou řek.",
+   "experience": "Pohled na setkání dvou horských toků různé barvy vody, vesnický ráz, výchozí bod pro pěší vstup do kaňonu Langarica od Ura e Kadiut.",
+   "access": "Přímo na silnici Përmet–Tre Urat/Bënja, asfaltováno.",
+   "tips": "Zde je poslední místo odbočit z hlavní silnice na Bënju přes vesnici Langaricë.",
+   "links": [
+    {
+     "label": "Grokipedia – Petran",
+     "url": "https://grokipedia.com/page/petran"
+    },
+    {
+     "label": "Explore Albania Life – Langarica Canyon and Bënjë Spas",
+     "url": "https://explorealbanialife.com/langarica-canyon-and-benje-spas/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Petran Përmet Albania",
+    "Langarica river confluence Vjosa"
+   ],
+   "gallery": [
+    {
+     "file": "Vjosa_River_in_Petran,_South-Albania.jpg",
+     "author": "Trigruda",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-kosina-tekke",
+   "name": "Tyrbe/dervishia Kosina",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "+10 min / cca 6 km od Përmetu (na cestě směr Frashër)",
+   "time": "15-20 min",
+   "what": "Bektašijská dervišská tekke (Kosina) u Përmetu, jedna z řady tekke rozesetých po údolí Vjosy - region byl historicky centrem bektašismu v jižní Albánii.",
+   "why": "Doplňuje Frashër (tekke, muzeum) o další, méně turistický bektašijský objekt přímo na trase - ukazuje, že tekke nebyla v regionu výjimka, ale síť.",
+   "experience": "Klidné místo mimo hlavní turistický ruch, typická bílá kupole tekke v horské krajině.",
+   "access": "Odbočka z hlavní cesty Përmet-Frashër, sjízdné i běžným autem, Jimny bez problémů.",
+   "tips": "Ověřit na místě aktuální přístupnost (soukromá péče, ne vždy otevřeno).",
+   "links": [
+    {
+     "label": "R. Elsie, The Albanian Bektashi (zmínka o dervishia Kosina)",
+     "url": "https://catalog.libraries.psu.edu/catalog/27978534"
+    },
+    {
+     "label": "Kryegjyshata Botërore Bektashiane - tekke v regionu Përmet/Berat",
+     "url": "https://kryegjyshataboterorebektashiane.org/en/the-bektashi-tariqat-in-albania/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Kosina tekke Përmet Albania",
+    "teqja e Kosinës Përmet"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-rehove-stone-village",
+   "name": "Rehovë - kamenná vesnice v Kolonji",
+   "kind": "vesnice",
+   "day": "Po",
+   "detour": "+15 min / cca 2,3 km od Ersekë",
+   "time": "45-60 min",
+   "what": "200 let stará vesnice z kamene v regionu Kolonja, proslulá kamennými portály (brankami) do dvorů s vytesanými reliéfy z konce 19. století - tzv. 'Cesta bran'. Guesthouse Bujtina Cakuli je součástí vesnice.",
+   "why": "Nejautentičtější kamenná vesnice na trase, blízko Ersekë, konkrétní a fotogenický detail (kamenné brány), který v plánu chybí.",
+   "experience": "Procházka úzkými dlážděnými uličkami, srovnávání vyřezávaných portálů dům od domu, výhled na horu Gramoz.",
+   "access": "Odbočka z Ersekë, cca 3 km po místní silnici, sjízdné.",
+   "tips": "Kombinovat s občerstvením/kávou v Bujtina Cakuli, majitelé znají historii vesnice.",
+   "links": [
+    {
+     "label": "Invest in Albania - Why Rehova Village Is No Ordinary Destination",
+     "url": "https://invest-in-albania.org/why-rehova-village-is-no-ordinary-destination/"
+    },
+    {
+     "label": "AKT - oficiální turistický web, Rehovë",
+     "url": "https://akt.gov.al/en/kulture/rehove/"
+    },
+    {
+     "label": "Bujtina Cakuli",
+     "url": "https://bujtinacakuli.com/"
+    }
+   ],
+   "img": {
+    "file": "The Rehova village in Kolonja and the mount Gramoz.jpg",
+    "author": "SualdoDino",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Rehove Kolonje stone village",
+    "Rehovë fshat guri"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-dardhe-mountain-village",
+   "name": "Dardhë - horská vesnice",
+   "kind": "vesnice",
+   "day": "Po",
+   "detour": "+25-30 min / cca 20 km od Korçë",
+   "time": "1-1,5 h",
+   "what": "Vesnice v pohoří Morava (1248 m n. m.), založená v 17. století, s tradičními kamennými domy. V zimě lyžařské středisko, v létě turistická horská vesnice s výhledy.",
+   "why": "Kontrast k rovinaté Korçë - hory přímo nad městem, zajímavá odbočka pokud zbyde čas po prohlídce Korçë před Voskopojí.",
+   "experience": "Procházka vesnicí, kamenná architektura, fotografie z horských uliček, případně krátká vycházka do okolí.",
+   "access": "Asfaltová silnice z Korçë, cca 30 min jízdy.",
+   "tips": "Lepší v kombinaci s dřívějším odjezdem z Korçë, jinak koliduje s časem na Voskopojë.",
+   "links": [
+    {
+     "label": "Wikipedia - Dardhë",
+     "url": "https://en.wikipedia.org/wiki/Dardh%C3%AB"
+    },
+    {
+     "label": "Visit Korça - Dardhë Village",
+     "url": "https://visitkorca.al/destinations/dardhe-village-albania/"
+    }
+   ],
+   "img": {
+    "file": "Dardha (Korça) – alley.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Dardhe Korce village Albania",
+    "Dardha Korçë fshat"
+   ],
+   "gallery": [
+    {
+     "file": "Darda,_αγ._Γεώργιος.jpg",
+     "author": "Tirakibanaki",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Dardha(Korçë).jpg",
+     "author": "Drenisa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Dardhe,_Albania_-_panoramio.jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Dardhe,_Albania_-_panoramio_(11).jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Dardhe,_Albania_-_panoramio_(15).jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Dardhe,_Albania_-_panoramio_(17).jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-korce-cathedral",
+   "name": "Katedrála Ringjallja e Krishtit (Korçë)",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "0 min - v centru Korçë",
+   "time": "15-20 min",
+   "what": "Největší pravoslavná katedrála v Albánii (postavena 1979-1990, vysvěcena 1992) na místě zbořeného kostela sv. Jiří z doby komunistických antináboženských kampaní. Návrh architekt Dhimitër Kristidhi.",
+   "why": "Symbol návratu náboženského života po pádu komunismu, dominanta centra Korçë - snadno přidat k prohlídce bazaru a muzeí.",
+   "experience": "Impozantní exteriér i interiér, možnost nahlédnout dovnitř mimo bohoslužby.",
+   "access": "Centrum Korçë, pěšky od bazaru.",
+   "tips": "Kombinovat s Mirahori mešitou a Mësonjëtorja - všechno v docházkové vzdálenosti v centru.",
+   "links": [
+    {
+     "label": "Mitropolia e Shenjtë Korçë - historie katedrály",
+     "url": "https://mitropoliaeshenjtekorce.com/2023/10/15/katedralja-ringjallja-e-krishtit-pika-me-atraktive-ne-korce-fakte-interesante-rreth-ndertimit/"
+    },
+    {
+     "label": "Wikipedia - Resurrection Cathedral, Korçë",
+     "url": "https://en.wikipedia.org/wiki/Resurrection_Cathedral,_Kor%C3%A7%C3%AB"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Resurrection Cathedral Korce",
+    "Katedralja Ngjallja e Krishtit Korçë"
+   ],
+   "gallery": [
+    {
+     "file": "Katedralja_korces.jpg",
+     "author": "Astroyouth",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Katedralja_ne_Korce.jpg",
+     "author": "EB1508",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Katedralja_“Ngjallja_e_Krishtit”,_Korcë.jpg",
+     "author": "A.jobs02",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Katedralja_“Ngjallja_e_Krishtit”,_Korçë.jpg",
+     "author": "joepwijsbek",
+     "license": "CC0"
+    },
+    {
+     "file": "Korce_310.jpg",
+     "author": "Idobi (talk)",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Korçë,_Albania_-_panoramio_(4).jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-korce-mirahori-mosque",
+   "name": "Mešita Iljaz bej Mirahori",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "0 min - v centru Korçë",
+   "time": "15-20 min",
+   "what": "Nejstarší mešita v Albánii (1494-95), postavena zakladatelem Korçë Iljazem bej Mirahorim. Čtvercová modlitebna s kopulí, trojkopulovitá vstupní veranda, jemné kamenné zdivo. Minaret zničen zemětřesením v 60. letech, obnoven po 2006.",
+   "why": "Nejstarší dochovaná osmanská památka v Korçë, protiváha k pravoslavné katedrále pár set metrů od ní - obě ukazují smíšenou náboženskou historii města.",
+   "experience": "Exteriér volně přístupný, možnost nahlédnout do dvora, aktivní mešita.",
+   "access": "Centrum Korçë, pěšky.",
+   "tips": "Slušné oblečení při vstupu, respektovat modlící se.",
+   "links": [
+    {
+     "label": "Wikipedia - Iljaz bej Mirahori",
+     "url": "https://en.wikipedia.org/wiki/Iljaz_bej_Mirahori"
+    },
+    {
+     "label": "AKT - oficiální turistický web, mešita Mirahori",
+     "url": "https://akt.gov.al/en/xhami/xhamia-iljaz-bej-mirahori/"
+    }
+   ],
+   "img": {
+    "file": "Korçë - Mirahor-Moschee 1a.jpg",
+    "author": "Wolfgang Sauber",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Mirahori Mosque Korce",
+    "Xhamia Mirahori Korçë"
+   ],
+   "gallery": [
+    {
+     "file": "Korça,_Uhrturm_und_Mirahor-Moschee_1496.jpg",
+     "author": "Christian1311",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë,_Albania_–_Mirahori_Mosque_1995_01.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë,_Albania_–_Mirahori_Mosque_1995_02.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_-_Mirahor-Moschee_1b.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_-_Mirahor-Moschee_1c.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_-_Mirahor-Moschee_2a_Fenster.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-korce-mesonjetorja",
+   "name": "Mësonjëtorja - muzeum první albánské školy",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "0 min - v centru Korçë",
+   "time": "30-40 min",
+   "what": "Budova z roku 1887, kde byla otevřena první světská škola s výukou v albánštině v Osmanské říši. Dnes Národní muzeum vzdělání - první albánská abeceda (Naum Veqilharxhi), fotografie zakladatelů.",
+   "why": "Konkrétní hmatatelný bod albánského národního obrození - silnější příběh než obecné 'muzeum ve městě', dobře doplňuje bazar a katedrálu.",
+   "experience": "Malá kamenná budova, dobově zařízená třída, poutavý výklad o zákazu albánštiny v osmanských školách.",
+   "access": "Centrum Korçë, pěšky.",
+   "tips": "Otevírací doba omezená, ověřit předem (obvykle dopoledne/odpoledne mimo pondělí).",
+   "links": [
+    {
+     "label": "Wikipedia - Mësonjëtorja",
+     "url": "https://en.wikipedia.org/wiki/M%C3%ABsonj%C3%ABtorja"
+    },
+    {
+     "label": "Albanian Registry - Mësonjëtorja: First Albanian-Language School",
+     "url": "https://albanianregistry.org/blog/mesonjetorja"
+    }
+   ],
+   "img": {
+    "file": "Mesonjetorja e pare Shqipe ne Korce.jpg",
+    "author": "SualdoDino",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Mesonjetorja Korce museum",
+    "Mësonjëtorja e Parë Shqipe Korçë"
+   ],
+   "gallery": [
+    {
+     "file": "Info_plaque_at_Mësonjëtorja_in_Korçë,_Albania.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Info_plaque_at_Mësonjëtorja_museum_in_Korça,_Albania.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Info_plaque_at_Mësonjëtorja_museum_in_Korça,_Albania_2.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Info_plaque_at_Mësonjëtorja_museum_in_Korçs,_Albania.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Interior_of_Mësonjëtorja_museum_in_Korça,_Albania.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Interior_of_Mësonjëtorja_museum_in_Korça,_Albania_2.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-korce-bratko-museum",
+   "name": "Muzeum orientálního umění Bratko",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "0 min - v centru Korçë",
+   "time": "30-45 min",
+   "what": "Muzeum asijského umění (od 2003) se sbírkou 432 předmětů z Japonska, Číny, Indie aj., kterou daroval albánsko-americký fotograf G. D. Boria (14 let v poválečném Japonsku jako fotograf gen. MacArthura). Avantgardní budova s prvky asijské architektury.",
+   "why": "Nečekaný kontrapunkt k balkánské historii regionu - neotřelá zastávka pro případ deště nebo odpočinku od venkovního programu.",
+   "experience": "Kompaktní, kurátorsky zajímavá sbírka, netradiční pro jižní Albánii.",
+   "access": "Centrum Korçë, pěšky.",
+   "tips": "Na Wikimedia Commons zatím žádná použitelná fotka - ověřit fotky přímo na místě.",
+   "links": [
+    {
+     "label": "Wikipedia - Bratko Museum of Oriental Art",
+     "url": "https://en.wikipedia.org/wiki/Bratko_Museum_of_Oriental_Art"
+    },
+    {
+     "label": "AKT - oficiální turistický web, muzeum Bratko",
+     "url": "https://akt.gov.al/en/muze/Bratko-Oriental-Museum/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Bratko Museum Korce",
+    "Muzeu Bratko Korçë"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-voskopoje-churches",
+   "name": "Kostely Voskopoje (sv. Atanáš, sv. Michael)",
+   "kind": "památka",
+   "day": "Po",
+   "detour": "0 min - přímo ve Voskopojë",
+   "time": "45-60 min",
+   "what": "Z původních desítek kostelů rozkvétajícího obchodního města Voskopojë (18. stol.) se dochovalo jen několik - kostel sv. Atanáše (1721, bazilika se třemi loděmi) a kostel archandělů Michaela a Gabriela (konec 17. stol., malby cca 1722). Fresky patří k nejlepším ukázkám balkánského církevního umění 18. století.",
+   "why": "Konkrétní důvod, proč je Voskopojë v plánu - bez návštěvy alespoň jednoho kostela s freskami zůstává zastávka jen 'malebná vesnice'.",
+   "experience": "Tiché venkovské kostely s výmalbou v různém stavu zachování, kontrast k bohaté historii bývalého 30-40tisícového města.",
+   "access": "V rámci procházky Voskopojë, kostely jsou rozeseté po okraji vesnice, část cesty pěšky/terénním autem.",
+   "tips": "Kostely bývají zamčené - zeptat se v centru vesnice na klíčníka/hlídače.",
+   "links": [
+    {
+     "label": "Wikipedia - St. Athanasius Church, Moscopole",
+     "url": "https://en.wikipedia.org/wiki/St._Athanasius'_Church,_Moscopole"
+    },
+    {
+     "label": "Invest in Albania - Voskopoja, the village of churches",
+     "url": "https://invest-in-albania.org/voskopoja-place-churches-ancient-civilization/"
+    }
+   ],
+   "img": {
+    "file": "Voskopoje St Athanasius.JPG",
+    "author": "Markussep",
+    "license": "CC BY-SA 3.0"
+   },
+   "commons_query": [
+    "Voskopoje church fresco",
+    "Kishat e Voskopojës"
+   ],
+   "gallery": [
+    {
+     "file": "Kisha_e_Shën_Nikollës_Voskopojë,_Korçë.jpg",
+     "author": "A.jobs02",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Voskopoja_fresco.jpg",
+     "author": "ILMOTOREDIRICERCA",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Voskopoje_St_Mary2.JPG",
+     "author": "Markussep",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Voskopoje_St_Nicholas.JPG",
+     "author": "Markussep",
+     "license": "CC BY-SA 3.0"
+    },
+    {
+     "file": "Voskopojë_Marienkirche_-_Vorhalle_1_Fresko.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Voskopojë_Marienkirche_-_Vorhalle_2_Fresko.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-drenove-fir-park",
+   "name": "Park Bredhi i Drenovës (jedlový les)",
+   "kind": "příroda",
+   "day": "Po",
+   "detour": "+15-20 min / cca 10 km od Korçë",
+   "time": "45-60 min (krátká vycházka)",
+   "what": "Chráněná krajinná oblast (10,3 km²) jižně od Korçë s porostem jedle bělokoré, skalními útvary (Kámen Capi, Jeskyně Tren) a jezírky Lenies. Založeno 1966.",
+   "why": "Rychlá možnost 'zeleného' odpočinku po prohlídkách Korçë, alternativa k NP Hotova pokud tam nezbyl čas.",
+   "experience": "Krátká procházka lesem se starými jedlemi, výhledy na Korçské údolí, klid oproti městskému ruchu.",
+   "access": "Asfaltová/štěrková cesta z Korçë přes vesnici Drenovë.",
+   "tips": "Volitelné - jen pokud zbyde čas, není nutné kvůli hustému programu dne.",
+   "links": [
+    {
+     "label": "Wikipedia - Fir of Drenovë-Sinicë Protected Landscape",
+     "url": "https://en.wikipedia.org/wiki/Fir_of_Drenov%C3%AB_National_Park"
+    },
+    {
+     "label": "PeakVisor - Drenova Fir National Park",
+     "url": "https://peakvisor.com/park/drenova-fir-national-park.html"
+    }
+   ],
+   "img": {
+    "file": "Parku Kombëtar Bredhi i Drenovës.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 3.0"
+   },
+   "commons_query": [
+    "Fir of Drenove National Park",
+    "Bredhi i Drenovës Korçë"
+   ],
+   "gallery": [
+    {
+     "file": "Drenovë,_Albania_2018_11.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Guri_i_Capit_Panorama.jpg",
+     "author": "Albinfo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Korçë_District,_Albania_-_panoramio_(1).jpg",
+     "author": "anonymouse1",
+     "license": "CC BY-SA 3.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-vithkuq-shen-mehilli",
+   "name": "Kisha e Shën Mëhillit (Vithkuq)",
+   "kind": "památka",
+   "day": "Út",
+   "detour": "+0 min (přímo ve Vithkuqu)",
+   "time": "20-30 min",
+   "what": "Největší kostel ve Vithkuqu, stavěný 1682-1728 s příspěvky místních křesťanů a metropolity z Kostur. Zasvěcen archandělům Michaelovi a Gabrielovi, uvnitř modrotónové fresky.",
+   "why": "Vithkuq mělo v 17.-18. století přes deset kostelů a klášterů - byl to bratrský konkurent slavnější Voskopojë. Tenhle je nejlépe dochovaný a architektonicky nejzajímavější.",
+   "experience": "Kamenná stavba bez kopule (podobně jako ve Voskopojë) s freskami uvnitř; klid vesnice, žádný turistický provoz.",
+   "access": "Ve vesnici Vithkuq, kousek od hlavní cesty. Sjízdné běžným autem.",
+   "tips": "Kostel bývá zamčený - zeptejte se v obci na klíč. Kombinovat s klášterem sv. Petra a Pavla (viz další bod).",
+   "links": [
+    {
+     "label": "Wikipedia - Vithkuq",
+     "url": "https://en.wikipedia.org/wiki/Vithkuq"
+    },
+    {
+     "label": "Popis kostela (shqiperia.com)",
+     "url": "http://www.shqiperia.com/blog/kisha-e-shen-millit-mehillit-vithkuq-korce/"
+    }
+   ],
+   "img": {
+    "file": "Kisha e Shën Mëhillit (Vithkuq).jpg",
+    "author": "Antonio p96",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Kisha e Shën Mëhillit Vithkuq",
+    "Church of Saint Michael Vithkuq"
+   ],
+   "gallery": [
+    {
+     "file": "Archeologist_monintoring_the_Church_of_Saint_Michael,_Vithkuq,_Albania.jpg",
+     "author": "Arkeologe",
+     "license": "CC BY 4.0"
+    },
+    {
+     "file": "Kisha_e_Shen_Mehillit.jpg",
+     "author": "DDxh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Manastiri_i_Apostujve_te_Shenjte_Petro_dhe_Pavli,_Vithkuq.jpg",
+     "author": "SualdoDino",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "PANO_20140809_112316.jpg",
+     "author": "Eno Kotmilo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Shen_Mehilli,_Vithkuq,_Korçe.jpg",
+     "author": "DDxh",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-vithkuq-manastiri-petro-pavli",
+   "name": "Klášter sv. Petra a Pavla (Vithkuq)",
+   "kind": "památka",
+   "day": "Út",
+   "detour": "+5-10 min od centra Vithkuqu (okraj vesnice)",
+   "time": "20 min",
+   "what": "Klášterní komplex s katolikonem (hlavním chrámem) na okraji Vithkuqu, s kostnicí (ossuarium) zdobenou freskami z roku 1750.",
+   "why": "Druhý významný sakrální komplex Vithkuqu vedle Shën Mëhilli - dokládá, jak hustá byla síť klášterů v této horské oblasti před osmanskými represáliemi v 19. století.",
+   "experience": "Odlehlejší poloha než hlavní kostel, méně navštěvované, autentická atmosféra opuštěného kláštera v horské krajině.",
+   "access": "Krátká odbočka z Vithkuqu, poslední úsek pěšky/terénní cestou.",
+   "tips": "Dobré ráno kombinovat oba vithkuqské cíle najednou, než pojedete dál na Shtyllë.",
+   "links": [
+    {
+     "label": "Wikipedia - Vithkuq (zmínka o klášteře)",
+     "url": "https://en.wikipedia.org/wiki/Vithkuq"
+    }
+   ],
+   "img": {
+    "file": "Manastiri i Apostujve te Shenjte Petro dhe Pavli, Vithkuq.jpg",
+    "author": "SualdoDino",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Manastiri i Shën Pjetrit dhe Palit Vithkuq",
+    "Monastery Sts Peter and Paul Vithkuq"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-panarit-mirahori",
+   "name": "Panarit - rodná vesnice Iljaz beje Mirahoriho",
+   "kind": "vesnice",
+   "day": "Út",
+   "detour": "+0 min (na trase)",
+   "time": "15-20 min",
+   "what": "Panarit je rodiště Iljaz beje Mirahoriho (cca 1410-1510), osmanského velitele a zetě sultána Bajezida II., který v 15. století založil město Korçë a nechal tam postavit mešitu Mirahori. Vesnice zůstala v jeho vlastnictví jako odměna od sultána.",
+   "why": "Přímá vazba na vznik dnešní Korçe - zajímavá historická odbočka bez davů, na trase mezi Vithkuqem a Backë.",
+   "experience": "Klasická horská vesnice regionu Korçë, kamenné domy, výhled do údolí; žádná turistická infrastruktura, autentické.",
+   "access": "Leží přímo na plánované trase Shtyllë-Panarit-Backë, sjízdné běžným autem.",
+   "tips": "Konkrétní dům ani pamětní deska nejsou doložené - jde spíš o zastávku 'genius loci' než o památku k prohlídce.",
+   "links": [
+    {
+     "label": "Wikipedia - Panarit",
+     "url": "https://en.wikipedia.org/wiki/Panarit"
+    },
+    {
+     "label": "Iljaz bej Mirahori - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iljaz_bej_Mirahori"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Panarit Korçë village",
+    "Panarit Albania"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-backe-teqeja-baba-fetahut",
+   "name": "Teqeja e Baba Fetahut (tekke v Backë)",
+   "kind": "památka",
+   "day": "Út",
+   "detour": "+0 min (na trase)",
+   "time": "15-20 min",
+   "what": "Bektášský tekke v Backë, spojený s Baba Fetahem - vlastencem, který se stýkal s albánskými národními buditeli (Petro Nini Luarasi, Mihal Grameno, Çerçiz Topulli) a organizoval odpor proti osmanské nadvládě koncem 19. století.",
+   "why": "Konkrétní, doložená zastávka přímo v Backë (mají na trase), ne jen průjezd vesnicí - bektášský tekke s reálným místem v albánských národních dějinách.",
+   "experience": "Tichý duchovní komplex, typická bektášská architektura, možnost pohovořit s místními o historii tekke.",
+   "access": "V obci Backë, přímo na trase.",
+   "tips": "Slušné oblečení, ptát se na povolení vstupu dovnitř.",
+   "links": [
+    {
+     "label": "Kastriot Caka o teqe Backës (Telegraf)",
+     "url": "https://telegraf.al/speciale/kastriot-caka-teqeja-e-backes-ka-qene-vater-e-levizjes-patriotike-per-clirim-kombetar/"
+    },
+    {
+     "label": "Facebook stránka teqe",
+     "url": "https://www.facebook.com/p/Teqeja-e-Baba-Fetahut-Back%C3%AB-Skrapar-100070224254090/"
+    }
+   ],
+   "img": {
+    "file": "Backë Village.jpg",
+    "author": "Bujar Imer Gashi",
+    "license": "CC BY-SA 3.0"
+   },
+   "commons_query": [
+    "Teqeja e Baba Fetahut Backë",
+    "Backë Skrapar tekke"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-qafa-e-martes",
+   "name": "Qafa e Martës (horský průsmyk)",
+   "kind": "příroda",
+   "day": "Út",
+   "detour": "+30-40 min tam a zpět od Backë/Potom (terénní úsek)",
+   "time": "30-45 min",
+   "what": "Průsmyk (sedlo) cca 8 km terénní cestou za Backë, s pomníkem připomínajícím bitvu z roku 1913 mezi místními Albánci a řeckými vojsky. Trasa Potom-Backë-Qafa e Martës se v posledních letech asfaltuje jako nové propojení Korçë-Skrapar.",
+   "why": "Panoramatický bod přesně na rozhraní krajů Korçë a Berat - odměna pro terénní auto za odbočku z hlavní trasy, kterou běžný turista nejede.",
+   "experience": "Široké sedlo s pomníkem, výhledy do obou údolí; v roce 2026 část cesty stále nezpevněný štěrk/hlína, vhodné jen pro 4x4.",
+   "access": "Odbočka za Backë směrem k Potomu, poslední úsek terénní - ověřit aktuální stav cesty (probíhá asfaltování) před jízdou.",
+   "tips": "Jet jen pokud počasí sucho - hlína po dešti může být pro Jimny problematická i s terénními pneu. Zvážit jako volitelné prodloužení, ne pevný bod programu.",
+   "links": [
+    {
+     "label": "Panorama Online - Qafa e Martës",
+     "url": "https://www.panorama.com.al/qafa-e-martes/"
+    },
+    {
+     "label": "Korçaboom - nová silnice Potom-Backë-Qafa e Martës",
+     "url": "https://www.korcaboom.com/post/kor%C3%A7a-gains-another-important-road-artery-rama-works-have-started"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Qafa e Martës Albania pass",
+    "Qafa e Martes monument Skrapar"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-zaberzan-ura-e-vjeter",
+   "name": "Ura e Vjetër e Zabërzanit (kamenný most v kaňonu)",
+   "kind": "památka",
+   "day": "Út",
+   "detour": "+15-20 min od Çorovodë (jih, směr Zabërzan)",
+   "time": "30-45 min",
+   "what": "Osmanský kamenný obloukový most z doby kolem 17. století přes rameno Osumu u vesnice Zabërzan, jižně od Çorovodë. Součást 13km úseku kaňonu zvaného Kanionet e Osumit - Zabërzan, se šesti úžinami.",
+   "why": "Alternativní, klidnější vstup do kaňonu Osumu než hlavní turistický bod - lávka je označovaná za jedno z nejromantičtějších míst v celém kaňonu, bez davů.",
+   "experience": "Pěší lávka nad řekou obklopená skalními stěnami kaňonu, dobré místo na fotky i klidnou procházku podél vody.",
+   "access": "Jižně od Çorovodë směrem na Zabërzan, poslední úsek částečně terénní.",
+   "tips": "Nezaměňovat s mostem Kasabashi (ten je 1 km severně od Çorovodë) - jde o odlišné místo na jižní straně.",
+   "links": [
+    {
+     "label": "Evendo - Ura e Vjetër e Zabërzanit",
+     "url": "https://evendo.com/locations/albania/berat/attraction/ura-e-vjeter-e-zaberzanit"
+    },
+    {
+     "label": "Wikipedia - Zabërzan",
+     "url": "https://en.wikipedia.org/wiki/Zab%C3%ABrzan"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Ura e Zabërzanit bridge",
+    "Zabërzan Osum canyon bridge"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-kanioni-gradecit",
+   "name": "Kanioni i Gradecit s bunkry",
+   "kind": "příroda",
+   "day": "Út",
+   "detour": "+10 min od Çorovodë (cca 3 km)",
+   "time": "30-40 min",
+   "what": "Boční kaňon cca 3 km od Çorovodë, kde komunistický režim vytesal do skalních stěn rozsáhlý systém podzemních muničních skladů (stavěno přes 17 let) - propojený s továrnou na zbraně v Poliçanu.",
+   "why": "Kombinace přírodní scenérie kaňonu s bizarní komunistickou industriální historií - jiný úhel pohledu než 'jen' fotogenický kaňon Osumu.",
+   "experience": "Vchody do tunelů vytesané přímo do skály na obou stranách řeky, propojené chodby připomínající podzemní město; part dobrodružství, part temná historie.",
+   "access": "Krátká odbočka od Çorovodë, kombinovatelné s návštěvou jeskyně Pirogoshi ve stejné oblasti.",
+   "tips": "Vstup do tunelů může být rizikový/nezajištěný - opatrnost, případně jen pohled zvenčí.",
+   "links": [
+    {
+     "label": "Wikipedia - Gradec, Qendër Skrapar",
+     "url": "https://en.wikipedia.org/wiki/Gradec,_Qend%C3%ABr_Skrapar"
+    },
+    {
+     "label": "ASP.gov.al - policejní zásah v kaňonech Gradec",
+     "url": "https://asp.gov.al/skrapar-policia-u-shkon-ne-ndihme-turisteve-ceke-te-bllokuar-ne-kanionet-e-gradecit/"
+    }
+   ],
+   "img": {
+    "file": "Gradec Canyon - Mapillary (nB10Y34SzglY-KFrImh2og).jpg",
+    "author": "malenki (Mapillary)",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Gradec Canyon Skrapar",
+    "Kanioni i Gradecit bunker"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-cerenisht-vyhlidka",
+   "name": "Vyhlídka Çerenisht nad kaňonem Osumu",
+   "kind": "příroda",
+   "day": "Út",
+   "detour": "+5-10 min od SH72 před Çorovodë",
+   "time": "20-30 min",
+   "what": "Vyhlídkový bod přímo na hraně kaňonu na silnici SH72 mezi Poliçanem a Çorovodë, se třemi rozlišitelnými partiemi: panoramatický výhled na obě strany kaňonu s klikatící se řekou, místo zvané 'Bride's Hole' a nižší skalní plošina vhodná ke koupání.",
+   "why": "Umožňuje vidět kaňon shora bez sestupu do něj - dobrý doplněk k plánované návštěvě kaňonu zdola/z lodě.",
+   "experience": "Krátká procházka od parkoviště k okraji srázu, dechberoucí výhled dolů na smaragdovou vodu; fotogenické za ranního/večerního světla.",
+   "access": "Přímo u silnice SH72, parkování u vyhlídky.",
+   "tips": "Jet ideálně za nízkého slunce (ráno/podvečer) kvůli kontrastu skal a vody na fotkách.",
+   "links": [
+    {
+     "label": "Trip.com - Osumi Canyon viewing point Çerenisht",
+     "url": "https://us.trip.com/travel-guide/attraction/skrapar-district/osumi-canyon-viewing-point-136752701/"
+    },
+    {
+     "label": "Frewa Photo - Best Photo Spots Osumi Canyon",
+     "url": "https://frewaphoto.com/best-photo-spots-in-osumi-canyon-in-albania/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Osumi Canyon viewpoint Cerenisht",
+    "Osum Canyon rim viewpoint SH72"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-polican-old-factory",
+   "name": "Bývalá zbrojovka Poliçan",
+   "kind": "památka",
+   "day": "St",
+   "detour": "+0 min (přímo na trase)",
+   "time": "15–20 min (zvenčí)",
+   "what": "Komunistická Poliçan byla od 60. let jedním z hlavních zbrojních center Albánie – nadzemní tovární haly na výrobu munice a nábojů do AK-47, se zrcadlovou podzemní továrnou v okolních kopcích.",
+   "why": "Nejsyrovější kus komunistické průmyslové historie na trase, doplňuje bunkry a türbe jiným úhlem pohledu na izolovanou Albánii Envera Hoxhi.",
+   "experience": "Vjezd do tunelů a hal je oficiálně nepřístupný/střežený (areál část dodnes funguje), realisticky jde o fotografování opuštěných hal a vstupů do štol zvenčí.",
+   "access": "Haly jsou vidět přímo z hlavní silnice/okraje města, netřeba odbočovat.",
+   "tips": "Nefotit vojenský personál ani aktivní část areálu, v okolí stále hlídaná zóna.",
+   "links": [
+    {
+     "label": "PetaPixel – fotoreportáž z podzemní továrny",
+     "url": "https://petapixel.com/2021/11/30/photos-of-an-abandoned-underground-ammo-factory-in-albania/"
+    },
+    {
+     "label": "Urbextour – historie Poliçan",
+     "url": "https://www.urbextour.com/en/urbex-travel/polichan-secret-communist-military-bunker-factory-in-the-mountains-of-albania/"
+    }
+   ],
+   "img": {
+    "file": "Poliçan, Albania 2019 09 – Former gun factory.jpg",
+    "author": "Pasztilla (Attila Terbócs)",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Poliçan gun factory",
+    "Poliçan former weapon factory Albania"
+   ],
+   "gallery": [
+    {
+     "file": "Poliçan,_Albania_2019_10_–_Former_gun_factory.jpg",
+     "author": "Pasztilla aka Attila Terbócs",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-roshnik-museum-house",
+   "name": "Muzejní dům v Roshniku",
+   "kind": "vesnice",
+   "day": "St",
+   "detour": "+0 min (přímo v Roshniku)",
+   "time": "15 min",
+   "what": "Osmanská kamenná budova v centru Roshniku, památkově chráněná (BR445), historicky spojená se založením místního komunistického výboru; typická ukázka venkovské osmanské architektury vesnice.",
+   "why": "Doplněk k vinařství Alpeta – ukazuje starší vrstvu vesnice, ne jen agroturistiku.",
+   "experience": "Malá, tichá zastávka mezi domy, bez vstupného a bez davů.",
+   "access": "V centru Roshniku, pár desítek metrů od hlavní cesty vesnicí.",
+   "tips": "Kombinovat s procházkou vesnicí – Roshnik je známý jako obzvlášť čistá a upravená horská vesnice.",
+   "links": [
+    {
+     "label": "Wikimedia Commons – kategorie kulturní památky Berat County",
+     "url": "https://commons.wikimedia.org/wiki/File:Sht%C3%ABpia-muze_Roshnik.jpg"
+    }
+   ],
+   "img": {
+    "file": "Shtëpia-muze Roshnik.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Roshnik Albania village",
+    "Shtëpia muze Roshnik"
+   ],
+   "gallery": []
+  },
+  {
+   "id": "stop-velabisht-bridge",
+   "name": "Osmanský most ve Velabishtu",
+   "kind": "cesta",
+   "day": "St",
+   "detour": "+10 min od cesty Roshnik–Berat",
+   "time": "10 min",
+   "what": "Kamenný obloukový most z roku 1870 přes malý přítok Osumu ve vesnici Velabisht, kousek od cesty mezi Roshnikem a Beratem.",
+   "why": "Nenápadná, autem dostupná zastávka na zpáteční cestě z Roshniku – menší a klidnější protějšek beratských mostů, které uvidíte druhý den.",
+   "experience": "Bez turistů, čistě fotostop na cestě.",
+   "access": "Přímo ve vesnici Velabisht, dobře viditelný z hlavní silnice.",
+   "tips": "Zastavit krátce cestou zpět směrem na Berat/Roshnik, netřeba plánovat samostatný výlet.",
+   "links": [
+    {
+     "label": "Wikipedia – Velabisht",
+     "url": "https://en.wikipedia.org/wiki/Velabisht"
+    }
+   ],
+   "img": {
+    "file": "Velabisht Bridge (30770295677).jpg",
+    "author": "David Stanley",
+    "license": "CC BY 2.0"
+   },
+   "commons_query": [
+    "Velabisht Bridge Albania",
+    "Ura e Velabishtit"
+   ],
+   "gallery": [
+    {
+     "file": "Ura_me_harqe_e_Velabishtit.jpg",
+     "author": "Genti Mile",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-gorica-bridge-quarter",
+   "name": "Most a čtvrť Gorica",
+   "kind": "památka",
+   "day": "Čt",
+   "detour": "+0 min (centrum Beratu)",
+   "time": "45–60 min",
+   "what": "Sedmiobloukový kamenný most (přestavěn z dřevěného počátkem 19. stol.) spojující muslimskou čtvrť Mangalem s křesťanskou Goricou; Gorica má dlážděné uličky, kamenné domy a dva pravoslavné kostelíky (sv. Spyridon, sv. Tomáš).",
+   "why": "Doplňuje ranní prohlídku hradu a Mangalemu o pohled z druhého břehu Osumu – klasický pohled na „město tisíce oken“ je právě z Gorici.",
+   "experience": "Klidnější a méně turisticky nahuštěná čtvrť než Mangalem, dobré ráno na kávu s výhledem na hrad.",
+   "access": "Pěšky přes most z centra Beratu, cca 5 min od Mangalemu.",
+   "tips": "Projít most brzy ráno kvůli světlu na fasádu Mangalemu.",
+   "links": [
+    {
+     "label": "Nomads Travel Guide – Gorica Bridge",
+     "url": "https://www.nomads-travel-guide.com/places/gorica-bridge/"
+    },
+    {
+     "label": "Tripadvisor – Quarter of Gorica",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g469422-d4420624-Reviews-Quarter_Of_Gorica-Berat_Berat_County.html"
+    }
+   ],
+   "img": {
+    "file": "Berat - Gorica Bridge (by Pudelek).JPG",
+    "author": "Pudelek",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Gorica Bridge Berat",
+    "Ura e Goricës"
+   ],
+   "gallery": [
+    {
+     "file": "2011_Berat,_Most_Gorica_01.JPG",
+     "author": "Marcin Konsek",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "2011_Berat,_Most_Gorica_02.JPG",
+     "author": "Marcin Konsek",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_-_Osum.jpg",
+     "author": "Wolfgang Sauber",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bridge_of_Gorica,_Osum_River.jpg",
+     "author": "Geoff Wong",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Gorica_Bridge,_Berat,_Albania,_30_October_2022.jpg",
+     "author": "Sharon Hahn Darlin",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Gorica_Bridge,_Berat.JPG",
+     "author": "Avi1111 dr. avishai teicher",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-gorica-castle-ruins",
+   "name": "Zříceniny hradu Gorica",
+   "kind": "vyhlídka",
+   "day": "Čt",
+   "detour": "+15 min pěšky od čtvrti Gorica",
+   "time": "45–60 min (výstup + zpět)",
+   "what": "Zbytky ilyrského opevnění (4.–3. stol. př. n. l.) na kopci nad Goricou, na soutoku Osumu a Velabishti; zaniklo po římském dobytí kolem roku 200 př. n. l.",
+   "why": "Nejlepší vyhlídka na hrad Berat a údolí Osumu z protější strany – alternativa k davu na samotném hradě.",
+   "experience": "Neupravená, tichá lokalita, cca 30minutový výstup pěšky z Gorici.",
+   "access": "Pěšinou z čtvrti Gorica nahoru na kopec, volný přístup, žádné vstupné.",
+   "tips": "Jít na západ slunce nebo brzy ráno kvůli světlu na hrad naproti.",
+   "links": [
+    {
+     "label": "akt.gov.al – Gorica Castle Ruins",
+     "url": "https://akt.gov.al/en/natyre/rrenojat-e-kalase-se-gorices/"
+    },
+    {
+     "label": "Sandaltanman – Gorica Ruins",
+     "url": "https://sandaltanman.com/gorica-ruins/"
+    }
+   ],
+   "img": null,
+   "commons_query": [
+    "Gorica Castle Berat",
+    "Kalaja e Gorices"
+   ],
+   "gallery": [
+    {
+     "file": "BERAT_OLD_CITY_VIEW_FROM_CASTLE.jpg",
+     "author": "Alexandre Rezende Fonseca",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_UNESCO_2016_Albania.jpg",
+     "author": "Foto: my_cottage",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Gorica-from_Castle,_Berat.JPG",
+     "author": "User:Chlämens",
+     "license": "Public domain"
+    },
+    {
+     "file": "Gorica_castle.jpg",
+     "author": "Stefano",
+     "license": "CC BY-SA 2.0"
+    },
+    {
+     "file": "Kalaja_e_Beratit_dhe_ura_e_Goricës.jpg",
+     "author": "Planeti",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Panoramic_view_of_Berat,_known_as_“the_city_of_a_thousand_windows.”.jpg",
+     "author": "Julianruizp",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-ethnographic-museum",
+   "name": "Etnografické muzeum Beratu",
+   "kind": "památka",
+   "day": "Čt",
+   "detour": "+0 min (cestou na hrad)",
+   "time": "45 min",
+   "what": "Muzeum v tradičním osmanském domě (dům rodiny Xhokaxhi) na cestě z Mangalemu k hradu, se zařízeným interiérem a předměty běžného života 18.–19. století.",
+   "why": "Dá kontext prohlídce hradu a Mangalemu – jak vypadal běžný život v beratském patricijském domě, ne jen fasády zvenčí.",
+   "experience": "Malé, útulné prostory, průvodce často vysvětlí funkci jednotlivých místností (harem, selamlik).",
+   "access": "Cestou pěšky z Mangalemu nahoru k hradu, vstupné cca pár set lek.",
+   "tips": "Kombinovat s ranní prohlídkou hradu, otevřeno obvykle do odpoledne.",
+   "links": [
+    {
+     "label": "Lonely Planet – Ethnographic Museum",
+     "url": "https://www.lonelyplanet.com/albania/central-albania/berat/attractions/ethnographic-museum/a/poi-sig/1075548/358540"
+    }
+   ],
+   "img": {
+    "file": "The Ethnographic Museum of Berat (House of 'Xhokaxhinjve') 16.jpg",
+    "author": "Sonia Budini",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Ethnographic Museum Berat",
+    "Muzeu Etnografik Berat"
+   ],
+   "gallery": [
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_04.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_05.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_11.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_12.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_17.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "The_Ethnographic_Museum_of_Berat_(House_of_'Xhokaxhinjve')_26.jpg",
+     "author": "Sonia Budini",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-halveti-tekke",
+   "name": "Halvetíjská tekke",
+   "kind": "památka",
+   "day": "Čt",
+   "detour": "+0 min (centrum Beratu, Mangalem)",
+   "time": "20–30 min",
+   "what": "Súfijská tekke dokončená 1782, postavená Ahmetem Kurt Pašou pro řád Halvetiyya; stěny zdobí fresky domů a krajin, strop je barokní se 14karátovým zlacením.",
+   "why": "Ukázka náboženské plurality Beratu (mešity, tekke, pravoslavné kostely vedle sebe) – doplňuje türbe na Tomorru z předchozího dne jiným typem bektašijsko-súfijské architektury.",
+   "experience": "Tichá, intimní stavba, často bez davu turistů.",
+   "access": "V Mangalemu, pár minut chůze od Xhamia e Beqarëve.",
+   "tips": "Ptát se na otevírací dobu na místě, přístupnost bývá nepravidelná.",
+   "links": [
+    {
+     "label": "Wikipedia – Halveti Tekke, Berat",
+     "url": "https://en.wikipedia.org/wiki/Halveti_Tekke,_Berat"
+    }
+   ],
+   "img": {
+    "file": "Halveti Teqe Berat.jpg",
+    "author": "Decius",
+    "license": "CC BY-SA 3.0 / GFDL"
+   },
+   "commons_query": [
+    "Halveti Tekke Berat",
+    "Teqeja Helvetive Berat"
+   ],
+   "gallery": [
+    {
+     "file": "Berat_45.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_61.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Detaj_nga_tavani_i_Teqes_Helvetive.jpg",
+     "author": "Evaciciku",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Die_Halveti-Tekke_(Teqeja_e_Helvetive)_des_Sufiordens_Halveti,_Berati_-_panoramio.jpg",
+     "author": "Martin Furtschegger",
+     "license": "CC BY 3.0"
+    },
+    {
+     "file": "Han_in_Berat_(Albania).jpg",
+     "author": "No machine-readable author provided. Decius assumed (based o",
+     "license": "CC BY 2.5"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-bachelors-mosque",
+   "name": "Mešita svobodných (Xhamia e Beqarëve)",
+   "kind": "památka",
+   "day": "Čt",
+   "detour": "+0 min (nábřeží Mangalem)",
+   "time": "15–20 min",
+   "what": "Mešita na nábřeží Osumu z roku 1828, pojmenovaná po neženatých obchodnících z beratského bazaru, kteří sem chodili na modlitby; dvoupodlažní, s malovanou výzdobou uvnitř.",
+   "why": "Krátká zastávka na nábřeží cestou mezi hradem a mostem Gorica, jiný typ mešity než King's Mosque.",
+   "experience": "Menší, komornější stavba než King's Mosque, dobře vidět zvenčí i bez vstupu dovnitř.",
+   "access": "Přímo na nábřeží Osumu v Mangalemu.",
+   "tips": "Fotit zvenku od řeky, interiér nemusí být vždy otevřený.",
+   "links": [
+    {
+     "label": "Petit Futé – Bachelors' Mosque",
+     "url": "https://www.petitfute.co.uk/v53880-berat/c1173-visites-points-d-interet/c925-edifice-religieux/c928-mosquee/302265-mosquee-du-roi.html"
+    }
+   ],
+   "img": {
+    "file": "Xhamia e Beqareve, Berat.jpg",
+    "author": "A.jobs02",
+    "license": "CC BY-SA 4.0"
+   },
+   "commons_query": [
+    "Bachelors Mosque Berat",
+    "Xhamia e Beqareve"
+   ],
+   "gallery": [
+    {
+     "file": "2011_Berat,_Meczet_Kawalerów.JPG",
+     "author": "Marcin Konsek",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "A_mosque_in_Berat.JPG",
+     "author": "Avi1111 dr. avishai teicher",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Bachelor's_Mosque_Berat_info_plaque.jpg",
+     "author": "Leeturtle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_(29776815147).jpg",
+     "author": "gailhampshire from Cradley, Malvern, U.K",
+     "license": "CC BY 2.0"
+    },
+    {
+     "file": "Berat_42.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_43.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "stop-berat-kings-mosque",
+   "name": "Královská mešita (Xhamia e Mbretit)",
+   "kind": "památka",
+   "day": "Čt",
+   "detour": "+0 min (Mangalem)",
+   "time": "20–30 min",
+   "what": "Nejstarší dochovaná památka Beratu, dokončená 1492 za sultána Bajezida II.; jedna z největších mešit Albánie s deseti mělkými kupolemi a pásem kaligrafie 99 jmen Alláha.",
+   "why": "Nejvýznamnější islámská památka Beratu vedle hradu – za komunismu jí byl stržen minaret, dnes obnoveno, dobrá ukázka poválečné rekonstrukce náboženských staveb.",
+   "experience": "Působivý interiér s dřevěným zdobeným stropem, obvykle přístupná veřejnosti mimo modlitby.",
+   "access": "V centru Mangalemu, pár minut od tržnice.",
+   "tips": "Při vstupu dovnitř sundat boty a mít zahalená ramena/kolena.",
+   "links": [
+    {
+     "label": "Wikipedia – King Mosque, Berat",
+     "url": "https://en.wikipedia.org/wiki/King_Mosque,_Berat"
+    }
+   ],
+   "img": {
+    "file": "Xhamia e Mbretit 2024.jpg",
+    "author": "Killerdani12",
+    "license": "CC0"
+   },
+   "commons_query": [
+    "King Mosque Berat",
+    "Xhamia e Mbretit"
+   ],
+   "gallery": [
+    {
+     "file": "Berat_-_King_Mosque.JPG",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_-_King_Mosque_(interior).jpg",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_49.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_52.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_53.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "file": "Berat_54.jpg",
+     "author": "Arianit",
+     "license": "CC BY-SA 4.0"
+    }
+   ]
+  },
+  {
+   "id": "ubyt-gh-on-canyon",
+   "name": "Guesthouse on Canyon (Bujtina mbi Kanion)",
+   "kind": "ubytování",
+   "what": "Rodinná bujtina přímo v obci Nivicë, dům z roku 1985, dnes rozdělený na dvě budovy s pokoji pro až cca 16 hostů (dvoulůžkové, trojlůžkové, čtyřlůžkové pokoje). Zahrada, terasa s barem, výhled do kaňonu přímo ze dvora.",
+   "why": "Jedna z mála bujtin přímo nad kaňonem Nivica – ráno probudí výhled do rokle, ne jen na sousední dům. Dobrá základna pro treky do kaňonu a k vodopádům.",
+   "experience": "Podává se domácí večeře a snídaně v ceně. Recenze (Booking, dle dostupného výňatku): \"The view around this place is amazing. From the terrace you overlook the canyon. The dinner they served was wonderful and the included breakfast was superb.\" Hodnocení zatím staví na malém počtu recenzí, atmosféra popisována jako velmi pohostinná, rodinná.",
+   "access": "Poslední úsek k Nivici je štěrková/horská silnice z Bench nad Tepelenë; v obci samotné krátký úsek nezpevněné cesty k domu. Parkování u domu. Cca 31 km / hodina jízdy od Tepelenë.",
+   "tips": "Polopenze ~35 €/os. (údaj z výpisů 2026). Rezervace přes Booking.com nebo WhatsApp; večeři ohlásit den předem. Hotovost.",
+   "contact": "WhatsApp +355 69 538 1281 (ověřeno na guesthouseoncanyon.al), rodina Merjo",
+   "rating": "Booking.com: velmi vysoké hodnocení (10/10 za lokalitu), ale založené jen na malém počtu recenzí – přesný aktuální počet neověřeno",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/guesthouse-on-canyon.html"
+    },
+    {
+     "label": "vlastní web",
+     "url": "https://guesthouseoncanyon.al/"
+    }
+   ],
+   "img": null,
+   "day": "Pá",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-saffron",
+   "name": "Saffron House (Shafran House)",
+   "kind": "ubytování",
+   "what": "Malý agroturistický dům v Nivicë – jedna ložnice, vybavená kuchyňka, vlastní koupelna, veranda a zahrada. Vhodné pro pár nebo malou rodinu. Zapsán v oficiálním katalogu albánského agroturismu (akt.gov.al).",
+   "why": "Nejmenší a nejrodinnější z nivických možností – vlastní kuchyňka dává větší nezávislost (vaření si sami), ohniště na zahradě pro večerní posezení.",
+   "experience": "Bez recenzí na Bookingu v době rešerše (nová nabídka), takže reálná zkušenost hostů neověřena. Nabízí se piknikové místo a ohniště, spíš samostatné vaření než servírovaná večeře – neověřeno.",
+   "access": "Stejný přístup jako Nivicë obecně, horská cesta z Tepelenë, poslední úsek v obci. Parkování u domu.",
+   "tips": "Cena: neověřeno. Kapacita malá, rezervovat s předstihem přes Booking.com nebo akt.gov.al kontakt. Vlastní kuchyňka = možnost nakoupit si a vařit, ověřit dostupnost obchodu v Nivicë (pravděpodobně žádný, nakoupit předem v Tepelenë).",
+   "contact": "neověřeno",
+   "rating": "Booking.com: zatím bez dostatku recenzí pro skóre (k datu rešerše)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/safron-house-nivica.html"
+    },
+    {
+     "label": "akt.gov.al",
+     "url": "https://akt.gov.al/en/agroturizem/shafran-house-nivica/"
+    }
+   ],
+   "img": null,
+   "day": "Pá",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-camp-nivica",
+   "name": "Camp Nivica (glamping)",
+   "kind": "ubytování",
+   "what": "Glampingový kemp se 6 prostornými \"Meru\" safari stany (celková kapacita cca 12–16 hostů) na hraně kaňonu naproti vesnici Nivicë, s výhledem na horu Këndrevicë (2102 m) a kaňony. Každý stan má manželskou postel, psací stůl a vlastní koupelnu napájenou horským potokem.",
+   "why": "Jediná opravdu \"zážitková\" varianta ubytování v okolí kaňonu – kombinace pohodlí (stany se sprchou) a divočiny, plus zahrnutý průvodce/aktivita každý den.",
+   "experience": "Polopenze v ceně: snídaně (petulla – albánské lívance, domácí marmeláda, místní sýr, jogurt, vejce) a večeře (tradiční albánská kuchyně, společné stolování). Každý den jedna vedená aktivita (turistika kaňonem, výstup na Këndrevicu, návštěva pastevců). Večer oheň u táboráku. Konkrétní citace recenzí s rokem: neověřeno.",
+   "access": "Kemp zajišťuje vyzvednutí a odvoz terénním autem (4x4) z vesnice Nivicë při příjezdu/odjezdu – tedy poslední úsek se nejezdí vlastním autem, ale jejich vozem. Cca 3 hodiny jízdy od letiště Tirana.",
+   "tips": "Sezóna zhruba 1. května – 15. listopadu. Cena za noc/stan: neověřeno (nutno se zeptat přímo). Vegetariánská strava možná, veganská jen po předchozím nahlášení. Rezervace přes direct-book.com/properties/albvil-campnivica nebo e-mail.",
+   "contact": "E-mail: bookings@campnivica.com; web: campnivica.com",
+   "rating": "Bez konkrétního číselného hodnocení dohledaného v rešerši (Tripadvisor/Google neověřeno, kladné reference u cestovních agentur typu Rickshaw Travel)",
+   "links": [
+    {
+     "label": "vlastní web",
+     "url": "https://campnivica.com/"
+    },
+    {
+     "label": "rezervace",
+     "url": "https://direct-book.com/properties/albvil-campnivica"
+    }
+   ],
+   "img": null,
+   "day": "Pá",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-maris",
+   "name": "Mari's Guesthouse",
+   "kind": "ubytování",
+   "what": "Rodinná bujtina v obci Progonat (okres Tepelenë), se zahradou, grilem a slunnou terasou. Menší kapacita.",
+   "why": "Klidná horská vesnice na trase mezi Tepelenë a Kurvelešem, nabízí i turistiku a jízdu na koni v okolí – zajímavá zastávka mimo turisticky přeplněná místa.",
+   "experience": "Recenze na Bookingu jsou zatím jen v řádu jednotek, ale plné hodnocení (10/10, případně 9,7/10 dle jiného agregátoru) ve všech kategoriích. Konkrétní citace recenzí s rokem: neověřeno.",
+   "access": "Přístup po horské silnici z Tepelenë do Progonatu; poslední kilometry pravděpodobně nezpevněné (typické pro region Kurvelesh) – povrch neověřen detailně. Parkování u domu.",
+   "tips": "Cena od cca 65 USD dle agregátoru (přesná cena za pokoj/2 os. a rok neověřeny). Rezervace přes Booking.com, kontaktní telefon/WhatsApp neověřen.",
+   "contact": "neověřeno",
+   "rating": "Booking.com: 10/10 při velmi malém počtu recenzí (řádově jednotky) – přesný aktuální stav neověřen",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/maris-guesthouse.html"
+    }
+   ],
+   "img": null,
+   "day": "Pá",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-stone-city",
+   "name": "Stone City Hostel",
+   "kind": "ubytování",
+   "what": "Hostel v historickém kamenném domě v centru Gjirokastru, se stinnou zahradou s ovocnými stromy a velkou střešní terasou s výhledem na hrad. Tři dormitáře a jeden dvoulůžkový pokoj, klimatizace, postele se zabudovanými skříňkami.",
+   "why": "Opakovaně (4× za sebou, naposledy 2024) vyhlášen nejlepším hostelem v Albánii – vhodné, pokud chceme levnější/sociálnější variantu v Gjirokastru se silným zázemím (kuchyně, terasa, personál, který radí s výlety).",
+   "experience": "Kontinentální nebo vegetariánská snídaně v ceně. Recenze chválí vřelý, domácí personál, čistotu a atmosféru; hosté zmiňují, že cena je o něco vyšší než u jiných hostelů v okolí, ale \"platíte za zážitek, dobrou snídani, skvělou polohu a informovaného hostitele\" (parafráze recenzí, konkrétní citace s rokem neověřeny).",
+   "access": "V centru starého města Gjirokastru (Rruga Alqi Kondi, Pazar) – pěší přístup, autem k domu obtížný kvůli dlažbě starého města, parkování nutno řešit mimo centrum. Check-in na místě.",
+   "tips": "Cena: dle agregátorů cca 21–69 USD/noc podle typu pokoje a sezóny (přesná cena za rok 2026 neověřena). Rezervace přes Booking.com nebo Hostelworld.",
+   "contact": "+355 69 348 4271",
+   "rating": "Vysoké hodnocení napříč platformami (přes 1000 recenzí na agregátorech), přesné aktuální skóre na Bookingu/Google neověřeno k dnešnímu datu",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/stone-city-hostel1312.html"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-kalemi2",
+   "name": "Hotel Kalemi 2",
+   "kind": "ubytování",
+   "what": "Klasický hotel v historickém centru Gjirokastru, se zahradou, terasou, restaurací a recepcí 24 hodin denně. Větší kapacita než bujtiny/hostely v okolí.",
+   "why": "Spolehlivá, o něco komfortnější varianta v srdci starého města přímo pod hradem – vhodné jako \"pohodlnější noc\" mezi terénními etapami.",
+   "experience": "Recenze chválí polohu v centru blízko památek, terasu s výhledem na hrad, kde se podává snídaně, a vstřícný personál. Slabší stránky dle recenzí: chybí výtah, slabší wifi. Konkrétní citace s rokem: neověřeno.",
+   "access": "V centru Gjirokastru (Rruga Alqi Kondi 6002), pěšky dostupné od parkovišť starého města; přímé přijetí autem k hotelu omezené kvůli dlažbě.",
+   "tips": "Cena od cca 33–53 USD/noc dle agregátorů (přesná cena za rok 2026 neověřena). Rezervace přes Booking.com.",
+   "contact": "Telefon: +355 8426 6010; adresa: Rruga Alqi Kondi 6002, Gjirokastër 6001",
+   "rating": "Booking.com: 8,9/10 z 867 recenzí; Tripadvisor: #1 z 57 v kategorii specialty lodging, 4/5",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/kalemi-2.html"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-babameto",
+   "name": "Babameto House",
+   "kind": "ubytování",
+   "what": "Hostel v památkově chráněném osmanském domě rodiny Babameto z 19. století, obnoveném 2012–2013, cca 300 m od Starého bazaru v centru Gjirokastru. Velké dormitáře i menší pokoje.",
+   "why": "Ubytování přímo v historické osmanské usedlosti – zážitek z autentické architektury (staré dřevo, ručně tkané koberce) navíc k funkci hostelu.",
+   "experience": "Snídaně v ceně. Recenze popisují dům jako \"cestu v čase\" do 19. století, oceňují vůni starého dřeva, útulnou zahrádku a velké pohodlné postele s prostornými skříňkami; personál hodnocen jako velmi vstřícný. Konkrétní citace s rokem: neověřeno.",
+   "access": "Centrum Gjirokastru (Lagjia Partizani, Rruga Shezai Como), blízko hradu a bazaru – pěší dostupnost, parkování mimo starou zástavbu.",
+   "tips": "Storno podmínky: zrušení do 24 h před příjezdem zdarma, jinak účtována první noc. Cena za rok 2026 neověřena. Rezervace přes Booking.com nebo Hostelworld.",
+   "contact": "neověřeno",
+   "rating": "Tripadvisor: #17 z 60 v kategorii specialty lodging, 4/5",
+   "links": [
+    {
+     "label": "mygjirokastra.com",
+     "url": "https://mygjirokastra.com/babameto-house/"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-life-on-farm",
+   "name": "Life on the Farm",
+   "kind": "ubytování",
+   "what": "Rodinný pozemek s pouze dvěma chatkami/kabinami uprostřed farmy v Nepravishtë (okres Gjirokastër), mimo hlavní silnice – malá kapacita zaručuje klid.",
+   "why": "Nejklidnější a nejvíc \"farmová\" varianta v okolí Gjirokastru – jen dvě jednotky na celém pozemku, ideální pro odpočinek mezi terénními dny.",
+   "experience": "Recenze hodnotí rodinu jako velmi přátelskou a laskavou, místo jako klidné a krásně položené, s výhledem na hory a zahradu z terasy. Konkrétní citace s rokem: neověřeno.",
+   "access": "Nepravishtë leží mimo hlavní tah, cca 32 km od jezera Zaravina; poslední úsek pravděpodobně místní/nezpevněná cesta (povrch neověřen). Parkování u chatek, ohniště venku.",
+   "tips": "Cena za rok 2026 neověřena. Rezervace přes Booking.com. Vzhledem k malé kapacitě (2 chatky) rezervovat s předstihem.",
+   "contact": "+355 69 875 0502 (Booking)",
+   "rating": "Booking.com: 9,7/10 ze 176 recenzí (\"Exceptional\"); páry hodnotí polohu 9,3/10",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/life-on-the-farm.html"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-bujtina-maria",
+   "name": "Bujtina Maria",
+   "kind": "ubytování",
+   "what": "4hvězdičkový rodinný hotel/bujtina v Labovë e Kryqit (u Gjirokastru), s bazénem, dvěma terasami, restaurací a mini barem. Pět typů pokojů (dvoulůžkové/twin, trojlůžkové ve dvou variantách, čtyřlůžkové deluxe), 20–28 m².",
+   "why": "Nejvybavenější z bujtin v okolí Gjirokastru (bazén, zahrady) a zároveň blízko unikátní byzantské/pravoslavné kostelní památky v Laboveu – dobrá kombinace odpočinku a kulturní zastávky.",
+   "experience": "Restaurace vaří místní i mezinárodní kuchyni z čerstvých lokálních surovin, v ceně kontinentální snídaně. Recenze chválí klid pod horami, pohodlné postele, terasu s výhledem, bohatou a chutnou snídani a jídlo popisují jako \"pole na stůl\" se skvělou chutí; drobné výtky se týkají údržby (rozbité WC, opotřebené doplňky) u části hostů. Konkrétní citace s rokem: neověřeno.",
+   "access": "Cca 20 minut jízdy od centra Gjirokastru do Labovë e Poshtme/Kryqit; povrch poslední cesty neověřen detailně, pravděpodobně asfalt s koncovým nezpevněným úsekem.",
+   "tips": "Sleva až 15 % při přímé rezervaci přes vlastní web. Check-in 14:00–24:00, check-out 8:00–11:00. Cena za pokoj/noc pro rok 2026 neověřena.",
+   "contact": "+355 69 704 5551, bujtinamaria@gmail.com, bujtina-maria.al",
+   "rating": "Booking.com: 9,2/10 z 549 recenzí (\"Superb\")",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-maria.html"
+    },
+    {
+     "label": "vlastní web",
+     "url": "https://bujtina-maria.al/"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-barrels",
+   "name": "The Barrels (Te Fuçitë)",
+   "kind": "ubytování",
+   "what": "Rodinná restaurace s vinicí a 4 pokoji ve vesnici Valarë u Gjirokastru – hosté sedí přímo mezi vinnou révou, jabloněmi a fíkovníky, po dvoře pobíhají slepice, kočky a psi. Vlastní produkce vína a rakije.",
+   "why": "Kombinace noclehu a farmářské/vinařské gastronomie na jednom místě – vhodné jako jedna \"gurmánská\" noc s ochutnávkou vlastního vína přímo mezi keři révy.",
+   "experience": "Menu nabízí čerstvá domácí středomořská a albánská jídla (plněné květy cukety, cuketa se sýrem, vepřová žebra, pomalu pečené kůzlečí). Vlastní víno k prodeji (1 láhev 1000 lek, 2 láhve 1800 lek – cena neověřena k roku 2026). Recenze popisují atmosféru jako velmi uvolněnou a romantickou, večeře pod révou při západu slunce. Restaurant Guru: 4,9/5 z cca 1400 recenzí.",
+   "access": "Mimo centrum Gjirokastru ve vesnici Valarë – nutná krátká jízda autem, poslední úsek pravděpodobně po venkovské silnici (povrch neověřen). Doporučeno rezervovat stůl předem.",
+   "tips": "Pokoje mají 4-hvězdičkový standard s klimatizací a balkonem/terasou s výhledem na zahradu/hory (dle Bookingu). Cena za pokoj/2 os. neověřena (agregátory uvádí orientačně 32–65 USD/noc, nutno ověřit). Otevřeno denně 9:00–17:00 (jako restaurace) – pro nocleh ověřit check-in časy zvlášť.",
+   "contact": "Telefon/rezervace: +355 69 409 8988 (přes visit-gjirokastra.com); e-mail: info@visit-gjirokastra.com",
+   "rating": "Restaurant Guru: 4,9/5; Booking.com hodnocení jako ubytování neověřeno (nová/malá nabídka pokojů)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/the-barrels-ms.html"
+    },
+    {
+     "label": "visit-gjirokastra.com",
+     "url": "https://visit-gjirokastra.com/restaurant/the_barrels"
+    }
+   ],
+   "img": null,
+   "day": "So",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-bual",
+   "name": "Traditional GuestHouse Përmet, Bual",
+   "kind": "ubytování",
+   "what": "Rodinný agroturistický penzion v přes 120 let starém tradičním albánském domě ve vesnici Bual, nad údolím řeky Vjosa. Provozuje ho rodina Cullufe.",
+   "why": "Jeden z nejlépe hodnocených penzionů v regionu Përmet – kombinace historického domu, panoramatického výhledu na údolí Vjosy a velmi osobního přístupu hostitelů.",
+   "experience": "Recenze popisují dům jako \"nejlepší ubytování na cestě po Albánii\", s pohostinnými majiteli a chutným, cenově dostupným jídlem. Terasa s výhledem na řeku a údolí je líčena jako nezapomenutelná. Blízko jsou Langarica canyon a termální prameny Bënja.",
+   "access": "Cesta nahoru do vesnice Bual je popisována jako \"trochu rustikální\", ale majitelé prý běžně nabízejí vyzvednutí hostů, pokud je potřeba. S běžným autem a solidním řidičem je sjízdná; s Jimny by neměl být problém. Přesný stav povrchu neověřeno.",
+   "tips": "Cena za pokoj neověřena (na Bookingu proměnlivá dle sezóny) – doporučuji zkontrolovat přímo na Bookingu před cestou. Rezervace přes Booking.com nebo Facebook stránku Traditional Guesthouse Permet. Večeři má smysl objednat předem.",
+   "contact": "Booking.com; Facebook Traditional Guesthouse Permet",
+   "rating": "Booking 9,5 (260 recenzí, 9/2026)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/cullufe.html"
+    },
+    {
+     "label": "AKT agroturizëm profil",
+     "url": "https://akt.gov.al/en/agroturizem/traditional-guest-house-permet/"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g19260585-d14419488-Reviews-Traditional_GuestHouse_Permet-Bual_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-stone-house",
+   "name": "The Stone House, Petran",
+   "kind": "ubytování",
+   "what": "Malý kamenný penzion se 4 pokoji (standard double, comfort triple, deluxe family) v obci Petran u Përmetu, adresa Mulliri i vjetër 19, Petran, Përmet 6404. Rodinný provoz.",
+   "why": "Klidná lokace v horách blízko termálních pramenů, raftingu a pěších tras, s velmi osobním přístupem hostitelské rodiny.",
+   "experience": "Recenze zmiňují vřelé přivítání domácí raki, velmi čistý dům a chutnou snídani s místními specialitami: \"host family was incredibly friendly and helpful\" (2024), \"Very very clean… Warm welcome by the owners with home made raki\" (2024). Slabší WiFi zmiňují někteří hosté.",
+   "access": "Petran leží v horách nad Përmetem; přesný stav přístupové cesty neověřen, doporučuji ověřit u majitele před příjezdem terénním vozem.",
+   "tips": "Cena neověřena. Zdarma storno do 1 dne před příjezdem (dle vlastního webu), po té plná platba. Rezervace přes Booking.com nebo přímo e-mailem/telefonem.",
+   "contact": "+355 69 461 5396, info@thestonehouse.al, thestonehouse.al",
+   "rating": "Couples rating 9,6 na Bookingu (přesný počet recenzí neověřen).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/the-stone-house.th.html"
+    },
+    {
+     "label": "Vlastní web",
+     "url": "https://www.thestonehouse.al/"
+    }
+   ],
+   "img": null,
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-chri-chri",
+   "name": "Chri Chri Guesthouse, Leusë",
+   "kind": "ubytování",
+   "what": "Rodinný penzion v odlehlé horské vesnici Leusë nad Përmetem, s výhledem do údolí. Provozují ho Gilberto a Elona (jídlo vaří Geta).",
+   "why": "Jeden z nejlépe hodnocených penzionů v celé oblasti (Booking 9,8), unikátní horský výhled na Përmet a autentická domácí kuchyně ze zeleniny a ovoce z vlastní zahrady.",
+   "experience": "Hosté chválí čistotu, kamenné stěny a dřevěné podlahy interiéru, i domácí jídlo: \"the homemade food is extraordinary\" (recenze 2024/2025). Večeře cca 10 EUR/os. Hostitel Gilberto nabízí bezplatné vyzvednutí u centra Përmetu, případně lze dojít pěšky.",
+   "access": "Leusë leží nad Përmetem v kopcích; cesta je sjízdná, ale strmá – doporučeno využít nabízený svoz autem hostitele, nebo dojet terénním vozem opatrně. Přesný stav povrchu neověřen.",
+   "tips": "Cena od cca 53 USD/noc se snídaní (dle agregátorů, neověřeno na Bookingu přímo). Rezervace přes Booking.com. Večeři nahlásit předem.",
+   "contact": "Kontakt neověřen – rezervace přes Booking.com.",
+   "rating": "Booking.com 9,8 (718 recenzí); Tripadvisor 4/5 (12 recenzí, #1 B&B v Leusë).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/chri-chri-guesthouse.html"
+    }
+   ],
+   "img": null,
+   "warning": "Na neděli 20. 9. 2026 je plné (zjištěno 15. 9.).",
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-mulliri",
+   "name": "Mulliri i Bënjës (Camping Rafting Restaurant), Bënja",
+   "kind": "ubytování",
+   "what": "Kemp s restaurací a raftingovým centrem u řeky Lengarica, cca 2 km od termálních pramenů Bënja, mezi horou a řekou.",
+   "why": "Kombinace kempu, koupání v čisté řece Lengarica přímo u tábořiště a startovacího bodu pro rafting na Vjose a návštěvu termálních pramenů.",
+   "experience": "Restaurace nabízí grilované maso a místní zeleninu v tradičním albánském stylu. Recenze na Tripadvisoru chválí polohu u řeky a možnost koupání přímo vedle kempu. Detaily o konkrétních cenách jídel neověřeny.",
+   "access": "Příjezdová cesta k tábořišti je dle zdrojů udržovaná a sjízdná pro všechny typy vozidel; přesný stav neověřen vlastní zkušeností.",
+   "tips": "Ceny stanování/jídla neověřeny – doporučuji potvrdit telefonicky předem, zejména mimo hlavní sezónu.",
+   "contact": "Telefon: +355 69 631 2827.",
+   "rating": "Hodnocení na Tripadvisoru existuje, přesné číslo neověřeno.",
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Attraction_Review-g801293-d32759831-Reviews-Mulliri_i_Benjes_Camping_Rafting_Restaurant-Permet_Gjirokaster_County.html"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/p/Camping-Rafting-Restaurant-Mulliri-i-Benjes-61569876167762/"
+    }
+   ],
+   "img": null,
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-albturist",
+   "name": "Albturist Ecocamp, Përmet",
+   "kind": "ubytování",
+   "what": "Rodinný ekokemp a raftingová firma u řeky Vjosa poblíž Përmetu, provozují Dona a Beni. Nabízí vlastní stanoviště pro stan/karavan i zapůjčené stany s matracemi a spacáky.",
+   "why": "Kombinace klidného kempování v přírodě u Vjosy s možností raftingu, hikingu, lezení a canyoningu přímo od stejné rodiny, blízko termálních pramenů Bënja.",
+   "experience": "Recenze chválí čisté sprchy a toalety, prostorné stany i pohodlný karavan. Dona prý vaří výbornou domácí albánskou snídani a večeři. Rafting na Vjose vedou profesionální a přátelští průvodci s jasným bezpečnostním briefingem.",
+   "access": "Kemp leží u řeky poblíž Përmetu, přístup autem by neměl být problém; přesný povrch poslední cesty neověřen.",
+   "tips": "Rafting cca 30 EUR/os. (2024/2025). Cena stanu/karavanu neověřena. Rezervace přes Booking.com nebo web exploringpermet.com.",
+   "contact": "Web: www.exploringpermet.com. Facebook: Albturist Eco Camping Përmet.",
+   "rating": "Tripadvisor 5/5 (56 recenzí, #1 z 10 v Përmetu); Trustindex 4,9 (530 recenzí).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/albturist-rafting-cammping-permet.html"
+    },
+    {
+     "label": "Vlastní web",
+     "url": "https://www.exploringpermet.com/"
+    }
+   ],
+   "img": null,
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-alvero",
+   "name": "Hotel Alvero, Përmet",
+   "kind": "ubytování",
+   "what": "Hotel v centru Përmetu přímo u řeky Vjosa, s výhledem na charakteristickou skálu (\"City's Stone\"). V provozu od roku 2005.",
+   "why": "Nejlépe hodnocený hotel v Përmetu (#1 na Tripadvisoru), centrální poloha u řeky a terasa vhodná na posezení po celodenním výletu.",
+   "experience": "Hosté chválí čisté a prostorné pokoje s dostatkem denního světla, přátelský a ochotný personál a výbornou snídani s domácími džemy. Terasa nabízí kávu a zmrzlinu s výhledem na řeku.",
+   "access": "Centrum Përmetu, snadný příjezd po asfaltu, GPS: 40.2336321, 20.353692.",
+   "tips": "Cena od cca 38 USD/noc (dle agregátorů, neověřeno přímo na Bookingu). Rezervace přes Booking.com nebo vlastní web s tlačítkem Book Now.",
+   "contact": "Telefon: +355 68 208 1334. E-mail: vnikolla@yahoo.fr. Web: www.hotelalvero.com",
+   "rating": "Tripadvisor #1 z 11 hotelů v Përmetu (4/5); Kayak 9,4 (197 recenzí).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/alvero.html"
+    },
+    {
+     "label": "Vlastní web",
+     "url": "https://www.hotelalvero.com/"
+    }
+   ],
+   "img": null,
+   "day": "Ne",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-sofra-kolonjare",
+   "name": "Sofra Kolonjare Agroturizëm, Ersekë",
+   "kind": "ubytování",
+   "what": "Agroturistický hotel se 6 pokoji v kamenno-dřevěné stavbě v Ersekë (region Kolonja), se zahradou a restaurací.",
+   "why": "Nová, kvalitně postavená agroturistika s vlastní restaurací nabízející širší menu než typický bujtina, dobrá základna pro okolí Ersekë a Gramoz.",
+   "experience": "Recenze chválí \"most magnificent new hotel with incredible stone and wood construction\", přátelskou atmosféru a dobrou snídani. Restaurace vaří italskou, tureckou i mezinárodní kuchyni.",
+   "access": "Ersekë leží na hlavní silnici SH75, přístup by měl být bezproblémový po asfaltu; přesný poslední úsek k penzionu neověřen.",
+   "tips": "Cena od cca 33 USD/noc (dle agregátorů, neověřeno přímo). Rezervace přes Booking.com.",
+   "contact": "Kontakt neověřen.",
+   "rating": "Couples rating 9,6 na Bookingu (přesný počet recenzí neověřen).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/sofra-kolonjare-erseke.html"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-cakuli",
+   "name": "Bujtina Cakuli, Rehovë",
+   "kind": "ubytování",
+   "what": "Tradiční kamenná bujtina (penzion) se 4 ložnicemi ve 200 let staré kamenné vesnici Rehovë u Ersekë, region Kolonja, adresa Pali Prifti Street.",
+   "why": "Autentická horská vesnice, dům s \"earthy, organic\" stylem, blízko termálních lázní a pěších/cyklo tras v pohoří Gramoz.",
+   "experience": "Recenze chválí laskavé hostitele, chutnou snídani i oběd, čistotu a hezký dvůr s grilem a krbem. Dům je zařízený s plně vybavenou kuchyní a terasou s výhledem na hory.",
+   "access": "Rehovë je malá vesnice u Ersekë; přesný stav poslední přístupové cesty neověřen, doporučuji potvrdit u majitele.",
+   "tips": "Cena od cca 47 EUR/noc (dle vlastního webu). Rezervace přes online formulář na bujtinacakuli.com, telefon nebo Booking.com. Nabízí i 10% slevu s aplikací Rentout.",
+   "contact": "+355 69 517 4054 (formát neověřen), bujtinacakuli.com",
+   "rating": "Booking.com 9,6, couples rating 8,9.",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-cakuli-rehove-erseke.html"
+    },
+    {
+     "label": "Vlastní web",
+     "url": "https://bujtinacakuli.com/"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-liana",
+   "name": "Bujtina Liana, Voskopojë",
+   "kind": "ubytování",
+   "what": "Rodinný penzion v klidné horské vesnici Voskopojë, se zahradou a snídaňovým bufetem.",
+   "why": "Voskopojë je historická vesnice s barokními kostely, Liana je jedna z běžných voleb k přenocování na cestě mezi Përmetem a Korçë.",
+   "experience": "Většina recenzí na Bookingu je pozitivní: čistý pokoj, přátelský personál, dobrá snídaně. Jeden Tripadvisor recenzent ale zaznamenal nesoulad mezi vysokým hodnocením a realitou – malý trojlůžkový pokoj a jednoduchou snídani. Doporučuji brát hodnocení s rezervou a raději zvolit konkrétní typ pokoje předem.",
+   "access": "Voskopojë je dostupná po asfaltové silnici z Korçë; přesná poslední ulice k penzionu neověřena.",
+   "tips": "Cena neověřena. Rezervace přes Booking.com.",
+   "contact": "Facebook: Voskopoje \"Bujtina Liana\".",
+   "rating": "Facebook 96 % doporučení (21 recenzí); Booking vysoké hodnocení, Tripadvisor smíšenější.",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-liana-voskopoje.html"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-vila-falo",
+   "name": "Vila Falo, Voskopojë",
+   "kind": "ubytování",
+   "what": "Rodinný hotel/penzion ve Voskopojë postavený z kamene a dřeva, s restaurací; provozuje ho jedna rodina.",
+   "why": "Zajímavá architektura a levná tradiční albánská kuchyně jsou hlavní lákadlo, ale recenze jsou výrazně nevyrovnané.",
+   "experience": "Pozitivní recenze chválí chutné jídlo za nízkou cenu a rodinnou atmosféru. Na Tripadvisoru jsou ale i vážné stížnosti – zrušené rezervace, otevřeno prý jen o víkendech, nepříjemný personál a v jednom případě zkažené maso s larvami. Tripadvisor hodnocení je jen 3/5 (39 recenzí).",
+   "access": "Voskopojë dostupná po asfaltu; přesný přístup k vile neověřen.",
+   "tips": "Vzhledem k nekonzistentním recenzím doporučuji před cestou telefonicky ověřit, že je otevřeno a večeře je zajištěná. Cena neověřena.",
+   "contact": "Kontakt neověřen – web vilafalo.com nebyl technicky dostupný k ověření (SSL chyba při kontrole).",
+   "rating": "Tripadvisor 3/5 (39 recenzí, #3 z 6 B&B ve Voskopojë); jiné agregátory uvádí až 9,5 z 11 recenzí – rozpor mezi zdroji.",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/vila-falo-voskopoje.html"
+    },
+    {
+     "label": "Vlastní web (needověřeno)",
+     "url": "https://www.vilafalo.com/"
+    }
+   ],
+   "img": null,
+   "warning": "Recenze na Tripadvisoru (3/5) hlásí zrušené rezervace, provoz jen o víkendech a v jednom případě zkažené maso. Před příjezdem zavolat.",
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-argis",
+   "name": "Bujtina Argis, Voskopojë",
+   "kind": "ubytování",
+   "what": "Menší rodinná bujtina ve Voskopojë se zahradou, klimatizovanými pokoji (dvoulůžkové a rodinné) s vlastní koupelnou.",
+   "why": "Alternativa k Lianě/Vila Falo ve stejné vesnici, s dobrými recenzemi na čistotu a výhled na hory.",
+   "experience": "Recenze chválí bezvadně čisté pokoje, chutnou snídani a krásný výhled z pokojů. Počet recenzí je zatím nízký (jednotky na Bookingu), takže obraz je méně ustálený než u větších penzionů.",
+   "access": "Voskopojë dostupná po asfaltu z Korçë; přesný přístup k penzionu neověřen.",
+   "tips": "Cena neověřena přesně (orientačně v řádu desítek EUR/noc dle průměru Voskopojë). Rezervace přes Booking.com. Zahrnuje kontinentální snídani.",
+   "contact": "Kontakt neověřen.",
+   "rating": "Booking.com – jen cca 5 ověřených recenzí (k datu zjištění), hodnocení vysoké, ale malý vzorek.",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-argis-voskopoje.html"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-akademia",
+   "name": "Hotel Akademia, Voskopojë",
+   "kind": "ubytování",
+   "what": "Rozsáhlejší hotel (cca 24 pokojů) v borovém lese u Voskopojë, budova z 50. let 20. století původně sloužila jako pionýrský tábor a zotavovna za komunismu, dnes zrekonstruovaná.",
+   "why": "Zajímavé pro historii budovy a klidné prostředí v lese, ale recenze jsou dost rozporuplné – spíš záložní volba než první tip.",
+   "experience": "Pozitivní recenze zmiňují krásnou fasádu a pozemek, večeře při svíčkách s tradičním albánským jídlem a vínem a přijatelné ceny. Negativní recenze si stěžují na propadlé matrace, chybějící servis a horší zákaznickou péči – hotel je prý často plný organizovaných zájezdů seniorů bez zvláštního servisu pro individuální hosty.",
+   "access": "Mimo centrum Voskopojë v lese; přesná poslední cesta neověřena.",
+   "tips": "Vzhledem ke smíšeným recenzím doporučuji raději menší bujtinu (Liana/Argis), pokud chcete jistotu kvality. Cena neověřena, rezervace přes vlastní web nebo telefon.",
+   "contact": "Telefon: +355 69 202 3047. E-mail: info@akademiahotel.com. Web: akademiahotel.al",
+   "rating": "Google cca 4,1; smíšené recenze na Tripadvisoru.",
+   "links": [
+    {
+     "label": "Vlastní web",
+     "url": "https://akademiahotel.al/"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g6475494-d9861867-Reviews-Voskopoje_Akademia_Hotel-Voskopoje_Korce_County.html"
+    }
+   ],
+   "img": null,
+   "warning": "Smíšené recenze: propadlé matrace, slabý servis, zájezdy seniorů. Radši Liana nebo Argis.",
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-lm-vithkuq",
+   "name": "Bujtina L & M, Vithkuq",
+   "kind": "ubytování",
+   "what": "Malý rodinný penzion ve vesnici Vithkuq (podhůří Morava/Gramoz), na úpatí hor poblíž Voskopojë. Detaily o počtu pokojů neověřeny.",
+   "why": "Vithkuq je méně turisticky vytížená vesnice než Voskopojë, dobrá volba pro klidnější noc a blízkost turistických tras do hor.",
+   "experience": "Online informací je málo – Facebook stránka vesnice popisuje Vithkuq jako místo, kde \"najdete chybějící klid a užijete si panenskou přírodu\". Konkrétní recenze na ubytování samotné nebyly dohledány – doporučuji ověřit telefonicky před cestou.",
+   "access": "Vithkuq je dostupný z Voskopojë/Korçë po místní silnici; přesný stav povrchu a poslední km neověřeny.",
+   "tips": "Cena, kapacita ani způsob rezervace nejsou ověřeny online – doporučuji rezervovat přímo telefonicky/přes WhatsApp na uvedené číslo a předem domluvit večeři.",
+   "contact": "Telefon: +355 69 366 1489 (dle zadání).",
+   "rating": "Neověřeno – online recenze nedohledány.",
+   "links": [
+    {
+     "label": "Facebook (Vithkuq)",
+     "url": "https://www.facebook.com/vithkuq/"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-hani-pazarit",
+   "name": "Hani i Pazarit, Korçë",
+   "kind": "ubytování",
+   "what": "Butikový hotel v historické budově starého bazaru (Pazari i Vjetër) v Korçë, kombinuje památkovou architekturu s moderním komfortem.",
+   "why": "Jeden z nejlépe hodnocených hotelů v Korçë, v pěší dostupnosti od Muzea středověkého umění a centra starého města.",
+   "experience": "Recenze chválí personál recepce a restaurace, živou hudbu o pátcích a sobotách a chutnou snídani. Vlastní restaurace servíruje tradiční albánskou kuchyni z místních surovin.",
+   "access": "V centru Korçë, starý bazar – dobrá dostupnost autem, parkování ve městě je třeba řešit individuálně (neověřeno, zda má hotel vlastní parkoviště).",
+   "tips": "Cena neověřena přesně. Rezervace přes web hanipazarit.al nebo Booking.com, případně e-mailem.",
+   "contact": "+355 69 701 0055, bookings@hanipazarit.al, hanipazarit.al",
+   "rating": "Booking.com 9,6 (359 recenzí); Tripadvisor #2 z 29 B&B v Korçë (4/5).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/hani-i-pazarit.html"
+    },
+    {
+     "label": "Vlastní web",
+     "url": "https://hanipazarit.al/"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-bujtina-leon",
+   "name": "Bujtina Leon, Korçë",
+   "kind": "ubytování",
+   "what": "Rodinný penzion v centru Korçë s tradičním albánským interiérem a krbem, dvorem k posezení.",
+   "why": "Nejlépe hodnocený B&B v Korçë na Tripadvisoru, centrální a klidná poloha za rozumnou cenu.",
+   "experience": "Recenze chválí čistotu, krásný dvůr, atmosféru s krbem a bohatou, chuťově výraznou snídani z místních specialit. Hostitelé jsou popisováni jako vřelí a pozorní. Někteří hosté zaznamenali problémy s WiFi a chybějící klimatizaci – doporučuji ověřit před rezervací, pokud jedete v horkých dnech.",
+   "access": "Centrum Korçë, dobrá dostupnost autem; přesné parkování neověřeno.",
+   "tips": "Cena neověřena. Rezervace přes Booking.com. Doporučuji si předem potvrdit klimatizaci/WiFi.",
+   "contact": "Kontakt neověřen.",
+   "rating": "Tripadvisor #1 z 29 B&B v Korçë (4/5, 139 recenzí).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-leon.html"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-life-gallery",
+   "name": "Life Gallery Hotel & Spa, Korçë",
+   "kind": "ubytování",
+   "what": "4hvězdičkový hotel se spa (sauna, parní lázeň, vnitřní bazén) v historické části Korçë, otevřený 2011, po renovaci znovuotevřen v červenci 2023.",
+   "why": "Nejluxusnější volba na trase – vhodné jako závěrečné \"odměnové\" přenocování po dnech v terénu, s wellness zázemím.",
+   "experience": "Recenze chválí velmi přátelský personál, výbornou snídani i jídlo, atraktivní interiér a wellness zónu. Drobné výtky se týkají osvětlení pokojů a občas hlasité hudby z baru.",
+   "access": "Centrum Korçë, dobrá dostupnost autem po asfaltu.",
+   "tips": "Cena orientačně 80–130 USD/noc dle sezóny (2025, neověřeno přímo na Bookingu pro konkrétní termín). Rezervace přes Booking.com nebo web hotelu.",
+   "contact": "Kontakt neověřen – rezervace přes Booking.com.",
+   "rating": "Booking.com 9,7 (319 recenzí); Kayak 9,5 (391 recenzí).",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/life-gallery.html"
+    }
+   ],
+   "img": null,
+   "day": "Po",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-bracaj",
+   "name": "Guest House Bracaj",
+   "kind": "ubytování",
+   "what": "Rodinný guest house v osadě Çerenisht nad Çorovodë, s výhledem do kaňonu Osumi. Menší počet pokojů, zahrada, terasa, vlastní restaurace/bar.",
+   "why": "Poloha přímo nad kaňonem Osumi, domácí kuchyně z vlastní zahrady (med, kompoty) a téměř dokonalé hodnocení hostů.",
+   "experience": "Recenze chválí zejména bohatou domácí snídani (sýry, jogurt, marmelády, med a víno z vlastní produkce) a čistotu celého domu. Majitelé mluví anglicky, takže komunikace je bezproblémová.",
+   "access": "Poslední úsek k domu vede po horské silnici nad Çorovodë; z jihu (od Përmetu) je cesta sjízdná prakticky jen s 4x4, což s Jimny není problém, s běžným autem se nedoporučuje.",
+   "tips": "Cena od cca 60 USD/noc za pokoj (2025, orientačně, ceny se liší dle termínu) – neověřeno přesně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
+   "contact": "+355 69 377 9980 (tel./WhatsApp, Booking)",
+   "rating": "Booking 9,7 (790 recenzí, 9/2026)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/guest-house-bracaj-corovode1.html"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g801291-d26192978-Reviews-Guesthouse_Bracaj-Corovode_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-xhaferri",
+   "name": "Xhaferri Guesthouse",
+   "kind": "ubytování",
+   "what": "Rodinný guest house v obci Mollas u Çorovodë, provozovaný manžely Apostilem a Tinou. Pokoje typu family room s vlastní koupelnou, balkonem a výhledem na údolí a hory.",
+   "why": "Klidná poloha s výhledem do údolí, autentická albánská pohostinnost a restaurace s vegetariánskými/veganskými možnostmi, což je v regionu vzácnost.",
+   "experience": "Hosté chválí výhled z pokojů a vstřícnost hostitelů. Snídaně à la carte (palačinky, sýry). Na Tripadvisoru je podnik jediným B&B v obci Mollas s hodnocením 5/5.",
+   "access": "Leží u silnice mezi Çorovodë a Bogovë/Osumi kaňonem; přesný stav poslední příjezdové cesty neověřen, ale dle recenzí je dostupný osobním autem.",
+   "tips": "Cena neověřena přesně (agregátory uvádí řádově 40–60 EUR/noc, 2025). Rezervace přes Booking.com.",
+   "contact": "neověřeno",
+   "rating": "9,7/10 (39 recenzí) / 9,6/10 (32 recenzí) na Booking.com, 5/5 na Tripadvisoru (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/xhaferri-guesthouse.html"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g30392464-d30261044-Reviews-Xhaferri_Guesthouse-Mollas_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-nuhellari",
+   "name": "Guest House Nuhellari",
+   "kind": "ubytování",
+   "what": "Malý rodinný guest house v Çorovodë (region Skrapar), se zahradou, sdílenou kuchyní a piknikovým místem. Přesný počet pokojů neověřen.",
+   "why": "Krátká vzdálenost od kaňonů Osumi, klidná domácí atmosféra a osobní přístup rodiny provozovatelů.",
+   "experience": "Recenze (na Airbnb označen jako \"Guest favourite\") chválí především vstřícnost a pohostinnost rodiny. Podrobnosti o večeři/snídani neověřeny.",
+   "access": "V Çorovodë, výchozí bod pro kaňony Osumi; přesný stav příjezdové cesty neověřen.",
+   "tips": "Cena neověřena. Rezervace přes telefon/WhatsApp nebo Booking.com.",
+   "contact": "+355 69 527 9460 (dle Facebooku, neověřeno přímo)",
+   "rating": "5/5 (4 recenze) na Airbnb (k datu vyhledání, 2025) – malý vzorek",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/guest-house-nuhellari.html"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/people/Guest-House-Nuhellari/100054431021985/"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-skrapari",
+   "name": "Hotel Skrapari",
+   "kind": "ubytování",
+   "what": "Klasický 3hvězdičkový hotel v Çorovodë s 11 klimatizovanými pokoji, vlastní koupelnou, restaurací, barem a společenskou místností.",
+   "why": "Praktická volba přímo ve městě, cca 10 minut pěšky od kaňonu Osumi – vhodné jako hotelová alternativa k rodinným guest housům.",
+   "experience": "Hodnocení je solidní, ale citelně nižší než u rodinných guesthousů v okolí – spíš funkční hotel než zážitek. Detailní citace recenzí neověřeny.",
+   "access": "Přímo v Çorovodë, dobrá dostupnost i běžným autem, vlastní parkoviště.",
+   "tips": "Cena od cca 48 USD/noc (2025, neověřeno přesně). Rezervace přes Booking.com.",
+   "contact": "neověřeno",
+   "rating": "7,4/10 na Booking.com (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/skrapari.html"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-kt-qato",
+   "name": "KT Qato Hotel",
+   "kind": "ubytování",
+   "what": "Hotel s restaurací v Bogovë, cca 2 km od vodopádu Bogovë. Pokoje s vlastní koupelnou (bidet, samostatné WC, sprcha), zahrada, dětské hřiště.",
+   "why": "Nejblíž vodopádu Bogovë a kaňonu Osumi ze všech hotelů v okolí, s vlastní restaurací přímo na místě.",
+   "experience": "Recenze zmiňují krásný výhled z jídelny a vstřícný, přátelský personál; jídlo hodnoceno jako výborné. Konkrétní citace roků recenzí neověřeny.",
+   "access": "V obci Bogovë, poslední kilometry po místní silnici; vlastní parkoviště na místě.",
+   "tips": "Cena neověřena. Rezervace přes vlastní web (kt-qato.hotels-albania.net) nebo telefonicky – web se při pokusu o načtení choval nestabilně (HTTP 429), doporučeno ověřit přímo před cestou.",
+   "contact": "neověřeno",
+   "rating": "neověřeno (kladné recenze na Tripadvisoru, počet a skóre nezjištěny přesně)",
+   "links": [
+    {
+     "label": "Oficiální web",
+     "url": "https://kt-qato.hotels-albania.net/en/"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g20323321-d23700491-Reviews-KT_Qato_Hotel-Bogove_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-white-villa",
+   "name": "The White Villa",
+   "kind": "ubytování",
+   "what": "Rodinný guest house v Bogovë se 6 pokoji (deluxe double, triple, twin, superior family room), provozovaný rodinou Fatos, Margarite a syn Eri.",
+   "why": "Jedno z nejlépe hodnocených ubytování v celém regionu Skrapar, blízko vodopádu Bogovë, s výbornou domácí kuchyní.",
+   "experience": "166 recenzí s hodnocením \"Exceptional\". Hosté opakovaně popisují snídani jako jednu z nejlepších v Albánii – vše čerstvé, lokální nebo domácí. Večeře je také vysoce hodnocená, včetně možností pro speciální diety.",
+   "access": "V obci Bogovë; přesný stav poslední přístupové cesty neověřen, dle recenzí dostupné běžným autem. Vlastní parkoviště.",
+   "tips": "Cena od cca 48 USD/noc (2025, neověřeno přesně), snídaně v ceně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
+   "contact": "neověřeno (u jednoho agregátoru uvedeno telefonní číslo s předvolbou +63, což je zjevně chybný údaj – nepoužívat)",
+   "rating": "Exceptional, 166 recenzí na Booking.com (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/the-white-villa.html"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g20323321-d24127688-Reviews-The_White_Villa-Bogove_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "day": "Út",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-bujtina-tomorrit",
+   "name": "Bujtina e Tomorrit",
+   "kind": "ubytování",
+   "what": "Horská bujtina (penzion) v osadě Ujanik, na konci asfaltové silnice z Poliçanu směrem k průsmyku Kulmak, u paty hory Tomorr.",
+   "why": "Výchozí bod pro turistiku na horu Tomorr (posvátnou horu Bektashi řádu), autentické horské prostředí, konec zpevněné cesty.",
+   "experience": "Pokoje s balkonem, sedací částí a TV; koupelny se samostatným WC a sprchou. Kontinentální snídaně v ceně. Podrobné citace recenzí hostů neověřeny.",
+   "access": "Ujanik leží na konci asfaltky z Poliçanu; odtud dál k Tomorru už jen terénní cesta – ideální pro Jimny. Cca 1 km od centra obce.",
+   "tips": "Cena cca 50 EUR / 60 USD za pokoj (2025, neověřeno přesně). Rezervace telefonicky nebo přes Booking.com.",
+   "contact": "+355 697 40 22 04 (neověřeno přímo, ze sekundárního zdroje)",
+   "rating": "neověřeno (nedostatek agregovaného skóre v dostupných zdrojích)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-e-tomorrit.html"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g19870298-d19863504-Reviews-Bujtina_E_Tomorrit-Ujanik_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "day": "St",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-alpeta",
+   "name": "Alpeta Agroturizëm & Winery",
+   "kind": "ubytování",
+   "what": "Agroturistický komplex s vinařstvím v obci Roshnik, cca 10 km od Beratu. Guest house s pokoji, vlastní restaurace a vinařství s ochutnávkami.",
+   "why": "Kombinace ubytování, vlastního vína a tradiční kuchyně; blízkost vodopádu Sotira a možnost turistiky v okolních lesích.",
+   "experience": "Hodnocení 4,9/5 na Restaurant Guru (760 recenzí). Hosté chválí čisté a prostorné pokoje s výhledem na hory, osobní přístup a ochutnávky vína za výbornou cenu. Drobná výtka: degustace je spíš společenská než odborně zaměřená, jeden recenzent zmínil obtěžující vosy/včely při jídle.",
+   "access": "Roshnik, cca 10 km od Beratu; poslední úsek po místní silnici, vlastní parkoviště.",
+   "tips": "Check-in 14:00–22:00, check-out do 11:00. Restaurace: snídaně 8:00–10:00, oběd 12:00–16:30, večeře 18:30–21:00. Cena pokoje neověřena. Rezervace/kontakt přes WhatsApp.",
+   "contact": "+355 69 748 4361 (ověřeno na alpeta.al); jiný zdroj uvádí WhatsApp +355 68 608 9293",
+   "rating": "4,9/5 na Restaurant Guru, 760 recenzí (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/agro-bujtina-alpeta.html"
+    },
+    {
+     "label": "Oficiální web",
+     "url": "https://alpeta.al/"
+    }
+   ],
+   "img": null,
+   "day": "St",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-nurellari",
+   "name": "Nurellari Winery Cellar and Guest House",
+   "kind": "ubytování",
+   "what": "Rodinné vinařství s guest housem ve Fushë-Peshtan u Beratu. Moderní klimatizované pokoje, vlastní bar/degustační prostor.",
+   "why": "Jedno z nejlépe hodnocených vinařství v Albánii, kombinace ochutnávky vína a přenocování přímo v areálu.",
+   "experience": "Hodnocení 4,9/5. Recenze vyzdvihují kvalitu vín (zejména červená a růžové z odrůdy Serina), příjemnou zahradu s kočkami a vstřícnou rodinnou obsluhu. Jeden recenzent upozorňuje, že místo je odlehlé a příjezdová cesta místy náročná.",
+   "access": "Fushë-Peshtan u Beratu; poslední kilometry po venkovské cestě, dle recenzí místy náročnější – s Jimny bez problému.",
+   "tips": "Cena pokoje neověřena. Doporučeno předem nahlásit degustaci/večeři.",
+   "contact": "+355 69 513 6326 (agrotourism.gov.al)",
+   "rating": "4,9/5 (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/nurellari-winery-cellar-and-guest-house.html"
+    }
+   ],
+   "img": null,
+   "day": "St",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-mangalemi",
+   "name": "Hotel Mangalemi",
+   "kind": "ubytování",
+   "what": "Historický hotel v srdci čtvrti Mangalem v Beratu, postavený na základech usedlosti Ahmeta Kurta Paši. První hotel otevřený v Beratu po roce 1991.",
+   "why": "Autentická tradiční berátská architektura (dřevo, kámen) přímo v památkové čtvrti, kousek od hradu.",
+   "experience": "Hodnocení 9,7/10 (783 recenzí, \"Exceptional\"). Hosté chválí rodinné vedení, výhled na město při snídani a bezvadnou čistotu. Upozornění: hotel má schody nahoru/dolů k pokojům a terase, což může vadit hostům s omezenou pohyblivostí.",
+   "access": "Rruga Mihal Komneno, u Porta e Pashait, cca 300 m od centra, u cesty k hradu. Auto lze nechat poblíž, poslední úsek pěšky po dlažbě.",
+   "tips": "Cena pokoje neověřena přesně. Rezervace přes vlastní web (Request Booking) nebo Booking.com.",
+   "contact": "+355 68 232 3238, mangalemihotel.com",
+   "rating": "9,7/10, 783 recenzí na Booking.com (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/mangalemi.html"
+    },
+    {
+     "label": "Oficiální web",
+     "url": "https://mangalemihotel.com/"
+    }
+   ],
+   "img": null,
+   "day": "St",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-klea",
+   "name": "Hotel Klea",
+   "kind": "ubytování",
+   "what": "Malý rodinný guest house se 4 pokoji přímo uvnitř hradeb hradu (Kalaja) v Beratu, na vrcholu kopce.",
+   "why": "Jedinečná poloha přímo v hradu s výhledem na město; nejmenší a nejosobnější z beratských ubytování v nabídce.",
+   "experience": "Hodnocení 9,6/10 (975 recenzí). Recenze vyzdvihují \"dědovo víno a mámino vaření\" – hotel v noci funguje i jako bar/restaurace s tradiční albánskou kuchyní. Hosté popisují hostitele (pár a syn) jako mimořádně vstřícné.",
+   "access": "Uvnitř hradu Kalaja, nutné vyjet/vyjít po dlážděné cestě do hradu; auto lze nechat na parkovišti u vstupu do hradu, poslední úsek pěšky.",
+   "tips": "Cena od cca 40 EUR/noc (2025, neověřeno přesně) – dle recenzí patřilo k nejlevnějším a zároveň nejoblíbenějším ubytováním v okolí. Rezervace přes Booking.com.",
+   "contact": "neověřeno",
+   "rating": "9,6/10, 975 recenzí (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/klea.html"
+    }
+   ],
+   "img": null,
+   "day": "St",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-huqi",
+   "name": "Agroturizëm Huqi",
+   "kind": "ubytování",
+   "what": "Agroturistický komplex u Rrashbullu/Radë poblíž Durrësu, s 20 dřevěnými chatkami na ploše 70 000 m², jezerem a vlastní farmou (přes 1300 ovocných stromů, mini zoo).",
+   "why": "Rodinné zastavení na cestě k/od Jimny expedice – kombinace jezera, zeleně a tradičního jídla připraveného na ohni, vhodné i pro děti.",
+   "experience": "Hodnocení spíš průměrné (3/5 na Tripadvisoru, jen 6 recenzí). Recenze chválí krásné prostředí s jezerem a ovocnými stromy a jehněčí/kůzlečí maso připravené osmanským stylem v peci, ale upozorňují, že o víkendech bývá silně obsazeno turisty.",
+   "access": "Cesta ke Gjiri Lalzit, cca 4 km od Maminasi, Radë. Přesný stav poslední příjezdové cesty neověřen.",
+   "tips": "Cena chatky neověřena. Rezervace přes formulář na webu, e-mail nebo Booking.com. Doporučeno vyhnout se víkendům kvůli davům.",
+   "contact": "+355 67 509 9909, info@agritourismhuqi.com",
+   "rating": "3/5, 6 recenzí na Tripadvisoru (malý vzorek, k datu vyhledání 2025)",
+   "links": [
+    {
+     "label": "Oficiální web",
+     "url": "https://agritourismhuqi.com/"
+    },
+    {
+     "label": "akt.gov.al",
+     "url": "https://akt.gov.al/agroturizem/agroturizem-huqi/"
+    }
+   ],
+   "img": null,
+   "day": "Čt",
+   "gallery": []
+  },
+  {
+   "id": "ubyt-mrizi",
+   "name": "Mrizi i Zanave",
+   "kind": "ubytování",
+   "what": "Známý slow-food agroturismus v obci Fishtë (Lezhë), organická farma s farm-to-table restaurací a cca 9 jednoduchými, ale komfortními pokoji.",
+   "why": "Jeden z nejznámějších agroturistických projektů v Albánii, symbol udržitelného zemědělství a podpory lokálních farmářů; vlastní výroba sýrů, uzenin, mýdel a vína.",
+   "experience": "Hodnocení 4/5 (66 recenzí), #1 z 2 B&B v obci. Hosté chválí čisté, moderní pokoje se skleněnou stěnou do zahrad a polí, pozornou obsluhu a vynikající jídlo – kompletní menu vyjde na cca 40 EUR a je hodnoceno jako výborná hodnota. Ojedinělá negativní recenze zmiňuje fádní jídlo a slabší servis.",
+   "access": "Fishtë, Lezhë; přesný stav poslední přístupové cesty neověřen.",
+   "tips": "Cena pokoje neověřena, menu cca 40 EUR/os. Rezervace přes web nebo telefon/e-mail. Web mrizizanave.al byl při kontrole ještě ve výstavbě (upozornění na možné neaktuální info) – doporučeno ověřit telefonicky před cestou.",
+   "contact": "+355 69 210 8032, info@mrizizanave.al",
+   "rating": "4/5, 66 recenzí na Tripadvisoru (k datu vyhledání, 2025)",
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/mrizi-i-zanave-agroturizem.html"
+    },
+    {
+     "label": "Oficiální web",
+     "url": "https://www.mrizizanave.al/"
+    }
+   ],
+   "img": null,
+   "day": "Čt",
    "gallery": []
   }
  ],

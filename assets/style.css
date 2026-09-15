@@ -363,3 +363,11 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 10px 28px; justify-content: 
 .modal .gallery .th { display: block; text-decoration: none; color: var(--muted); font-size: 10.5px; line-height: 1.3; }
 .modal .gallery .th img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; background: var(--paper-2); display: block; max-height: none; }
 .modal .gallery .th span { display: block; margin-top: 3px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.modal .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px 14px; margin: 4px 0 6px; padding: 10px 12px; background: var(--paper-2); border-radius: 10px; font-size: 13px; color: var(--ink-2); }
+.modal .facts b { display: block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.modal .pcall { border-left: 4px solid var(--sand); background: #fbf5e6; border-radius: 0 10px 10px 0; padding: 10px 14px; font-size: 14px; color: var(--ink-2); margin: 12px 0 0; }
+.modal .pcall b { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 3px; color: var(--ink); }
+.modal .pcall.warn { border-color: var(--red); background: #f9e9e9; }
+.modal .pcall.fun { border-color: var(--ok); background: #e9f5ec; font-style: italic; }
+.modal .city { margin-top: 14px; padding: 12px 14px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper-2); }
+.modal .city > h4 { margin-top: 0; color: var(--D); }
