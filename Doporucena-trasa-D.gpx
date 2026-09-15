@@ -2130,7 +2130,7 @@
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.25178" lon="20.41668"/>
   </trkseg></trk>
-  <trk><name>4 Po – Zkouška 2: Përmet → Frashër → Ersekë → Korçë</name><trkseg>
+  <trk><name>4 Po – Zkouška 2: Përmet → Frashër → Ersekë → Korçë → Voskopojë</name><trkseg>
     <trkpt lat="40.25178" lon="20.41668"/>
     <trkpt lat="40.25106" lon="20.41783"/>
     <trkpt lat="40.2507" lon="20.41663"/>
@@ -2900,9 +2900,6 @@
     <trkpt lat="40.61534" lon="20.77691"/>
     <trkpt lat="40.61587" lon="20.77735"/>
     <trkpt lat="40.616" lon="20.7772"/>
-  </trkseg></trk>
-  <trk><name>5 Út – Voskopojë → Vithkuq → Osumi → Çorovodë</name><trkseg>
-    <trkpt lat="40.616" lon="20.7772"/>
     <trkpt lat="40.61699" lon="20.77596"/>
     <trkpt lat="40.61805" lon="20.77574"/>
     <trkpt lat="40.61824" lon="20.77543"/>
@@ -3035,6 +3032,9 @@
     <trkpt lat="40.63313" lon="20.59126"/>
     <trkpt lat="40.6327" lon="20.59108"/>
     <trkpt lat="40.63279" lon="20.59052"/>
+    <trkpt lat="40.63324" lon="20.59053"/>
+  </trkseg></trk>
+  <trk><name>5 Út – Vithkuq → Osumi → Çorovodë</name><trkseg>
     <trkpt lat="40.63324" lon="20.59053"/>
     <trkpt lat="40.63282" lon="20.59241"/>
     <trkpt lat="40.63215" lon="20.5931"/>
