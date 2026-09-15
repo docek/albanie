@@ -48,6 +48,7 @@
     <div class="actions">
       <a class="btn primary" href="#mapa">Zobrazit mapu</a>
       <button class="btn light" id="offline-btn" type="button" title="Uloží stránku, data a fotky karet do prohlížeče">⬇ Uložit pro offline</button>
+      <button class="btn light" id="pwa-help" type="button">📱 Jak na plochu telefonu</button>
       <a class="btn ghost" href="Doporucena-trasa-D.gpx" download>⬇ GPX trasy D</a>
       <a class="btn ghost" href="pujcovny.html">Srovnání půjčoven</a>
     </div>
@@ -1033,6 +1034,7 @@ document.querySelectorAll('.day .fly').forEach(a => a.addEventListener('click', 
   const modal = document.getElementById('modal'), box = modal.querySelector('.box'), content = document.getElementById('modal-content');
   const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   function open(html, small) { content.innerHTML = html; modal.classList.toggle('small', !!small); modal.classList.add('on'); modal.setAttribute('aria-hidden','false'); box.scrollTop = 0; document.body.style.overflow = 'hidden'; }
+  window.openModal = open;
   function close() { modal.classList.remove('on'); modal.setAttribute('aria-hidden','true'); document.body.style.overflow = ''; }
   modal.addEventListener('click', e => { if (e.target === modal || e.target.closest('.x')) close(); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
@@ -1143,6 +1145,17 @@ document.querySelectorAll('.day .fly').forEach(a => a.addEventListener('click', 
     } catch (e) { btn.textContent = 'Offline nejde v tomto prohlížeči (zkus Chrome/Safari na telefonu)'; btn.disabled = false; }
   });
 })();
+</script>
+
+<script>
+document.getElementById('pwa-help').addEventListener('click', () => {
+  const html = `<div class="in"><h3>Web jako aplikace na telefonu</h3><div class="kind">funguje bez signálu</div>
+<h4>iPhone (jen Safari)</h4><p>1. Otevři <b>docek.github.io/albanie</b> v Safari, ne v Chromu – jiné prohlížeče na iPhonu instalaci neumí.<br>2. Klepni na ikonu <b>Sdílet</b> (čtverec se šipkou nahoru dole uprostřed).<br>3. Sjeď dolů a vyber <b>Přidat na plochu</b>, potvrď <b>Přidat</b>.<br>4. Otevři novou ikonu <b>Albánie 4x4</b> z plochy ještě s připojením a klepni na <b>Uložit pro offline</b>. Počkej, až tlačítko ukáže ✓ (stahuje ~1 000 fotek, radši na wifi).<br>5. Hotovo. Aplikaci nechávej nainstalovanou; iOS po několika týdnech nepoužívání může cache smazat, tak ji před odjezdem jednou otevři.</p>
+<h4>Android (Chrome)</h4><p>1. Otevři web v Chromu.<br>2. Menu ⋮ vpravo nahoře → <b>Přidat na plochu</b> nebo <b>Nainstalovat aplikaci</b>.<br>3. Otevři ji z plochy a klepni na <b>Uložit pro offline</b>.</p>
+<h4>Co offline funguje a co ne</h4><p>Funguje: celý plán, karty míst s fotkami, slovníček, půjčovny, trasy na mapě (čáry). Nefunguje: podklad mapy mimo místa, která jsi už online prohlížel, odkazy na Booking a Mapy.cz. Na navigaci použij Mapy.cz s offline mapou Albánie a GPX soubory.</p>
+<h4>Když se web aktualizuje</h4><p>Nová verze se stáhne na pozadí a ukáže se až při dalším otevření. Když chceš mít jistotu, otevři web dvakrát po sobě s připojením.</p></div>`;
+  if (window.openModal) window.openModal(html, false);
+});
 </script>
 </body>
 </html>
