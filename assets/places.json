@@ -4946,6 +4946,432 @@
    ]
   },
   {
+   "id": "jidlo-byrek-met-cela",
+   "name": "Byrek Met Çela",
+   "kind": "jídlo",
+   "what": "Malý rodinný podnik na byrek (plněné listové těsto) a snídaně v Lushnjë, funguje i jako výrobna mraženého byreku k odnesení domů.",
+   "why": "Typická rychlá zastávka na trase přes Lushnjë – místní klasika na snídani/svačinu, ne turistický cíl.",
+   "experience": "Byrek me spinaq/gjizë (špenát/tvaroh), k tomu dhallë (podmáslí). Levné, neformální posezení, spíš průjezdní zastávka než dlouhý oběd. Recenze popisují místo jako \"warm & welcoming\" s přijatelnými cenami (dalim.al, 2026).",
+   "access": "Lushnjë, přesná adresa neověřena – doporučeno navigovat přes mapový odkaz na dalim.al nebo Instagram profilu.",
+   "tips": "Neověřeno, zda je nutná rezervace – u byrek stánku nepravděpodobné. Hotovost pravděpodobná, karta neověřena.",
+   "contact": "Instagram: @byrekmetcela.lushnje; Facebook: Byrek Met Cela Lushnje",
+   "rating": "Bez agregovaného hodnocení na Google/Tripadvisor – neověřeno, k 09/2026 pouze pár desítek zobrazení/doporučení na dalim.al.",
+   "facts": [
+    "Objednat: byrek se špenátem/tvarohem, dhallë",
+    "Cena: nízká (€)",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Dalim.al – profil podniku",
+     "url": "https://dalim.al/en/place/byrek-met-cela-lushnje"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/byrekmetcela.lushnje/"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-flamuri",
+   "name": "Bar Restorant Flamuri",
+   "kind": "jídlo",
+   "what": "Taverna se dřevěným interiérem v Lushnjë, specializace na grilované/pečené maso (steakhouse & barbecue).",
+   "why": "Nejlépe hodnocený podnik v Lushnjë na Tripadvisoru – solidní zastávka na trase jižní Albánií na pořádné maso.",
+   "experience": "Jehně z trouby, kuře z farmy, vepřové speciality; široká nabídka vína (domácí i albánské/italské/francouzské/řecké/chilské). Recenze: \"Best steak in all Albania!\" a hodnocení podniku jako vynikající restaurace (Tripadvisor, cca 2019–2023).",
+   "access": "Lagjia Çlirimi, Rruga Sako Hajdari, Lushnjë.",
+   "tips": "Rezervace neověřena, spíš není nutná mimo špičku. Platba – neověřeno, doporučeno mít i hotovost.",
+   "contact": "Tel.: +355 69 208 2437",
+   "rating": "Tripadvisor 4,9/5, #1 z 21 restaurací v Lushnjë (k 09/2026).",
+   "facts": [
+    "Objednat: pečené jehně, grilované maso, kuře z farmy",
+    "Cena: střední",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g1152204-d11794847-Reviews-Bar_Restorant_Flamuri-Lushnje_Fier_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-odaja",
+   "name": "Restorant Tradicional Odaja",
+   "kind": "jídlo",
+   "what": "Tradiční restaurace v historickém kamenném domě přímo uprostřed starého bazaru v Gjirokastře, v provozu od roku 1937 (podle podniku).",
+   "why": "Autentická horská kuchyně jižní Albánie na hlavní turistické trase bazarem – dobrý poměr cena/výkon a rodinná atmosféra.",
+   "experience": "Domácí jídla ve velkých porcích – typicky masové a zeleninové pečeně, polévky, místní sýry. Recenze chválí \"amazing people and even better cooks\" a ceny popisují jako téměř až příliš nízké vzhledem k porcím (Tripadvisor).",
+   "access": "V patře v centru bazaru v Gjirokastře, malý balkon s výhledem do uličky. Parkování v okolí bazaru omezené, chůze z centra.",
+   "tips": "Bez rezervace obvykle chodí, v sezóně může být plno kolem oběda. Hotovost doporučena.",
+   "contact": "Neověřeno (telefon/web nedohledán spolehlivě).",
+   "rating": "Tripadvisor 4,5/5, #7 ze 106 restaurací v Gjirokastře, 462 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: domácí pečeně, polévky, místní sýry",
+    "Cena: nízká až střední",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g318867-d8685127-Reviews-Restorant_Tradicional_Odaja-Gjirokaster_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-kujtimi",
+   "name": "Kujtimi",
+   "kind": "jídlo",
+   "what": "Bar-restaurace v centru Gjirokastry poblíž starého bazaru, grilování na dřevěném uhlí.",
+   "why": "Klasická volba pro rychlý, levný a syrový výběr grilovaných pokrmů — objednává se přímo z výkladu/grilu.",
+   "experience": "Za pár eur lze objednat 7–8 malých jídel z grilu (masa, zelenina, sýry). Recenze: jídlo \"homemade, simple, well prepared\", obsluha přátelská a rodinná atmosféra; jedna menšinová recenze podnik naopak označuje za turistickou past s podprůměrným jídlem (Tripadvisor).",
+   "access": "Centrum Gjirokastry, blízko starého bazaru.",
+   "tips": "Bez rezervace, platí se hotově, výběr jídla přímo od grilu/výkladu – vhodné přijít s hladem na víc menších porcí.",
+   "contact": "Neověřeno.",
+   "rating": "Tripadvisor 4,1/5, #15 ze 106 restaurací v Gjirokastře, 602 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: mix grilovaných jídel (7–8 menších porcí)",
+    "Cena: nízká",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g318867-d2286695-Reviews-Kujtimi-Gjirokaster_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-hotel-libohova",
+   "name": "Bar Restorant Hotel Libohova",
+   "kind": "jídlo",
+   "what": "Restaurace na náměstí v Libohovë pod cca 500letým platanem, u pramene; farma-to-table koncept.",
+   "why": "Nejznámější zastávka na pstruha mezi Gjirokastrou a Përmetem, unikátní posezení pod historickým stromem.",
+   "experience": "Čerstvý pstruh z místní řeky, domácí saláty ze zeleniny z vlastní farmy. Recenze: \"the best food and food experience we had in Albania\" a chválí historický plane tree (Tripadvisor).",
+   "access": "Náměstí v Libohovë, poblíž pevnosti Ali Paši Libohova. Přesná adresa neověřena, v centru městečka snadno k nalezení.",
+   "tips": "Sezónně (léto/víkendy) může být obsazeno díky poloze pod stromem – doporučeno přijít mimo špičku oběda.",
+   "contact": "Neověřeno.",
+   "rating": "Tripadvisor 4,2/5; Google cca 4,6 (k 09/2026, neověřeno přesný počet recenzí).",
+   "facts": [
+    "Objednat: čerstvý pstruh, domácí salát",
+    "Cena: střední",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g2266765-d8041975-Reviews-Bar_Restorant_Hotel_Libohova-Libohove_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-duli",
+   "name": "Duli Guest House",
+   "kind": "jídlo",
+   "what": "Rodinný guest house v obci Shepër v údolí Zagoria (cca 25 km od Gjirokastry) v obnoveném domě z roku 1887, s barem a jídlem pro hosty i kolemjdoucí.",
+   "why": "Zastávka v odlehlém horském údolí Zagoria – domácí jídlo z vlastní zahrady v autentickém prostředí, ne turistická restaurace.",
+   "experience": "Kontinentální snídaně a domácí jídlo z velké části z vlastní zahrady. Recenze popisují jídlo jako \"delicious and mostly local\" (Tripadvisor/Booking).",
+   "access": "Shepër, Zagoria, Gjirokastër County. Volné parkování na místě.",
+   "tips": "Jde primárně o penzion – jídlo je pro hosty ubytování, u průjezdné návštěvy je vhodné předem zavolat/napsat, zda vaří i pro nehostující.",
+   "contact": "Web: duliguesthouse.al",
+   "rating": "Booking/Tripadvisor recenze převážně pozitivní, přesný agregát neověřen.",
+   "facts": [
+    "Objednat: domácí jídlo ze zahrady, snídaně",
+    "Cena: nízká až střední",
+    "Otevřeno: dle provozu penzionu, neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Web podniku",
+     "url": "https://duliguesthouse.al/"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g7726106-d7695772-Reviews-Duli_Guest_House-Sheper_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-familjari",
+   "name": "Restorant Familjari",
+   "kind": "jídlo",
+   "what": "Rodinná restaurace v centru Përmetu s více než 50letou tradicí, mediteránská a tradiční albánská kuchyně.",
+   "why": "Jedna z nejlépe hodnocených restaurací v Përmetu, vedená ženským týmem, doporučovaná na pečené jehně a polévky.",
+   "experience": "Pečené jehně, domácí polévky, tradiční albánské pokrmy; vegetariánské, veganské i bezlepkové varianty. Recenze chválí polévku a řadí podnik jako \"the place to eat when visiting Permet\" (Tripadvisor).",
+   "access": "Rruga Konstandin Duka, Shetitorja Kongresi i Përmetit, Përmet 6002.",
+   "tips": "Otevřeno cca do 23:00. Rezervace pro menší skupiny neověřena jako nutná, v sezóně doporučena.",
+   "contact": "Tel.: +355 69 520 6292; Facebook: Restorant Familjari",
+   "rating": "Tripadvisor 4,4/5, #4 z 14 restaurací v Përmetu, 149 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: pečené jehně, domácí polévka",
+    "Cena: nízká až střední",
+    "Otevřeno: cca do 23:00 (neověřeno pro celý týden)"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g801293-d8610946-Reviews-Restorant_Familjari-Permet_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-antigonea-rest",
+   "name": "Restorant Antigonea",
+   "kind": "jídlo",
+   "what": "Restaurace v centru Përmetu prezentující se jako \"slow food\" – lokální suroviny a bylinky, širší menu než ostatní slow-food podniky ve městě.",
+   "why": "Nejinventivnější menu z përmetských slow-food restaurací, včetně zvěřiny (koroptev, zajíc, kanec) a žabích stehýnek – pro chuť zajít za standardní nabídku jehně/pstruh.",
+   "experience": "Doporučené: Tave Antigonea (domácí specialita), dušené telecí ve víně, domácí sladké gliko na závěr. Recenze: \"an excellent slow food restaurant... very creative dishes of high quality\" (Tripadvisor); jedna recenze si naopak stěžuje na starou říční rybu a podobný podnik má i kritickou recenzi na personál/majitele.",
+   "access": "Centrum Përmetu, Lagjia Partizani / Rr. Mentor Xhemali (dle sekundárního zdroje, neověřeno přesně).",
+   "tips": "V sezóně může být plno kolem oběda/večeře, drobná menšina recenzí zmiňuje problémy s obsluhou při přetížení – raději rezervovat předem.",
+   "contact": "Neověřeno.",
+   "rating": "Tripadvisor 4,5/5, #2 z 14 restaurací v Përmetu, 363 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: Tave Antigonea, dušené telecí, gliko",
+    "Cena: střední",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g801293-d4507306-Reviews-Restorant_Antigonea-Permet_Gjirokaster_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-vreshti-pashait",
+   "name": "Kantina Vreshti i Pashait",
+   "kind": "jídlo",
+   "what": "Rodinné vinařství v Përmetu na 6 ha vlastní vinice, s cca 200letou tradicí výroby vína a skalním sklepem vytesaným do tunelu.",
+   "why": "Jediná degustace vína na trase s prohlídkou historického skalního sklepa – zážitek navíc k běžné večeři.",
+   "experience": "Degustace 3–5 druhů vína (Shiraz, Cabernet Sauvignon, Cabernet Franc, Merlot, Riesling, Chardonnay i lokální odrůdy Mavrud a Debina) s byrekem a mini masovými kuličkami. Prohlídka tunelu se stálou teplotou 16–18 °C. Degustace trvá cca 1,5 h, cena od cca 24 USD.",
+   "access": "Kantina \"Vreshti i Pashait\", 68QX+V7, Përmet 6401.",
+   "tips": "Rezervace přes GetYourGuide/Tripadvisor doporučena předem, možnost bezplatného zrušení do 24 h před termínem.",
+   "contact": "Neověřeno (rezervace přes GetYourGuide/Tripadvisor Experiences).",
+   "rating": "Tripadvisor Experiences – hodnocení k 09/2026 vysoké, přesné číslo neověřeno.",
+   "facts": [
+    "Objednat: degustace 3–5 vín + byrek a mini kuličky",
+    "Cena: od cca 24 USD/osoba",
+    "Otevřeno: dle rezervace, trvání cca 1,5 h"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor Experiences",
+     "url": "https://www.tripadvisor.ie/AttractionProductReview-g801293-d34135465-Wine_Tasting_Winery_Kantina_Vreshti_I_Pashait_Permet-Permet_Gjirokaster_County.html"
+    },
+    {
+     "label": "GetYourGuide",
+     "url": "https://www.getyourguide.com/permet-l148714/permet-vreshti-i-pashait-winery-tour-and-wine-tasting-t1076585/"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-bualioti",
+   "name": "Kantina Bualioti",
+   "kind": "jídlo",
+   "what": "Vinařství v Përmetu (Lagjja e Re, u řeky Vjosa), zpracovává ročně přes 200 metráků hroznů odrůd Debinë a Merlot z okolních vesnic.",
+   "why": "Menší, méně turisticky exponované vinařství než Vreshti i Pashait – autentická ochutnávka a možnost nákupu přímo od výrobce.",
+   "experience": "Degustace a maloobchodní prodej vína přímo ve vinařství. Je součástí konsorcia \"Pro Përmet\" na podporu místní produkce a turistiky. Konkrétní recenze s citací nedohledány.",
+   "access": "Lagjja e Re, Përmet.",
+   "tips": "Doporučeno předem zavolat a domluvit návštěvu, nejde o restauraci s běžnou otevírací dobou.",
+   "contact": "Tel.: +355 813 22 105, mobil +355 68 27 71 629",
+   "rating": "Bez agregovaného online hodnocení – neověřeno.",
+   "facts": [
+    "Objednat: degustace místního vína (Debinë, Merlot)",
+    "Cena: neověřeno",
+    "Otevřeno: po domluvě"
+   ],
+   "links": [
+    {
+     "label": "visitpermet.org – profil vinařství",
+     "url": "http://www.visitpermet.org/permet/index.php/en/productors/122-cantina-bualioti"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-homemade-lili",
+   "name": "Homemade Food Lili",
+   "kind": "jídlo",
+   "what": "Malá domácí restaurace v Mangalemu v Beratu, provozovaná přímo v domě majitele Liliho, jen šest stolů.",
+   "why": "Nejlépe hodnocená restaurace v celém Beratu – komunitní večeře jako u přátel doma, ne klasický podnik.",
+   "experience": "Malé, ale kvalitně sestavené menu domácí albánské kuchyně (vaří šéfkuchařka Mirella). Recenze: \"Lili makes you feel like you are a lifelong friend coming to his house for a dinner party\" (Tripadvisor, recenze z let cca 2022–2024). Hosté často sedí společně u jednoho stolu s cizinci z jiných zemí.",
+   "access": "Rruga Llambi Guxhumani, Berat (čtvrť Mangalem).",
+   "tips": "Rezervace nutná – Lili potvrzuje osobně přes WhatsApp, v sezóně bez rezervace prakticky nelze. Pouze hotovost.",
+   "contact": "Tel./WhatsApp: +355 69 234 9362 (dle sekundárních zdrojů, neověřeno spolehlivě)",
+   "rating": "Tripadvisor 4,9/5, #1 ze 119 restaurací v Beratu, 1267 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: domácí albánské menu dle denní nabídky",
+    "Cena: nízká až střední",
+    "Otevřeno: jen na rezervaci (WhatsApp)"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g469422-d10384319-Reviews-Homemade_Food_Lili-Berat_Berat_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-taverna-vasili",
+   "name": "Taverna Vasili",
+   "kind": "jídlo",
+   "what": "Rodinná taverna v Korçë proslulá lokální specialitou kernacka (pikantní masové kuličky/klobásky).",
+   "why": "Konkrétní gastronomický cíl na místní specialitu, kterou jinde běžně nenajdete.",
+   "experience": "Kernacka podávaná s citronovou polévkou, nakládanou zeleninou a místním vínem. Recenze: \"best kernacka in town\", polévka popsána jako \"very delicate\" (Tripadvisor). Zároveň několik recenzí kritizuje chladnou místnost a hrubší chování obsluhy/majitele.",
+   "access": "Korçë, přesná adresa se v zdrojích liší (Rruga Kostandina Gace, resp. Rruga Qemal Stafa) – doporučeno ověřit přes telefon/mapy před cestou.",
+   "tips": "Bez rezervace, počítat s kolísavou kvalitou obsluhy dle recenzí – jít spíš na jídlo než na zážitek z obsluhy.",
+   "contact": "Tel.: +355 82 246 610",
+   "rating": "Tripadvisor 3,9/5, #16 z 68 restaurací v Korçë, 88 recenzí (k 09/2026).",
+   "facts": [
+    "Objednat: kernacka, citronová polévka",
+    "Cena: nízká",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g318868-d8527204-Reviews-Taverna_Vasili-Korce_Korce_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-bistro-1760",
+   "name": "Bistro 1760",
+   "kind": "jídlo",
+   "what": "Bistro v Korçë s tradiční a mediteránní kuchyní, o víkendech živá hudba.",
+   "why": "Modernější alternativa k tradičním tavernám v Korçë pro klidnější večeři s hudbou.",
+   "experience": "Tradiční a mediteránní pokrmy; konkrétní jídelníček ani ceny se nepodařilo ověřit ze spolehlivého zdroje. Podnik je na Restaurant Guru řazen mezi průměrné (#33 ze 128 v Korçë), detailní recenze s citací nedohledány.",
+   "access": "Korçë, přesná adresa neověřena – kontakt/lokalita na Facebooku podniku.",
+   "tips": "Vzhledem k chybějícím podrobným recenzím doporučeno ověřit aktuální provoz přes Facebook před návštěvou.",
+   "contact": "Facebook: Bistro 1760 | Korçë",
+   "rating": "Restaurant Guru – #33 ze 128 restaurací v Korçë, agregované hodnocení neověřeno.",
+   "facts": [
+    "Objednat: neověřeno",
+    "Cena: neověřeno",
+    "Otevřeno: víkendy živá hudba, jinak neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/Bistro1760korce/"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "jidlo-taverna-voskopoje",
+   "name": "Taverna Voskopojë / Restaurant Unaza",
+   "kind": "jídlo",
+   "what": "Dva rodinné podniky v horské vesnici Voskopojë specializované na jehněčí z rožně/trouby – Taverna Voskopojë (rodinná, provoz od otce zakladatele) a Restaurant Unaza (evropská a albánská kuchyně).",
+   "why": "Voskopojë je klasická horská zastávka na jehněčí – oba podniky patří k nejlépe hodnoceným v obci, lze zvolit dle dostupnosti.",
+   "experience": "V Tavernë Voskopojë doporučen lakror (plněný chlebový koláč se zeleninou a špenátem) a pečené jehněčí \"z trouby, které se rozpadá pod vidličkou\". V Unaze doporučeny paidhaqe (grilovaná jehněčí žebra), venkovský salát, pečený kaçkavall a baklava – recenze podnik nazývá \"a culinary gem\".",
+   "access": "Voskopojë, Korçë County – obě restaurace v obci, přesné adresy neověřeny.",
+   "tips": "Voskopojë je oblíbený víkendový výlet z Korçë – o víkendech a v sezóně počítat s plno, rezervace předem doporučena.",
+   "contact": "Neověřeno.",
+   "rating": "Restaurant Unaza Voskopojë: Tripadvisor 4,9/5, #2 z 8 restaurací ve Voskopojë, 7 recenzí (k 09/2026, malý vzorek). Taverna Voskopojë: hodnocení neověřeno přesně.",
+   "facts": [
+    "Objednat: pečené jehněčí, lakror (Taverna); paidhaqe, kaçkavall, baklava (Unaza)",
+    "Cena: nízká až střední",
+    "Otevřeno: neověřeno"
+   ],
+   "links": [
+    {
+     "label": "Tripadvisor – Restaurant Unaza Voskopojë",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g6475494-d27471070-Reviews-Restaurant_Unaza_Voskopoje-Voskopoje_Korce_County.html"
+    },
+    {
+     "label": "Tripadvisor – Taverna Voskopoje",
+     "url": "https://www.tripadvisor.com/Restaurant_Review-g6475494-d18315041-Reviews-Taverna_Voskopoje-Voskopoje_Korce_County.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "sluzba-pujcovna",
+   "name": "Albania 4x4 Off-Road Car Rental",
+   "kind": "služba",
+   "what": "Půjčovna terénních aut se základnou u letiště Rinas (Ruga e Airport). Na webu má Pajero, Land Cruiser, Discovery, G-třídu a Jeep, náš Suzuki Jimny je domluvený napřímo (15. 9. 2026).",
+   "why": "Jediná půjčovna, která nám na termín 18.–24. 9. dala malé 4x4 s redukcí. Vlastní servis, GPS v autech, doručení na letiště.",
+   "experience": "100 €/den s připlaceným plným CASCO, 7 dní 700 €. Kauce podle ceníku 300 € hotově. Předání u letiště k příletu 7:55.",
+   "access": "Základna přímo u letiště Tirana. Řidičský průkaz min. 36 měsíců, řidič min. 23 let.",
+   "tips": "Ve smlouvě chtít písemně: off-road povolen, výluky CASCO (podvozek, rám, pneumatiky, utopený motor obvykle nekryté), Bovilla ano/ne. Při převzetí nafotit auto, zkontrolovat AT pneu, rezervu, hever a že 4L zabírá.",
+   "contact": "+355 69 525 7213 (WhatsApp), albania4x4carrental@gmail.com",
+   "facts": [
+    "Cena: 100 €/den s CASCO",
+    "Kauce: 300 € hotově (ceník)",
+    "Výdej: letiště TIA",
+    "Tel.: +355 69 525 7213"
+   ],
+   "links": [
+    {
+     "label": "albania4x4offroad-carrentalholidays.com",
+     "url": "https://www.albania4x4offroad-carrentalholidays.com/"
+    },
+    {
+     "label": "albania4x4carrental.al",
+     "url": "https://albania4x4carrental.al/"
+    },
+    {
+     "label": "Srovnání půjčoven",
+     "url": "pujcovny.html"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
+   "id": "sluzba-travelbuddy",
+   "name": "TravelBuddy (Vladimír Přikryl)",
+   "kind": "služba",
+   "what": "Česká služba „průvodce na telefonu“ pro Albánii. Vláďa Přikryl žije v Albánii, jezdí terénem po celé zemi a je na WhatsAppu k dispozici během cesty.",
+   "why": "Zná z první ruky Kurvelesh, Tomorr, Osumi i spojku Vithkuq–Osumi; jeho poznámky přeskládaly celý plán (otočený směr, zkušební dny, Bogovë, Voskopojë).",
+   "experience": "Odpovídá rychle, česky, konkrétně: stav cest, brody, kde spát, co vynechat. Poslal i vlastní alternativní itinerář (Lurë, Dibër, Ohrid, Korçë, Berat, Gramsh), který je naše trasa B.",
+   "access": "Objednáno 14. 9. 2026 přes travelbuddy.livealbania.cz. Kontakt WhatsApp +420 731 675 782.",
+   "tips": "Před každým neověřeným úsekem (Frashër–Ersekë, spojka k Osumu) mu napsat ráno, kde jsme a kam jedeme. Auto nemá, s půjčovnou nepomáhá.",
+   "contact": "WhatsApp +420 731 675 782",
+   "facts": [
+    "Kontakt: WhatsApp +420 731 675 782",
+    "Služba: rady na telefonu po celou cestu"
+   ],
+   "links": [
+    {
+     "label": "travelbuddy.livealbania.cz",
+     "url": "https://travelbuddy.livealbania.cz/"
+    },
+    {
+     "label": "Vláďův itinerář",
+     "url": "https://travelbuddy.cz/i/itinerar-pro-jan-sefranek-vn7v8b"
+    }
+   ],
+   "img": null,
+   "gallery": []
+  },
+  {
    "id": "ubyt-gh-on-canyon",
    "name": "Guesthouse on Canyon (Bujtina mbi Kanion)",
    "kind": "ubytování",
