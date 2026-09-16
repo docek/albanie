@@ -54,7 +54,7 @@ def map_links(p):
 
 def row(p, night, ci, co, tip, rid):
     bk = p.get('bk') or {}
-    name = f'<a class="popup-link" href="index.html#p={p["id"]}" title="Otevřít kartu s detaily"><b>{E(p["name"])}</b></a>' + (' <span class="pill ok">tip</span>' if tip else '')
+    name = f'<a class="popup-link" href="#p={p["id"]}" title="Otevřít kartu s detaily"><b>{E(p["name"])}</b></a>' + (' <span class="pill ok">tip</span>' if tip else '')
     if bk:
         rating = f'<span class="g">{bk["score"].replace(".", ",")} · {bk["rev"]} recenzí · Booking {CHECKED}</span>'
         praise = bk.get('praise') or []
