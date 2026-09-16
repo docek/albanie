@@ -21,12 +21,12 @@ NIGHTS = [
 ]
 # explicit priority per night; ids not listed here but with day == night are appended by score
 ORDER = {
-    'Pá': ['ubyt-gh-on-canyon', 'ubyt-progon-house', 'ubyt-maris', 'ubyt-peshtan', 'ubyt-saffron', 'ubyt-camp-nivica', 'ubyt-glealb', 'ubyt-uji-ftohte'],
-    'So': ['ubyt-stone-city', 'ubyt-ahmetaj', 'ubyt-alsara', 'ubyt-life-on-farm', 'ubyt-amades', 'ubyt-manga', 'ubyt-old-town', 'ubyt-musee', 'ubyt-bujtina-maria', 'ubyt-bizant', 'ubyt-babameto', 'ubyt-kalemi2', 'ubyt-barrels'],
-    'Ne': ['ubyt-bual', 'ubyt-stone-house', 'ubyt-lugina', 'ubyt-nako', 'ubyt-shtepia-me-lule', 'ubyt-joan', 'ubyt-kutal', 'ubyt-albturist', 'ubyt-peshtan', 'ubyt-mulliri', 'ubyt-chri-chri', 'ubyt-alvero'],
-    'Po': ['ubyt-liana', 'ubyt-argis', 'ubyt-shkodrani', 'ubyt-vila118', 'ubyt-mecollari', 'ubyt-vila-janko', 'ubyt-vila-mata', 'ubyt-vila-helen', 'ubyt-ura-e-kovacit', 'ubyt-bujtina-leon', 'ubyt-hani-pazarit', 'ubyt-life-gallery', 'ubyt-sofra-kolonjare', 'ubyt-cakuli', 'ubyt-vila-falo', 'ubyt-akademia', 'ubyt-lm-vithkuq'],
-    'Út': ['ubyt-white-villa', 'ubyt-dafinat', 'ubyt-xhaferri', 'ubyt-marsi', 'ubyt-luli-mucaj', 'ubyt-stylish-room', 'ubyt-zeni-zoto', 'ubyt-nuhellari', 'ubyt-kanione', 'ubyt-village-polican', 'ubyt-farm-river', 'ubyt-kt-qato', 'ubyt-skrapari', 'ubyt-bracaj'],
-    'St': ['ubyt-mangalemi', 'ubyt-jprifti', 'ubyt-koxhaku', 'ubyt-well-house', 'ubyt-oda-skulptorit', 'ubyt-timos', 'ubyt-citrus-nest', 'ubyt-mimani', 'ubyt-vila-harmoni', 'ubyt-parents-house', 'ubyt-nurellari', 'ubyt-bujtina-tomorrit', 'ubyt-alpeta', 'ubyt-klea'],
+    'Pá': ['ubyt-gh-on-canyon', 'ubyt-progon-house', 'ubyt-camp-nivica', 'ubyt-maris', 'ubyt-saffron', 'ubyt-peshtan', 'ubyt-glealb', 'ubyt-uji-ftohte'],
+    'So': ['ubyt-life-on-farm', 'ubyt-ahmetaj', 'ubyt-alsara', 'ubyt-stone-city', 'ubyt-bujtina-maria', 'ubyt-musee', 'ubyt-manga', 'ubyt-amades', 'ubyt-old-town', 'ubyt-bizant', 'ubyt-babameto', 'ubyt-kalemi2', 'ubyt-barrels'],
+    'Ne': ['ubyt-bual', 'ubyt-lugina', 'ubyt-stone-house', 'ubyt-kutal', 'ubyt-nako', 'ubyt-joan', 'ubyt-shtepia-me-lule', 'ubyt-albturist', 'ubyt-mulliri', 'ubyt-peshtan', 'ubyt-chri-chri', 'ubyt-alvero'],
+    'Po': ['ubyt-liana', 'ubyt-vila-helen', 'ubyt-shkodrani', 'ubyt-argis', 'ubyt-vila-janko', 'ubyt-mecollari', 'ubyt-vila118', 'ubyt-vila-mata', 'ubyt-ura-e-kovacit', 'ubyt-cakuli', 'ubyt-sofra-kolonjare', 'ubyt-hani-pazarit', 'ubyt-bujtina-leon', 'ubyt-life-gallery', 'ubyt-vila-falo', 'ubyt-akademia', 'ubyt-lm-vithkuq'],
+    'Út': ['ubyt-white-villa', 'ubyt-xhaferri', 'ubyt-dafinat', 'ubyt-marsi', 'ubyt-kanione', 'ubyt-luli-mucaj', 'ubyt-stylish-room', 'ubyt-zeni-zoto', 'ubyt-nuhellari', 'ubyt-village-polican', 'ubyt-farm-river', 'ubyt-kt-qato', 'ubyt-skrapari', 'ubyt-bracaj'],
+    'St': ['ubyt-mangalemi', 'ubyt-mimani', 'ubyt-nurellari', 'ubyt-timos', 'ubyt-jprifti', 'ubyt-vila-harmoni', 'ubyt-koxhaku', 'ubyt-citrus-nest', 'ubyt-well-house', 'ubyt-oda-skulptorit', 'ubyt-parents-house', 'ubyt-bujtina-tomorrit', 'ubyt-alpeta', 'ubyt-klea'],
 }
 INACTIVE = {'ubyt-gh-on-canyon': 'zápis neaktivní (přesměrovává na vyhledávání)', 'ubyt-bujtina-tomorrit': 'zápis neaktivní'}
 NO_BOOKING = {'ubyt-camp-nivica': 'není (jen vlastní web)', 'ubyt-lm-vithkuq': 'není', 'ubyt-mulliri': 'není (Facebook)', 'ubyt-life-gallery': 'není (ověřit)', 'ubyt-skrapari': 'není', 'ubyt-akademia': 'není'}
@@ -50,6 +50,23 @@ def map_links(p):
     note = '<br><span class="g">střed obce, ne dům</span>' if p.get('ll_approx') else ''
     return (f'<a href="https://mapy.cz/turisticka?source=coor&id={lon}%2C{lat}&x={lon}&y={lat}&z=16" target="_blank" rel="noopener">Mapy.cz</a><br>'
             f'<a href="https://www.google.com/maps/search/?api=1&query={lat},{lon}" target="_blank" rel="noopener">Google</a>' + note)
+
+
+def wifi(bk):
+    """WiFi note from the Booking facilities string (speed if Booking measured it)."""
+    f = (bk.get('fac') or '') + ' ' + (bk.get('faq') or '')
+    m = re.search(r'(\d+) Mbps', f)
+    if m:
+        n = int(m.group(1))
+        cls = 'v' if n >= 30 else ('bad' if n < 10 else '')
+        return f'<span class="{cls}">{n} Mbps</span>'
+    if re.search(r'rychl\w* WiFi', f, re.I):
+        return '<span class="v">rychlá (bez čísla)</span>'
+    if re.search(r'základní', f, re.I):
+        return '<span class="bad">základní</span>'
+    if re.search(r'WiFi', f, re.I):
+        return 'ano, rychlost neuvedena'
+    return '<span class="n">neuvedeno</span>' if bk else '–'
 
 
 def row(p, night, ci, co, tip, rid):
@@ -89,7 +106,7 @@ def row(p, night, ci, co, tip, rid):
     else:
         status = '<span class="g">jen přímo</span>'
     cells = [name + '<br>' + rating, price, booking, canc, status, p.get('contact_html') or '<span class="n">jen Booking</span>',
-             map_links(p), E(p.get('meals', '')), E(p.get('tent', ''))]
+             map_links(p), E(p.get('meals', '')), wifi(bk), E(p.get('tent', ''))]
     return f'<tr id="{rid}">' + ''.join(f'<td>{c}</td>' for c in cells) + '</tr>'
 
 
@@ -97,7 +114,7 @@ def build():
     data = json.loads((ROOT / 'assets/places.json').read_text(encoding='utf-8'))
     places = {p['id']: p for p in data['places']}
     head = ('<div class="table-scroll"><table class="cmp" style="min-width:1250px"><thead><tr><th>Ubytování</th><th>Cena / noc</th><th>Booking</th>'
-            '<th>Storno</th><th>Obsazenost ' + CHECKED[:-5] + '</th><th>Kontakt</th><th>Mapa</th><th>Strava</th><th>Stan</th></tr></thead><tbody>\n')
+            '<th>Storno</th><th>Obsazenost ' + CHECKED[:-5] + '</th><th>Kontakt</th><th>Mapa</th><th>Strava</th><th>WiFi</th><th>Stan</th></tr></thead><tbody>\n')
     out, seen_ids = [], set()
     for hid, night, title, ci, co in NIGHTS:
         ids = list(ORDER[night])
