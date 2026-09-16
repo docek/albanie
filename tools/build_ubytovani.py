@@ -23,7 +23,7 @@ NIGHTS = [
 ORDER = {
     'Pá': ['ubyt-gh-on-canyon', 'ubyt-progon-house', 'ubyt-camp-nivica', 'ubyt-maris', 'ubyt-saffron', 'ubyt-peshtan', 'ubyt-glealb', 'ubyt-uji-ftohte'],
     'So': ['ubyt-ahmetaj', 'ubyt-life-on-farm', 'ubyt-alsara', 'ubyt-stone-city', 'ubyt-bujtina-maria', 'ubyt-musee', 'ubyt-manga', 'ubyt-amades', 'ubyt-old-town', 'ubyt-bizant', 'ubyt-babameto', 'ubyt-kalemi2', 'ubyt-barrels'],
-    'Ne': ['ubyt-bual', 'ubyt-lugina', 'ubyt-stone-house', 'ubyt-kutal', 'ubyt-nako', 'ubyt-joan', 'ubyt-shtepia-me-lule', 'ubyt-albturist', 'ubyt-mulliri', 'ubyt-peshtan', 'ubyt-chri-chri', 'ubyt-alvero'],
+    'Ne': ['ubyt-joan', 'ubyt-bual', 'ubyt-nako', 'ubyt-lugina', 'ubyt-stone-house', 'ubyt-kutal', 'ubyt-shtepia-me-lule', 'ubyt-albturist', 'ubyt-mulliri', 'ubyt-peshtan', 'ubyt-chri-chri', 'ubyt-alvero'],
     'Po': ['ubyt-vila-helen', 'ubyt-liana', 'ubyt-shkodrani', 'ubyt-argis', 'ubyt-vila-janko', 'ubyt-mecollari', 'ubyt-vila118', 'ubyt-vila-mata', 'ubyt-ura-e-kovacit', 'ubyt-cakuli', 'ubyt-sofra-kolonjare', 'ubyt-hani-pazarit', 'ubyt-bujtina-leon', 'ubyt-life-gallery', 'ubyt-vila-falo', 'ubyt-akademia', 'ubyt-lm-vithkuq'],
     'Út': ['ubyt-white-villa', 'ubyt-xhaferri', 'ubyt-dafinat', 'ubyt-marsi', 'ubyt-kanione', 'ubyt-luli-mucaj', 'ubyt-stylish-room', 'ubyt-zeni-zoto', 'ubyt-nuhellari', 'ubyt-village-polican', 'ubyt-farm-river', 'ubyt-kt-qato', 'ubyt-skrapari', 'ubyt-bracaj'],
     'St': ['ubyt-mangalemi', 'ubyt-mimani', 'ubyt-nurellari', 'ubyt-timos', 'ubyt-jprifti', 'ubyt-vila-harmoni', 'ubyt-koxhaku', 'ubyt-citrus-nest', 'ubyt-well-house', 'ubyt-oda-skulptorit', 'ubyt-parents-house', 'ubyt-bujtina-tomorrit', 'ubyt-alpeta', 'ubyt-klea'],
