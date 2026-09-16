@@ -1085,6 +1085,9 @@ document.querySelectorAll('.day .fly').forEach(a => a.addEventListener('click', 
     const p = places[t.dataset.pl]; if (p) { e.preventDefault(); open(placeHtml(p)); }
   });
   document.addEventListener('keydown', e => { if (e.key === 'Enter' && e.target.classList && e.target.classList.contains('pl')) e.target.click(); });
+  // deep link: index.html#p=<place id> opens the card (used by the lodging tables)
+  const openFromHash = () => { const m = location.hash.match(/^#p=([\w-]+)/); if (m && places[m[1]]) open(placeHtml(places[m[1]])); };
+  openFromHash(); window.addEventListener('hashchange', openFromHash);
 
   // glossary list
   const dl = document.getElementById('gloss-list');

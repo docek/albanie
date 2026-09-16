@@ -5383,16 +5383,21 @@
    "access": "Poslední úsek k Nivici je štěrková/horská silnice z Bench nad Tepelenë; v obci samotné krátký úsek nezpevněné cesty k domu. Parkování u domu. Cca 31 km / hodina jízdy od Tepelenë.",
    "tips": "Polopenze ~35 €/os. (údaj z výpisů 2026). Rezervace přes Booking.com nebo WhatsApp; večeři ohlásit den předem. Hotovost.",
    "contact": "WhatsApp +355 69 538 1281 (rodina Merjo); web nefunguje, Booking zápis neaktivní",
-   "rating": "Booking.com: zápis v září 2026 neaktivní (odkaz přesměrovává na vyhledávání), takže aktuální skóre nelze ověřit; starší výňatky recenzí chválily výhled do kaňonu, večeři i snídani. Web guesthouseoncanyon.al 16. 9. 2026 neběžel – kontakt jen WhatsApp.",
-   "links": [],
+   "rating": "Google Maps 4,7/5 (162 recenzí, 16. 9. 2026). Booking.com: zápis v září 2026 neaktivní, skóre nelze ověřit. Web guesthouseoncanyon.al neběží, kontakt WhatsApp.",
+   "links": [
+    {
+     "label": "Google Maps (6VPX+M7 Nivicë)",
+     "url": "https://www.google.com/maps/search/?api=1&query=40.2341,19.8983"
+    }
+   ],
    "img": null,
    "day": "Pá",
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: mimo Booking. nabídka na Bookingu už není aktivní (přesměrovává na výsledky pro Tepelenë); rezervovat WhatsAppem",
    "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem.",
    "ll": [
-    40.2403,
-    19.8916
+    40.2341,
+    19.8983
    ],
    "ll_approx": false,
    "note": "Web guesthouseoncanyon.al byl 16. 9. 2026 nedostupný.",
