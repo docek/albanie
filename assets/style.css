@@ -321,8 +321,10 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 10px 28px; justify-content: 
 }
 
 /* ---------- per-day detail blocks (food, sleep, extensions) ---------- */
-.day .more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; display: grid; grid-template-columns: 3fr 2fr; gap: 12px; }
-.day .stay { margin-top: 14px; padding: 10px 14px; border-radius: 10px; background: #eef4f0; border: 1px solid #cfe0d5; font-size: 13.5px; line-height: 1.5; }
+.day .more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; display: grid; grid-template-columns: 1fr; gap: 12px; }
+.day .col { display: flex; flex-direction: column; gap: 12px; }
+.day .col > div:first-child { flex: 1; }
+.day .stay { margin-top: 0; padding: 10px 14px; border-radius: 10px; background: #eef4f0; border: 1px solid #cfe0d5; font-size: 13.5px; line-height: 1.5; }
 .day .stay .pill { vertical-align: middle; }
 @media (max-width: 960px) { .day .more { grid-template-columns: 1fr; } }
 .day .more > div { background: var(--paper-2); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; color: var(--ink-2); }
@@ -334,6 +336,11 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 10px 28px; justify-content: 
 .day .more .pick { color: var(--forest); font-weight: 700; }
 .day .more .n { color: var(--muted); font-size: 12.5px; }
 .day .more .ext { background: #fbf5e6; }
+.day .more details.ext { padding: 10px 14px; }
+.day .more details.ext summary { cursor: pointer; font-weight: 600; font-size: 13.5px; list-style: none; }
+.day .more details.ext summary::before { content: "▸ "; }
+.day .more details.ext[open] summary::before { content: "▾ "; }
+.day .more details.ext ul { margin-top: 8px; }
 
 /* ---------- place popups and glossary ---------- */
 .pl { cursor: pointer; color: var(--D); font-weight: 600; border-bottom: 1.5px dotted var(--D); background: none; border-top: 0; border-left: 0; border-right: 0; padding: 0; font: inherit; font-weight: 600; }

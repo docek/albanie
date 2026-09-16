@@ -1,6 +1,6 @@
 /* Albánie 4x4 – offline service worker */
-const VERSION = 'v6';
-const CORE = ['./', 'index.html', 'pujcovny.html', 'ubytovani.html', 'assets/style.css?v=6', 'assets/popup.js', 'assets/places.json', 'assets/routes.json',
+const VERSION = 'v9';
+const CORE = ['./', 'index.html', 'pujcovny.html', 'ubytovani.html', 'assets/style.css?v=8', 'assets/popup.js?v=2', 'assets/places.json', 'assets/routes.json',
   'assets/favicon.svg', 'assets/apple-touch-icon.png', 'assets/ubytovani.gpx', 'Doporucena-trasa-D.gpx', 'Varianty-D.gpx', 'Alternativa-B.gpx',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js'];
@@ -15,7 +15,7 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
-  const isImg = u.hostname.endsWith('wikimedia.org') || u.hostname.endsWith('openstreetmap.org') || u.hostname.endsWith('opentopomap.org') || u.hostname.endsWith('arcgisonline.com');
+  const isImg = u.hostname.endsWith('wikimedia.org') || u.hostname.endsWith('openstreetmap.org') || u.hostname.endsWith('opentopomap.org') || u.hostname.endsWith('bstatic.com') || u.hostname.endsWith('arcgisonline.com');
   if (isImg) {
     e.respondWith(caches.open(IMG).then(async c => {
       const hit = await c.match(e.request); if (hit) return hit;

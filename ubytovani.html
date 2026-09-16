@@ -8,7 +8,7 @@
 <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <title>Ubytování po nocích – Albánie 4x4, 18.–24. 9. 2026</title>
-<link rel="stylesheet" href="assets/style.css?v=6">
+<link rel="stylesheet" href="assets/style.css?v=8">
 <style>
 .msg { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 110px 16px 18px; margin: 12px 0; white-space: pre-wrap; font-size: 15px; position: relative; }
 .msg .copy { position: absolute; top: 10px; right: 10px; font-size: 12px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--paper-2); cursor: pointer; }
@@ -215,7 +215,7 @@ tr[id] { scroll-margin-top: 80px; }
 
 <div class="modal" id="modal" aria-hidden="true"><div class="box" role="dialog" aria-modal="true"><button class="x" aria-label="Zavřít">×</button><div id="modal-content"></div></div></div>
 <footer><div class="wrap"><span>Albánie 4x4 · ubytování · stav Bookingu k 16. 9. 2026</span><span><a href="index.html">Plán cesty</a> · <a href="pujcovny.html">Půjčovny</a></span></div></footer>
-<script src="assets/popup.js"></script>
+<script src="assets/popup.js?v=2"></script>
 <script>
 document.querySelectorAll('.msg .copy').forEach(b => b.addEventListener('click', async () => { const t = b.parentElement.innerText.replace(/^kopírovat\n?/, '').trim(); try { await navigator.clipboard.writeText(t); b.textContent = 'zkopírováno'; setTimeout(() => b.textContent = 'kopírovat', 1500); } catch (e) { b.textContent = 'označ a zkopíruj'; } }));
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});

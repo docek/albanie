@@ -26,7 +26,8 @@
     const links = (p.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join('');
     const gal = (p.gallery || []).map(g => { const fn = g.file.replace(/ /g, '_'); const enc = encodeURIComponent(fn);
       return `<a class="th" href="https://commons.wikimedia.org/wiki/File:${enc}" target="_blank" rel="noopener" title="${esc(g.author)}, ${esc(g.license)}"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/${enc}?width=480" alt="" loading="lazy"><span>${esc(g.author)} · ${esc(g.license)}</span></a>`; }).join('');
-    const galHtml = gal ? `<h4>Další fotky (Wikimedia Commons)</h4><div class="gallery">${gal}</div>` : '';
+    const gal2 = (p.photos || []).map(u => `<a class="th" href="${esc(p.photos_src || u)}" target="_blank" rel="noopener" title="Foto: Booking.com / ubytování"><img src="${esc(u)}" alt="" loading="lazy"><span>Booking.com</span></a>`).join('');
+    const galHtml = (gal ? `<h4>Další fotky (Wikimedia Commons)</h4><div class="gallery">${gal}</div>` : '') + (gal2 ? `<h4>Fotky ubytování (Booking.com, načítají se z jejich serveru)</h4><div class="gallery">${gal2}</div>` : '');
     const facts = (p.facts || []).map(f => { const i = f.indexOf(':'); return i > 0 ? `<div><b>${esc(f.slice(0, i))}</b>${esc(f.slice(i + 1).trim())}</div>` : `<div>${esc(f)}</div>`; }).join('');
     const factsHtml = facts ? `<div class="facts">${facts}</div>` : '';
     const call = (cls, t, v) => v ? `<div class="pcall ${cls}"><b>${t}</b>${esc(v)}</div>` : '';
