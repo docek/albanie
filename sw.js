@@ -1,6 +1,6 @@
 /* Albánie 4x4 – offline service worker */
-const VERSION = 'v2';
-const CORE = ['./', 'index.html', 'pujcovny.html', 'assets/style.css', 'assets/places.json', 'assets/routes.json',
+const VERSION = 'v3';
+const CORE = ['./', 'index.html', 'pujcovny.html', 'ubytovani.html', 'assets/style.css', 'assets/places.json', 'assets/routes.json',
   'Doporucena-trasa-D.gpx', 'Varianty-D.gpx', 'Alternativa-B.gpx',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js'];
