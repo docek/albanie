@@ -8044,10 +8044,11 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Booking 9,7/10 (72 recenzí, ověřeno 16. 9. 2026) · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Personál 9,7 · Poloha 9,6 · Cena/výkon 9,4",
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Deluxe Double 1 385 Kč (nevratná) / 1 750 Kč · Suite s vířivkou 1 945 Kč · Family 1 701 Kč. Storno: storno zdarma do 20. 9. u dražší sazby, platba na místě; levnější nevratná.",
+   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc Po 21. 9., Deluxe Double Room se snídaní, ≈ 72 €. Potvrzení ukazuje „Total cost to cancel: 72 €“, tj. sazba vypadá jako nevratná – ověřit v detailu rezervace.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
-   "contact_html": "<span class=\"n\">jen Booking</span>"
+   "contact_html": "<span class=\"n\">jen Booking</span>",
+   "reserved": "Booking 16. 9., Deluxe Double Room, ≈ 72 € (1 764 Kč) se snídaní, check-in 14–20 h"
   },
   {
    "id": "ubyt-vila-janko",
