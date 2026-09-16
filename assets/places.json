@@ -6354,6 +6354,41 @@
    ],
    "img": null,
    "gallery": []
+  },
+  {
+   "id": "ubyt-peshtan",
+   "name": "Bujtina Peshtan Guesthouse & Camping",
+   "kind": "ubytování",
+   "day": "Pá",
+   "what": "Nedávno zrekonstruovaný rodinný penzion s kempem ve vesnici Peshtan, 9 km východně od Tepelenë na silnici ke Këlcyrë, nad údolím Vjosy (40.2905, 20.1254). Pokoje s výhledem na zahradu, hory a řeku, zahrada, bar, venkovní ohniště, piknikové místo, parkování.",
+   "why": "Jediný podnik u trasy, kde je vlastní stan oficiální nabídka, a ne prosba. Hodnocení 9,8 z 89 recenzí, pokoje od 729 Kč. Hodí se jako kratší pátek po nočním letu (z Tepelenë 15 min) i jako nedělní nocleh s kempem místo Bualu.",
+   "experience": "Recenze chválí pohostinnost hostitelů a klid v přírodě, okolo jsou pěší trasy. Balené obědy na cestu na objednání. Ceny na 18. 9. 2026: dvoulůžák od 729 Kč, s vlastní koupelnou 948–1 094 Kč (Booking, 16. 9.).",
+   "access": "Z Tepelenë po silnici SH75 směr Këlcyrë 9 km, asfalt. Z Gjirokastru přes Tepelenë 45 min; z Këlcyrë 15 min zpět na západ. Parkování u domu.",
+   "tips": "Když pátek po letu nebude síla na Kurvelesh, spát tady a Nivicë vzít v sobotu ráno (Progonat je odtud 40 min). Stan: zeptat na cenu za místo, večeře domluvit předem.",
+   "contact": "Booking; Tripadvisor; hotels-albania.net",
+   "rating": "Booking 9,8 (89 recenzí, 16. 9. 2026)",
+   "booking": "Booking k 16. 9. 2026, noc Pá 18. 9., 2 osoby: volné, dvoulůžák od 729 Kč (≈ 30 €); storno podmínky ověřit v rezervaci.",
+   "facts": [
+    "Stan: ano, oficiální kemp u domu",
+    "Cena: pokoj od 729 Kč",
+    "Poloha: 9 km od Tepelenë směr Këlcyrë"
+   ],
+   "links": [
+    {
+     "label": "Booking.com",
+     "url": "https://www.booking.com/hotel/al/bujtina-peshtan-guesthouse-amp-camping.html"
+    },
+    {
+     "label": "Tripadvisor",
+     "url": "https://www.tripadvisor.com/Hotel_Review-g801294-d33437408-Reviews-Bujtina_Peshtan_Guesthouse_camping-Tepelene_Gjirokaster_County.html"
+    },
+    {
+     "label": "Visit Albania",
+     "url": "https://albaniavisit.com/accommodation/bujtina-peshtan-guesthousecamping/"
+    }
+   ],
+   "img": null,
+   "gallery": []
   }
  ],
  "terms": {
