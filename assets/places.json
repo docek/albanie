@@ -5383,7 +5383,7 @@
    "why": "Jedna z mála bujtin přímo nad kaňonem Nivica – ráno probudí výhled do rokle, ne jen na sousední dům. Dobrá základna pro treky do kaňonu a k vodopádům.",
    "experience": "Podává se domácí večeře a snídaně v ceně. Recenze (Booking, dle dostupného výňatku): \"The view around this place is amazing. From the terrace you overlook the canyon. The dinner they served was wonderful and the included breakfast was superb.\" Hodnocení zatím staví na malém počtu recenzí, atmosféra popisována jako velmi pohostinná, rodinná. Google (poloha ověřena, pin 40,2366 N 19,8982 E): „right on the edge of the canyon“, rodina dává hostům prostor, večer oheň, raki; český recenzent: „rodinná restaurace, kde máte pocit, že jste součástí rodiny, porce obrovské“. Jedna čerstvá 1★ (září 2026) na pomalou obsluhu oběda pro projíždějící – na večeři s ohlášením se to netýká.",
    "access": "Poslední úsek k Nivici je štěrková/horská silnice z Bench nad Tepelenë; v obci samotné krátký úsek nezpevněné cesty k domu. Parkování u domu. Cca 31 km / hodina jízdy od Tepelenë.",
-   "tips": "Polopenze 4 500 lek/os. včetně večeře a snídaně (nabídka z WhatsAppu 16. 9. 2026). Rezervace jen přes WhatsApp; večeři ohlásit den předem s časem příjezdu. Hotovost, nejlépe lek.",
+   "tips": "Polopenze 4 500 lek/os. včetně večeře a snídaně. Večeři a čas příjezdu ohlásit den předem přes WhatsApp (jehněčí objednat rovnou). Platí se hotově v lek.",
    "contact": "tel. +355 69 538 1281 · Nivicë, dům rodiny Merjo (Google 6VPX+M7) · WhatsApp, web nefunguje",
    "rating": "Google 4,7 (162 recenzí) · Google Maps 4,7/5 (162 recenzí, 16. 9. 2026). Booking.com: zápis v září 2026 neaktivní, skóre nelze ověřit. Web guesthouseoncanyon.al neběží, kontakt WhatsApp.",
    "links": [
@@ -5396,7 +5396,7 @@
    "day": "Pá",
    "gallery": [],
    "booking": "REZERVOVÁNO (WhatsApp +355 69 538 1281), noc Pá 18. 9.: dvoulůžkový pokoj. Cena 4 500 lek/os. (≈ 45 €), tj. 9 000 lek za oba, nocleh + večeře + snídaně. Platba: hotově, nejlépe lek. Check-in po domluvě, ohlásit čas den předem, check-out ráno. Storno: bez podmínek, slušnost velí zrušit co nejdřív přes WhatsApp. Tel. +355 69 538 1281.",
-   "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem.",
+   "warning": "",
    "ll": [
     40.2366,
     19.8982
@@ -5605,7 +5605,7 @@
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.0755,
@@ -5783,7 +5783,7 @@
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.1161,
@@ -5941,7 +5941,7 @@
    "warning": "Na neděli 20. 9. 2026 je plné (zjištěno 15. 9.). Na Bookingu je na Ne plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "ll": [
     40.2192,
     20.3551
@@ -6078,7 +6078,7 @@
    "img": null,
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na Ne plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.2335,
@@ -6552,7 +6552,7 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na Út plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.4845,
@@ -6756,7 +6756,7 @@
    "why": "Jedno z nejlépe hodnocených ubytování v celém regionu Skrapar, blízko vodopádu Bogovë, s výbornou domácí kuchyní.",
    "experience": "166 recenzí s hodnocením \"Exceptional\". Hosté opakovaně popisují snídani jako jednu z nejlepších v Albánii – vše čerstvé, lokální nebo domácí. Večeře je také vysoce hodnocená, včetně možností pro speciální diety. Google: hostitelé Fatos, Margarita a syn Eri; motorkáře bez rezervace ubytovali a nakrmili po dlouhém dni; majitel odpovídá na recenze. Poloha shodná (40,5704 N 20,1467 E).",
    "access": "V obci Bogovë; přesný stav poslední přístupové cesty neověřen, dle recenzí dostupné běžným autem. Vlastní parkoviště.",
-   "tips": "Cena od cca 48 USD/noc (2025, neověřeno přesně), snídaně v ceně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
+   "tips": "Snídaně v ceně (kontinentální i à la carte). Večeři nahlásit den předem, platí se zvlášť hotově. Odpoledne ovoce ze zahrady. Check-out do 10:00.",
    "contact": "tel. +355 69 574 9364 · Rruga Bogova, 5405 Bogovë",
    "rating": "Google 4,9 (88 recenzí) · Booking 9,4/10 (162 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,4 · Poloha 9,4",
    "links": [
@@ -6869,7 +6869,7 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.7289,
@@ -6954,7 +6954,7 @@
    "why": "Autentická tradiční berátská architektura (dřevo, kámen) přímo v památkové čtvrti, kousek od hradu.",
    "experience": "Hodnocení 9,7/10 (783 recenzí, \"Exceptional\"). Hosté chválí rodinné vedení, výhled na město při snídani a bezvadnou čistotu. Upozornění: hotel má schody nahoru/dolů k pokojům a terase, což může vadit hostům s omezenou pohyblivostí. Google: snídaňový bufet plus omeleta na přání, výhled ze snídaňové terasy, uvítací drink, nádvoří; starý tradiční dům s otevřeným posezením. Poloha shodná (40,7058 N 19,9511 E).",
    "access": "Rruga Mihal Komneno, u Porta e Pashait, cca 300 m od centra, u cesty k hradu. Auto lze nechat poblíž, poslední úsek pěšky po dlažbě.",
-   "tips": "Cena pokoje neověřena přesně. Rezervace přes vlastní web (Request Booking) nebo Booking.com.",
+   "tips": "Snídaně v ceně na terase (bufet plus omeleta na přání). Jen hotovost, bankomaty na bulváru Republika 5 minut pěšky. Check-out od 6:00.",
    "contact": "tel. +355 68 232 3238 · Rruga Mihal Komneno, 5001 Berat (Mangalem, 700 m od centra)",
    "rating": "Google 4,7 (552 recenzí) · Booking 9,7/10 (711 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Komfort 9,7 · Vybavení 9,5",
    "links": [
@@ -7032,7 +7032,7 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Na naše datum bez volné kapacity.",
    "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "ll": [
     40.7097,

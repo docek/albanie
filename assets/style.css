@@ -321,7 +321,9 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 10px 28px; justify-content: 
 }
 
 /* ---------- per-day detail blocks (food, sleep, extensions) ---------- */
-.day .more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.day .more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; display: grid; grid-template-columns: 3fr 2fr; gap: 12px; }
+.day .stay { margin-top: 14px; padding: 10px 14px; border-radius: 10px; background: #eef4f0; border: 1px solid #cfe0d5; font-size: 13.5px; line-height: 1.5; }
+.day .stay .pill { vertical-align: middle; }
 @media (max-width: 960px) { .day .more { grid-template-columns: 1fr; } }
 .day .more > div { background: var(--paper-2); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; color: var(--ink-2); }
 .day .more h4 { font-family: var(--font-body); font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-2); margin: 0 0 6px; display: flex; align-items: center; gap: 6px; }
