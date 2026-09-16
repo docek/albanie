@@ -1,0 +1,139 @@
+#!/usr/bin/env python3
+"""Regenerate the per-night lodging tables in ubytovani.html and assets/ubytovani.gpx from assets/places.json.
+
+Lodging records (id ubyt-*) carry: ll [lat, lon], bk {url, status, score, rev, rooms, canc, praise, ...},
+meals, tent, contact_html. Table order per night is defined in ORDER below (explicit priority, then by score).
+Run from repo root: python3 tools/build_ubytovani.py
+"""
+import json, re, html
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+CHECKED = '16. 9. 2026'
+EUR = 24.5
+NIGHTS = [
+    ('d18', 'Pá', 'Pá 18. 9. · Nivicë (Kurvelesh)', '2026-09-18', '2026-09-19'),
+    ('d19', 'So', 'So 19. 9. · Gjirokastër', '2026-09-19', '2026-09-20'),
+    ('d20', 'Ne', 'Ne 20. 9. · Përmet / Bual', '2026-09-20', '2026-09-21'),
+    ('d21', 'Po', 'Po 21. 9. · Voskopojë (nebo Korçë)', '2026-09-21', '2026-09-22'),
+    ('d22', 'Út', 'Út 22. 9. · Bogovë / Çorovodë', '2026-09-22', '2026-09-23'),
+    ('d23', 'St', 'St 23. 9. · Berat / Roshnik', '2026-09-23', '2026-09-24'),
+]
+# explicit priority per night; ids not listed here but with day == night are appended by score
+ORDER = {
+    'Pá': ['ubyt-gh-on-canyon', 'ubyt-progon-house', 'ubyt-maris', 'ubyt-peshtan', 'ubyt-saffron', 'ubyt-camp-nivica', 'ubyt-glealb', 'ubyt-uji-ftohte'],
+    'So': ['ubyt-stone-city', 'ubyt-ahmetaj', 'ubyt-alsara', 'ubyt-life-on-farm', 'ubyt-amades', 'ubyt-manga', 'ubyt-old-town', 'ubyt-musee', 'ubyt-bujtina-maria', 'ubyt-bizant', 'ubyt-babameto', 'ubyt-kalemi2', 'ubyt-barrels'],
+    'Ne': ['ubyt-bual', 'ubyt-stone-house', 'ubyt-lugina', 'ubyt-nako', 'ubyt-shtepia-me-lule', 'ubyt-joan', 'ubyt-kutal', 'ubyt-albturist', 'ubyt-peshtan', 'ubyt-mulliri', 'ubyt-chri-chri', 'ubyt-alvero'],
+    'Po': ['ubyt-liana', 'ubyt-argis', 'ubyt-shkodrani', 'ubyt-vila118', 'ubyt-mecollari', 'ubyt-vila-janko', 'ubyt-vila-mata', 'ubyt-vila-helen', 'ubyt-ura-e-kovacit', 'ubyt-bujtina-leon', 'ubyt-hani-pazarit', 'ubyt-life-gallery', 'ubyt-sofra-kolonjare', 'ubyt-cakuli', 'ubyt-vila-falo', 'ubyt-akademia', 'ubyt-lm-vithkuq'],
+    'Út': ['ubyt-white-villa', 'ubyt-dafinat', 'ubyt-xhaferri', 'ubyt-marsi', 'ubyt-luli-mucaj', 'ubyt-stylish-room', 'ubyt-zeni-zoto', 'ubyt-nuhellari', 'ubyt-kanione', 'ubyt-village-polican', 'ubyt-farm-river', 'ubyt-kt-qato', 'ubyt-skrapari', 'ubyt-bracaj'],
+    'St': ['ubyt-mangalemi', 'ubyt-jprifti', 'ubyt-koxhaku', 'ubyt-well-house', 'ubyt-oda-skulptorit', 'ubyt-timos', 'ubyt-citrus-nest', 'ubyt-mimani', 'ubyt-vila-harmoni', 'ubyt-parents-house', 'ubyt-nurellari', 'ubyt-bujtina-tomorrit', 'ubyt-alpeta', 'ubyt-klea'],
+}
+INACTIVE = {'ubyt-gh-on-canyon': 'zápis neaktivní (přesměrovává na vyhledávání)', 'ubyt-bujtina-tomorrit': 'zápis neaktivní'}
+NO_BOOKING = {'ubyt-camp-nivica': 'není (jen vlastní web)', 'ubyt-lm-vithkuq': 'není', 'ubyt-mulliri': 'není (Facebook)', 'ubyt-life-gallery': 'není (ověřit)', 'ubyt-skrapari': 'není', 'ubyt-akademia': 'není'}
+
+E = html.escape
+
+
+def min_price(rooms):
+    nums = [int(n.replace(' ', '').replace(' ', '')) for n in re.findall(r'(\d[\d  ]{2,6}) Kč', rooms or '')]
+    return min(nums) if nums else None
+
+
+def fmt_price(n):
+    return f"{n:,}".replace(',', ' ') + ' Kč'
+
+
+def map_links(p):
+    if not p.get('ll'):
+        return '<span class="n">–</span>'
+    lat, lon = p['ll']
+    note = '<br><span class="g">střed obce, ne dům</span>' if p.get('ll_approx') else ''
+    return (f'<a href="https://mapy.cz/turisticka?source=coor&id={lon}%2C{lat}&x={lon}&y={lat}&z=16" target="_blank" rel="noopener">Mapy.cz</a><br>'
+            f'<a href="https://www.google.com/maps/search/?api=1&query={lat},{lon}" target="_blank" rel="noopener">Google</a>' + note)
+
+
+def row(p, night, ci, co, tip, rid):
+    bk = p.get('bk') or {}
+    name = f'<b>{E(p["name"])}</b>' + (' <span class="pill ok">tip</span>' if tip else '')
+    if bk:
+        rating = f'<span class="g">{bk["score"].replace(".", ",")} · {bk["rev"]} recenzí · Booking {CHECKED}</span>'
+        praise = bk.get('praise') or []
+        if praise:
+            rating += f'<br><span class="g">„{E(praise[0][:140].rstrip("“”\"."))}…“</span>'
+    else:
+        rating = f'<span class="g">{E(p.get("rating", ""))}</span>'
+    mp = min_price(bk.get('rooms'))
+    price = f'{fmt_price(mp)}<br><span class="g">≈ {round(mp / EUR)} €</span>' if mp else '<span class="n">–</span>'
+    same_night = bk.get('night') == night
+    if p['id'] in INACTIVE:
+        booking = f'<span class="n">není ({E(INACTIVE[p["id"]])})</span>'
+    elif p['id'] in NO_BOOKING:
+        booking = f'<span class="n">{E(NO_BOOKING[p["id"]])}</span>'
+    elif bk:
+        full = bk['status'].startswith('plné')
+        url = bk['url'] if full else f"{bk['url']}?checkin={ci}&checkout={co}&group_adults=2&no_rooms=1&group_children=0"
+        booking = f'<a href="{url}" target="_blank" rel="noopener">{"zápis (na naše datum plné)" if full else "otevřít s daty"}</a>'
+    else:
+        booking = '<span class="n">–</span>'
+    canc = E(bk.get('canc') or '–') if bk else '–'
+    if bk and same_night:
+        st = bk['status']
+        cls = 'bad' if st.startswith('plné') else 'v'
+        status = f'<span class="{cls}">{E(st)}</span>'
+        if not st.startswith('plné') and mp:
+            status += f'<br><span class="g">od {fmt_price(mp)}</span>'
+    elif bk:
+        status = f'<span class="g">ověřeno jen pro noc {E(bk["night"])}: {E(bk["status"])}</span>'
+    elif p['id'] in INACTIVE:
+        status = '<span class="g">mimo Booking</span>'
+    else:
+        status = '<span class="g">jen přímo</span>'
+    cells = [name + '<br>' + rating, price, booking, canc, status, p.get('contact_html') or '<span class="n">jen Booking</span>',
+             map_links(p), E(p.get('meals', '')), E(p.get('tent', ''))]
+    return f'<tr id="{rid}">' + ''.join(f'<td>{c}</td>' for c in cells) + '</tr>'
+
+
+def build():
+    data = json.loads((ROOT / 'assets/places.json').read_text(encoding='utf-8'))
+    places = {p['id']: p for p in data['places']}
+    head = ('<div class="table-scroll"><table class="cmp" style="min-width:1250px"><thead><tr><th>Ubytování</th><th>Cena / noc</th><th>Booking</th>'
+            '<th>Storno</th><th>Obsazenost ' + CHECKED[:-5] + '</th><th>Kontakt</th><th>Mapa</th><th>Strava</th><th>Stan</th></tr></thead><tbody>\n')
+    out, seen_ids = [], set()
+    for hid, night, title, ci, co in NIGHTS:
+        ids = list(ORDER[night])
+        extra = [p['id'] for p in data['places'] if p['id'].startswith('ubyt-') and p.get('day') == night and p['id'] not in ids]
+        extra.sort(key=lambda i: -float((places[i].get('bk') or {}).get('score', 0) or 0))
+        ids += extra
+        out.append(f'<h3 id="{hid}">{E(title)}</h3>' + head)
+        for i, pid in enumerate(ids):
+            p = places[pid]
+            rid = pid if pid not in seen_ids else f'{pid}-{night.lower().replace("á", "a").replace("ú", "u")}'
+            seen_ids.add(pid)
+            out.append(row(p, night, ci, co, i == 0, rid) + '\n')
+        out.append('</tbody></table></div>\n')
+    tables = ''.join(out)
+    path = ROOT / 'ubytovani.html'
+    src = path.read_text(encoding='utf-8')
+    new = re.sub(r'(<!-- TABLES:START -->).*?(<!-- TABLES:END -->)', lambda m: m.group(1) + '\n' + tables + m.group(2), src, flags=re.S)
+    if '<!-- TABLES:START -->' not in src:
+        raise SystemExit('markers TABLES:START/END not found')
+    path.write_text(new, encoding='utf-8')
+    # GPX waypoints
+    wpts = []
+    for p in data['places']:
+        if not p['id'].startswith('ubyt-') or not p.get('ll'):
+            continue
+        lat, lon = p['ll']
+        bk = p.get('bk') or {}
+        desc = ' · '.join(x for x in [f"noc {p.get('day', '?')}", bk.get('status', ''), bk.get('addr', ''), bk.get('canc', '')] if x)
+        link = f'<link href="{E(bk["url"])}"><text>Booking</text></link>' if bk else ''
+        approx = ' (jen střed obce)' if p.get('ll_approx') else ''
+        wpts.append(f'<wpt lat="{lat}" lon="{lon}"><name>{E(p["name"])}{approx}</name><desc>{E(desc)}</desc>{link}<sym>Lodging</sym></wpt>')
+    gpx = ('<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="albanie build_ubytovani" xmlns="http://www.topografix.com/GPX/1/1">'
+           f'<metadata><name>Albánie 4x4 – ubytování ({CHECKED})</name></metadata>\n' + '\n'.join(wpts) + '\n</gpx>\n')
+    (ROOT / 'assets/ubytovani.gpx').write_text(gpx, encoding='utf-8')
+    print(f'{len(seen_ids)} lodgings in tables, {len(wpts)} GPX waypoints')
+
+
+if __name__ == '__main__':
+    build()

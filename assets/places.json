@@ -5382,19 +5382,23 @@
    "experience": "Podává se domácí večeře a snídaně v ceně. Recenze (Booking, dle dostupného výňatku): \"The view around this place is amazing. From the terrace you overlook the canyon. The dinner they served was wonderful and the included breakfast was superb.\" Hodnocení zatím staví na malém počtu recenzí, atmosféra popisována jako velmi pohostinná, rodinná.",
    "access": "Poslední úsek k Nivici je štěrková/horská silnice z Bench nad Tepelenë; v obci samotné krátký úsek nezpevněné cesty k domu. Parkování u domu. Cca 31 km / hodina jízdy od Tepelenë.",
    "tips": "Polopenze ~35 €/os. (údaj z výpisů 2026). Rezervace přes Booking.com nebo WhatsApp; večeři ohlásit den předem. Hotovost.",
-   "contact": "WhatsApp +355 69 538 1281 (ověřeno na guesthouseoncanyon.al), rodina Merjo",
-   "rating": "Booking.com: velmi vysoké hodnocení (10/10 za lokalitu), ale založené jen na malém počtu recenzí – přesný aktuální počet neověřeno",
-   "links": [
-    {
-     "label": "vlastní web",
-     "url": "https://guesthouseoncanyon.al/"
-    }
-   ],
+   "contact": "WhatsApp +355 69 538 1281 (rodina Merjo); web nefunguje, Booking zápis neaktivní",
+   "rating": "Booking.com: zápis v září 2026 neaktivní (odkaz přesměrovává na vyhledávání), takže aktuální skóre nelze ověřit; starší výňatky recenzí chválily výhled do kaňonu, večeři i snídani. Web guesthouseoncanyon.al 16. 9. 2026 neběžel – kontakt jen WhatsApp.",
+   "links": [],
    "img": null,
    "day": "Pá",
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: mimo Booking. nabídka na Bookingu už není aktivní (přesměrovává na výsledky pro Tepelenë); rezervovat WhatsAppem",
-   "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem."
+   "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem.",
+   "ll": [
+    40.2403,
+    19.8916
+   ],
+   "ll_approx": false,
+   "note": "Web guesthouseoncanyon.al byl 16. 9. 2026 nedostupný.",
+   "meals": "polopenze (~35 €/os. včetně večeře a snídaně); jehněčí objednat při rezervaci",
+   "tent": "zeptat (zahrada na hraně kaňonu)",
+   "contact_html": "<a href=\"https://wa.me/355695381281\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 69 538 1281</a>"
   },
   {
    "id": "ubyt-saffron",
@@ -5421,7 +5425,15 @@
    "day": "Pá",
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: mimo Booking. Booking hlásí, že rezervace nejsou momentálně možné",
-   "warning": "Booking hlásí, že rezervace nejsou momentálně možné."
+   "warning": "Booking hlásí, že rezervace nejsou momentálně možné.",
+   "ll": [
+    40.2403,
+    19.8916
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, vlastní kuchyňka; nákup v Tepelenë",
+   "tent": "zeptat (celý domek se zahradou a ohništěm)",
+   "contact_html": "<a href=\"https://akt.gov.al/en/agroturizem/shafran-house-nivica/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-camp-nivica",
@@ -5446,7 +5458,15 @@
    ],
    "img": null,
    "day": "Pá",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.238,
+    19.889
+   ],
+   "ll_approx": true,
+   "meals": "polopenze v ceně (snídaně petulla, společná večeře)",
+   "tent": "ano – glamping ve stanech s polopenzí",
+   "contact_html": "<a href=\"mailto:bookings@campnivica.com\">bookings@campnivica.com</a><br><a href=\"https://campnivica.com/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-maris",
@@ -5458,17 +5478,43 @@
    "access": "Přístup po horské silnici z Tepelenë do Progonatu; poslední kilometry pravděpodobně nezpevněné (typické pro region Kurvelesh) – povrch neověřen detailně. Parkování u domu.",
    "tips": "Cena od cca 65 USD dle agregátoru (přesná cena za pokoj/2 os. a rok neověřeny). Rezervace přes Booking.com, kontaktní telefon/WhatsApp neověřen.",
    "contact": "neověřeno",
-   "rating": "Booking 9.8 (6 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,8/10 (6 recenzí, ověřeno 16. 9. 2026) · Komfort 10 · Cena/výkon 10 · Personál 9,5 · Čistota 9,5",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/maris-guesthouse.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/maris-guesthouse.html?checkin=2026-09-18&checkout=2026-09-19&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "Pá",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné  nejlevnější pokoj 1 203 Kč (≈ 49 €). storno zdarma do 17. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné. Pokoje: Double Mountain View 1 203–1 337 Kč, Triple 1 361 Kč; snídaně +97 Kč. Storno: storno zdarma do 17. 9., platba na místě.",
+   "ll": [
+    40.2121,
+    19.9461
+   ],
+   "bk": {
+    "slug": "maris-guesthouse",
+    "url": "https://www.booking.com/hotel/al/maris-guesthouse.html",
+    "night": "Pá",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 6,
+    "subs": "Komfort 10 · Cena/výkon 10 · Personál 9,5 · Čistota 9,5",
+    "praise": [
+     "The place is gorgeous, so quiet there, you only hear the sheep. Progonat is super small, and we loved being away from tourists; rooms beautifully decorated.",
+     "Luxury, beautiful design, cleanliness and exceptional hospitality."
+    ],
+    "faq": "Check-in od 15:00, check-out do 12:00; pěší túry, jízda na koni; 12 km od Tepelenë.",
+    "fac": "parkování, WiFi, rodinné pokoje, terasa, zahrada, ohniště, nabíjení EV",
+    "rooms": "Double Mountain View 1 203–1 337 Kč, Triple 1 361 Kč; snídaně +97 Kč",
+    "canc": "storno zdarma do 17. 9., platba na místě",
+    "addr": "Progonat, Tepelenë",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "bez stravy, zeptat",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-stone-city",
@@ -5480,17 +5526,43 @@
    "access": "V centru starého města Gjirokastru (Rruga Alqi Kondi, Pazar) – pěší přístup, autem k domu obtížný kvůli dlažbě starého města, parkování nutno řešit mimo centrum. Check-in na místě.",
    "tips": "Cena: dle agregátorů cca 21–69 USD/noc podle typu pokoje a sezóny (přesná cena za rok 2026 neověřena). Rezervace přes Booking.com nebo Hostelworld.",
    "contact": "+355 69 348 4271",
-   "rating": "Booking 9.4 (668 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,4/10 (668 recenzí, ověřeno 16. 9. 2026) · Poloha 9,8 · Komfort 9,7 · Personál 9,6 · Čistota 9,6 · Cena/výkon 9,5",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/stone-city-hostel1312.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/stone-city-hostel1312.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné  nejlevnější pokoj 1 458 Kč (≈ 60 €). soukromý trojlůžák 1 458 Kč, storno zdarma do 17. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Triple s vlastní koupelnou 1 458 Kč (jediný soukromý pokoj); postel v dormu 486–559 Kč. Storno: storno zdarma do 17. 9., platba na místě.",
+   "ll": [
+    40.0755,
+    20.1392
+   ],
+   "bk": {
+    "slug": "stone-city-hostel1312",
+    "url": "https://www.booking.com/hotel/al/stone-city-hostel1312.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.4",
+    "rev": 668,
+    "subs": "Poloha 9,8 · Komfort 9,7 · Personál 9,6 · Čistota 9,6 · Cena/výkon 9,5",
+    "praise": [
+     "Probably my favourite hostel; instantly social with amazing staff; breakfasts are a social event and very good.",
+     "Cozy atmosphere, fantastic location."
+    ],
+    "faq": "Snídaně kontinentální i vegetariánská (9,1) v ceně; check-in od 7:30, check-out do 11; pěší túry, herna.",
+    "fac": "WiFi, bar, čaj/káva na pokoji, výborná snídaně; bez parkování u domu (staré město)",
+    "rooms": "Triple s vlastní koupelnou 1 458 Kč (jediný soukromý pokoj); postel v dormu 486–559 Kč",
+    "canc": "storno zdarma do 17. 9., platba na místě",
+    "addr": "Rruga Alqi Kondi, Pazar, Gjirokastër (40 m od centra)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře v bazaru (Odaja, Kujtimi)",
+   "tent": "ne (město)",
+   "contact_html": "<a href=\"tel:+355693484271\">+355 69 348 4271</a>"
   },
   {
    "id": "ubyt-kalemi2",
@@ -5502,18 +5574,44 @@
    "access": "V centru Gjirokastru (Rruga Alqi Kondi 6002), pěšky dostupné od parkovišť starého města; přímé přijetí autem k hotelu omezené kvůli dlažbě.",
    "tips": "Cena od cca 33–53 USD/noc dle agregátorů (přesná cena za rok 2026 neověřena). Rezervace přes Booking.com.",
    "contact": "Telefon: +355 8426 6010; adresa: Rruga Alqi Kondi 6002, Gjirokastër 6001",
-   "rating": "Booking 9.1 (769 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,1/10 (769 recenzí, ověřeno 16. 9. 2026) · Poloha 9,7 · Personál 9,4 · Komfort 9,4 · Čistota 9,3 · Cena/výkon 9,1",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/kalemi-2.html"
     }
    ],
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné",
-   "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.0755,
+    20.1391
+   ],
+   "bk": {
+    "slug": "kalemi-2",
+    "url": "https://www.booking.com/hotel/al/kalemi-2.html",
+    "night": "So",
+    "status": "plné",
+    "score": "9.1",
+    "rev": 769,
+    "subs": "Poloha 9,7 · Personál 9,4 · Komfort 9,4 · Čistota 9,3 · Cena/výkon 9,1",
+    "praise": [
+     "Location excellent, right in the heart of the historic old town.",
+     "Amazing castle view from the room."
+    ],
+    "faq": "Snídaně kontinentální (8,4) v ceně; check-in od 12, check-out do 11; restaurace v hotelu.",
+    "fac": "restaurace, bar, parkování zdarma, WiFi, pokojová služba, čaj/káva",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Rruga Alqi Kondi, Gjirokastër, srdce starého města",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně (terasa); večeře ve městě",
+   "tent": "ne",
+   "contact_html": "<a href=\"tel:+35584266010\">+355 84 266 010</a>"
   },
   {
    "id": "ubyt-babameto",
@@ -5526,15 +5624,19 @@
    "tips": "Storno podmínky: zrušení do 24 h před příjezdem zdarma, jinak účtována první noc. Cena za rok 2026 neověřena. Rezervace přes Booking.com nebo Hostelworld.",
    "contact": "neověřeno",
    "rating": "Tripadvisor: #17 z 60 v kategorii specialty lodging, 4/5",
-   "links": [
-    {
-     "label": "mygjirokastra.com",
-     "url": "https://mygjirokastra.com/babameto-house/"
-    }
-   ],
+   "links": [],
    "img": null,
    "day": "So",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.0755,
+    20.1392
+   ],
+   "ll_approx": true,
+   "note": "Web mygjirokastra.com byl 16. 9. 2026 nedostupný.",
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-life-on-farm",
@@ -5546,17 +5648,43 @@
    "access": "Nepravishtë leží mimo hlavní tah, cca 32 km od jezera Zaravina; poslední úsek pravděpodobně místní/nezpevněná cesta (povrch neověřen). Parkování u chatek, ohniště venku.",
    "tips": "Cena za rok 2026 neověřena. Rezervace přes Booking.com. Vzhledem k malé kapacitě (2 chatky) rezervovat s předstihem.",
    "contact": "+355 69 875 0502 (Booking)",
-   "rating": "Booking 9.6 (176 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (174 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Komfort 9,6 · Čistota 9,5 · Vybavení 9,4 · Cena/výkon 9,4 · Poloha 9,4",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/life-on-the-farm.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/life-on-the-farm.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné  nejlevnější pokoj 2 133 Kč (≈ 87 €). chata se snídaní, storno zdarma do 17. 9."
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Chata (celá) 2 133–2 370 Kč se snídaní. Storno: storno zdarma do 17. 9., platba na místě.",
+   "ll": [
+    39.9848,
+    20.2642
+   ],
+   "bk": {
+    "slug": "life-on-the-farm",
+    "url": "https://www.booking.com/hotel/al/life-on-the-farm.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 174,
+    "subs": "Personál 9,8 · Komfort 9,6 · Čistota 9,5 · Vybavení 9,4 · Cena/výkon 9,4 · Poloha 9,4",
+    "praise": [
+     "Incredible and genuine hospitality! The flavors of grandma Landa were unforgettable.",
+     "Breakfast and dinner were fantastic, everything from the farm and absolutely delicious."
+    ],
+    "faq": "Snídaně kontinentální (hodnocení 10) v ceně; check-in 14:30, check-out do 11; pěší túry, rybaření, jízda na koni.",
+    "fac": "rychlá WiFi, parkování, rodinné pokoje, bar, výjimečná snídaně",
+    "rooms": "Chata (celá) 2 133–2 370 Kč se snídaní",
+    "canc": "storno zdarma do 17. 9., platba na místě",
+    "addr": "Nepravishtë, 13 km jižně od Gjirokastru, 6 km jižně od Libohovë",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně („exceptional breakfast“); večeře z vlastního sýra, ohlásit",
+   "tent": "zeptat (farma, ohniště)",
+   "contact_html": "<a href=\"tel:+355698750502\">+355 69 875 0502</a>"
   },
   {
    "id": "ubyt-bujtina-maria",
@@ -5568,11 +5696,11 @@
    "access": "Cca 20 minut jízdy od centra Gjirokastru do Labovë e Poshtme/Kryqit; povrch poslední cesty neověřen detailně, pravděpodobně asfalt s koncovým nezpevněným úsekem.",
    "tips": "Sleva až 15 % při přímé rezervaci přes vlastní web. Check-in 14:00–24:00, check-out 8:00–11:00. Cena za pokoj/noc pro rok 2026 neověřena.",
    "contact": "+355 69 704 5551, bujtinamaria@gmail.com, bujtina-maria.al",
-   "rating": "Booking 9.1 (592 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,1/10 (592 recenzí, ověřeno 16. 9. 2026) · Personál 9,5 · Cena/výkon 9,4 · Čistota 9,2 · Komfort 9,1 · Vybavení 9,0 · Poloha 8,8",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-maria.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-maria.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "vlastní web",
@@ -5582,7 +5710,33 @@
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné  nejlevnější pokoj 1 400 Kč (≈ 57 €). trojlůžák, jen nevratná sazba"
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Classic Triple 1 400 Kč se snídaní (jediná volná). Storno: jen nevratná sazba.",
+   "ll": [
+    40.073,
+    20.2912
+   ],
+   "bk": {
+    "slug": "bujtina-maria",
+    "url": "https://www.booking.com/hotel/al/bujtina-maria.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.1",
+    "rev": 592,
+    "subs": "Personál 9,5 · Cena/výkon 9,4 · Čistota 9,2 · Komfort 9,1 · Vybavení 9,0 · Poloha 8,8",
+    "praise": [
+     "Food was incredible good, atmosphere nice and relaxing.",
+     "A small paradise: perfect room, tasty breakfast and lunch, clean swimming pool, cold beers."
+    ],
+    "faq": "Snídaně kontinentální (9,6) v ceně; bazén; check-in od 14, check-out do 11; restaurace, letištní shuttle.",
+    "fac": "venkovní bazén, restaurace, bar, parkování, WiFi, pokojová služba",
+    "rooms": "Classic Triple 1 400 Kč se snídaní (jediná volná)",
+    "canc": "jen nevratná sazba",
+    "addr": "Labovë e Kryqit, 13 km JV od Gjirokastru, u kostela",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře ~14 €/os. v restauraci, ohlásit",
+   "tent": "zeptat (bazén, zahrada)",
+   "contact_html": "<a href=\"tel:+355697045551\">+355 69 704 5551</a><br><a href=\"mailto:bujtinamaria@gmail.com\">bujtinamaria@gmail.com</a><br><a href=\"https://bujtina-maria.al/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-barrels",
@@ -5594,10 +5748,10 @@
    "access": "Mimo centrum Gjirokastru ve vesnici Valarë – nutná krátká jízda autem, poslední úsek pravděpodobně po venkovské silnici (povrch neověřen). Doporučeno rezervovat stůl předem.",
    "tips": "Pokoje mají 4-hvězdičkový standard s klimatizací a balkonem/terasou s výhledem na zahradu/hory (dle Bookingu). Cena za pokoj/2 os. neověřena (agregátory uvádí orientačně 32–65 USD/noc, nutno ověřit). Otevřeno denně 9:00–17:00 (jako restaurace) – pro nocleh ověřit check-in časy zvlášť.",
    "contact": "Telefon/rezervace: +355 69 409 8988 (přes visit-gjirokastra.com); e-mail: info@visit-gjirokastra.com",
-   "rating": "Booking 9.8 (801 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,8/10 (801 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Komfort 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Vybavení 9,7 · Poloha 9,7",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/the-barrels-ms.html"
     },
     {
@@ -5608,8 +5762,34 @@
    "img": null,
    "day": "So",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné",
-   "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na So plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.1161,
+    20.1444
+   ],
+   "bk": {
+    "slug": "the-barrels-ms",
+    "url": "https://www.booking.com/hotel/al/the-barrels-ms.html",
+    "night": "So",
+    "status": "plné",
+    "score": "9.8",
+    "rev": 801,
+    "subs": "Personál 10 · Komfort 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Vybavení 9,7 · Poloha 9,7",
+    "praise": [
+     "Exceptionally warm hosts; romance, humor and wonderful flavors.",
+     "The food, the setting, the wine and the people are unmatched."
+    ],
+    "faq": "Check-in od 15, check-out do 10; restaurace na místě; 4,5 km od centra; oblíbené u rodin.",
+    "fac": "restaurace, parkování, WiFi, letištní shuttle, výjimečná snídaně",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Valarë, Rruga Valarë–Erind, 4,5 km severně od Gjirokastru",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně; večeře v jejich restauraci mezi révou (do 22 h), rezervovat stůl",
+   "tent": "zeptat (vinice)",
+   "contact_html": "<a href=\"tel:+355694098988\">+355 69 409 8988 (Visit Gjirokastra)</a><br><a href=\"https://visit-gjirokastra.com/restaurant/the_barrels\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-bual",
@@ -5621,11 +5801,11 @@
    "access": "Cesta nahoru do vesnice Bual je popisována jako \"trochu rustikální\", ale majitelé prý běžně nabízejí vyzvednutí hostů, pokud je potřeba. S běžným autem a solidním řidičem je sjízdná; s Jimny by neměl být problém. Přesný stav povrchu neověřeno.",
    "tips": "Cena za pokoj neověřena (na Bookingu proměnlivá dle sezóny) – doporučuji zkontrolovat přímo na Bookingu před cestou. Rezervace přes Booking.com nebo Facebook stránku Traditional Guesthouse Permet. Večeři má smysl objednat předem.",
    "contact": "Booking.com; Facebook Traditional Guesthouse Permet",
-   "rating": "Booking 9.5 (252 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,5/10 (252 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Cena/výkon 9,5 · Poloha 9,4 · Komfort 9,3 · Čistota 9,2 · Vybavení 8,8",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/cullufe.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/cullufe.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "AKT agroturizëm profil",
@@ -5639,7 +5819,33 @@
    "img": null,
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné  nejlevnější pokoj 851 Kč (≈ 35 €). dvoulůžák od 851 Kč, platba na místě, storno podmínky ověřit v rezervaci"
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Twin s výhledem 1 021 Kč, Standard Twin 851 Kč, Economy Triple se sdílenou koupelnou 899 Kč. Storno: platba na místě; podmínky storna ověřit v rezervaci.",
+   "ll": [
+    40.2522,
+    20.2996
+   ],
+   "bk": {
+    "slug": "cullufe",
+    "url": "https://www.booking.com/hotel/al/cullufe.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.5",
+    "rev": 252,
+    "subs": "Personál 9,9 · Cena/výkon 9,5 · Poloha 9,4 · Komfort 9,3 · Čistota 9,2 · Vybavení 8,8",
+    "praise": [
+     "Lovely location up the side of a mountain; the house is amazing and the hosts are lovely. Getting there is a bit of an adventure but doable.",
+     "Great room with a nice view and fantastic cooking of our host Florida."
+    ],
+    "faq": "Check-in od 13, check-out do 11; 3 restaurace v domě (rodinná kuchyně); snídaně není automaticky v ceně, ověřit u pokoje.",
+    "fac": "3 restaurace, parkování, WiFi, rodinné pokoje",
+    "rooms": "Twin s výhledem 1 021 Kč, Standard Twin 851 Kč, Economy Triple se sdílenou koupelnou 899 Kč",
+    "canc": "platba na místě; podmínky storna ověřit v rezervaci",
+    "addr": "Bual, Lagje Golemas, 5 km od Përmetu, posledních 3 km šotolina",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře od Florindy ze zahrady, ohlásit den předem",
+   "tent": "zeptat (statek nad údolím)",
+   "contact_html": "<a href=\"https://www.facebook.com/TraditionalGuesthousePermet/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-stone-house",
@@ -5651,11 +5857,11 @@
    "access": "Petran leží v horách nad Përmetem; přesný stav přístupové cesty neověřen, doporučuji ověřit u majitele před příjezdem terénním vozem.",
    "tips": "Cena neověřena. Zdarma storno do 1 dne před příjezdem (dle vlastního webu), po té plná platba. Rezervace přes Booking.com nebo přímo e-mailem/telefonem.",
    "contact": "+355 69 461 5396, info@thestonehouse.al, thestonehouse.al",
-   "rating": "Booking 9.8 (355 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,8/10 (355 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,9 · Vybavení 9,8 · Poloha 9,7",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/the-stone-house.th.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/the-stone-house.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Vlastní web",
@@ -5665,7 +5871,33 @@
    "img": null,
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné  nejlevnější pokoj 1 066 Kč (≈ 44 €). dvoulůžák 1 066 Kč, storno zdarma do 19. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Standard Double 1 066 Kč, Comfort Triple 1 375 Kč, Family 1 938 Kč, snídaně v ceně. Storno: storno zdarma do 19. 9., platba na místě (levnější sazba nevratná).",
+   "ll": [
+    40.2105,
+    20.42
+   ],
+   "bk": {
+    "slug": "the-stone-house",
+    "url": "https://www.booking.com/hotel/al/the-stone-house.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 355,
+    "subs": "Personál 10 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,9 · Vybavení 9,8 · Poloha 9,7",
+    "praise": [
+     "The lady who ran it woke up at 5am to make us breakfast.",
+     "Family run (babička, Fredi, Lela a dcera Ola), super clean room, rich breakfast from local produce."
+    ],
+    "faq": "Snídaně kontinentální (hodnocení 10) v ceně; check-in od 15, check-out do 11; oblíbené u rodin.",
+    "fac": "parkování, WiFi, rodinné pokoje, výjimečná snídaně",
+    "rooms": "Standard Double 1 066 Kč, Comfort Triple 1 375 Kč, Family 1 938 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 19. 9., platba na místě (levnější sazba nevratná)",
+    "addr": "Rruga Mulliri i Vjetër 19, Petran, 6 km od Përmetu",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře neověřena, zeptat",
+   "tent": "zeptat",
+   "contact_html": "<a href=\"tel:+355694615396\">+355 69 461 5396</a><br><a href=\"mailto:info@thestonehouse.al\">info@thestonehouse.al</a><br><a href=\"https://www.thestonehouse.al/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-chri-chri",
@@ -5677,10 +5909,10 @@
    "access": "Leusë leží nad Përmetem v kopcích; cesta je sjízdná, ale strmá – doporučeno využít nabízený svoz autem hostitele, nebo dojet terénním vozem opatrně. Přesný stav povrchu neověřen.",
    "tips": "Cena od cca 53 USD/noc se snídaní (dle agregátorů, neověřeno na Bookingu přímo). Rezervace přes Booking.com. Večeři nahlásit předem.",
    "contact": "Kontakt neověřen – rezervace přes Booking.com.",
-   "rating": "Booking 9.9 (733 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,9/10 (731 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,9 · Cena/výkon 9,9 · Komfort 9,8 · Poloha 9,8 · Vybavení 9,6",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/chri-chri-guesthouse.html"
     }
    ],
@@ -5688,7 +5920,33 @@
    "warning": "Na neděli 20. 9. 2026 je plné (zjištěno 15. 9.). Na Bookingu je na Ne plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné"
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "ll": [
+    40.2192,
+    20.3551
+   ],
+   "bk": {
+    "slug": "chri-chri-guesthouse",
+    "url": "https://www.booking.com/hotel/al/chri-chri-guesthouse.html",
+    "night": "Ne",
+    "status": "plné",
+    "score": "9.9",
+    "rev": 731,
+    "subs": "Personál 10 · Čistota 9,9 · Cena/výkon 9,9 · Komfort 9,8 · Poloha 9,8 · Vybavení 9,6",
+    "praise": [
+     "The couple who run it and their staff were incredibly kind; contacted us after booking with useful tips.",
+     "Beautiful features, amazing view; breakfast filling and fresh, dinner delicious."
+    ],
+    "faq": "Snídaně (8,8): vegetariánská, veganská, bufet, à la carte; check-in kdykoli, check-out do 10:30; rychlá WiFi, parkování.",
+    "fac": "parkování, rychlá WiFi, pokojová služba, skvělá snídaně",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Leusë, nad Përmetem (1,5 km jižně od centra, do kopce)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně; večeře ze zahrady ~10 €/os., ohlásit",
+   "tent": "zeptat",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-mulliri",
@@ -5713,7 +5971,15 @@
    ],
    "img": null,
    "day": "Ne",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.2519,
+    20.4162
+   ],
+   "ll_approx": true,
+   "meals": "restaurace v kempu (gril), platí se zvlášť",
+   "tent": "ano – kemp u řeky Lengarica, 2 km od termálů",
+   "contact_html": "<a href=\"tel:+355696312827\">+355 69 631 2827</a>"
   },
   {
    "id": "ubyt-albturist",
@@ -5725,11 +5991,11 @@
    "access": "Kemp leží u řeky poblíž Përmetu, přístup autem by neměl být problém; přesný povrch poslední cesty neověřen.",
    "tips": "Rafting cca 30 EUR/os. (2024/2025). Cena stanu/karavanu neověřena. Rezervace přes Booking.com nebo web exploringpermet.com.",
    "contact": "Web: www.exploringpermet.com. Facebook: Albturist Eco Camping Përmet.",
-   "rating": "Booking 9.6 (37 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (37 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Cena/výkon 9,7 · Poloha 9,4 · Čistota 9,3 · Vybavení 9,2 · Komfort 9,1",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/albturist-rafting-cammping-permet.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/albturist-rafting-cammping-permet.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Vlastní web",
@@ -5739,7 +6005,33 @@
    "img": null,
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné  nejlevnější pokoj 194 Kč (≈ 8 €). jen místo na stan, storno zdarma do 20. 9. 18:00"
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné (stan). Pokoje: Místo na stan (Empty lot) 194 Kč za noc. Storno: storno zdarma do 20. 9. 18:00, platba na místě.",
+   "ll": [
+    40.2195,
+    20.3808
+   ],
+   "bk": {
+    "slug": "albturist-rafting-cammping-permet",
+    "url": "https://www.booking.com/hotel/al/albturist-rafting-cammping-permet.html",
+    "night": "Ne",
+    "status": "volné (stan)",
+    "score": "9.6",
+    "rev": 37,
+    "subs": "Personál 9,9 · Cena/výkon 9,7 · Poloha 9,4 · Čistota 9,3 · Vybavení 9,2 · Komfort 9,1",
+    "praise": [
+     "Dona was an amazing host, kind, relaxed and always on hand; we were even given a camper van.",
+     "Great location, beautiful surroundings, super clean, welcoming hosts."
+    ],
+    "faq": "Check-in kdykoli; pěší túry, rybaření, kanoe, rafting; bar; jen místo na stan (bez pokojů).",
+    "fac": "parkování, bar, sprchy, pobyt u řeky",
+    "rooms": "Místo na stan (Empty lot) 194 Kč za noc",
+    "canc": "storno zdarma do 20. 9. 18:00, platba na místě",
+    "addr": "3 km od Përmetu na silnici směr Korçë/Bënja, u Vjosy",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "bez stravy v ceně stanu; snídaně a večeře od Dony na objednání",
+   "tent": "ano – kemp u Vjosy, sprchy, snídaně/večeře od Dony",
+   "contact_html": "<a href=\"https://www.exploringpermet.com/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-alvero",
@@ -5751,10 +6043,10 @@
    "access": "Centrum Përmetu, snadný příjezd po asfaltu, GPS: 40.2336321, 20.353692.",
    "tips": "Cena od cca 38 USD/noc (dle agregátorů, neověřeno přímo na Bookingu). Rezervace přes Booking.com nebo vlastní web s tlačítkem Book Now.",
    "contact": "Telefon: +355 68 208 1334. E-mail: vnikolla@yahoo.fr. Web: www.hotelalvero.com",
-   "rating": "Booking 9.6 (63 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (63 recenzí, ověřeno 16. 9. 2026) · Poloha 9,9 · Personál 9,8 · Čistota 9,8 · Komfort 9,7 · Vybavení 9,5 · Cena/výkon 9,5",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/alvero.html"
     },
     {
@@ -5765,8 +6057,34 @@
    "img": null,
    "day": "Ne",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné",
-   "warning": "Na Bookingu je na Ne plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na Ne plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.2335,
+    20.3537
+   ],
+   "bk": {
+    "slug": "alvero",
+    "url": "https://www.booking.com/hotel/al/alvero.html",
+    "night": "Ne",
+    "status": "plné",
+    "score": "9.6",
+    "rev": 63,
+    "subs": "Poloha 9,9 · Personál 9,8 · Čistota 9,8 · Komfort 9,7 · Vybavení 9,5 · Cena/výkon 9,5",
+    "praise": [
+     "Wonderful hotel in an excellent location with a beautiful view of the river; rooms very clean.",
+     "Owners took care of my bike and laundry, I even got an upgrade."
+    ],
+    "faq": "Check-in od 13:30, check-out do 11:30; kola, kanoe, tematické večeře, živá hudba.",
+    "fac": "bar, parkování, WiFi, pokojová služba, snídaně",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Rruga Mentor Xhemali, Përmet, u řeky v centru",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře v restauraci u řeky",
+   "tent": "ne",
+   "contact_html": "<a href=\"tel:+355682081334\">+355 68 208 1334</a><br><a href=\"mailto:vnikolla@yahoo.fr\">vnikolla@yahoo.fr</a><br><a href=\"https://www.hotelalvero.com/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-sofra-kolonjare",
@@ -5778,17 +6096,43 @@
    "access": "Ersekë leží na hlavní silnici SH75, přístup by měl být bezproblémový po asfaltu; přesný poslední úsek k penzionu neověřen.",
    "tips": "Cena od cca 33 USD/noc (dle agregátorů, neověřeno přímo). Rezervace přes Booking.com.",
    "contact": "Kontakt neověřen.",
-   "rating": "Booking 9.0 (76 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,0/10 (76 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Komfort 9,5 · Poloha 9,5 · Cena/výkon 9,4 · Čistota 9,1 · Vybavení 8,8",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/sofra-kolonjare-erseke.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/sofra-kolonjare-erseke.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 851 Kč (≈ 35 €). dvoulůžák 851 Kč, platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Double 851 Kč · Triple 851 Kč · Quad 1 094 Kč. Storno: bez platby předem.",
+   "ll": [
+    40.4432,
+    20.6697
+   ],
+   "bk": {
+    "slug": "sofra-kolonjare-erseke",
+    "url": "https://www.booking.com/hotel/al/sofra-kolonjare-erseke.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.0",
+    "rev": 76,
+    "subs": "Personál 9,8 · Komfort 9,5 · Poloha 9,5 · Cena/výkon 9,4 · Čistota 9,1 · Vybavení 8,8",
+    "praise": [
+     "Beautiful old building. Super friendly staff, great breakfast in the morning.",
+     "Magnificent new hotel with incredible stone and wood construction; even fireplaces in the rooms."
+    ],
+    "faq": "Check-in od 8:00, check-out do 11:00; restaurace Sofra Kolonjare v domě; bar, pokojová služba, snídaně.",
+    "fac": "restaurace, WiFi, bar, snídaně, rodinné pokoje",
+    "rooms": "Double 851 Kč · Triple 851 Kč · Quad 1 094 Kč",
+    "canc": "bez platby předem",
+    "addr": "SH75, 11 km severně od Ersekë směr Korçë (POZOR: ne v Ersekë samotné)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně; vlastní restaurace (lakror, polévka)",
+   "tent": "zeptat",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-cakuli",
@@ -5800,11 +6144,11 @@
    "access": "Rehovë je malá vesnice u Ersekë; přesný stav poslední přístupové cesty neověřen, doporučuji potvrdit u majitele.",
    "tips": "Cena od cca 47 EUR/noc (dle vlastního webu). Rezervace přes online formulář na bujtinacakuli.com, telefon nebo Booking.com. Nabízí i 10% slevu s aplikací Rentout.",
    "contact": "+355 69 517 4054 (formát neověřen), bujtinacakuli.com",
-   "rating": "Booking 9.6 (71 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (71 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Komfort 9,7 · Čistota 9,5 · Poloha 9,4 · Cena/výkon 9,3 · Vybavení 9,2",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-cakuli-rehove-erseke.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-cakuli-rehove-erseke.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Vlastní web",
@@ -5814,7 +6158,33 @@
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 580 Kč (≈ 64 €). celá vila 1 580 Kč, jen nevratná sazba"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Vila s výhledem do zahrady 1 580 Kč. Storno: bez platby předem.",
+   "ll": [
+    40.3338,
+    20.7062
+   ],
+   "bk": {
+    "slug": "bujtina-cakuli-rehove-erseke",
+    "url": "https://www.booking.com/hotel/al/bujtina-cakuli-rehove-erseke.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 71,
+    "subs": "Personál 9,8 · Komfort 9,7 · Čistota 9,5 · Poloha 9,4 · Cena/výkon 9,3 · Vybavení 9,2",
+    "praise": [
+     "Amazing place, amazing garden, amazing food, amazing hosts. Simply perfect!",
+     "Valentina and Gjergji are delightful, warm hosts; beautifully renovated family home at the edge of Rehovë."
+    ],
+    "faq": "Celá vila pro 2 osoby (1 ložnice); check-in od 14:00, check-out do 11:00; 2 restaurace, bar, zahrada.",
+    "fac": "2 restaurace, parkování, WiFi, bar, snídaně",
+    "rooms": "Vila s výhledem do zahrady 1 580 Kč",
+    "canc": "bez platby předem",
+    "addr": "Rruga Pali Prifti, Rehovë – 3 km východně od Ersekë",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-liana",
@@ -5826,17 +6196,43 @@
    "access": "Voskopojë je dostupná po asfaltové silnici z Korçë; přesná poslední ulice k penzionu neověřena.",
    "tips": "Cena neověřena. Rezervace přes Booking.com.",
    "contact": "Facebook: Voskopoje \"Bujtina Liana\".",
-   "rating": "Booking 9.8 (93 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,8/10 (93 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Komfort 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Vybavení 9,7",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-liana-voskopoje.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-liana-voskopoje.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 215 Kč (≈ 50 €). dvoulůžák 1 215 Kč, jen nevratná sazba"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Superior Double 1 215 Kč · Double/Twin s výhledem na hory 1 337 Kč · Triple 1 458 Kč. Storno: jen nevratná sazba (Non-refundable).",
+   "ll": [
+    40.6316,
+    20.5898
+   ],
+   "bk": {
+    "slug": "bujtina-liana-voskopoje",
+    "url": "https://www.booking.com/hotel/al/bujtina-liana-voskopoje.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 93,
+    "subs": "Personál 10 · Komfort 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Vybavení 9,7",
+    "praise": [
+     "Beautifully decorated, very cozy, spotlessly clean; the host was extremely kind.",
+     "The room was perfect, clean; the garden was really nice."
+    ],
+    "faq": "Check-in od 13:00, check-out do 10:30; 100 m od centra; snídaně hodnocena jako výjimečná; rodinné pokoje.",
+    "fac": "parkování zdarma, WiFi, rodinné pokoje, výjimečná snídaně",
+    "rooms": "Superior Double 1 215 Kč · Double/Twin s výhledem na hory 1 337 Kč · Triple 1 458 Kč",
+    "canc": "jen nevratná sazba (Non-refundable)",
+    "addr": "Rruga Koste Cekani, Voskopojë – 100 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře v Taverně Voskopojë nebo Unaza",
+   "tent": "zeptat",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-vila-falo",
@@ -5853,17 +6249,22 @@
     {
      "label": "Booking.com",
      "url": "https://www.booking.com/hotel/al/vila-falo-voskopoje.html"
-    },
-    {
-     "label": "Vlastní web (needověřeno)",
-     "url": "https://www.vilafalo.com/"
     }
    ],
    "img": null,
    "warning": "Recenze na Tripadvisoru (3/5) hlásí zrušené rezervace, provoz jen o víkendech a v jednom případě zkažené maso. Před příjezdem zavolat.",
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 094 Kč (≈ 45 €). dvoulůžák od 1 094 Kč, storno zdarma do 20. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 094 Kč (≈ 45 €). dvoulůžák od 1 094 Kč, storno zdarma do 20. 9., platba na místě",
+   "ll": [
+    40.6332,
+    20.5906
+   ],
+   "ll_approx": true,
+   "note": "Web vilafalo.com byl 16. 9. 2026 nedostupný.",
+   "meals": "snídaně; vlastní restaurace, ohlásit večeři a ověřit, že je otevřeno",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">web nefunguje (16. 9.)</span>"
   },
   {
    "id": "ubyt-argis",
@@ -5875,17 +6276,43 @@
    "access": "Voskopojë dostupná po asfaltu z Korçë; přesný přístup k penzionu neověřen.",
    "tips": "Cena neověřena přesně (orientačně v řádu desítek EUR/noc dle průměru Voskopojë). Rezervace přes Booking.com. Zahrnuje kontinentální snídani.",
    "contact": "Kontakt neověřen.",
-   "rating": "Booking 9.8 (8 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,8/10 (8 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 10 · Komfort 10 · Poloha 9,9 · Vybavení 9,5 · Cena/výkon 9,5",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-argis-voskopoje.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-argis-voskopoje.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 972 Kč (≈ 40 €). dvoulůžák 972 Kč, storno zdarma do 20. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Double s výhledem na hory/zahradu 972 Kč · Family 1 458 Kč. Storno: bez platby předem (No prepayment needed).",
+   "ll": [
+    40.6313,
+    20.5937
+   ],
+   "bk": {
+    "slug": "bujtina-argis-voskopoje",
+    "url": "https://www.booking.com/hotel/al/bujtina-argis-voskopoje.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 8,
+    "subs": "Personál 10 · Čistota 10 · Komfort 10 · Poloha 9,9 · Vybavení 9,5 · Cena/výkon 9,5",
+    "praise": [
+     "Breakfast was good with fresh local stuff, produced by the host.",
+     "(albánsky) Velmi čisté, teplé, upravené prostředí."
+    ],
+    "faq": "Check-in od 11:00, check-out do 10:00; 400 m od centra; snídaně.",
+    "fac": "parkování zdarma, snídaně",
+    "rooms": "Double s výhledem na hory/zahradu 972 Kč · Family 1 458 Kč",
+    "canc": "bez platby předem (No prepayment needed)",
+    "addr": "SH63 10, Voskopojë – 400 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře zeptat, jinak taverny ve vsi",
+   "tent": "zeptat (zahrada)",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-akademia",
@@ -5911,7 +6338,15 @@
    "img": null,
    "warning": "Smíšené recenze: propadlé matrace, slabý servis, zájezdy seniorů. Radši Liana nebo Argis.",
    "day": "Po",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.6332,
+    20.5906
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-lm-vithkuq",
@@ -5932,7 +6367,15 @@
    ],
    "img": null,
    "day": "Po",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.5246,
+    20.5828
+   ],
+   "ll_approx": true,
+   "meals": "zeptat telefonem; ve vsi nic jiného není, večeři domluvit",
+   "tent": "zeptat",
+   "contact_html": "<a href=\"tel:+355693661489\">+355 69 366 1489</a>"
   },
   {
    "id": "ubyt-hani-pazarit",
@@ -5944,11 +6387,11 @@
    "access": "V centru Korçë, starý bazar – dobrá dostupnost autem, parkování ve městě je třeba řešit individuálně (neověřeno, zda má hotel vlastní parkoviště).",
    "tips": "Cena neověřena přesně. Rezervace přes web hanipazarit.al nebo Booking.com, případně e-mailem.",
    "contact": "+355 69 701 0055, bookings@hanipazarit.al, hanipazarit.al",
-   "rating": "Booking 9.4 (397 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,4/10 (397 recenzí, ověřeno 16. 9. 2026) · Poloha 9,9 · Personál 9,7 · Čistota 9,7 · Komfort 9,6 · Vybavení 9,4 · Cena/výkon 9,4",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/hani-i-pazarit.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/hani-i-pazarit.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Vlastní web",
@@ -5958,7 +6401,33 @@
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 653 Kč (≈ 67 €). standard 1 653 Kč, storno zdarma do 18. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Standard Double 1 653 Kč · Double/Twin 2 066 Kč · Deluxe 2 066 Kč. Storno: storno zdarma do 18. 9., bez platby předem.",
+   "ll": [
+    40.6181,
+    20.7752
+   ],
+   "bk": {
+    "slug": "hani-i-pazarit",
+    "url": "https://www.booking.com/hotel/al/hani-i-pazarit.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.4",
+    "rev": 397,
+    "subs": "Poloha 9,9 · Personál 9,7 · Čistota 9,7 · Komfort 9,6 · Vybavení 9,4 · Cena/výkon 9,4",
+    "praise": [
+     "Lovely room and location, very authentic; good croissants for breakfast.",
+     "Historical building restored with lots of care; easy free parking if you arrive after 3 pm."
+    ],
+    "faq": "Kontinentální snídaně (9,5) v ceně; check-in od 14:00, check-out do 12:00; restaurace, bar, parkování v místě.",
+    "fac": "restaurace, parkování, WiFi, bar, výjimečná snídaně",
+    "rooms": "Standard Double 1 653 Kč · Double/Twin 2 066 Kč · Deluxe 2 066 Kč",
+    "canc": "storno zdarma do 18. 9., bez platby předem",
+    "addr": "Rruga Kiço Greço, Korçë – starý bazar (centrum)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; vlastní restaurace",
+   "tent": "ne",
+   "contact_html": "<a href=\"tel:+355697010055\">+355 69 701 0055</a><br><a href=\"mailto:bookings@hanipazarit.al\">bookings@hanipazarit.al</a><br><a href=\"https://hanipazarit.al/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-bujtina-leon",
@@ -5970,17 +6439,43 @@
    "access": "Centrum Korçë, dobrá dostupnost autem; přesné parkování neověřeno.",
    "tips": "Cena neověřena. Rezervace přes Booking.com. Doporučuji si předem potvrdit klimatizaci/WiFi.",
    "contact": "Kontakt neověřen.",
-   "rating": "Booking 9.6 (213 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (213 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,5",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-leon.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-leon.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 1 264 Kč (≈ 52 €). dvoulůžák 1 264 Kč, storno zdarma do 20. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Single 899 Kč · Double 1 264 Kč · Suite 1 629 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "ll": [
+    40.6158,
+    20.7816
+   ],
+   "bk": {
+    "slug": "bujtina-leon",
+    "url": "https://www.booking.com/hotel/al/bujtina-leon.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 213,
+    "subs": "Personál 10 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,5",
+    "praise": [
+     "Central location. Large room full of character. Huge breakfast. Fantastic value.",
+     "Right next to the cathedral; host super nice; breakfast amazing, traditional Albanian."
+    ],
+    "faq": "Check-in od 13:00, check-out do 12:00; výjimečná snídaně; půjčení kol, procházky, happy hour; bar.",
+    "fac": "parkování zdarma, WiFi, bar, výjimečná snídaně, rodinné pokoje",
+    "rooms": "Single 899 Kč · Double 1 264 Kč · Suite 1 629 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Rr. Shpresa Palla 3, Korçë – u katedrály, centrum",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně (nejlepší ve městě); večeře v bazaru",
+   "tent": "ne (město)",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-life-gallery",
@@ -6002,7 +6497,15 @@
    "img": null,
    "day": "Po",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 2 939 Kč (≈ 120 €). od 2 939 Kč, jen nevratná sazba"
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné  nejlevnější pokoj 2 939 Kč (≈ 120 €). od 2 939 Kč, jen nevratná sazba",
+   "ll": [
+    40.6159,
+    20.7772
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-bracaj",
@@ -6014,10 +6517,10 @@
    "access": "Poslední úsek k domu vede po horské silnici nad Çorovodë; z jihu (od Përmetu) je cesta sjízdná prakticky jen s 4x4, což s Jimny není problém, s běžným autem se nedoporučuje.",
    "tips": "Cena od cca 60 USD/noc za pokoj (2025, orientačně, ceny se liší dle termínu) – neověřeno přesně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
    "contact": "+355 69 377 9980 (tel./WhatsApp, Booking)",
-   "rating": "Booking 9.6 (774 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (774 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7 · Vybavení 9,5",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/guest-house-bracaj-corovode1.html"
     },
     {
@@ -6028,8 +6531,34 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: plné",
-   "warning": "Na Bookingu je na Út plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na Út plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.4845,
+    20.2403
+   ],
+   "bk": {
+    "slug": "guest-house-bracaj-corovode1",
+    "url": "https://www.booking.com/hotel/al/guest-house-bracaj-corovode1.html",
+    "night": "Út",
+    "status": "plné",
+    "score": "9.6",
+    "rev": 774,
+    "subs": "Personál 9,9 · Poloha 9,9 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7 · Vybavení 9,5",
+    "praise": [
+     "Wonderfully peaceful location, great hosts and food! Made to feel so welcome.",
+     "Stunning view, big rooms, very clean, restaurant nearby."
+    ],
+    "faq": "Check-in kdykoli, check-out do 10:00; restaurace v domě, skvělá snídaně; bar, pokojová služba.",
+    "fac": "restaurace, parkování, WiFi, bar, skvělá snídaně",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Çerenisht, 2,4 km jižně od Çorovodë (směr kaňon)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře „cheap“, ohlásit",
+   "tent": "zeptat (zahrada nad kaňonem)",
+   "contact_html": "<a href=\"https://wa.me/355693779980\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 69 377 9980</a>"
   },
   {
    "id": "ubyt-xhaferri",
@@ -6041,11 +6570,11 @@
    "access": "Leží u silnice mezi Çorovodë a Bogovë/Osumi kaňonem; přesný stav poslední příjezdové cesty neověřen, ale dle recenzí je dostupný osobním autem.",
    "tips": "Cena neověřena přesně (agregátory uvádí řádově 40–60 EUR/noc, 2025). Rezervace přes Booking.com.",
    "contact": "neověřeno",
-   "rating": "Booking 9.4 (83 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,4/10 (83 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Cena/výkon 9,7 · Komfort 9,5 · Poloha 9,5 · Vybavení 9,3",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/xhaferri-guesthouse.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/xhaferri-guesthouse.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Tripadvisor",
@@ -6055,7 +6584,33 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné  nejlevnější pokoj 790 Kč (≈ 32 €). trojlůžák od 790 Kč, platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Triple 790 Kč · Comfort Triple 1 396–1 448 Kč. Storno: bez platby předem.",
+   "ll": [
+    40.5375,
+    20.2322
+   ],
+   "bk": {
+    "slug": "xhaferri-guesthouse",
+    "url": "https://www.booking.com/hotel/al/xhaferri-guesthouse.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.4",
+    "rev": 83,
+    "subs": "Personál 10 · Čistota 9,8 · Cena/výkon 9,7 · Komfort 9,5 · Poloha 9,5 · Vybavení 9,3",
+    "praise": [
+     "Very friendly family-run guesthouse! Excellent food and rooms!",
+     "Lovely view, completely quiet, very friendly hosts and good food."
+    ],
+    "faq": "Snídaně à la carte hodnocena 10; restaurace v domě; check-in od 15:00, check-out do 11:00; rodinné a triple pokoje.",
+    "fac": "restaurace, parkování, WiFi, snídaně, rodinné pokoje",
+    "rooms": "Triple 790 Kč · Comfort Triple 1 396–1 448 Kč",
+    "canc": "bez platby předem",
+    "addr": "Mollas, 4 km severně od Çorovodë (nad silnicí na Poliçan)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně à la carte; vlastní restaurace, i vegetariánská",
+   "tent": "zeptat",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-nuhellari",
@@ -6067,11 +6622,11 @@
    "access": "V Çorovodë, výchozí bod pro kaňony Osumi; přesný stav příjezdové cesty neověřen.",
    "tips": "Cena neověřena. Rezervace přes telefon/WhatsApp nebo Booking.com.",
    "contact": "+355 69 527 9460 (dle Facebooku, neověřeno přímo)",
-   "rating": "Booking 9.6 (71 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (71 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,8 · Komfort 9,8 · Vybavení 9,7 · Cena/výkon 9,7 · Poloha 9,3",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/guest-house-nuhellari.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guest-house-nuhellari.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Facebook",
@@ -6081,7 +6636,33 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné  nejlevnější pokoj 1 534 Kč (≈ 63 €). celá vila od 1 534 Kč, jen nevratná sazba"
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Vila 1 534–1 841 Kč, se snídaní 1 705–2 045 Kč. Storno: jen nevratná sazba.",
+   "ll": [
+    40.5012,
+    20.2288
+   ],
+   "bk": {
+    "slug": "guest-house-nuhellari",
+    "url": "https://www.booking.com/hotel/al/guest-house-nuhellari.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 71,
+    "subs": "Personál 9,9 · Čistota 9,8 · Komfort 9,8 · Vybavení 9,7 · Cena/výkon 9,7 · Poloha 9,3",
+    "praise": [
+     "Great spacious and clean apartment after tubing in Osumi canyon; breakfast served in the room.",
+     "Very nice, comfortable apartment; host doesn't speak English, granddaughter translates."
+    ],
+    "faq": "Celá vila až pro 7 hostů, balkon; check-in od 15:00, check-out do 11:00; snídaně na pokoj.",
+    "fac": "pokojová služba, parkování, WiFi, snídaně",
+    "rooms": "Vila 1 534–1 841 Kč, se snídaní 1 705–2 045 Kč",
+    "canc": "jen nevratná sazba",
+    "addr": "Rruga Mestan Ujaniku, Çorovodë – centrum",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "bez stravy, sdílená kuchyně; zeptat na večeři",
+   "tent": "zeptat (zahrada, piknik)",
+   "contact_html": "<a href=\"tel:+355695279460\">+355 69 527 9460 (Facebook, neověřeno)</a>"
   },
   {
    "id": "ubyt-skrapari",
@@ -6103,7 +6684,15 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: bez nabídky. na tuto noc nenabízí pokoje"
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: bez nabídky. na tuto noc nenabízí pokoje",
+   "ll": [
+    40.5036,
+    20.2283
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-kt-qato",
@@ -6128,7 +6717,15 @@
    ],
    "img": null,
    "day": "Út",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.5726,
+    20.1569
+   ],
+   "ll_approx": true,
+   "meals": "vlastní restaurace, snídaně zeptat",
+   "tent": "zeptat",
+   "contact_html": "<a href=\"https://kt-qato.hotels-albania.net/en/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-white-villa",
@@ -6140,11 +6737,11 @@
    "access": "V obci Bogovë; přesný stav poslední přístupové cesty neověřen, dle recenzí dostupné běžným autem. Vlastní parkoviště.",
    "tips": "Cena od cca 48 USD/noc (2025, neověřeno přesně), snídaně v ceně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
    "contact": "neověřeno (u jednoho agregátoru uvedeno telefonní číslo s předvolbou +63, což je zjevně chybný údaj – nepoužívat)",
-   "rating": "Booking 9.4 (162 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,4/10 (162 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,4 · Poloha 9,4",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/the-white-villa.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/the-white-villa.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Tripadvisor",
@@ -6154,7 +6751,33 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné  nejlevnější pokoj 1 475 Kč (≈ 60 €). dvoulůžák s balkonem 1 475 Kč, storno zdarma do 22. 9. 18:00, platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double s balkonem 1 475 Kč · Triple 1 764–1 896 Kč. Storno: storno zdarma do 22. 9. 18:00, bez platby předem.",
+   "ll": [
+    40.5704,
+    20.1467
+   ],
+   "bk": {
+    "slug": "the-white-villa",
+    "url": "https://www.booking.com/hotel/al/the-white-villa.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.4",
+    "rev": 162,
+    "subs": "Personál 10 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,4 · Poloha 9,4",
+    "praise": [
+     "The family running this place is even better: super welcoming, caring, and offered great homemade food.",
+     "Very friendly people, very good breakfast and fruits for free in the afternoon."
+    ],
+    "faq": "Snídaně (8,8): kontinentální, vegetariánská, à la carte; check-in od 13:00, check-out do 10:00; WiFi jen 8 Mbps; bar.",
+    "fac": "parkování, WiFi (základní), bar, skvělá snídaně, rodinné pokoje",
+    "rooms": "Double s balkonem 1 475 Kč · Triple 1 764–1 896 Kč",
+    "canc": "storno zdarma do 22. 9. 18:00, bez platby předem",
+    "addr": "Rruga Bogova, Bogovë – u soutoku pod vodopádem",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně; večeře vysoce hodnocená, ohlásit při rezervaci",
+   "tent": "zeptat (zahrada)",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-bujtina-tomorrit",
@@ -6177,7 +6800,15 @@
    "day": "St",
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: mimo Booking. nabídka na Bookingu už není aktivní; jen telefon",
-   "warning": "Nabídka na bookingu už není aktivní; jen telefon."
+   "warning": "Nabídka na bookingu už není aktivní; jen telefon.",
+   "ll": [
+    40.64,
+    20.1
+   ],
+   "ll_approx": true,
+   "meals": "snídaně v ceně; večeře zeptat",
+   "tent": "zeptat",
+   "contact_html": "<a href=\"tel:+355697402204\">+355 69 740 2204</a>"
   },
   {
    "id": "ubyt-alpeta",
@@ -6189,10 +6820,10 @@
    "access": "Roshnik, cca 10 km od Beratu; poslední úsek po místní silnici, vlastní parkoviště.",
    "tips": "Check-in 14:00–22:00, check-out do 11:00. Restaurace: snídaně 8:00–10:00, oběd 12:00–16:30, večeře 18:30–21:00. Cena pokoje neověřena. Rezervace/kontakt přes WhatsApp.",
    "contact": "+355 69 748 4361 (ověřeno na alpeta.al); jiný zdroj uvádí WhatsApp +355 68 608 9293",
-   "rating": "Booking 9.6 (924 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (924 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Čistota 9,7 · Komfort 9,7 · Poloha 9,7 · Vybavení 9,5 · Cena/výkon 9,5",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/agro-bujtina-alpeta.html"
     },
     {
@@ -6203,8 +6834,34 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné",
-   "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.7289,
+    20.0414
+   ],
+   "bk": {
+    "slug": "agro-bujtina-alpeta",
+    "url": "https://www.booking.com/hotel/al/agro-bujtina-alpeta.html",
+    "night": "St",
+    "status": "plné",
+    "score": "9.6",
+    "rev": 924,
+    "subs": "Personál 9,8 · Čistota 9,7 · Komfort 9,7 · Poloha 9,7 · Vybavení 9,5 · Cena/výkon 9,5",
+    "praise": [
+     "We have travelled all around the Balkans, but this one really stands out; such a beautiful location.",
+     "The wine, food, service, accommodation and location: everything exceeded expectations; access to the local lake."
+    ],
+    "faq": "Vegetariánská snídaně (9,9) v ceně; restaurace, vinařství, bar; check-in od 14:30, check-out do 10:30.",
+    "fac": "restaurace, WiFi, parkování, bar, výjimečná snídaně, letištní transfer",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Roshnik Qendër – centrum vesnice, vedle Mimani",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně 8–10 h; večeře 18:30–21 s vínem 20–30 €/os., degustace ~40 €/os.",
+   "tent": "zeptat (vinice, velký areál)",
+   "contact_html": "<a href=\"https://wa.me/355686089293\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 68 608 9293 (neověřeno)</a><br><a href=\"tel:+355697484361\">+355 69 748 4361</a><br><a href=\"https://alpeta.al/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-nurellari",
@@ -6216,17 +6873,43 @@
    "access": "Fushë-Peshtan u Beratu; poslední kilometry po venkovské cestě, dle recenzí místy náročnější – s Jimny bez problému.",
    "tips": "Cena pokoje neověřena. Doporučeno předem nahlásit degustaci/večeři.",
    "contact": "+355 69 513 6326 (agrotourism.gov.al)",
-   "rating": "Booking 9.6 (142 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (143 recenzí, ověřeno 16. 9. 2026) · Čistota 9,9 · Komfort 9,8 · Personál 9,7 · Vybavení 9,7 · Cena/výkon 9,4 · Poloha 8,9",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/nurellari-winery-cellar-and-guest-house.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/nurellari-winery-cellar-and-guest-house.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
     }
    ],
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné  nejlevnější pokoj 1 969 Kč (≈ 80 €). dvoulůžák 1 969 Kč, storno zdarma do 23. 9. 18:00, platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Deluxe Double/Twin s výhledem 1 969–2 188 Kč · Executive Triple 2 795 Kč. Storno: storno zdarma do 23. 9. 18:00, bez platby předem.",
+   "ll": [
+    40.6469,
+    20.0408
+   ],
+   "bk": {
+    "slug": "nurellari-winery-cellar-and-guest-house",
+    "url": "https://www.booking.com/hotel/al/nurellari-winery-cellar-and-guest-house.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 143,
+    "subs": "Čistota 9,9 · Komfort 9,8 · Personál 9,7 · Vybavení 9,7 · Cena/výkon 9,4 · Poloha 8,9",
+    "praise": [
+     "Beautiful location with scenery of mountains and fields; spacious, tastefully designed room.",
+     "Attention to detail amazing, extremely clean and staff fabulous."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální, italská, vegetariánská, bufet); check-in od 14:00, check-out do 11:00; bar, pokojová služba.",
+    "fac": "parkování, WiFi, bar, snídaně, pokojová služba",
+    "rooms": "Deluxe Double/Twin s výhledem 1 969–2 188 Kč · Executive Triple 2 795 Kč",
+    "canc": "storno zdarma do 23. 9. 18:00, bez platby předem",
+    "addr": "Nurellari Winery, 10 km jihovýchodně od Beratu (mezi vinicemi)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně; večeře s degustací vína, ohlásit",
+   "tent": "zeptat (vinice)",
+   "contact_html": "<a href=\"tel:+355695136326\">+355 69 513 6326</a>"
   },
   {
    "id": "ubyt-mangalemi",
@@ -6238,11 +6921,11 @@
    "access": "Rruga Mihal Komneno, u Porta e Pashait, cca 300 m od centra, u cesty k hradu. Auto lze nechat poblíž, poslední úsek pěšky po dlažbě.",
    "tips": "Cena pokoje neověřena přesně. Rezervace přes vlastní web (Request Booking) nebo Booking.com.",
    "contact": "+355 68 232 3238, mangalemihotel.com",
-   "rating": "Booking 9.7 (711 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,7/10 (711 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Komfort 9,7 · Vybavení 9,5",
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/mangalemi.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/mangalemi.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Oficiální web",
@@ -6252,7 +6935,33 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné  nejlevnější pokoj 1 896 Kč (≈ 77 €). dvoulůžák 1 896 Kč, storno zdarma do 22. 9., platba na místě"
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné (1 pokoj). Pokoje: Superior Double 1 896 Kč (poslední pokoj). Storno: storno zdarma do 22. 9., bez platby předem.",
+   "ll": [
+    40.7059,
+    19.9511
+   ],
+   "bk": {
+    "slug": "mangalemi",
+    "url": "https://www.booking.com/hotel/al/mangalemi.html",
+    "night": "St",
+    "status": "volné (1 pokoj)",
+    "score": "9.7",
+    "rev": 711,
+    "subs": "Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Komfort 9,7 · Vybavení 9,5",
+    "praise": [
+     "The nicest hotel during our 10 days trip of Albania. Very authentic hotel.",
+     "Super nice and helpful staff with great advice; perfect central location; breakfast on the terrace lovely."
+    ],
+    "faq": "Check-in od 14:00, check-out do 11:00; 700 m od centra; skvělá snídaně; bar; parkování není uvedeno.",
+    "fac": "WiFi, bar, skvělá snídaně",
+    "rooms": "Superior Double 1 896 Kč (poslední pokoj)",
+    "canc": "storno zdarma do 22. 9., bez platby předem",
+    "addr": "Rruga Mihal Komneno, Berat – čtvrť Mangalem, 700 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně v ceně (terasa); večeře Homemade Food Lili (rezervace WhatsAppem) nebo hotel",
+   "tent": "ne (město)",
+   "contact_html": "<a href=\"tel:+355682323238\">+355 68 232 3238</a><br><a href=\"https://mangalemihotel.com/\" target=\"_blank\" rel=\"noopener\">web</a>"
   },
   {
    "id": "ubyt-klea",
@@ -6264,18 +6973,44 @@
    "access": "Uvnitř hradu Kalaja, nutné vyjet/vyjít po dlážděné cestě do hradu; auto lze nechat na parkovišti u vstupu do hradu, poslední úsek pěšky.",
    "tips": "Cena od cca 40 EUR/noc (2025, neověřeno přesně) – dle recenzí patřilo k nejlevnějším a zároveň nejoblíbenějším ubytováním v okolí. Rezervace přes Booking.com.",
    "contact": "neověřeno",
-   "rating": "Booking 9.6 (946 recenzí, 16. 9. 2026)",
+   "rating": "Booking 9,6/10 (946 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Cena/výkon 9,8 · Čistota 9,5 · Komfort 9,4 · Vybavení 9,1",
    "links": [
     {
-     "label": "Booking.com",
+     "label": "Booking.com (zápis, pro naše datum plné)",
      "url": "https://www.booking.com/hotel/al/klea.html"
     }
    ],
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné",
-   "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: plné. Zápis je aktivní, jen bez volné kapacity pro naše datum – zkusit přímý kontakt nebo hlídat uvolnění.",
+   "warning": "Na Bookingu je na St plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    40.7097,
+    19.945
+   ],
+   "bk": {
+    "slug": "klea",
+    "url": "https://www.booking.com/hotel/al/klea.html",
+    "night": "St",
+    "status": "plné",
+    "score": "9.6",
+    "rev": 946,
+    "subs": "Personál 9,9 · Poloha 9,9 · Cena/výkon 9,8 · Čistota 9,5 · Komfort 9,4 · Vybavení 9,1",
+    "praise": [
+     "Location amazing, right in the heart of Berat castle; hosts very kind and the food great.",
+     "Manager Kseno did everything to make us feel at home; don't miss this experience."
+    ],
+    "faq": "Check-in od 14:00, check-out do 10:00; restaurace, bar; 1,4 km od centra (v hradu, jízda nahoru po kočičích hlavách).",
+    "fac": "restaurace, WiFi, parkování, bar, výjimečná snídaně",
+    "rooms": "–",
+    "canc": "–",
+    "addr": "Lagja Kala, Berat – uvnitř hradu",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "snídaně; večeře „mámino vaření“ v hotelu",
+   "tent": "ne",
+   "contact_html": "<span class=n>jen Booking</span>"
   },
   {
    "id": "ubyt-huqi",
@@ -6300,7 +7035,15 @@
    ],
    "img": null,
    "day": "Čt",
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    41.247,
+    19.596
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, zeptat",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "ubyt-mrizi",
@@ -6327,7 +7070,15 @@
    "day": "Čt",
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc Čt, 2 osoby: plné",
-   "warning": "Na Bookingu je na Čt plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+   "warning": "Na Bookingu je na Čt plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo.",
+   "ll": [
+    41.858,
+    19.628
+   ],
+   "ll_approx": true,
+   "meals": "bez stravy, zeptat",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   },
   {
    "id": "kelcyre",
@@ -6366,8 +7117,8 @@
    "access": "Z Tepelenë po silnici SH75 směr Këlcyrë 9 km, asfalt. Z Gjirokastru přes Tepelenë 45 min; z Këlcyrë 15 min zpět na západ. Parkování u domu.",
    "tips": "Když pátek po letu nebude síla na Kurvelesh, spát tady a Nivicë vzít v sobotu ráno (Progonat je odtud 40 min). Stan: zeptat na cenu za místo, večeře domluvit předem.",
    "contact": "Booking; Tripadvisor; hotels-albania.net",
-   "rating": "Booking 9,8 (89 recenzí, 16. 9. 2026)",
-   "booking": "Booking k 16. 9. 2026, noc Pá 18. 9., 2 osoby: volné, dvoulůžák od 729 Kč (≈ 30 €); storno podmínky ověřit v rezervaci.",
+   "rating": "Booking 9,8/10 (89 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Vybavení 9,6 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7 · Poloha 9,7",
+   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné. Pokoje: Double/Twin s vlastní koupelnou 1 094 Kč, Garden View 948 Kč, Triple 729 Kč, bez snídaně. Storno: neuvedeno u pokojů, ověřit v rezervaci.",
    "facts": [
     "Stan: ano, oficiální kemp u domu",
     "Cena: pokoj od 729 Kč",
@@ -6375,8 +7126,8 @@
    ],
    "links": [
     {
-     "label": "Booking.com",
-     "url": "https://www.booking.com/hotel/al/bujtina-peshtan-guesthouse-amp-camping.html"
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-peshtan-guesthouse-amp-camping.html?checkin=2026-09-18&checkout=2026-09-19&group_adults=2&no_rooms=1&group_children=0"
     },
     {
      "label": "Tripadvisor",
@@ -6388,7 +7139,1827 @@
     }
    ],
    "img": null,
-   "gallery": []
+   "gallery": [],
+   "ll": [
+    40.2902,
+    20.1254
+   ],
+   "bk": {
+    "slug": "bujtina-peshtan-guesthouse-amp-camping",
+    "url": "https://www.booking.com/hotel/al/bujtina-peshtan-guesthouse-amp-camping.html",
+    "night": "Pá",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 89,
+    "subs": "Personál 10 · Vybavení 9,6 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7 · Poloha 9,7",
+    "praise": [
+     "Home-like feeling staying with Mira. The room, garden and food were perfect; lots of interesting stuff to see and do around.",
+     "Peaceful, quiet, surrounded by beautiful views; charming simplicity. Mira the host is amazing, kind, helpful and knowledgable."
+    ],
+    "faq": "Check-in 16–22, check-out do 9:30 (!); pěší túry; oblíbené u rodin; snídaně není v ceně.",
+    "fac": "parkování, rychlá WiFi, rodinné pokoje, bar, zahrada, ohniště, gril, piknik",
+    "rooms": "Double/Twin s vlastní koupelnou 1 094 Kč, Garden View 948 Kč, Triple 729 Kč, bez snídaně",
+    "canc": "neuvedeno u pokojů, ověřit v rezervaci",
+    "addr": "Peshtan, Tepelenë (9 km od města směr Këlcyrë)",
+    "checked": "16. 9. 2026"
+   },
+   "meals": "pokoj bez stravy; balený oběd a večeře na objednání",
+   "tent": "ano – oficiální kemp u domu, 15 min od Këlcyrë",
+   "contact_html": "<a href=\"https://www.tripadvisor.com/Hotel_Review-g801294-d33437408-Reviews-Bujtina_Peshtan_Guesthouse_camping-Tepelene_Gjirokaster_County.html\" target=\"_blank\" rel=\"noopener\">Tripadvisor</a>"
+  },
+  {
+   "id": "ubyt-progon-house",
+   "name": "Progon House, Progonat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/progon-house.html?checkin=2026-09-18&checkout=2026-09-19&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Bujtina přímo v Progonatu na páteční trase do Nivicë: za 682 Kč se snídaní a stornem zdarma je to nejlevnější jistota v Kurveleshi, kdyby Guesthouse on Canyon nevyšel.",
+   "day": "Pá",
+   "what": "Progonat, Tepelenë. Vybavení podle Bookingu: parkování, WiFi, rodinné pokoje, čaj/káva na pokoji, snídaně.",
+   "tips": "Snídaně kontinentální (hodnocení 7,5), check-in 12–19, check-out do 11; pěší túry; oblíbené u rodin.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2149,
+    19.9497
+   ],
+   "bk": {
+    "slug": "progon-house",
+    "url": "https://www.booking.com/hotel/al/progon-house.html",
+    "night": "Pá",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 97,
+    "subs": "Personál 9,9 · Čistota 9,7 · Komfort 9,5 · Cena/výkon 9,6 · Poloha 9,3",
+    "praise": [
+     "Real Albania countryside! Animals in the garden and organic breakfast and honey. We could chill on patio with roof.",
+     "Perfect location for hiking to the waterfall, visiting Nivice canyon or a stop over between Gjirokaster / Permet and the coast."
+    ],
+    "faq": "Snídaně kontinentální (hodnocení 7,5), check-in 12–19, check-out do 11; pěší túry; oblíbené u rodin.",
+    "fac": "parkování, WiFi, rodinné pokoje, čaj/káva na pokoji, snídaně",
+    "rooms": "Double Room with Garden View 682 Kč, Triple 682 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 17. 9., platba na místě",
+    "addr": "Progonat, Tepelenë",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (97 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,7 · Komfort 9,5 · Cena/výkon 9,6 · Poloha 9,3",
+   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné. Pokoje: Double Room with Garden View 682 Kč, Triple 682 Kč, snídaně v ceně. Storno: storno zdarma do 17. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-uji-ftohte",
+   "name": "Hotel Uji Ftohtë, Tepelenë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/uji-ftohte-tepelene.html?checkin=2026-09-18&checkout=2026-09-19&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Drahý, ale spolehlivý hotel u pramene Uji i Ftohtë: záloha pro případ, že se páteční dojezd do Kurveleshe protáhne a nechceme jet horskou cestu potmě.",
+   "day": "Pá",
+   "what": "Uji i Ftohtë, u pramene 6 km od Tepelenë. Vybavení podle Bookingu: restaurace, bar, fitness, parkování, WiFi, výborná snídaně.",
+   "tips": "Snídaně bufet (8,8), check-in 14–23:30, check-out do 12; restaurace, fitness, aquapark, živá hudba.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2504,
+    20.0659
+   ],
+   "bk": {
+    "slug": "uji-ftohte-tepelene",
+    "url": "https://www.booking.com/hotel/al/uji-ftohte-tepelene.html",
+    "night": "Pá",
+    "status": "volné (drahé)",
+    "score": "9.6",
+    "rev": 615,
+    "subs": "Čistota 9,9 · Komfort 9,9 · Vybavení 9,7 · Poloha 9,7 · Personál 9,6 · Cena/výkon 9,5",
+    "praise": [
+     "Modern hotel in high standards, breakfast exceptional.",
+     "View from the rooms is just incredible, cool breeze from the river."
+    ],
+    "faq": "Snídaně bufet (8,8), check-in 14–23:30, check-out do 12; restaurace, fitness, aquapark, živá hudba.",
+    "fac": "restaurace, bar, fitness, parkování, WiFi, výborná snídaně",
+    "rooms": "Deluxe Double/Twin 3 723 Kč, Junior Suite 4 452 Kč, snídaně v ceně",
+    "canc": "jen nevratná sazba",
+    "addr": "Uji i Ftohtë, u pramene 6 km od Tepelenë",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (615 recenzí, ověřeno 16. 9. 2026) · Čistota 9,9 · Komfort 9,9 · Vybavení 9,7 · Poloha 9,7 · Personál 9,6 · Cena/výkon 9,5",
+   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné (drahé). Pokoje: Deluxe Double/Twin 3 723 Kč, Junior Suite 4 452 Kč, snídaně v ceně. Storno: jen nevratná sazba.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-glealb",
+   "name": "Gle-Alb AgroTourism, Tepelenë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-glealb.html?checkin=2026-09-18&checkout=2026-09-19&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Agroturistika s bazénem a restaurací nad údolím Vjosy u Tepelenë: pohodlná páteční záloha 20 minut od odbočky do Kurveleshe.",
+   "day": "Pá",
+   "what": "Lagja Revait Dukaj, Tepelenë (7 km, nad údolím Vjosy). Vybavení podle Bookingu: venkovní bazén, restaurace, bar, letištní shuttle, parkování.",
+   "tips": "Snídaně kontinentální/bufet (8,7), bazén, check-in 14:30–23, check-out do 11; restaurace.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.3249,
+    19.9417
+   ],
+   "bk": {
+    "slug": "bujtina-glealb",
+    "url": "https://www.booking.com/hotel/al/bujtina-glealb.html",
+    "night": "Pá",
+    "status": "volné",
+    "score": "9.0",
+    "rev": 493,
+    "subs": "Čistota 9,4 · Komfort 9,4 · Personál 9,2 · Vybavení 9,2 · Cena/výkon 9,0 · Poloha 8,8",
+    "praise": [
+     "Family run hotel with plenty of enthusiasm, all food home and freshly made, during 3 days we tried most of the local dishes.",
+     "Nice to get away from the cities and into nature; views, the drive, the food."
+    ],
+    "faq": "Snídaně kontinentální/bufet (8,7), bazén, check-in 14:30–23, check-out do 11; restaurace.",
+    "fac": "venkovní bazén, restaurace, bar, letištní shuttle, parkování",
+    "rooms": "Deluxe Double s balkonem 1 925 Kč, s výhledem 2 144 Kč, snídaně v ceně",
+    "canc": "platba na místě, storno ověřit",
+    "addr": "Lagja Revait Dukaj, Tepelenë (7 km, nad údolím Vjosy)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,0/10 (493 recenzí, ověřeno 16. 9. 2026) · Čistota 9,4 · Komfort 9,4 · Personál 9,2 · Vybavení 9,2 · Cena/výkon 9,0 · Poloha 8,8",
+   "booking": "Booking k 16. 9. 2026, noc Pá, 2 osoby: volné. Pokoje: Deluxe Double s balkonem 1 925 Kč, s výhledem 2 144 Kč, snídaně v ceně. Storno: platba na místě, storno ověřit.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-ahmetaj",
+   "name": "Ahmetaj Guest House, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/ahmetaj-guest-house.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlépe hodnocený rodinný penzion pod hradem s parkováním zdarma, výjimečnou snídaní a stornem zdarma – sobotní jistota, když Stone City Hostel nesedí.",
+   "day": "So",
+   "what": "Rruga Pertef Kokona, Gjirokastër, 350 m od centra, blízko hradu. Vybavení podle Bookingu: parkování zdarma, WiFi, rodinné pokoje, výjimečná snídaně.",
+   "tips": "Check-in od 11, check-out do 11; půjčení kol, procházky s průvodcem; parkování zdarma.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.075,
+    20.1351
+   ],
+   "bk": {
+    "slug": "ahmetaj-guest-house",
+    "url": "https://www.booking.com/hotel/al/ahmetaj-guest-house.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 712,
+    "subs": "Personál 10 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6",
+    "praise": [
+     "Welcomed with a little treat; amazing view, close to the castle and old town; breakfast great.",
+     "Quiet location close to the centre, super nice interior design, lovely breakfast, very friendly hosts."
+    ],
+    "faq": "Check-in od 11, check-out do 11; půjčení kol, procházky s průvodcem; parkování zdarma.",
+    "fac": "parkování zdarma, WiFi, rodinné pokoje, výjimečná snídaně",
+    "rooms": "Twin s výhledem na město 1 215 Kč, Twin s vlastní koupelnou 1 215 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 18. 9., platba na místě",
+    "addr": "Rruga Pertef Kokona, Gjirokastër, 350 m od centra, blízko hradu",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (712 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Twin s výhledem na město 1 215 Kč, Twin s vlastní koupelnou 1 215 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-musee",
+   "name": "Boutique Hotel Musée, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/muse-39-e.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Restaurovaný osmanský dům ve čtvrti Palorto, pokoje s dobovým nábytkem; pro sobotu dražší varianta s trochou luxusu po dni v Kurveleshi.",
+   "day": "So",
+   "what": "Lagjja Palorto, Gjirokastër, 300 m od centra. Vybavení podle Bookingu: parkování, WiFi, pokojová služba, čaj/káva, bezbariérové, výborná snídaně.",
+   "tips": "Snídaně (9,0): vegetariánská, veganská, bezlepková, i s sebou; check-in od 15, check-out do 10:30; parkování zdarma.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0752,
+    20.1352
+   ],
+   "bk": {
+    "slug": "muse-39-e",
+    "url": "https://www.booking.com/hotel/al/muse-39-e.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 553,
+    "subs": "Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8",
+    "praise": [
+     "Very friendly hosts, great location, beautiful interior, delicious home made breakfast.",
+     "Family run hotel, hosts recommended dinner and booked the taxi."
+    ],
+    "faq": "Snídaně (9,0): vegetariánská, veganská, bezlepková, i s sebou; check-in od 15, check-out do 10:30; parkování zdarma.",
+    "fac": "parkování, WiFi, pokojová služba, čaj/káva, bezbariérové, výborná snídaně",
+    "rooms": "Deluxe King 1 653 Kč, Junior Suite 1 531 Kč, Twin 1 896 Kč, snídaně v ceně",
+    "canc": "platba na místě; storno zdarma neuvedeno",
+    "addr": "Lagjja Palorto, Gjirokastër, 300 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (553 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Deluxe King 1 653 Kč, Junior Suite 1 531 Kč, Twin 1 896 Kč, snídaně v ceně. Storno: platba na místě; storno zdarma neuvedeno.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-alsara",
+   "name": "Alsara Guesthouse, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/alsara-guesthouse.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Penzion 200 m od bazaru se střešní terasou nad městem a stornem zdarma – nejvíc recenzí a nejvyšší skóre mezi levnými volbami v Gjirokastru.",
+   "day": "So",
+   "what": "Rruga Ismail Kadare, Gjirokastër, 200 m od centra. Vybavení podle Bookingu: WiFi, rodinné pokoje, střešní terasa, výborná snídaně.",
+   "tips": "Check-in od 12, check-out do 11; 200 m od centra; bez parkování u domu.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0742,
+    20.1378
+   ],
+   "bk": {
+    "slug": "alsara-guesthouse",
+    "url": "https://www.booking.com/hotel/al/alsara-guesthouse.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 765,
+    "subs": "Personál 9,9 · Cena/výkon 9,9 · Poloha 9,9 · Čistota 9,8 · Komfort 9,8",
+    "praise": [
+     "Central location, nice rooms and great roof terrace; good effort with a vegan breakfast.",
+     "Owner gave dinner recommendations and drove us to the bus."
+    ],
+    "faq": "Check-in od 12, check-out do 11; 200 m od centra; bez parkování u domu.",
+    "fac": "WiFi, rodinné pokoje, střešní terasa, výborná snídaně",
+    "rooms": "Deluxe Twin 1 264 Kč, Quadruple 1 385 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 18. 9., platba na místě",
+    "addr": "Rruga Ismail Kadare, Gjirokastër, 200 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (765 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Cena/výkon 9,9 · Poloha 9,9 · Čistota 9,8 · Komfort 9,8",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Deluxe Twin 1 264 Kč, Quadruple 1 385 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-amades",
+   "name": "Guest House AmaDes, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guest-house-amades.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlevnější slušná volba v Gjirokastru (od 948 Kč se snídaní), 15 minut pěšky k hradu, parkování u domu.",
+   "day": "So",
+   "what": "Rruga Hasan Xhiku, Gjirokastër, 0,7 km od centra (15 min pěšky k hradu). Vybavení podle Bookingu: parkování zdarma, WiFi, rodinné pokoje, čaj/káva, výjimečná snídaně.",
+   "tips": "Snídaně kontinentální/bufet (9,6) v ceně; check-in od 14, check-out do 11; parkování zdarma.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0733,
+    20.1464
+   ],
+   "bk": {
+    "slug": "guest-house-amades",
+    "url": "https://www.booking.com/hotel/al/guest-house-amades.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 629,
+    "subs": "Personál 9,9 · Čistota 9,9 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,6 · Poloha 9,0",
+    "praise": [
+     "Very kind and thoughtful hosts, lovely room with a beautiful view from the balcony, superb breakfast on a terrace.",
+     "Clean, nice owners and their son, view, delicious breakfast; old town 15 minutes by walk."
+    ],
+    "faq": "Snídaně kontinentální/bufet (9,6) v ceně; check-in od 14, check-out do 11; parkování zdarma.",
+    "fac": "parkování zdarma, WiFi, rodinné pokoje, čaj/káva, výjimečná snídaně",
+    "rooms": "Triple s balkonem 1 069 Kč, Triple s výhledem 948 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 18. 9., platba na místě",
+    "addr": "Rruga Hasan Xhiku, Gjirokastër, 0,7 km od centra (15 min pěšky k hradu)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (629 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,9 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,6 · Poloha 9,0",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Triple s balkonem 1 069 Kč, Triple s výhledem 948 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-manga",
+   "name": "Manga Guesthouse, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/manga-guesthouse.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Malý penzion 450 m od centra s parkováním a výjimečnou snídaní; storno zdarma do 18. 9.",
+   "day": "So",
+   "what": "Rruga Selam Musai, Gjirokastër, 450 m od centra. Vybavení podle Bookingu: parkování zdarma, WiFi, pokojová služba, výjimečná snídaně.",
+   "tips": "Snídaně kontinentální (10) v ceně; check-in od 14, check-out do 11; parkování zdarma u domu.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0725,
+    20.1363
+   ],
+   "bk": {
+    "slug": "manga-guesthouse",
+    "url": "https://www.booking.com/hotel/al/manga-guesthouse.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 297,
+    "subs": "Personál 10 · Čistota 9,8 · Cena/výkon 9,8 · Poloha 9,8 · Komfort 9,7",
+    "praise": [
+     "Amazing hosts, friendly, supportive and warm; room perfect, spacious, nice design, quiet area.",
+     "Travelled by car and were able to park safely at the property."
+    ],
+    "faq": "Snídaně kontinentální (10) v ceně; check-in od 14, check-out do 11; parkování zdarma u domu.",
+    "fac": "parkování zdarma, WiFi, pokojová služba, výjimečná snídaně",
+    "rooms": "Deluxe Double s koupelnou 1 337 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 18. 9., platba na místě",
+    "addr": "Rruga Selam Musai, Gjirokastër, 450 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (297 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Cena/výkon 9,8 · Poloha 9,8 · Komfort 9,7",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Deluxe Double s koupelnou 1 337 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-old-town",
+   "name": "Old Town Hotel, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/relax-inn-gjirokaster.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Levný dvoulůžák s terasou 300 m od bazaru, storno zdarma; jednoduchá sobotní záloha.",
+   "day": "So",
+   "what": "Rruga Shezai Como, Gjirokastër, 300 m od centra. Vybavení podle Bookingu: WiFi, bar, pokojová služba, rodinné pokoje, výborná snídaně.",
+   "tips": "Check-in od 14, check-out do 10; 300 m od centra.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0732,
+    20.1376
+   ],
+   "bk": {
+    "slug": "relax-inn-gjirokaster",
+    "url": "https://www.booking.com/hotel/al/relax-inn-gjirokaster.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.5",
+    "rev": 500,
+    "subs": "Personál 9,8 · Poloha 9,8 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7",
+    "praise": [
+     "Very lovely hosts, affordable accommodation right in the old town, free breakfast delicious.",
+     "Renovated modern bathroom, stylish room, breakfast on the terrace."
+    ],
+    "faq": "Check-in od 14, check-out do 10; 300 m od centra.",
+    "fac": "WiFi, bar, pokojová služba, rodinné pokoje, výborná snídaně",
+    "rooms": "Double s terasou 1 094 Kč, snídaně v ceně",
+    "canc": "storno zdarma do 18. 9., platba na místě",
+    "addr": "Rruga Shezai Como, Gjirokastër, 300 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,5/10 (500 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Poloha 9,8 · Čistota 9,7 · Komfort 9,7 · Cena/výkon 9,7",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Double s terasou 1 094 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-bizant",
+   "name": "Bizant House Boutique Hotel, Gjirokastër",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bizant-house-boutique.html?checkin=2026-09-19&checkout=2026-09-20&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejvýš hodnocený dům ve městě (9,8), ale k dispozici už jen dražší triple bez storna – spíš pro případ, že chceme sobotu ozvláštnit.",
+   "day": "So",
+   "what": "Rruga 7 Kronjtë, Gjirokastër, 250 m od centra. Vybavení podle Bookingu: parkování zdarma, WiFi, bar, rodinné pokoje.",
+   "tips": "Snídaně kontinentální/vegetariánská (10) v ceně; check-in od 14, check-out do 10:30; parkování zdarma.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.0773,
+    20.1414
+   ],
+   "bk": {
+    "slug": "bizant-house-boutique",
+    "url": "https://www.booking.com/hotel/al/bizant-house-boutique.html",
+    "night": "So",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 192,
+    "subs": "Personál 9,9 · Komfort 9,9 · Vybavení 9,8 · Čistota 9,8 · Cena/výkon 9,8",
+    "praise": [
+     "An absolute gem: old house excellently renovated, rooms beautiful and comfortable.",
+     "Owner Viola exceptionally kind and helpful."
+    ],
+    "faq": "Snídaně kontinentální/vegetariánská (10) v ceně; check-in od 14, check-out do 10:30; parkování zdarma.",
+    "fac": "parkování zdarma, WiFi, bar, rodinné pokoje",
+    "rooms": "Superior Triple 2 262 Kč (jediný volný), snídaně v ceně",
+    "canc": "jen nevratná sazba",
+    "addr": "Rruga 7 Kronjtë, Gjirokastër, 250 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,8/10 (192 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Komfort 9,9 · Vybavení 9,8 · Čistota 9,8 · Cena/výkon 9,8",
+   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Superior Triple 2 262 Kč (jediný volný), snídaně v ceně. Storno: jen nevratná sazba.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-shtepia-me-lule",
+   "name": "Shtëpia me Lule, Përmet",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/house-of-roses-permet2.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Levný penzion u promenády v Përmetu (od 814 Kč), storno zdarma u dražší sazby; nedělní volba, když nechceme jet až do Bualu.",
+   "day": "Ne",
+   "what": "Përmet, 0,6 km od centra u promenády. Vybavení podle Bookingu: parkování, WiFi, rodinné pokoje.",
+   "tips": "Snídaně bufet (jen 6,3); check-in od 14, check-out do 10.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2289,
+    20.3554
+   ],
+   "bk": {
+    "slug": "house-of-roses-permet2",
+    "url": "https://www.booking.com/hotel/al/house-of-roses-permet2.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 92,
+    "subs": "Personál 10 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,5 · Poloha 9,4",
+    "praise": [
+     "Nice family run hotel with local breakfast, close to central street and promenade.",
+     "The owners are the kindest and most thoughtful people; the food is so delicious."
+    ],
+    "faq": "Snídaně bufet (jen 6,3); check-in od 14, check-out do 10.",
+    "fac": "parkování, WiFi, rodinné pokoje",
+    "rooms": "Double s balkonem 814–899 Kč, Triple 850–1 035 Kč",
+    "canc": "storno zdarma do 19. 9. (dražší sazba), levnější nevratná",
+    "addr": "Përmet, 0,6 km od centra u promenády",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (92 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,5 · Poloha 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Double s balkonem 814–899 Kč, Triple 850–1 035 Kč. Storno: storno zdarma do 19. 9. (dražší sazba), levnější nevratná.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-nako",
+   "name": "Nako Guest House, Përmet",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/nako-guest-house.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlevnější pokoj se snídaní v centru Përmetu (778 Kč, 100 m od náměstí), storno zdarma do 19. 9.; ideální, pokud chceme večer projít gastro Përmet pěšky.",
+   "day": "Ne",
+   "what": "Promenáda Mentor Xhemali, Përmet, 100 m od centra. Vybavení podle Bookingu: bar, parkování, WiFi, rodinné pokoje, skvělá snídaně.",
+   "tips": "Check-in kdykoli (00–24); 100 m od centra; bar a restaurace v domě.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2328,
+    20.3524
+   ],
+   "bk": {
+    "slug": "nako-guest-house",
+    "url": "https://www.booking.com/hotel/al/nako-guest-house.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.3",
+    "rev": 444,
+    "subs": "Personál 9,8 · Cena/výkon 9,7 · Poloha 9,6 · Čistota 9,5 · Komfort 9,4",
+    "praise": [
+     "Central location, spacious and clean rooms, great breakfast, very friendly service.",
+     "Parking available nearby."
+    ],
+    "faq": "Check-in kdykoli (00–24); 100 m od centra; bar a restaurace v domě.",
+    "fac": "bar, parkování, WiFi, rodinné pokoje, skvělá snídaně",
+    "rooms": "Deluxe Twin 778 Kč (510 Kč bez snídaně), Deluxe Double/Twin Mountain View 778 Kč",
+    "canc": "storno zdarma do 19. 9., platba na místě",
+    "addr": "Promenáda Mentor Xhemali, Përmet, 100 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,3/10 (444 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Cena/výkon 9,7 · Poloha 9,6 · Čistota 9,5 · Komfort 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Deluxe Twin 778 Kč (510 Kč bez snídaně), Deluxe Double/Twin Mountain View 778 Kč. Storno: storno zdarma do 19. 9., platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-joan",
+   "name": "Joan Guesthouse, Përmet",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/joan-guesthouse.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Rodinný penzion s výjimečnou snídaní 600 m od centra, rodinný pokoj už za 875 Kč.",
+   "day": "Ne",
+   "what": "Lagjja Mejden, Përmet, 0,6 km od centra. Vybavení podle Bookingu: rychlá WiFi, parkování, bar, rodinné pokoje, výjimečná snídaně.",
+   "tips": "Check-in od 13, check-out do 11; půjčení kol, kanoe, dětské hřiště.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2386,
+    20.3491
+   ],
+   "bk": {
+    "slug": "joan-guesthouse",
+    "url": "https://www.booking.com/hotel/al/joan-guesthouse.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.4",
+    "rev": 204,
+    "subs": "Personál 9,7 · Cena/výkon 9,7 · Komfort 9,6 · Poloha 9,5 · Čistota 9,4",
+    "praise": [
+     "Lovely garden, breakfast on the flower filled verandah was heavenly; comfortable beds, good shower.",
+     "Very friendly owners, nice rooms, good breakfast."
+    ],
+    "faq": "Check-in od 13, check-out do 11; půjčení kol, kanoe, dětské hřiště.",
+    "fac": "rychlá WiFi, parkování, bar, rodinné pokoje, výjimečná snídaně",
+    "rooms": "Deluxe Double 1 021 Kč, Family 875 Kč, Triple 1 021 Kč, snídaně v ceně",
+    "canc": "platba na místě; storno zdarma neuvedeno",
+    "addr": "Lagjja Mejden, Përmet, 0,6 km od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,4/10 (204 recenzí, ověřeno 16. 9. 2026) · Personál 9,7 · Cena/výkon 9,7 · Komfort 9,6 · Poloha 9,5 · Čistota 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Deluxe Double 1 021 Kč, Family 875 Kč, Triple 1 021 Kč, snídaně v ceně. Storno: platba na místě; storno zdarma neuvedeno.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-lugina",
+   "name": "Bujtina Lugina e Vjosës, Petran",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-lugina-e-vjoses.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Vesnická bujtina v Petranu hned vedle The Stone House, 9,7 z 287 recenzí, restaurace v domě – nedělní varianta blíž k Bënje než Përmet.",
+   "day": "Ne",
+   "what": "Petran, Përmet, 6 km od města (vedle Stone House). Vybavení podle Bookingu: restaurace, bar, parkování, WiFi, rodinné pokoje.",
+   "tips": "Snídaně (8,3, i s sebou) v ceně; check-in od 15, check-out do 11; restaurace a bar v domě.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.2049,
+    20.4165
+   ],
+   "bk": {
+    "slug": "bujtina-lugina-e-vjoses",
+    "url": "https://www.booking.com/hotel/al/bujtina-lugina-e-vjoses.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 287,
+    "subs": "Personál 9,9 · Čistota 9,9 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,6 · Poloha 9,6",
+    "praise": [
+     "Nice welcome, beautiful area, tasty breakfast, nice family.",
+     "Small village with a real rural atmosphere; host very nice despite the language barrier."
+    ],
+    "faq": "Snídaně (8,3, i s sebou) v ceně; check-in od 15, check-out do 11; restaurace a bar v domě.",
+    "fac": "restaurace, bar, parkování, WiFi, rodinné pokoje",
+    "rooms": "Deluxe Double s balkonem 1 171 Kč (nevratná) / 1 296 Kč (storno zdarma), snídaně v ceně",
+    "canc": "storno zdarma do 17. 9. u dražší sazby, platba na místě",
+    "addr": "Petran, Përmet, 6 km od města (vedle Stone House)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (287 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,9 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,6 · Poloha 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Deluxe Double s balkonem 1 171 Kč (nevratná) / 1 296 Kč (storno zdarma), snídaně v ceně. Storno: storno zdarma do 17. 9. u dražší sazby, platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-kutal",
+   "name": "Kutal Park Inn Hotel, Përmet",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/baci-permet1.html?checkin=2026-09-20&checkout=2026-09-21&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Hotel se třemi bazény a bufetovou snídaní přímo na nedělní cestě Këlcyrë → Përmet; komfortní volba po celodenním okruhu Zagorií.",
+   "day": "Ne",
+   "what": "silnice Përmet–Këlcyrë, 2,5 km od Përmetu (na nedělní cestě). Vybavení podle Bookingu: 3 bazény, 2 restaurace, bar, parkování, WiFi, pokojová služba.",
+   "tips": "Snídaně bufet (9,5) v ceně, i vegan/bezlepková; 3 bazény; 2 restaurace; check-in od 14, check-out do 11.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.251,
+    20.3326
+   ],
+   "bk": {
+    "slug": "baci-permet1",
+    "url": "https://www.booking.com/hotel/al/baci-permet1.html",
+    "night": "Ne",
+    "status": "volné",
+    "score": "9.5",
+    "rev": 317,
+    "subs": "Personál 9,9 · Čistota 9,7 · Komfort 9,6 · Cena/výkon 9,6 · Vybavení 9,3 · Poloha 9,2",
+    "praise": [
+     "Amazing breakfast, beautiful view, comfortable spacious rooms.",
+     "Modern clean rooms, super friendly hosts, restaurant very good."
+    ],
+    "faq": "Snídaně bufet (9,5) v ceně, i vegan/bezlepková; 3 bazény; 2 restaurace; check-in od 14, check-out do 11.",
+    "fac": "3 bazény, 2 restaurace, bar, parkování, WiFi, pokojová služba",
+    "rooms": "Double/Twin s balkonem 1 313 Kč, Double 1 069–1 337 Kč, snídaně v ceně",
+    "canc": "platba na místě; storno zdarma neuvedeno",
+    "addr": "silnice Përmet–Këlcyrë, 2,5 km od Përmetu (na nedělní cestě)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,5/10 (317 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,7 · Komfort 9,6 · Cena/výkon 9,6 · Vybavení 9,3 · Poloha 9,2",
+   "booking": "Booking k 16. 9. 2026, noc Ne, 2 osoby: volné. Pokoje: Double/Twin s balkonem 1 313 Kč, Double 1 069–1 337 Kč, snídaně v ceně. Storno: platba na místě; storno zdarma neuvedeno.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-shkodrani",
+   "name": "Bujtina Shkodrani, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-shkodrani.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Bujtina u kostela sv. Mikuláše se snídaní v ceně a stornem zdarma do 20. 9. – pondělní volba se stornem, pokud Liana (nevratná) nevyhovuje.",
+   "day": "Po",
+   "what": "Rruga Shen Kolli, Voskopojë (u kostela sv. Mikuláše). Vybavení podle Bookingu: parkování zdarma, WiFi, rodinné pokoje, skvělá snídaně.",
+   "tips": "Kontinentální snídaně (hodnocení 9) v ceně; check-in od 11:00, check-out do 11:00; pokoje double/triple/quad.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6319,
+    20.5879
+   ],
+   "bk": {
+    "slug": "bujtina-shkodrani",
+    "url": "https://www.booking.com/hotel/al/bujtina-shkodrani.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 164,
+    "subs": "Personál 9,8 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6 · Vybavení 9,5",
+    "praise": [
+     "Good location, friendly staff, warm and clean rooms.",
+     "The room, the garden, the decoration of the building, and Iraklis the owner and his family were wonderful."
+    ],
+    "faq": "Kontinentální snídaně (hodnocení 9) v ceně; check-in od 11:00, check-out do 11:00; pokoje double/triple/quad.",
+    "fac": "parkování zdarma, WiFi, rodinné pokoje, skvělá snídaně",
+    "rooms": "Double 1 021 Kč · Triple 1 142 Kč · Quad 1 264 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Rruga Shen Kolli, Voskopojë (u kostela sv. Mikuláše)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (164 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6 · Vybavení 9,5",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Double 1 021 Kč · Triple 1 142 Kč · Quad 1 264 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-vila118",
+   "name": "Vila118, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila118.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlevnější slušný pokoj ve Voskopojë (681 Kč, storno zdarma) 300 m od centra, se zahradou a skvělou snídaní.",
+   "day": "Po",
+   "what": "Voskopojë, 300 m od centra (severní okraj). Vybavení podle Bookingu: parkování zdarma, WiFi, rodinné pokoje, skvělá snídaně.",
+   "tips": "Check-in od 14:00, check-out do 11:00; 300 m od centra; skvělá snídaně.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6347,
+    20.5929
+   ],
+   "bk": {
+    "slug": "vila118",
+    "url": "https://www.booking.com/hotel/al/vila118.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 90,
+    "subs": "Personál 9,9 · Cena/výkon 9,8 · Vybavení 9,7 · Komfort 9,7 · Čistota 9,6 · Poloha 9,6",
+    "praise": [
+     "Great location, staff very friendly, very clean and beautiful garden.",
+     "(albánsky) Pan Maksi a jeho žena nás přijali jako doma."
+    ],
+    "faq": "Check-in od 14:00, check-out do 11:00; 300 m od centra; skvělá snídaně.",
+    "fac": "parkování zdarma, WiFi, rodinné pokoje, skvělá snídaně",
+    "rooms": "Twin 681 Kč · Double s balkonem 802 Kč · Triple s balkonem 802 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Voskopojë, 300 m od centra (severní okraj)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (90 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Cena/výkon 9,8 · Vybavení 9,7 · Komfort 9,7 · Čistota 9,6 · Poloha 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Twin 681 Kč · Double s balkonem 802 Kč · Triple s balkonem 802 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-vila-mata",
+   "name": "Vila Mata, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-mata.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Sousedka Vily118 se stejnou cenou a stornem zdarma; teplé čisté pokoje, bez snídaně v nabídce.",
+   "day": "Po",
+   "what": "Voskopojë, hned vedle Vila118 (severní okraj). Vybavení podle Bookingu: parkování zdarma.",
+   "tips": "FAQ sekce chybí; jen pokoje a parkování.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6346,
+    20.5929
+   ],
+   "bk": {
+    "slug": "vila-mata",
+    "url": "https://www.booking.com/hotel/al/vila-mata.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 70,
+    "subs": "Personál 9,5 · Vybavení 9,5 · Čistota 9,5 · Komfort 9,4 · Cena/výkon 9,4 · Poloha 9,4",
+    "praise": [
+     "The room was clean, warm, and above all, the hostess was very welcoming.",
+     "Very clean and warm room. The host was very nice. I highly recommend it."
+    ],
+    "faq": "FAQ sekce chybí; jen pokoje a parkování.",
+    "fac": "parkování zdarma",
+    "rooms": "Double 802 Kč · Triple 788 Kč · Twin 802 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Voskopojë, hned vedle Vila118 (severní okraj)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (70 recenzí, ověřeno 16. 9. 2026) · Personál 9,5 · Vybavení 9,5 · Čistota 9,5 · Komfort 9,4 · Cena/výkon 9,4 · Poloha 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Double 802 Kč · Triple 788 Kč · Twin 802 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-vila-helen",
+   "name": "Vila Helen, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-helen.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejhezčí interiéry ve vesnici (architektura, detaily), suite s vířivkou a výjimečná snídaně – dražší pondělní varianta.",
+   "day": "Po",
+   "what": "SH63 Nr 5/2, Voskopojë – 200 m od centra. Vybavení podle Bookingu: parkování, WiFi, bar, snídaně, vířivka, pokojová služba.",
+   "tips": "Check-in od 14:00, check-out do 11:00; vířivka (za poplatek); bar, snídaně, pokojová služba.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.633,
+    20.592
+   ],
+   "bk": {
+    "slug": "vila-helen",
+    "url": "https://www.booking.com/hotel/al/vila-helen.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 72,
+    "subs": "Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Personál 9,7 · Poloha 9,6 · Cena/výkon 9,4",
+    "praise": [
+     "The architecture, the details in everything, the cleanliness and the breakfast, super delicious and plentiful.",
+     "Cozy, clean and comfortable; the ladies were lovely and their breakfast is exceptional."
+    ],
+    "faq": "Check-in od 14:00, check-out do 11:00; vířivka (za poplatek); bar, snídaně, pokojová služba.",
+    "fac": "parkování, WiFi, bar, snídaně, vířivka, pokojová služba",
+    "rooms": "Deluxe Double 1 385 Kč (nevratná) / 1 750 Kč · Suite s vířivkou 1 945 Kč · Family 1 701 Kč",
+    "canc": "storno zdarma do 20. 9. u dražší sazby, platba na místě; levnější nevratná",
+    "addr": "SH63 Nr 5/2, Voskopojë – 200 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (72 recenzí, ověřeno 16. 9. 2026) · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Personál 9,7 · Poloha 9,6 · Cena/výkon 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Deluxe Double 1 385 Kč (nevratná) / 1 750 Kč · Suite s vířivkou 1 945 Kč · Family 1 701 Kč. Storno: storno zdarma do 20. 9. u dražší sazby, platba na místě; levnější nevratná.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-vila-janko",
+   "name": "Vila Janko, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-janko-voskopoje1.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Pokoje s balkonem 50 m od centra, tradiční interiér, rychlá WiFi, storno zdarma do 20. 9.",
+   "day": "Po",
+   "what": "Rruga Rilindja Voskopojare, Voskopojë – 50 m od centra. Vybavení podle Bookingu: parkování, rychlá WiFi, bar, snídaně.",
+   "tips": "Check-in od 15:00, check-out do 11:00; 50 m od centra; rychlá WiFi 81 Mbps; bar, snídaně.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6332,
+    20.5898
+   ],
+   "bk": {
+    "slug": "vila-janko-voskopoje1",
+    "url": "https://www.booking.com/hotel/al/vila-janko-voskopoje1.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 31,
+    "subs": "Poloha 9,9 · Personál 9,8 · Čistota 9,8 · Komfort 9,7 · Vybavení 9,6 · Cena/výkon 9,6",
+    "praise": [
+     "A cozy, warm, beautifully arranged room where traditional elements blend with modern touches.",
+     "Clean, well-equipped, exactly as described; the host was very welcoming and responsive."
+    ],
+    "faq": "Check-in od 15:00, check-out do 11:00; 50 m od centra; rychlá WiFi 81 Mbps; bar, snídaně.",
+    "fac": "parkování, rychlá WiFi, bar, snídaně",
+    "rooms": "Double s balkonem 972–1 069 Kč · Triple s výhledem 1 094 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Rruga Rilindja Voskopojare, Voskopojë – 50 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (31 recenzí, ověřeno 16. 9. 2026) · Poloha 9,9 · Personál 9,8 · Čistota 9,8 · Komfort 9,7 · Vybavení 9,6 · Cena/výkon 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Double s balkonem 972–1 069 Kč · Triple s výhledem 1 094 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-mecollari",
+   "name": "Bujtina Mecollari, Voskopojë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/bujtina-mecollari.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlevnější dvoulůžák ve Voskopojë (729 Kč), hostitelé zatopí v kamnech před příjezdem; storno zdarma do 20. 9.",
+   "day": "Po",
+   "what": "Rruga Shen Maria, Voskopojë (severní okraj, u kostela sv. Marie). Vybavení podle Bookingu: parkování, WiFi, rodinné pokoje, snídaně.",
+   "tips": "Check-in od 14:00, check-out do 13:00; až 7 hostů, 2 ložnice, balkon; snídaně.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6355,
+    20.5896
+   ],
+   "bk": {
+    "slug": "bujtina-mecollari",
+    "url": "https://www.booking.com/hotel/al/bujtina-mecollari.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 18,
+    "subs": "Personál 10 · Čistota 10 · Komfort 10 · Cena/výkon 10 · Vybavení 9,6 · Poloha 9,6",
+    "praise": [
+     "Cleanliness and the people who welcomed us were top-notch; there for us for everything we needed.",
+     "(albánsky) Skvělé přijetí, v pokoji už hořelo v kamnech, když jsme přijeli."
+    ],
+    "faq": "Check-in od 14:00, check-out do 13:00; až 7 hostů, 2 ložnice, balkon; snídaně.",
+    "fac": "parkování, WiFi, rodinné pokoje, snídaně",
+    "rooms": "Standard Double 729–890 Kč · Apartmán 2 ložnice 1 110–1 671 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Rruga Shen Maria, Voskopojë (severní okraj, u kostela sv. Marie)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,8/10 (18 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 10 · Komfort 10 · Cena/výkon 10 · Vybavení 9,6 · Poloha 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Standard Double 729–890 Kč · Apartmán 2 ložnice 1 110–1 671 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-ura-e-kovacit",
+   "name": "Ura e Kovaçit Resort & Agrotourism",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/ura-e-kovacit-agrotourism.html?checkin=2026-09-21&checkout=2026-09-22&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Agroturistický resort u mostu 2 km pod Voskopojë na silnici z Korçë: restaurace, velká zahrada, masáže; nižší skóre (8,9), ale pohodlí.",
+   "day": "Po",
+   "what": "silnice Korçë–Voskopojë, 2 km pod Voskopojë (u mostu). Vybavení podle Bookingu: restaurace, parkování, pokojová služba, WiFi, bar, snídaně.",
+   "tips": "Check-in od 13:00, check-out do 11:00; restaurace, bar, pokojová služba, masáže; velká zahrada.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.6274,
+    20.6138
+   ],
+   "bk": {
+    "slug": "ura-e-kovacit-agrotourism",
+    "url": "https://www.booking.com/hotel/al/ura-e-kovacit-agrotourism.html",
+    "night": "Po",
+    "status": "volné",
+    "score": "8.9",
+    "rev": 43,
+    "subs": "Poloha 9,6 · Komfort 9,5 · Čistota 9,4 · Personál 9,1 · Cena/výkon 9,1 · Vybavení 8,9",
+    "praise": [
+     "Looks like a location out of a fairy tale; beautiful, clean and spacious, peaceful at night.",
+     "Very clean, I like the food and service and most of all the outdoor; big garden."
+    ],
+    "faq": "Check-in od 13:00, check-out do 11:00; restaurace, bar, pokojová služba, masáže; velká zahrada.",
+    "fac": "restaurace, parkování, pokojová služba, WiFi, bar, snídaně",
+    "rooms": "Twin 1 574 Kč · Double 1 417–1 677 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "silnice Korçë–Voskopojë, 2 km pod Voskopojë (u mostu)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 8,9/10 (43 recenzí, ověřeno 16. 9. 2026) · Poloha 9,6 · Komfort 9,5 · Čistota 9,4 · Personál 9,1 · Cena/výkon 9,1 · Vybavení 8,9",
+   "booking": "Booking k 16. 9. 2026, noc Po, 2 osoby: volné. Pokoje: Twin 1 574 Kč · Double 1 417–1 677 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-dafinat",
+   "name": "Dafinat, Bogovë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/dafinat-bogove.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Hned vedle White Villy, restaurace v domě, storno zdarma až do 18:00 v den příjezdu – úterní záloha, když White Villa nebude.",
+   "day": "Út",
+   "what": "Rruga Selan 11, Bogovë – 200 m od centra, hned vedle White Villy. Vybavení podle Bookingu: restaurace, parkování, WiFi, bar, snídaně, pokojová služba.",
+   "tips": "Check-in od 14:00, check-out do 10:00; restaurace v domě; túry, kanoe, kurz vaření, cyklovýlety.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.5704,
+    20.1474
+   ],
+   "bk": {
+    "slug": "dafinat-bogove",
+    "url": "https://www.booking.com/hotel/al/dafinat-bogove.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.1",
+    "rev": 29,
+    "subs": "Personál 9,9 · Poloha 9,3 · Cena/výkon 9,1 · Čistota 8,9 · Komfort 8,9 · Vybavení 8,6",
+    "praise": [
+     "The hosting family was very friendly and cooperative. The room was very clean. Very good value.",
+     "(německy) Ubytování jako zámek, kočky v zahradě, velké pokoje s balkonem, vše čisté."
+    ],
+    "faq": "Check-in od 14:00, check-out do 10:00; restaurace v domě; túry, kanoe, kurz vaření, cyklovýlety.",
+    "fac": "restaurace, parkování, WiFi, bar, snídaně, pokojová služba",
+    "rooms": "Double 1 317 Kč · Triple 1 448 Kč",
+    "canc": "storno zdarma do 22. 9. 18:00, bez platby předem",
+    "addr": "Rruga Selan 11, Bogovë – 200 m od centra, hned vedle White Villy",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,1/10 (29 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,3 · Cena/výkon 9,1 · Čistota 8,9 · Komfort 8,9 · Vybavení 8,6",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double 1 317 Kč · Triple 1 448 Kč. Storno: storno zdarma do 22. 9. 18:00, bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-marsi",
+   "name": "Guest House Marsi, Çorovodë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guesthouse-marsi.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlépe hodnocený dům v okolí Çorovodë (9,9), 3 km od města mezi ovocnými stromy, storno zdarma kdykoli; klidná úterní varianta.",
+   "day": "Út",
+   "what": "Çorovodë, 2,9 km západně od centra (směr Bogovë), mezi ovocnými stromy. Vybavení podle Bookingu: parkování, WiFi, rodinné pokoje.",
+   "tips": "Check-in od 15:00, check-out do 11:00; 2,9 km od centra; rodinné pokoje.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.5051,
+    20.1922
+   ],
+   "bk": {
+    "slug": "guesthouse-marsi",
+    "url": "https://www.booking.com/hotel/al/guesthouse-marsi.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.9",
+    "rev": 31,
+    "subs": "Personál 10 · Vybavení 10 · Čistota 10 · Komfort 10 · Cena/výkon 9,9 · Poloha 9,7",
+    "praise": [
+     "Extremely clean and peaceful, surrounded by flowers and fruit trees; host very friendly.",
+     "Very quiet, beautiful views; the hosts made us a delicious breakfast."
+    ],
+    "faq": "Check-in od 15:00, check-out do 11:00; 2,9 km od centra; rodinné pokoje.",
+    "fac": "parkování, WiFi, rodinné pokoje",
+    "rooms": "Triple 869 Kč · Family 869–1 185 Kč",
+    "canc": "storno zdarma kdykoli, platba na místě",
+    "addr": "Çorovodë, 2,9 km západně od centra (směr Bogovë), mezi ovocnými stromy",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,9/10 (31 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Vybavení 10 · Čistota 10 · Komfort 10 · Cena/výkon 9,9 · Poloha 9,7",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Triple 869 Kč · Family 869–1 185 Kč. Storno: storno zdarma kdykoli, platba na místě.",
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-zeni-zoto",
+   "name": "Vila Zeni Zoto, Çorovodë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-zeni-zoto.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Jeden soukromý pokoj s panoramatickou terasou nad Çorovodë za 764 Kč, storno zdarma do 21. 9.",
+   "day": "Út",
+   "what": "Rruga Kalocit, Çorovodë – nad městem s panoramatickou terasou. Vybavení podle Bookingu: parkování, WiFi.",
+   "tips": "Jeden soukromý pokoj (Double); check-in od 15:00, check-out do 15:00; terasa a balkon s výhledem.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.5006,
+    20.2326
+   ],
+   "bk": {
+    "slug": "vila-zeni-zoto",
+    "url": "https://www.booking.com/hotel/al/vila-zeni-zoto.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.6",
+    "rev": 49,
+    "subs": "Komfort 9,9 · Cena/výkon 9,9 · Personál 9,8 · Vybavení 9,7 · Čistota 9,7 · Poloha 9,6",
+    "praise": [
+     "Amazing view, great location, quiet and peaceful; first class hospitality.",
+     "Newly renovated room, fantastic view from the terrace; owners kind and welcoming; breakfast."
+    ],
+    "faq": "Jeden soukromý pokoj (Double); check-in od 15:00, check-out do 15:00; terasa a balkon s výhledem.",
+    "fac": "parkování, WiFi",
+    "rooms": "Double 764 Kč",
+    "canc": "storno zdarma do 21. 9., bez platby předem",
+    "addr": "Rruga Kalocit, Çorovodë – nad městem s panoramatickou terasou",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (49 recenzí, ověřeno 16. 9. 2026) · Komfort 9,9 · Cena/výkon 9,9 · Personál 9,8 · Vybavení 9,7 · Čistota 9,7 · Poloha 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double 764 Kč. Storno: storno zdarma do 21. 9., bez platby předem.",
+   "meals": "bez stravy, zeptat",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-luli-mucaj",
+   "name": "Guest House Luli Mucaj, Çorovodë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guest-house-luli-muca.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Celá vila v centru Çorovodë za 790–922 Kč s bohatou snídaní, 9,9 z 30 recenzí.",
+   "day": "Út",
+   "what": "Rruga e Dëshmorëve, Çorovodë – centrum. Vybavení podle Bookingu: parkování, WiFi, snídaně, rodinné pokoje.",
+   "tips": "Vila s 1 ložnicí až pro 4; balkon, terasa; check-in od 14:00, check-out do 11:00; snídaně.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.5033,
+    20.2276
+   ],
+   "bk": {
+    "slug": "guest-house-luli-muca",
+    "url": "https://www.booking.com/hotel/al/guest-house-luli-muca.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.9",
+    "rev": 30,
+    "subs": "Personál 10 · Čistota 10 · Cena/výkon 10 · Komfort 9,9 · Vybavení 9,8 · Poloha 9,7",
+    "praise": [
+     "Warm welcoming hosts. Clean and comfortable and a great breakfast.",
+     "(německy) Bohatá snídaně, mezi tím ovoce a káva; člověk je dobře opečovaný."
+    ],
+    "faq": "Vila s 1 ložnicí až pro 4; balkon, terasa; check-in od 14:00, check-out do 11:00; snídaně.",
+    "fac": "parkování, WiFi, snídaně, rodinné pokoje",
+    "rooms": "Vila 1 ložnice 790–922 Kč",
+    "canc": "storno zdarma do 21. 9., bez platby předem",
+    "addr": "Rruga e Dëshmorëve, Çorovodë – centrum",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,9/10 (30 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 10 · Cena/výkon 10 · Komfort 9,9 · Vybavení 9,8 · Poloha 9,7",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Vila 1 ložnice 790–922 Kč. Storno: storno zdarma do 21. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-stylish-room",
+   "name": "Stylish Room by Canyons & City, Çorovodë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/stylish-room-by-canyons-amp-city.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Pokoj s kuchyňkou v Çorovodë, snídaně hodnocená 10/10, od 694 Kč; flexibilní check-in.",
+   "day": "Út",
+   "what": "Rruga Alush Grepcka, Çorovodë – jižní část města. Vybavení podle Bookingu: parkování, WiFi, snídaně, rodinné pokoje.",
+   "tips": "Snídaně hodnocena 10 (kontinentální, italská, vegetariánská, s sebou); check-in/out flexibilní; jeden Double pokoj.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.4977,
+    20.2296
+   ],
+   "bk": {
+    "slug": "stylish-room-by-canyons-amp-city",
+    "url": "https://www.booking.com/hotel/al/stylish-room-by-canyons-amp-city.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 46,
+    "subs": "Komfort 10 · Personál 9,9 · Čistota 9,9 · Cena/výkon 9,9 · Vybavení 9,8 · Poloha 9,6",
+    "praise": [
+     "Very warm welcome; room beautiful, comfortable and exceptionally clean.",
+     "Host always present, kind and welcoming; super comfortable bed; fully equipped kitchen."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální, italská, vegetariánská, s sebou); check-in/out flexibilní; jeden Double pokoj.",
+    "fac": "parkování, WiFi, snídaně, rodinné pokoje",
+    "rooms": "Double 694 Kč (nevratná) / 772 Kč, se snídaní 877–974 Kč",
+    "canc": "storno zdarma do 21. 9. u dražší sazby, bez platby předem",
+    "addr": "Rruga Alush Grepcka, Çorovodë – jižní část města",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,8/10 (46 recenzí, ověřeno 16. 9. 2026) · Komfort 10 · Personál 9,9 · Čistota 9,9 · Cena/výkon 9,9 · Vybavení 9,8 · Poloha 9,6",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double 694 Kč (nevratná) / 772 Kč, se snídaní 877–974 Kč. Storno: storno zdarma do 21. 9. u dražší sazby, bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-kanione",
+   "name": "Hotel Kanione, Çorovodë",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/kanione.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Hotel nad kaňonem na jižním okraji Çorovodë s restaurací a nejvíc recenzemi v okolí (301); jen nevratná sazba.",
+   "day": "Út",
+   "what": "Lagjja Zhaban, Çorovodë – jižní okraj, nad kaňonem. Vybavení podle Bookingu: restaurace, parkování, WiFi, bar, snídaně.",
+   "tips": "Snídaně (8) halal / à la carte; check-in od 13:00, check-out do 10:30; restaurace, bar, pokojová služba.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.493,
+    20.2321
+   ],
+   "bk": {
+    "slug": "kanione",
+    "url": "https://www.booking.com/hotel/al/kanione.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.2",
+    "rev": 301,
+    "subs": "Personál 9,9 · Cena/výkon 9,6 · Poloha 9,5 · Komfort 9,4 · Čistota 9,3 · Vybavení 8,9",
+    "praise": [
+     "Fascinating location, friendly owners, very good breakfast; close to Çorovodë and canyons (10–15 min drive).",
+     "Great hotel, very friendly; great location for Osumi canyon."
+    ],
+    "faq": "Snídaně (8) halal / à la carte; check-in od 13:00, check-out do 10:30; restaurace, bar, pokojová služba.",
+    "fac": "restaurace, parkování, WiFi, bar, snídaně",
+    "rooms": "Double/Twin 1 537 Kč · Deluxe s balkonem 2 753 Kč",
+    "canc": "jen nevratná sazba",
+    "addr": "Lagjja Zhaban, Çorovodë – jižní okraj, nad kaňonem",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,2/10 (301 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Cena/výkon 9,6 · Poloha 9,5 · Komfort 9,4 · Čistota 9,3 · Vybavení 8,9",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double/Twin 1 537 Kč · Deluxe s balkonem 2 753 Kč. Storno: jen nevratná sazba.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-farm-river",
+   "name": "Farm River and Kanoe, Poliçan",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/farm-river-and-kanoe.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Farma u řeky Osum kousek od Poliçanu, domácí snídaně, od 640 Kč; check-out už v 9:00.",
+   "day": "Út",
+   "what": "Rruga Gezhojat, Poliçan – u řeky Osum, 2 km od města. Vybavení podle Bookingu: WiFi, parkování, bar, snídaně, rodinné pokoje.",
+   "tips": "Snídaně (7,5) vegetariánská/veganská/bufet; check-in od 16:00, check-out do 9:00 (!); bar.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.588,
+    20.1032
+   ],
+   "bk": {
+    "slug": "farm-river-and-kanoe",
+    "url": "https://www.booking.com/hotel/al/farm-river-and-kanoe.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.1",
+    "rev": 49,
+    "subs": "Personál 9,8 · Cena/výkon 9,6 · Čistota 9,1 · Komfort 8,6 · Vybavení 8,5 · Poloha 8,2",
+    "praise": [
+     "Two en-suite bedrooms with a living room; the owner and his wife were so friendly.",
+     "Very friendly couple own this place; breakfast made from homemade ingredients."
+    ],
+    "faq": "Snídaně (7,5) vegetariánská/veganská/bufet; check-in od 16:00, check-out do 9:00 (!); bar.",
+    "fac": "WiFi, parkování, bar, snídaně, rodinné pokoje",
+    "rooms": "Double se zahradou 640 Kč (nevratná) / 711 Kč, se snídaní 790 Kč",
+    "canc": "storno zdarma do 21. 9. u dražší sazby, bez platby předem",
+    "addr": "Rruga Gezhojat, Poliçan – u řeky Osum, 2 km od města",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,1/10 (49 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Cena/výkon 9,6 · Čistota 9,1 · Komfort 8,6 · Vybavení 8,5 · Poloha 8,2",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double se zahradou 640 Kč (nevratná) / 711 Kč, se snídaní 790 Kč. Storno: storno zdarma do 21. 9. u dražší sazby, bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "zeptat",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-village-polican",
+   "name": "Village House in Poliçan",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/village-house-in-polican.html?checkin=2026-09-22&checkout=2026-09-23&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Apartmán nad domem hostitelů u Poliçanu s terasou, byrek, jogurt a raki na uvítanou; storno zdarma do 19. 9.",
+   "day": "Út",
+   "what": "Pronovik, Poliçan – 2,9 km od centra, nad rodinným domem majitelů. Vybavení podle Bookingu: WiFi, parkování, snídaně, rodinné pokoje.",
+   "tips": "Check-in od 12:00, check-out do 11:00; snídaně; 2,9 km od centra Poliçanu.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.5863,
+    20.1063
+   ],
+   "bk": {
+    "slug": "village-house-in-polican",
+    "url": "https://www.booking.com/hotel/al/village-house-in-polican.html",
+    "night": "Út",
+    "status": "volné",
+    "score": "9.5",
+    "rev": 15,
+    "subs": "Personál 9,9 · Komfort 9,6 · Poloha 9,6 · Vybavení 9,5 · Čistota 9,5 · Cena/výkon 9,4",
+    "praise": [
+     "Exceptional hospitality: traditional byrek, homemade yogurt and raki.",
+     "Apartment directly above the owner's family home, who are as friendly as people can be; view from the large terrace."
+    ],
+    "faq": "Check-in od 12:00, check-out do 11:00; snídaně; 2,9 km od centra Poliçanu.",
+    "fac": "WiFi, parkování, snídaně, rodinné pokoje",
+    "rooms": "Double 1 138–1 390 Kč · Triple 1 280–1 564 Kč",
+    "canc": "storno zdarma do 19. 9., bez platby předem",
+    "addr": "Pronovik, Poliçan – 2,9 km od centra, nad rodinným domem majitelů",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,5/10 (15 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Komfort 9,6 · Poloha 9,6 · Vybavení 9,5 · Čistota 9,5 · Cena/výkon 9,4",
+   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double 1 138–1 390 Kč · Triple 1 280–1 564 Kč. Storno: storno zdarma do 19. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-jprifti",
+   "name": "Guest House J.Prifti, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guest-house-jprifti.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Autentický dům v Mangalemu s dřevěnými detaily, 9,8 z 227 recenzí, snídaně 10/10, storno zdarma – středeční záloha za Mangalemi.",
+   "day": "St",
+   "what": "Mangalem, Berat – historická čtvrť. Vybavení podle Bookingu: WiFi, bar, výjimečná snídaně, rodinné pokoje.",
+   "tips": "Snídaně hodnocena 10 (kontinentální); check-in od 15:00, check-out do 11:00; bar.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7046,
+    19.9491
+   ],
+   "bk": {
+    "slug": "guest-house-jprifti",
+    "url": "https://www.booking.com/hotel/al/guest-house-jprifti.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 227,
+    "subs": "Personál 10 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,9 · Poloha 9,9 · Vybavení 9,7",
+    "praise": [
+     "Beautiful accommodation, comfortable, clean, and lovingly decorated.",
+     "Room with original, authentic character and charm; the wooden detailing is lovely."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální); check-in od 15:00, check-out do 11:00; bar.",
+    "fac": "WiFi, bar, výjimečná snídaně, rodinné pokoje",
+    "rooms": "Double s vlastní koupelnou 1 507 Kč",
+    "canc": "storno zdarma do 20. 9., bez platby předem",
+    "addr": "Mangalem, Berat – historická čtvrť",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,8/10 (227 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,9 · Poloha 9,9 · Vybavení 9,7",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Double s vlastní koupelnou 1 507 Kč. Storno: storno zdarma do 20. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-mimani",
+   "name": "Mimani Stone House, Roshnik",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/mimani-stone-house.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Kamenný dům s bazénem v centru Roshniku vedle Alpety; když je Alpeta plná, tohle je způsob, jak zůstat ve vinařské vesnici.",
+   "day": "St",
+   "what": "Roshnik Qendër (centrum vesnice), 15 km východně od Beratu. Vybavení podle Bookingu: bazén, restaurace, WiFi, parkování, snídaně.",
+   "tips": "Venkovní bazén; vegetariánská snídaně (10); restaurace; check-in od 14:00, check-out do 11:00; WiFi 35 Mbps.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7321,
+    20.0414
+   ],
+   "bk": {
+    "slug": "mimani-stone-house",
+    "url": "https://www.booking.com/hotel/al/mimani-stone-house.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.8",
+    "rev": 101,
+    "subs": "Personál 9,9 · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,8 · Poloha 9,7",
+    "praise": [
+     "Thank you to Ariol and his lovely family! The pool is great; enjoyed the wine.",
+     "House and pool impeccably clean; lovely breakfast in the nearby restaurant; Roshnik is a charming village."
+    ],
+    "faq": "Venkovní bazén; vegetariánská snídaně (10); restaurace; check-in od 14:00, check-out do 11:00; WiFi 35 Mbps.",
+    "fac": "bazén, restaurace, WiFi, parkování, snídaně",
+    "rooms": "Double s výhledem na bazén 1 823 Kč · Family 2 917 Kč",
+    "canc": "bez platby předem",
+    "addr": "Roshnik Qendër (centrum vesnice), 15 km východně od Beratu",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,8/10 (101 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Cena/výkon 9,8 · Poloha 9,7",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Double s výhledem na bazén 1 823 Kč · Family 2 917 Kč. Storno: bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-vila-harmoni",
+   "name": "Vila Harmoni, Roshnik",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-harmoni-roshnik.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nový rodinný suite s balkonem v Roshniku, hodnocení 10/10 z 39 recenzí, storno zdarma do 22. 9.",
+   "day": "St",
+   "what": "Roshnik, vedle Mimani Stone House. Vybavení podle Bookingu: parkování, WiFi, snídaně, rodinné pokoje.",
+   "tips": "Snídaně hodnocena 10 (kontinentální, vegetariánská, bufet); check-in od 15:00, check-out do 11:00; jen Family suite.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7318,
+    20.0417
+   ],
+   "bk": {
+    "slug": "vila-harmoni-roshnik",
+    "url": "https://www.booking.com/hotel/al/vila-harmoni-roshnik.html",
+    "night": "St",
+    "status": "volné",
+    "score": "10",
+    "rev": 39,
+    "subs": "Personál 10 · Komfort 10 · Cena/výkon 10 · Poloha 10 · Vybavení 9,9 · Čistota 9,9",
+    "praise": [
+     "Absolutely beautiful; clean room, comfortable bed, amazing view from the balcony; Florida the host is great.",
+     "Beautiful new room in a nice small village close to Berat, great view and quietness."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální, vegetariánská, bufet); check-in od 15:00, check-out do 11:00; jen Family suite.",
+    "fac": "parkování, WiFi, snídaně, rodinné pokoje",
+    "rooms": "Family Suite s balkonem 1 750 Kč",
+    "canc": "storno zdarma do 22. 9., bez platby předem",
+    "addr": "Roshnik, vedle Mimani Stone House",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 10/10 (39 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Komfort 10 · Cena/výkon 10 · Poloha 10 · Vybavení 9,9 · Čistota 9,9",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Family Suite s balkonem 1 750 Kč. Storno: storno zdarma do 22. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-parents-house",
+   "name": "Guest Parents House (Roshnik)",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guesthouse-parents-house.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Nejlevnější rodinný pokoj v okolí Roshniku (788 Kč) s restaurací a výhledem; pozor na polohu – bod na Bookingu leží u silnice pod Roshnikem.",
+   "day": "St",
+   "what": "PSČ Roshnik, ale bod na mapě Bookingu leží 3,5 km JIŽNĚ od Roshniku (u silnice Berat–Roshnik) – před rezervací ověřit polohu s hostitelem. Vybavení podle Bookingu: restaurace, WiFi, parkování, bar, snídaně.",
+   "tips": "Snídaně hodnocena 10 (kontinentální); restaurace a bar v domě; check-in od 14:00, check-out do 11:00; jen rodinné/Quad pokoje.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7009,
+    20.051
+   ],
+   "bk": {
+    "slug": "guesthouse-parents-house",
+    "url": "https://www.booking.com/hotel/al/guesthouse-parents-house.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.9",
+    "rev": 119,
+    "subs": "Personál 10 · Cena/výkon 10 · Čistota 9,9 · Komfort 9,8 · Vybavení 9,6 · Poloha 9,5",
+    "praise": [
+     "Great location, great restaurant, beautiful view and amazing breakfast.",
+     "Hospitality of Mr Arian, the owner, is very kind; very clean and comfortable."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální); restaurace a bar v domě; check-in od 14:00, check-out do 11:00; jen rodinné/Quad pokoje.",
+    "fac": "restaurace, WiFi, parkování, bar, snídaně",
+    "rooms": "Quadruple 788 Kč, se snídaní 984 Kč",
+    "canc": "storno zdarma do 23. 9. 14:00, bez platby předem",
+    "addr": "PSČ Roshnik, ale bod na mapě Bookingu leží 3,5 km JIŽNĚ od Roshniku (u silnice Berat–Roshnik) – před rezervací ověřit polohu s hostitelem",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,9/10 (119 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Cena/výkon 10 · Čistota 9,9 · Komfort 9,8 · Vybavení 9,6 · Poloha 9,5",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Quadruple 788 Kč, se snídaní 984 Kč. Storno: storno zdarma do 23. 9. 14:00, bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-koxhaku",
+   "name": "Guest House Koxhaku, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/guest-house-koxhaku.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Penzion v Mangalemu u řeky s parkováním zdarma a rychlou komunikací hostitelů; bez platby předem.",
+   "day": "St",
+   "what": "Rruga Antipatrea / Llambi Guxhumani, Berat – Mangalem u řeky, 900 m od centra. Vybavení podle Bookingu: WiFi, parkování, snídaně, pokojová služba.",
+   "tips": "Check-in od 14:00, check-out do 10:00; snídaně; túry, kanoe; pokojová služba, letištní transfer.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7047,
+    19.9485
+   ],
+   "bk": {
+    "slug": "guest-house-koxhaku",
+    "url": "https://www.booking.com/hotel/al/guest-house-koxhaku.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.7",
+    "rev": 35,
+    "subs": "Personál 9,8 · Poloha 9,8 · Komfort 9,6 · Cena/výkon 9,6 · Čistota 9,5 · Vybavení 9,3",
+    "praise": [
+     "Staff incredibly friendly and helpful; quick to respond, nothing ever too much.",
+     "Fantastic location in the heart of the Old Town with a great view over the river."
+    ],
+    "faq": "Check-in od 14:00, check-out do 10:00; snídaně; túry, kanoe; pokojová služba, letištní transfer.",
+    "fac": "WiFi, parkování, snídaně, pokojová služba",
+    "rooms": "King 1 426 Kč · Double/Twin 1 446 Kč · Queen 1 466 Kč",
+    "canc": "bez platby předem",
+    "addr": "Rruga Antipatrea / Llambi Guxhumani, Berat – Mangalem u řeky, 900 m od centra",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,7/10 (35 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Poloha 9,8 · Komfort 9,6 · Cena/výkon 9,6 · Čistota 9,5 · Vybavení 9,3",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: King 1 426 Kč · Double/Twin 1 446 Kč · Queen 1 466 Kč. Storno: bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-timos",
+   "name": "Timo's Guest House, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/timo-39-s-guest-house.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Rodinný dům pod hradem se snídaní, kterou hosté označují za nejlepší v Albánii; na středu volné jen trojlůžkové pokoje.",
+   "day": "St",
+   "what": "Rruga Shën Mëhilli, Berat – Mangalem pod hradem. Vybavení podle Bookingu: restaurace, WiFi, parkování, výjimečná snídaně.",
+   "tips": "Snídaně 9,5 (kontinentální); restaurace; check-in od 14:30, check-out do 10:00; jen triple pokoje k dispozici.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7044,
+    19.9476
+   ],
+   "bk": {
+    "slug": "timo-39-s-guest-house",
+    "url": "https://www.booking.com/hotel/al/timo-39-s-guest-house.html",
+    "night": "St",
+    "status": "volné (jen triple)",
+    "score": "9.6",
+    "rev": 153,
+    "subs": "Personál 9,9 · Čistota 9,8 · Poloha 9,8 · Komfort 9,6 · Cena/výkon 9,6 · Vybavení 9,5",
+    "praise": [
+     "Fantastic location. Beautiful rooms. Wonderful hosts. Delicious breakfast, best we had in Albania.",
+     "Very cute family run guest house. All was perfect."
+    ],
+    "faq": "Snídaně 9,5 (kontinentální); restaurace; check-in od 14:30, check-out do 10:00; jen triple pokoje k dispozici.",
+    "fac": "restaurace, WiFi, parkování, výjimečná snídaně",
+    "rooms": "Triple s balkonem 2 066 Kč · Triple s výhledem 2 686 Kč",
+    "canc": "bez platby předem",
+    "addr": "Rruga Shën Mëhilli, Berat – Mangalem pod hradem",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,6/10 (153 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Čistota 9,8 · Poloha 9,8 · Komfort 9,6 · Cena/výkon 9,6 · Vybavení 9,5",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné (jen triple). Pokoje: Triple s balkonem 2 066 Kč · Triple s výhledem 2 686 Kč. Storno: bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě); restaurace v domě",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-citrus-nest",
+   "name": "Citrus Nest, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/citrusnest.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Tichý dům s parkováním v nové části Beratu, 15 minut pěšky do Mangalemu, snídaně jako hostina; storno zdarma kdykoli.",
+   "day": "St",
+   "what": "Rruga Xhemil Ohri, Berat – nová část, 1,2 km východně od Mangalemu. Vybavení podle Bookingu: WiFi rychlá, parkování, výjimečná snídaně, pokojová služba.",
+   "tips": "Snídaně hodnocena 10 (kontinentální, italská); check-in od 14:00, check-out do 10:00; WiFi 260 Mbps; parkování zdarma.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7022,
+    19.9627
+   ],
+   "bk": {
+    "slug": "citrusnest",
+    "url": "https://www.booking.com/hotel/al/citrusnest.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.5",
+    "rev": 294,
+    "subs": "Personál 9,8 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,7 · Poloha 8,6",
+    "praise": [
+     "Easy walking distance of all sites; owner personable; room clean with balcony.",
+     "Owners very welcoming, property beyond expectations, very silent; breakfast was a feast."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální, italská); check-in od 14:00, check-out do 10:00; WiFi 260 Mbps; parkování zdarma.",
+    "fac": "WiFi rychlá, parkování, výjimečná snídaně, pokojová služba",
+    "rooms": "Double/Twin s balkonem 1 219 Kč",
+    "canc": "storno zdarma kdykoli, platba na místě",
+    "addr": "Rruga Xhemil Ohri, Berat – nová část, 1,2 km východně od Mangalemu",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,5/10 (294 recenzí, ověřeno 16. 9. 2026) · Personál 9,8 · Čistota 9,8 · Komfort 9,8 · Cena/výkon 9,8 · Vybavení 9,7 · Poloha 8,6",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Double/Twin s balkonem 1 219 Kč. Storno: storno zdarma kdykoli, platba na místě.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-well-house",
+   "name": "The Well House – UNESCO, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/vila-4-bed-amp-breakfast.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Levný pokoj v Gorici (od 1 094 Kč) s výjimečnou snídaní; parkování 2 minuty pěšky za 500 lek.",
+   "day": "St",
+   "what": "Rruga Shpiragu, Berat – Gorica, 2 min od parkoviště (500 lek/den). Vybavení podle Bookingu: WiFi, rodinné pokoje, výjimečná snídaně.",
+   "tips": "Snídaně 9,5 (vegetariánská, veganská, halal, bezlepková, s sebou); check-in od 15:00, check-out do 10:00; bez vlastního parkování.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.7025,
+    19.945
+   ],
+   "bk": {
+    "slug": "vila-4-bed-amp-breakfast",
+    "url": "https://www.booking.com/hotel/al/vila-4-bed-amp-breakfast.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.3",
+    "rev": 370,
+    "subs": "Poloha 9,8 · Personál 9,6 · Čistota 9,6 · Cena/výkon 9,5 · Komfort 9,3 · Vybavení 9,0",
+    "praise": [
+     "Great location, parking 2 minutes away for 500 lek per day; an absolutely incredible breakfast, the best we've ever had.",
+     "Very nice room, perfect location, spotless clean, nice breakfast, nice view."
+    ],
+    "faq": "Snídaně 9,5 (vegetariánská, veganská, halal, bezlepková, s sebou); check-in od 15:00, check-out do 10:00; bez vlastního parkování.",
+    "fac": "WiFi, rodinné pokoje, výjimečná snídaně",
+    "rooms": "Budget Twin 1 094 Kč · Double 1 215–1 264 Kč",
+    "canc": "storno zdarma do 22. 9., bez platby předem",
+    "addr": "Rruga Shpiragu, Berat – Gorica, 2 min od parkoviště (500 lek/den)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,3/10 (370 recenzí, ověřeno 16. 9. 2026) · Poloha 9,8 · Personál 9,6 · Čistota 9,6 · Cena/výkon 9,5 · Komfort 9,3 · Vybavení 9,0",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Budget Twin 1 094 Kč · Double 1 215–1 264 Kč. Storno: storno zdarma do 22. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
+  },
+  {
+   "id": "ubyt-oda-skulptorit",
+   "name": "Oda e Skulptorit, Berat",
+   "kind": "ubytování",
+   "img": null,
+   "gallery": [],
+   "links": [
+    {
+     "label": "Booking.com s našimi daty",
+     "url": "https://www.booking.com/hotel/al/oda-e-skulptorit.html?checkin=2026-09-23&checkout=2026-09-24&group_adults=2&no_rooms=1&group_children=0"
+    }
+   ],
+   "why": "Čtyřpokojový restaurovaný dům v Gorici naproti Mangalemu, snídaně 10/10; auto se nechá u starého mostu.",
+   "day": "St",
+   "what": "Rruga Nikolla Buhuri, Berat – Gorica (přes řeku od Mangalemu). Vybavení podle Bookingu: WiFi, parkování (placené), výjimečná snídaně.",
+   "tips": "Snídaně hodnocena 10 (kontinentální, vegetariánská, à la carte); check-in od 11:00; jen 4 pokoje; parkování u mostu placené.",
+   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "ll": [
+    40.702,
+    19.9464
+   ],
+   "bk": {
+    "slug": "oda-e-skulptorit",
+    "url": "https://www.booking.com/hotel/al/oda-e-skulptorit.html",
+    "night": "St",
+    "status": "volné",
+    "score": "9.3",
+    "rev": 217,
+    "subs": "Poloha 9,7 · Personál 9,5 · Cena/výkon 9,5 · Čistota 9,4 · Komfort 9,3 · Vybavení 9,0",
+    "praise": [
+     "Wonderful location, hosts very helpful, a beautiful restored traditional guesthouse.",
+     "Little gem in Berat with only 4 rooms; parked near the old bridge (600 lek/24 h) and walked up the cobblestone street."
+    ],
+    "faq": "Snídaně hodnocena 10 (kontinentální, vegetariánská, à la carte); check-in od 11:00; jen 4 pokoje; parkování u mostu placené.",
+    "fac": "WiFi, parkování (placené), výjimečná snídaně",
+    "rooms": "Queen 1 050 Kč, se snídaní 1 313 Kč",
+    "canc": "storno zdarma do 22. 9., bez platby předem",
+    "addr": "Rruga Nikolla Buhuri, Berat – Gorica (přes řeku od Mangalemu)",
+    "checked": "16. 9. 2026"
+   },
+   "rating": "Booking 9,3/10 (217 recenzí, ověřeno 16. 9. 2026) · Poloha 9,7 · Personál 9,5 · Cena/výkon 9,5 · Čistota 9,4 · Komfort 9,3 · Vybavení 9,0",
+   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné. Pokoje: Queen 1 050 Kč, se snídaní 1 313 Kč. Storno: storno zdarma do 22. 9., bez platby předem.",
+   "meals": "snídaně (viz FAQ v kartě)",
+   "tent": "–",
+   "contact_html": "<span class=\"n\">jen Booking</span>"
   }
  ],
  "terms": {
