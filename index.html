@@ -1063,7 +1063,7 @@ document.querySelectorAll('.day .fly').forEach(a => a.addEventListener('click', 
     const facts = (p.facts || []).map(f => { const i = f.indexOf(':'); return i > 0 ? `<div><b>${esc(f.slice(0, i))}</b>${esc(f.slice(i + 1).trim())}</div>` : `<div>${esc(f)}</div>`; }).join('');
     const factsHtml = facts ? `<div class="facts">${facts}</div>` : '';
     const call = (cls, t, v) => v ? `<div class="pcall ${cls}"><b>${t}</b>${esc(v)}</div>` : '';
-    const extra = (p.kind === 'ubytování') ? sec('Dostupnost a storno', p.booking) + sec('Kontakt', p.contact) + sec('Hodnocení', p.rating) : '';
+    const extra = (p.kind === 'ubytování') ? sec('Dostupnost a storno', p.booking) + sec('Kontakt', p.contact) + sec('Hodnocení', p.rating) + `<p style="margin-top:10px"><a href="ubytovani.html#${esc(p.id)}">Tabulka noclehů: cena, Booking s daty, storno, kontakty →</a></p>` : '';
     const city = p.city_route ? `<div class="city"><h4>Průvodce městem</h4>${sec('Parkování', p.city_parking)}${sec('Okruh na náš čas', p.city_route)}${sec('Co vidět', p.city_see)}${sec('Kde jíst', p.city_eat)}${sec('Nákupy, bankomat, pumpa', p.city_shop)}${sec('Místní zvyky', p.city_local)}</div>` : '';
     const meta = [p.day ? 'den ' + p.day : '', p.detour || '', p.time ? 'na místě ' + p.time : ''].filter(Boolean).join(' · ');
     return `${img}<div class="in"><h3>${esc(p.name)}</h3><div class="kind">${esc(p.kind)}${meta ? ' · ' + esc(meta) : ''}</div>${factsHtml}${call('warn', 'Varování', p.warning)}${sec('Co to je', p.what)}${sec('Proč tam', p.why)}${sec('Co zažijeme', p.experience)}${sec('Jak se tam dostat', p.access)}${sec('Tipy', p.tips)}${extra}${city}${call('note', 'Poznámka', p.note)}${call('fun', 'Kuriozita', p.fun)}<div class="links">${links}</div>${galHtml}</div>`;
