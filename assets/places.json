@@ -5393,7 +5393,7 @@
    "img": null,
    "day": "Pá",
    "gallery": [],
-   "booking": "WhatsApp 16. 9. 2026: nabídka 4 500 lek/os. (≈ 45 €) za nocleh, večeři a snídani, noc Pá 18. 9., platba hotově. Potvrzení rezervace odesláno.",
+   "booking": "REZERVOVÁNO přes WhatsApp 16. 9. 2026: noc Pá 18. 9., 2 osoby, 4 500 lek/os. za nocleh, večeři a snídani, platba hotově na místě. Den předem potvrdit čas příjezdu.",
    "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem.",
    "ll": [
     40.2341,
@@ -5403,7 +5403,8 @@
    "note": "Web guesthouseoncanyon.al byl 16. 9. 2026 nedostupný.",
    "meals": "polopenze v ceně: 4 500 lek/os. za nocleh + večeři + snídani (WhatsApp 16. 9.)",
    "tent": "zeptat (zahrada na hraně kaňonu)",
-   "contact_html": "<a href=\"https://wa.me/355695381281\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 69 538 1281</a>"
+   "contact_html": "<a href=\"https://wa.me/355695381281\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 69 538 1281</a>",
+   "reserved": "WhatsApp 16. 9., 2 os., polopenze 4 500 lek/os."
   },
   {
    "id": "ubyt-saffron",

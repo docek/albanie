@@ -93,7 +93,9 @@ def row(p, night, ci, co, tip, rid):
     else:
         booking = '<span class="n">–</span>'
     canc = E(bk.get('canc') or '–') if bk else '–'
-    if bk and same_night:
+    if p.get('reserved'):
+        status = f'<span class="v">✔ rezervováno</span><br><span class="g">{E(p["reserved"])}</span>'
+    elif bk and same_night:
         st = bk['status']
         cls = 'bad' if st.startswith('plné') else 'v'
         status = f'<span class="{cls}">{E(st)}</span>'
