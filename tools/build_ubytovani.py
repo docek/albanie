@@ -112,6 +112,35 @@ def row(p, night, ci, co, tip, rid):
     return f'<tr id="{rid}">' + ''.join(f'<td>{c}</td>' for c in cells) + '</tr>'
 
 
+BACKUP = {
+    'ubyt-gh-on-canyon': 'Když se s rodinou Merjo ztratí kontakt nebo dojedete pozdě: <b>Progon House</b> v Progonatu (Booking, 682 Kč se snídaní, 20 min před Nivicë), pak Mari\'s tamtéž. Při velmi pozdním dojezdu zůstat na asfaltu: Bujtina Peshtan nebo Gle-Alb u Tepelenë.',
+    'ubyt-ahmetaj': 'Alsara (200 m od bazaru, storno do 18. 9.) nebo Manga (parkování). Když jste v Gjirokastru do 15 h a chcete farmu: Life on the Farm (tel. +355 69 875 0502), jen do setmění.',
+    'ubyt-joan': 'Nako (100 m od promenády, storno do 19. 9.) nebo Shtëpia me Lule. Bual (statek, večeře od Florindy) jen když je čas dojet do 18:30.',
+    'ubyt-vila-helen': 'Ve Voskopojë: Vila Janko (81 Mbps, storno do 20. 9.) nebo Shkodrani. Když Frashër nevyjde a jedete přes Osumi do Çorovodë: Guest House Marsi (storno kdykoli) nebo Luli Mucaj; Helen pak propadá (nevratná).',
+    'ubyt-white-villa': 'Dafinat hned vedle (storno do 18:00 v den příjezdu) nebo Xhaferri (restaurace, 4 km od Çorovodë). Když spojka Vithkuq–Osumi selže a jedete objížďkou přes Berat: spát rovnou v Beratu (J.Prifti) a kaňon Osumi vynechat.',
+    'ubyt-mangalemi': 'J.Prifti (Mangalem, storno do 20. 9.) nebo Koxhaku. Kdo chce večeři v Alpetě: Mimani Stone House v Roshniku (bez platby předem), ve čtvrtek pak odjezd v 8:00.',
+}
+
+
+def reservations(places):
+    ids = ['ubyt-gh-on-canyon', 'ubyt-ahmetaj', 'ubyt-joan', 'ubyt-vila-helen', 'ubyt-white-villa', 'ubyt-mangalemi']
+    rows = []
+    for pid in ids:
+        p = places[pid]; r = p['res']; lat, lon = p['ll']
+        maps = (f'<a href="https://mapy.cz/turisticka?source=coor&id={lon}%2C{lat}&x={lon}&y={lat}&z=16" target="_blank" rel="noopener">Mapy.cz</a> · '
+                f'<a href="https://www.google.com/maps/search/?api=1&query={lat},{lon}" target="_blank" rel="noopener">Google</a>')
+        tel = r['phone'].replace(' ', '')
+        cells = [f'<b>{E(r["night"])}</b>', f'<a class="popup-link" href="#p={pid}"><b>{E(p["name"])}</b></a><br><span class="g">{E(r["addr"])}</span><br>{maps}',
+                 f'{E(r["via"])}<br><span class="g">{"č. " + r["no"] if r["no"] != "–" else "bez čísla"}</span>', f'{E(r["checkin"])}<br><span class="g">odjezd {E(r["checkout"])}</span>',
+                 E(r['room']), f'{E(r["price"])}<br><span class="g">{E(r["pay"])}</span>',
+                 f'<span class="{"bad" if "NEVRATN" in r["cancel"] else "v"}">{E(r["cancel"])}</span>',
+                 f'<a href="tel:{tel}">{E(r["phone"])}</a>' + (f'<br><span class="g">{E(r["note"])}</span>' if r.get('note') else ''), BACKUP[pid]]
+        rows.append('<tr>' + ''.join(f'<td>{c}</td>' for c in cells) + '</tr>')
+    head = ('<div class="table-scroll"><table class="cmp" style="min-width:1400px"><thead><tr><th>Noc</th><th>Ubytování</th><th>Rezervace</th><th>Check-in</th>'
+            '<th>Pokoj</th><th>Cena a platba</th><th>Storno</th><th>Telefon</th><th>Záloha, kdyby to nevyšlo</th></tr></thead><tbody>\n')
+    return head + '\n'.join(rows) + '\n</tbody></table></div>\n'
+
+
 def build():
     data = json.loads((ROOT / 'assets/places.json').read_text(encoding='utf-8'))
     places = {p['id']: p for p in data['places']}
@@ -134,7 +163,8 @@ def build():
     path = ROOT / 'ubytovani.html'
     src = path.read_text(encoding='utf-8')
     new = re.sub(r'(<!-- TABLES:START -->).*?(<!-- TABLES:END -->)', lambda m: m.group(1) + '\n' + tables + m.group(2), src, flags=re.S)
-    if '<!-- TABLES:START -->' not in src:
+    new = re.sub(r'(<!-- RES:START -->).*?(<!-- RES:END -->)', lambda m: m.group(1) + '\n' + reservations(places) + m.group(2), new, flags=re.S)
+    if '<!-- TABLES:START -->' not in src or '<!-- RES:START -->' not in src:
         raise SystemExit('markers TABLES:START/END not found')
     path.write_text(new, encoding='utf-8')
     # GPX waypoints
@@ -146,7 +176,7 @@ def build():
         bk = p.get('bk') or {}
         desc = ' · '.join(x for x in [f"noc {p.get('day', '?')}", bk.get('status', ''), bk.get('addr', ''), bk.get('canc', '')] if x)
         link = f'<link href="{E(bk["url"])}"><text>Booking</text></link>' if bk else ''
-        approx = ' (jen střed obce)' if p.get('ll_approx') else ''
+        approx = (' (jen střed obce)' if p.get('ll_approx') else '') + (' ✔ REZERVOVÁNO' if p.get('reserved') else '')
         wpts.append(f'<wpt lat="{lat}" lon="{lon}"><name>{E(p["name"])}{approx}</name><desc>{E(desc)}</desc>{link}<sym>Lodging</sym></wpt>')
     gpx = ('<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="albanie build_ubytovani" xmlns="http://www.topografix.com/GPX/1/1">'
            f'<metadata><name>Albánie 4x4 – ubytování ({CHECKED})</name></metadata>\n' + '\n'.join(wpts) + '\n</gpx>\n')

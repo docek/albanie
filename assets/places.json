@@ -5382,7 +5382,7 @@
    "experience": "Podává se domácí večeře a snídaně v ceně. Recenze (Booking, dle dostupného výňatku): \"The view around this place is amazing. From the terrace you overlook the canyon. The dinner they served was wonderful and the included breakfast was superb.\" Hodnocení zatím staví na malém počtu recenzí, atmosféra popisována jako velmi pohostinná, rodinná.",
    "access": "Poslední úsek k Nivici je štěrková/horská silnice z Bench nad Tepelenë; v obci samotné krátký úsek nezpevněné cesty k domu. Parkování u domu. Cca 31 km / hodina jízdy od Tepelenë.",
    "tips": "Polopenze 4 500 lek/os. včetně večeře a snídaně (nabídka z WhatsAppu 16. 9. 2026). Rezervace jen přes WhatsApp; večeři ohlásit den předem s časem příjezdu. Hotovost, nejlépe lek.",
-   "contact": "WhatsApp +355 69 538 1281 (rodina Merjo); web nefunguje, Booking zápis neaktivní",
+   "contact": "tel. +355 69 538 1281 · Nivicë, dům rodiny Merjo (Google 6VPX+M7) · WhatsApp, web nefunguje",
    "rating": "Google Maps 4,7/5 (162 recenzí, 16. 9. 2026). Booking.com: zápis v září 2026 neaktivní, skóre nelze ověřit. Web guesthouseoncanyon.al neběží, kontakt WhatsApp.",
    "links": [
     {
@@ -5393,7 +5393,7 @@
    "img": null,
    "day": "Pá",
    "gallery": [],
-   "booking": "REZERVOVÁNO přes WhatsApp 16. 9. 2026: noc Pá 18. 9., 2 osoby, 4 500 lek/os. za nocleh, večeři a snídani, platba hotově na místě. Den předem potvrdit čas příjezdu.",
+   "booking": "REZERVOVÁNO (WhatsApp +355 69 538 1281), noc Pá 18. 9.: dvoulůžkový pokoj. Cena 4 500 lek/os. (≈ 45 €), tj. 9 000 lek za oba, nocleh + večeře + snídaně. Platba: hotově, nejlépe lek. Check-in po domluvě, ohlásit čas den předem, check-out ráno. Storno: bez podmínek, slušnost velí zrušit co nejdřív přes WhatsApp. Tel. +355 69 538 1281.",
    "warning": "Nabídka na bookingu už není aktivní (přesměrovává na výsledky pro tepelenë); rezervovat whatsappem.",
    "ll": [
     40.2341,
@@ -5404,7 +5404,20 @@
    "meals": "polopenze v ceně: 4 500 lek/os. za nocleh + večeři + snídani (WhatsApp 16. 9.)",
    "tent": "zeptat (zahrada na hraně kaňonu)",
    "contact_html": "<a href=\"https://wa.me/355695381281\" target=\"_blank\" rel=\"noopener\">WhatsApp +355 69 538 1281</a>",
-   "reserved": "WhatsApp 16. 9., 2 os., polopenze 4 500 lek/os."
+   "reserved": "WhatsApp +355 69 538 1281 · dvoulůžkový pokoj · 4 500 lek/os. (≈ 45 €), tj. 9 000 lek za oba, nocleh + večeře + snídaně · storno: bez podmínek, slušnost velí zrušit co nejdřív přes WhatsApp",
+   "res": {
+    "night": "Pá 18. 9.",
+    "via": "WhatsApp +355 69 538 1281",
+    "no": "–",
+    "checkin": "po domluvě, ohlásit čas den předem",
+    "checkout": "ráno",
+    "room": "dvoulůžkový pokoj",
+    "price": "4 500 lek/os. (≈ 45 €), tj. 9 000 lek za oba, nocleh + večeře + snídaně",
+    "pay": "hotově, nejlépe lek",
+    "cancel": "bez podmínek, slušnost velí zrušit co nejdřív přes WhatsApp",
+    "phone": "+355 69 538 1281",
+    "addr": "Nivicë, dům rodiny Merjo (Google 6VPX+M7)"
+   }
   },
   {
    "id": "ubyt-saffron",
@@ -6742,7 +6755,7 @@
    "experience": "166 recenzí s hodnocením \"Exceptional\". Hosté opakovaně popisují snídani jako jednu z nejlepších v Albánii – vše čerstvé, lokální nebo domácí. Večeře je také vysoce hodnocená, včetně možností pro speciální diety.",
    "access": "V obci Bogovë; přesný stav poslední přístupové cesty neověřen, dle recenzí dostupné běžným autem. Vlastní parkoviště.",
    "tips": "Cena od cca 48 USD/noc (2025, neověřeno přesně), snídaně v ceně. Rezervace přes Booking.com. Večeři doporučeno nahlásit předem.",
-   "contact": "neověřeno (u jednoho agregátoru uvedeno telefonní číslo s předvolbou +63, což je zjevně chybný údaj – nepoužívat)",
+   "contact": "tel. +355 69 574 9364 · Rruga Bogova, 5405 Bogovë",
    "rating": "Booking 9,4/10 (162 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Čistota 9,8 · Cena/výkon 9,6 · Vybavení 9,5 · Komfort 9,4 · Poloha 9,4",
    "links": [
     {
@@ -6757,7 +6770,7 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc Út 22. 9., Triple Room se snídaní, ≈ 30 € (Genius sleva), bez platby předem, storno zdarma do 22. 9. 18:00. Check-in 13–21:30. Večeři ohlásit den předem.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 5587404940), noc Út 22. 9.: Triple Room, snídaně v ceně (Genius −10 %). Cena 65,33 € (≈ 1 600 Kč) vč. DPH a taxy. Platba: jen hotově (karty neberou). Check-in 13:00–21:30, check-out 9:00–10:00. Storno: zdarma do 22. 9. 18:00, pak 50 % (30,15 €). Tel. +355 69 574 9364.",
    "ll": [
     40.5704,
     20.1467
@@ -6784,7 +6797,20 @@
    "meals": "snídaně v ceně; večeře vysoce hodnocená, ohlásit při rezervaci",
    "tent": "zeptat (zahrada)",
    "contact_html": "<span class=n>jen Booking</span>",
-   "reserved": "Booking 16. 9., Triple Room, ≈ 30 € se snídaní (Genius), storno zdarma do 22. 9. 18:00"
+   "reserved": "Booking.com č. 5587404940 · Triple Room, snídaně v ceně (Genius −10 %) · 65,33 € (≈ 1 600 Kč) vč. DPH a taxy · storno: zdarma do 22. 9. 18:00, pak 50 % (30,15 €)",
+   "res": {
+    "night": "Út 22. 9.",
+    "via": "Booking.com",
+    "no": "5587404940",
+    "checkin": "13:00–21:30",
+    "checkout": "9:00–10:00",
+    "room": "Triple Room, snídaně v ceně (Genius −10 %)",
+    "price": "65,33 € (≈ 1 600 Kč) vč. DPH a taxy",
+    "pay": "jen hotově (karty neberou)",
+    "cancel": "zdarma do 22. 9. 18:00, pak 50 % (30,15 €)",
+    "phone": "+355 69 574 9364",
+    "addr": "Rruga Bogova, 5405 Bogovë"
+   }
   },
   {
    "id": "ubyt-bujtina-tomorrit",
@@ -6927,7 +6953,7 @@
    "experience": "Hodnocení 9,7/10 (783 recenzí, \"Exceptional\"). Hosté chválí rodinné vedení, výhled na město při snídani a bezvadnou čistotu. Upozornění: hotel má schody nahoru/dolů k pokojům a terase, což může vadit hostům s omezenou pohyblivostí.",
    "access": "Rruga Mihal Komneno, u Porta e Pashait, cca 300 m od centra, u cesty k hradu. Auto lze nechat poblíž, poslední úsek pěšky po dlažbě.",
    "tips": "Cena pokoje neověřena přesně. Rezervace přes vlastní web (Request Booking) nebo Booking.com.",
-   "contact": "+355 68 232 3238, mangalemihotel.com",
+   "contact": "tel. +355 68 232 3238 · Rruga Mihal Komneno, 5001 Berat (Mangalem, 700 m od centra)",
    "rating": "Booking 9,7/10 (711 recenzí, ověřeno 16. 9. 2026) · Personál 9,9 · Poloha 9,9 · Čistota 9,8 · Cena/výkon 9,8 · Komfort 9,7 · Vybavení 9,5",
    "links": [
     {
@@ -6942,7 +6968,7 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc St, 2 osoby: volné (1 pokoj). Pokoje: Superior Double 1 896 Kč (poslední pokoj). Storno: storno zdarma do 22. 9., bez platby předem.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 5976195857), noc St 23. 9.: Superior Double Room, snídaně v ceně. Cena 78 € (≈ 1 910 Kč) vč. DPH. Platba: jen hotově (karty neberou). Check-in 14:00–23:00, check-out 6:00–11:00. Storno: zdarma do 21. 9. 23:59, pak 100 %. Tel. +355 68 232 3238.",
    "ll": [
     40.7059,
     19.9511
@@ -6968,7 +6994,21 @@
    },
    "meals": "snídaně v ceně (terasa); večeře Homemade Food Lili (rezervace WhatsAppem) nebo hotel",
    "tent": "ne (město)",
-   "contact_html": "<a href=\"tel:+355682323238\">+355 68 232 3238</a><br><a href=\"https://mangalemihotel.com/\" target=\"_blank\" rel=\"noopener\">web</a>"
+   "contact_html": "<a href=\"tel:+355682323238\">+355 68 232 3238</a><br><a href=\"https://mangalemihotel.com/\" target=\"_blank\" rel=\"noopener\">web</a>",
+   "res": {
+    "night": "St 23. 9.",
+    "via": "Booking.com",
+    "no": "5976195857",
+    "checkin": "14:00–23:00",
+    "checkout": "6:00–11:00",
+    "room": "Superior Double Room, snídaně v ceně",
+    "price": "78 € (≈ 1 910 Kč) vč. DPH",
+    "pay": "jen hotově (karty neberou)",
+    "cancel": "zdarma do 21. 9. 23:59, pak 100 %",
+    "phone": "+355 68 232 3238",
+    "addr": "Rruga Mihal Komneno, 5001 Berat (Mangalem, 700 m od centra)"
+   },
+   "reserved": "Booking.com č. 5976195857 · Superior Double Room, snídaně v ceně · 78 € (≈ 1 910 Kč) vč. DPH · storno: zdarma do 21. 9. 23:59, pak 100 %"
   },
   {
    "id": "ubyt-klea",
@@ -7328,7 +7368,7 @@
    "day": "So",
    "what": "Rruga Pertef Kokona, Gjirokastër, 350 m od centra, blízko hradu. Vybavení podle Bookingu: parkování zdarma, WiFi, rodinné pokoje, výjimečná snídaně.",
    "tips": "Check-in od 11, check-out do 11; půjčení kol, procházky s průvodcem; parkování zdarma.",
-   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "contact": "tel. +355 69 282 1019 · Rruga Pertef Kokona, 6001 Gjirokastër (350 m od bazaru, parkování u domu)",
    "ll": [
     40.075,
     20.1351
@@ -7353,11 +7393,25 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Booking 9,6/10 (712 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6",
-   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc So 19. 9., Twin Room with Private Bathroom, 1 215 Kč se snídaní, platba na místě, storno zdarma do 18. 9.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 6886201111), noc So 19. 9.: Twin Room with Private Bathroom, snídaně v ceně. Cena 50 € (≈ 1 215 Kč) vč. DPH a městské taxy. Platba: jen hotově (karty neberou), v lek dle kurzu dne. Check-in 11:00–23:30, check-out 7:00–11:00. Storno: zdarma do 17. 9. 23:59, pak 100 %. Tel. +355 69 282 1019. Hostitel odpověděl: „when you arrive I will show you the place“.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
    "contact_html": "<span class=\"n\">jen Booking</span>",
-   "reserved": "Booking 16. 9., Twin Room with Private Bathroom, 1 215 Kč, platba na místě, storno zdarma do 18. 9."
+   "reserved": "Booking.com č. 6886201111 · Twin Room with Private Bathroom, snídaně v ceně · 50 € (≈ 1 215 Kč) vč. DPH a městské taxy · storno: zdarma do 17. 9. 23:59, pak 100 %",
+   "res": {
+    "night": "So 19. 9.",
+    "via": "Booking.com",
+    "no": "6886201111",
+    "checkin": "11:00–23:30",
+    "checkout": "7:00–11:00",
+    "room": "Twin Room with Private Bathroom, snídaně v ceně",
+    "price": "50 € (≈ 1 215 Kč) vč. DPH a městské taxy",
+    "pay": "jen hotově (karty neberou), v lek dle kurzu dne",
+    "cancel": "zdarma do 17. 9. 23:59, pak 100 %",
+    "phone": "+355 69 282 1019",
+    "addr": "Rruga Pertef Kokona, 6001 Gjirokastër (350 m od bazaru, parkování u domu)",
+    "note": "Hostitel odpověděl: „when you arrive I will show you the place“."
+   }
   },
   {
    "id": "ubyt-musee",
@@ -7743,7 +7797,7 @@
    "day": "Ne",
    "what": "Lagjja Mejden, Përmet, 0,6 km od centra. Vybavení podle Bookingu: rychlá WiFi, parkování, bar, rodinné pokoje, výjimečná snídaně.",
    "tips": "Check-in od 13, check-out do 11; půjčení kol, kanoe, dětské hřiště.",
-   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "contact": "tel. +355 69 742 6639 · Lagjja Mejden, 6401 Përmet (0,6 km od promenády, parkování)",
    "ll": [
     40.2386,
     20.3491
@@ -7768,11 +7822,24 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Booking 9,4/10 (204 recenzí, ověřeno 16. 9. 2026) · Personál 9,7 · Cena/výkon 9,7 · Komfort 9,6 · Poloha 9,5 · Čistota 9,4",
-   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc Ne 20. 9., Superior Family Room, 972 Kč se snídaní, platba na místě. Večeře ve městě: Familjari na promenádě (tel. +355 69 520 6292), gliko a raki.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 6546276256), noc Ne 20. 9.: Superior Family Room, snídaně v ceně. Cena 42 € (≈ 1 030 Kč) + městská taxa 1 €/os./noc na místě. Platba: Visa/Mastercard nebo hotově; karta jen jako garance. Check-in 13:00–23:00, check-out 6:00–11:00. Storno: NEVRATNÁ (storno = 40 €). Tel. +355 69 742 6639.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
    "contact_html": "<span class=\"n\">jen Booking</span>",
-   "reserved": "Booking 16. 9., Superior Family Room, 972 Kč, platba na místě"
+   "reserved": "Booking.com č. 6546276256 · Superior Family Room, snídaně v ceně · 42 € (≈ 1 030 Kč) + městská taxa 1 €/os./noc na místě · storno: NEVRATNÁ (storno = 40 €)",
+   "res": {
+    "night": "Ne 20. 9.",
+    "via": "Booking.com",
+    "no": "6546276256",
+    "checkin": "13:00–23:00",
+    "checkout": "6:00–11:00",
+    "room": "Superior Family Room, snídaně v ceně",
+    "price": "42 € (≈ 1 030 Kč) + městská taxa 1 €/os./noc na místě",
+    "pay": "Visa/Mastercard nebo hotově; karta jen jako garance",
+    "cancel": "NEVRATNÁ (storno = 40 €)",
+    "phone": "+355 69 742 6639",
+    "addr": "Lagjja Mejden, 6401 Përmet (0,6 km od promenády, parkování)"
+   }
   },
   {
    "id": "ubyt-lugina",
@@ -8020,7 +8087,7 @@
    "day": "Po",
    "what": "SH63 Nr 5/2, Voskopojë – 200 m od centra. Vybavení podle Bookingu: parkování, WiFi, bar, snídaně, vířivka, pokojová služba.",
    "tips": "Check-in od 14:00, check-out do 11:00; vířivka (za poplatek); bar, snídaně, pokojová služba.",
-   "contact": "jen přes Booking (telefon přijde po rezervaci)",
+   "contact": "tel. +355 69 356 3773 · SH63 Nr 5/2, 7029 Voskopojë (200 m od centra)",
    "ll": [
     40.633,
     20.592
@@ -8045,11 +8112,24 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Booking 9,7/10 (72 recenzí, ověřeno 16. 9. 2026) · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Personál 9,7 · Poloha 9,6 · Cena/výkon 9,4",
-   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc Po 21. 9., Deluxe Double Room se snídaní, ≈ 72 €. Potvrzení ukazuje „Total cost to cancel: 72 €“, tj. sazba vypadá jako nevratná – ověřit v detailu rezervace.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 6612380836), noc Po 21. 9.: Deluxe Double Room, snídaně v ceně. Cena 72 € (≈ 1 764 Kč) vč. DPH a taxy. Platba: Visa/Mastercard/Maestro nebo hotově; mohou strhnout předem z karty. Check-in 14:00–20:00, check-out do 11:00. Storno: NEVRATNÁ (storno = 72 €). Tel. +355 69 356 3773.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
    "contact_html": "<span class=\"n\">jen Booking</span>",
-   "reserved": "Booking 16. 9., Deluxe Double Room, ≈ 72 € (1 764 Kč) se snídaní, check-in 14–20 h"
+   "reserved": "Booking.com č. 6612380836 · Deluxe Double Room, snídaně v ceně · 72 € (≈ 1 764 Kč) vč. DPH a taxy · storno: NEVRATNÁ (storno = 72 €)",
+   "res": {
+    "night": "Po 21. 9.",
+    "via": "Booking.com",
+    "no": "6612380836",
+    "checkin": "14:00–20:00",
+    "checkout": "do 11:00",
+    "room": "Deluxe Double Room, snídaně v ceně",
+    "price": "72 € (≈ 1 764 Kč) vč. DPH a taxy",
+    "pay": "Visa/Mastercard/Maestro nebo hotově; mohou strhnout předem z karty",
+    "cancel": "NEVRATNÁ (storno = 72 €)",
+    "phone": "+355 69 356 3773",
+    "addr": "SH63 Nr 5/2, 7029 Voskopojë (200 m od centra)"
+   }
   },
   {
    "id": "ubyt-vila-janko",
