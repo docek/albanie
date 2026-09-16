@@ -6772,7 +6772,7 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "REZERVOVÁNO (Booking.com, č. 5587404940), noc Út 22. 9.: Triple Room, snídaně v ceně (Genius −10 %). Cena 65,33 € (≈ 1 600 Kč) vč. DPH a taxy. Platba: jen hotově (karty neberou). Check-in 13:00–21:30, check-out 9:00–10:00. Storno: zdarma do 22. 9. 18:00, pak 50 % (30,15 €). Tel. +355 69 574 9364.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 5587404940), noc Út 22. 9.: Triple Room, snídaně v ceně (Genius −10 %). Cena 65,33 € (≈ 1 600 Kč) vč. DPH a taxy. Platba: jen hotově (karty neberou). Check-in 13:00–21:30, check-out 9:00–10:00. Storno: zdarma do 22. 9. 18:00, pak 50 % (30,15 €). Tel. +355 69 574 9364. Rodina 16. 9. potvrdila, že vaří večeře pro hosty.",
    "ll": [
     40.5704,
     20.1467
@@ -6811,7 +6811,8 @@
     "pay": "jen hotově (karty neberou)",
     "cancel": "zdarma do 22. 9. 18:00, pak 50 % (30,15 €)",
     "phone": "+355 69 574 9364",
-    "addr": "Rruga Bogova, 5405 Bogovë"
+    "addr": "Rruga Bogova, 5405 Bogovë",
+    "note": "Zpráva rodiny 16. 9.: „Yes, we cook dinner for our guests.“ Večeři stačí ohlásit den předem s časem."
    }
   },
   {
@@ -6970,7 +6971,7 @@
    "img": null,
    "day": "St",
    "gallery": [],
-   "booking": "REZERVOVÁNO (Booking.com, č. 5976195857), noc St 23. 9.: Superior Double Room, snídaně v ceně. Cena 78 € (≈ 1 910 Kč) vč. DPH. Platba: jen hotově (karty neberou). Check-in 14:00–23:00, check-out 6:00–11:00. Storno: zdarma do 21. 9. 23:59, pak 100 %. Tel. +355 68 232 3238.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 5976195857), noc St 23. 9.: Superior Double Room, snídaně v ceně. Cena 78 € (≈ 1 910 Kč) vč. DPH. Platba: jen hotově (karty neberou). Check-in 14:00–23:00, check-out 6:00–11:00. Storno: zdarma do 21. 9. 23:59, pak 100 %. Tel. +355 68 232 3238. Hotel 16. 9.: platba hotově, kartou s přirážkou 5 %; bez vlastního parkování, vyložit před hotelem, blízké parkoviště 500 lek/noc; zavazadla na recepci kdykoli.",
    "ll": [
     40.7059,
     19.9511
@@ -7005,10 +7006,11 @@
     "checkout": "6:00–11:00",
     "room": "Superior Double Room, snídaně v ceně",
     "price": "78 € (≈ 1 910 Kč) vč. DPH",
-    "pay": "jen hotově (karty neberou)",
+    "pay": "hotově v lek; kartou jen s přirážkou 5 %",
     "cancel": "zdarma do 21. 9. 23:59, pak 100 %",
     "phone": "+355 68 232 3238",
-    "addr": "Rruga Mihal Komneno, 5001 Berat (Mangalem, 700 m od centra)"
+    "addr": "Rruga Mihal Komneno, 5001 Berat (Mangalem, 700 m od centra)",
+    "note": "Zpráva hotelu 16. 9.: pokoj od 14:00 (dřív, když se uvolní), zavazadla uloží na recepci kdykoli. Vlastní parkování nemají: vyložit u hotelu na vyhrazeném místě, recepce navede na nejbližší placené parkoviště, 500 lek/noc."
    },
    "reserved": "Booking.com č. 5976195857 · Superior Double Room, snídaně v ceně · 78 € (≈ 1 910 Kč) vč. DPH · storno: zdarma do 21. 9. 23:59, pak 100 %"
   },
@@ -8116,7 +8118,7 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Google 4,8 (73 recenzí) · Booking 9,7/10 (72 recenzí, ověřeno 16. 9. 2026) · Vybavení 9,9 · Čistota 9,9 · Komfort 9,9 · Personál 9,7 · Poloha 9,6 · Cena/výkon 9,4",
-   "booking": "REZERVOVÁNO (Booking.com, č. 6612380836), noc Po 21. 9.: Deluxe Double Room, snídaně v ceně. Cena 72 € (≈ 1 764 Kč) vč. DPH a taxy. Platba: Visa/Mastercard/Maestro nebo hotově; mohou strhnout předem z karty. Check-in 14:00–20:00, check-out do 11:00. Storno: NEVRATNÁ (storno = 72 €). Tel. +355 69 356 3773.",
+   "booking": "REZERVOVÁNO (Booking.com, č. 6612380836), noc Po 21. 9.: Deluxe Double Room, snídaně v ceně. Cena 72 € (≈ 1 764 Kč) vč. DPH a taxy. Platba: Visa/Mastercard/Maestro nebo hotově; mohou strhnout předem z karty. Check-in 14:00–20:00, check-out do 11:00. Storno: NEVRATNÁ (storno = 72 €). Tel. +355 69 356 3773. Vila 16. 9.: parkování před domem s kamerovým dohledem.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
    "contact_html": "<span class=\"n\">jen Booking</span>",
@@ -8132,7 +8134,8 @@
     "pay": "Visa/Mastercard/Maestro nebo hotově; mohou strhnout předem z karty",
     "cancel": "NEVRATNÁ (storno = 72 €)",
     "phone": "+355 69 356 3773",
-    "addr": "SH63 Nr 5/2, 7029 Voskopojë (200 m od centra)"
+    "addr": "SH63 Nr 5/2, 7029 Voskopojë (200 m od centra)",
+    "note": "Zpráva vily 16. 9.: parkování přímo před vilou, hlídané kamerami 24 h; vesnice je klidná a bezpečná."
    },
    "experience": "Google: krb ve společenské místnosti („the fireplace was absolutely an experience“), snídaně z místních produktů, rodiny se vracejí. Poloha shodná (40,6331 N 20,5920 E), u hlavní silnice SH63 v centru vsi."
   },
