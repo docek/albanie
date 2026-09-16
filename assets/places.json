@@ -6757,7 +6757,7 @@
    "img": null,
    "day": "Út",
    "gallery": [],
-   "booking": "Booking k 16. 9. 2026, noc Út, 2 osoby: volné. Pokoje: Double s balkonem 1 475 Kč · Triple 1 764–1 896 Kč. Storno: storno zdarma do 22. 9. 18:00, bez platby předem.",
+   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc Út 22. 9., Triple Room se snídaní, ≈ 30 € (Genius sleva), bez platby předem, storno zdarma do 22. 9. 18:00. Check-in 13–21:30. Večeři ohlásit den předem.",
    "ll": [
     40.5704,
     20.1467
@@ -6783,7 +6783,8 @@
    },
    "meals": "snídaně v ceně; večeře vysoce hodnocená, ohlásit při rezervaci",
    "tent": "zeptat (zahrada)",
-   "contact_html": "<span class=n>jen Booking</span>"
+   "contact_html": "<span class=n>jen Booking</span>",
+   "reserved": "Booking 16. 9., Triple Room, ≈ 30 € se snídaní (Genius), storno zdarma do 22. 9. 18:00"
   },
   {
    "id": "ubyt-bujtina-tomorrit",
