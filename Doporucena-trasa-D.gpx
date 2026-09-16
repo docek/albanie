@@ -3033,7 +3033,7 @@
     <trkpt lat="40.63279" lon="20.59052"/>
     <trkpt lat="40.63319" lon="20.59056"/>
   </trkseg></trk>
-  <trk><name>5 Út – Vithkuq → Osumi → Çorovodë</name><trkseg>
+  <trk><name>5 Út – Vithkuq → Osumi → Çorovodë → Bogovë</name><trkseg>
     <trkpt lat="40.63319" lon="20.59056"/>
     <trkpt lat="40.63282" lon="20.59241"/>
     <trkpt lat="40.63215" lon="20.5931"/>
@@ -3761,16 +3761,17 @@
     <trkpt lat="40.48952" lon="20.25513"/>
     <trkpt lat="40.48936" lon="20.25464"/>
     <trkpt lat="40.48963" lon="20.25413"/>
-    <trkpt lat="40.48782" lon="20.25361"/>
+    <trkpt lat="40.48797" lon="20.25372"/>
     <trkpt lat="40.48719" lon="20.25267"/>
-    <trkpt lat="40.48548" lon="20.25161"/>
+    <trkpt lat="40.48538" lon="20.2515"/>
     <trkpt lat="40.48451" lon="20.2501"/>
-    <trkpt lat="40.48251" lon="20.24822"/>
+    <trkpt lat="40.48247" lon="20.24816"/>
     <trkpt lat="40.48225" lon="20.24775"/>
     <trkpt lat="40.48228" lon="20.24696"/>
-    <trkpt lat="40.48175" lon="20.24503"/>
-    <trkpt lat="40.48257" lon="20.2443"/>
-    <trkpt lat="40.48275" lon="20.24303"/>
+    <trkpt lat="40.48172" lon="20.24529"/>
+    <trkpt lat="40.48181" lon="20.24488"/>
+    <trkpt lat="40.4826" lon="20.24424"/>
+    <trkpt lat="40.48283" lon="20.24289"/>
     <trkpt lat="40.48368" lon="20.24191"/>
     <trkpt lat="40.48466" lon="20.24025"/>
     <trkpt lat="40.48577" lon="20.23981"/>
@@ -3795,15 +3796,12 @@
     <trkpt lat="40.50171" lon="20.22946"/>
     <trkpt lat="40.50169" lon="20.22883"/>
     <trkpt lat="40.50219" lon="20.22891"/>
-    <trkpt lat="40.50279" lon="20.22814"/>
-    <trkpt lat="40.50358" lon="20.22841"/>
-  </trkseg></trk>
-  <trk><name>6 St – Tomorr → Bogovë → Roshnik</name><trkseg>
-    <trkpt lat="40.50358" lon="20.22841"/>
+    <trkpt lat="40.50269" lon="20.22818"/>
+    <trkpt lat="40.50404" lon="20.22839"/>
     <trkpt lat="40.5046" lon="20.22832"/>
     <trkpt lat="40.50539" lon="20.22784"/>
     <trkpt lat="40.50589" lon="20.22795"/>
-    <trkpt lat="40.50593" lon="20.2278"/>
+    <trkpt lat="40.50586" lon="20.22769"/>
     <trkpt lat="40.50507" lon="20.22728"/>
     <trkpt lat="40.50589" lon="20.22712"/>
     <trkpt lat="40.50589" lon="20.22697"/>
@@ -3826,11 +3824,10 @@
     <trkpt lat="40.50831" lon="20.20175"/>
     <trkpt lat="40.50851" lon="20.20103"/>
     <trkpt lat="40.50877" lon="20.19927"/>
-    <trkpt lat="40.50813" lon="20.19571"/>
-    <trkpt lat="40.50818" lon="20.19506"/>
-    <trkpt lat="40.50962" lon="20.19327"/>
-    <trkpt lat="40.51107" lon="20.19272"/>
-    <trkpt lat="40.51222" lon="20.192"/>
+    <trkpt lat="40.50813" lon="20.1952"/>
+    <trkpt lat="40.50972" lon="20.19321"/>
+    <trkpt lat="40.51072" lon="20.19289"/>
+    <trkpt lat="40.51234" lon="20.19195"/>
     <trkpt lat="40.51488" lon="20.19206"/>
     <trkpt lat="40.51595" lon="20.19138"/>
     <trkpt lat="40.51637" lon="20.19053"/>
@@ -3844,13 +3841,13 @@
     <trkpt lat="40.52178" lon="20.17546"/>
     <trkpt lat="40.52233" lon="20.17481"/>
     <trkpt lat="40.52488" lon="20.17343"/>
-    <trkpt lat="40.52726" lon="20.17316"/>
+    <trkpt lat="40.5274" lon="20.17303"/>
     <trkpt lat="40.52805" lon="20.17133"/>
     <trkpt lat="40.52813" lon="20.16993"/>
     <trkpt lat="40.52791" lon="20.1693"/>
     <trkpt lat="40.52844" lon="20.16803"/>
-    <trkpt lat="40.52865" lon="20.16688"/>
-    <trkpt lat="40.52721" lon="20.16057"/>
+    <trkpt lat="40.52865" lon="20.16699"/>
+    <trkpt lat="40.52721" lon="20.16067"/>
     <trkpt lat="40.52754" lon="20.15914"/>
     <trkpt lat="40.52794" lon="20.1584"/>
     <trkpt lat="40.52801" lon="20.15687"/>
@@ -3858,7 +3855,8 @@
     <trkpt lat="40.52871" lon="20.15466"/>
     <trkpt lat="40.5286" lon="20.15443"/>
     <trkpt lat="40.52797" lon="20.15428"/>
-    <trkpt lat="40.52795" lon="20.1519"/>
+    <trkpt lat="40.52792" lon="20.15214"/>
+    <trkpt lat="40.5281" lon="20.15165"/>
     <trkpt lat="40.52919" lon="20.15107"/>
     <trkpt lat="40.52943" lon="20.15067"/>
     <trkpt lat="40.5294" lon="20.15045"/>
@@ -3866,8 +3864,8 @@
     <trkpt lat="40.52858" lon="20.1486"/>
     <trkpt lat="40.528" lon="20.14784"/>
     <trkpt lat="40.52831" lon="20.14626"/>
-    <trkpt lat="40.52816" lon="20.14581"/>
-    <trkpt lat="40.52812" lon="20.14406"/>
+    <trkpt lat="40.52806" lon="20.14417"/>
+    <trkpt lat="40.52842" lon="20.14381"/>
     <trkpt lat="40.52922" lon="20.14351"/>
     <trkpt lat="40.52964" lon="20.14286"/>
     <trkpt lat="40.53039" lon="20.14289"/>
@@ -3896,7 +3894,7 @@
     <trkpt lat="40.54322" lon="20.12678"/>
     <trkpt lat="40.54432" lon="20.12598"/>
     <trkpt lat="40.54583" lon="20.12546"/>
-    <trkpt lat="40.54651" lon="20.12544"/>
+    <trkpt lat="40.54659" lon="20.12549"/>
     <trkpt lat="40.54742" lon="20.12701"/>
     <trkpt lat="40.54753" lon="20.1281"/>
     <trkpt lat="40.54834" lon="20.12851"/>
@@ -3930,6 +3928,9 @@
     <trkpt lat="40.57218" lon="20.15394"/>
     <trkpt lat="40.57216" lon="20.15517"/>
     <trkpt lat="40.57265" lon="20.15602"/>
+    <trkpt lat="40.57265" lon="20.15689"/>
+  </trkseg></trk>
+  <trk><name>6 St – Bogovë → Tomorr → Berat</name><trkseg>
     <trkpt lat="40.57265" lon="20.15689"/>
     <trkpt lat="40.57265" lon="20.15602"/>
     <trkpt lat="40.57216" lon="20.15517"/>
@@ -4011,12 +4012,12 @@
     <trkpt lat="40.60292" lon="20.10435"/>
     <trkpt lat="40.6035" lon="20.10491"/>
     <trkpt lat="40.60371" lon="20.10568"/>
-    <trkpt lat="40.60361" lon="20.10682"/>
+    <trkpt lat="40.60357" lon="20.1068"/>
     <trkpt lat="40.60416" lon="20.10632"/>
     <trkpt lat="40.60595" lon="20.10648"/>
-    <trkpt lat="40.60641" lon="20.10683"/>
-    <trkpt lat="40.60686" lon="20.10654"/>
-    <trkpt lat="40.60663" lon="20.10516"/>
+    <trkpt lat="40.60644" lon="20.10683"/>
+    <trkpt lat="40.60689" lon="20.10647"/>
+    <trkpt lat="40.60667" lon="20.10526"/>
     <trkpt lat="40.60574" lon="20.10479"/>
     <trkpt lat="40.60548" lon="20.10414"/>
     <trkpt lat="40.60581" lon="20.10247"/>
@@ -4212,23 +4213,21 @@
     <trkpt lat="40.60002" lon="20.19596"/>
     <trkpt lat="40.6009" lon="20.19608"/>
     <trkpt lat="40.60172" lon="20.19587"/>
-    <trkpt lat="40.60209" lon="20.19695"/>
-    <trkpt lat="40.60226" lon="20.19704"/>
+    <trkpt lat="40.6022" lon="20.19703"/>
     <trkpt lat="40.60683" lon="20.19631"/>
-    <trkpt lat="40.6083" lon="20.19646"/>
+    <trkpt lat="40.60816" lon="20.19648"/>
     <trkpt lat="40.61055" lon="20.19572"/>
     <trkpt lat="40.61102" lon="20.19537"/>
     <trkpt lat="40.61166" lon="20.1954"/>
     <trkpt lat="40.61361" lon="20.19483"/>
     <trkpt lat="40.61524" lon="20.19506"/>
-    <trkpt lat="40.6158" lon="20.19486"/>
-    <trkpt lat="40.61804" lon="20.19483"/>
     <trkpt lat="40.61825" lon="20.19475"/>
     <trkpt lat="40.61782" lon="20.19457"/>
     <trkpt lat="40.6178" lon="20.19426"/>
     <trkpt lat="40.61984" lon="20.19267"/>
     <trkpt lat="40.62054" lon="20.1919"/>
     <trkpt lat="40.62105" lon="20.19209"/>
+    <trkpt lat="40.62174" lon="20.19072"/>
     <trkpt lat="40.62207" lon="20.18988"/>
     <trkpt lat="40.62127" lon="20.19025"/>
     <trkpt lat="40.61993" lon="20.19047"/>
@@ -4785,8 +4784,7 @@
     <trkpt lat="40.73796" lon="20.03577"/>
     <trkpt lat="40.73836" lon="20.03719"/>
     <trkpt lat="40.73951" lon="20.03878"/>
-    <trkpt lat="40.7404" lon="20.04133"/>
-    <trkpt lat="40.74026" lon="20.04152"/>
+    <trkpt lat="40.74037" lon="20.04142"/>
     <trkpt lat="40.73994" lon="20.0413"/>
     <trkpt lat="40.73926" lon="20.0403"/>
     <trkpt lat="40.73726" lon="20.03977"/>
@@ -4799,9 +4797,6 @@
     <trkpt lat="40.73415" lon="20.04133"/>
     <trkpt lat="40.7337" lon="20.04179"/>
     <trkpt lat="40.73313" lon="20.04135"/>
-    <trkpt lat="40.73111" lon="20.04117"/>
-  </trkseg></trk>
-  <trk><name>7 Čt – Roshnik → Berat → letiště</name><trkseg>
     <trkpt lat="40.73111" lon="20.04117"/>
     <trkpt lat="40.73313" lon="20.04135"/>
     <trkpt lat="40.7337" lon="20.04179"/>
@@ -4885,41 +4880,43 @@
     <trkpt lat="40.70943" lon="19.98318"/>
     <trkpt lat="40.70847" lon="19.98285"/>
     <trkpt lat="40.70707" lon="19.98277"/>
-    <trkpt lat="40.70523" lon="19.98201"/>
-    <trkpt lat="40.70472" lon="19.98151"/>
+    <trkpt lat="40.70482" lon="19.98168"/>
+    <trkpt lat="40.70411" lon="19.97995"/>
     <trkpt lat="40.7035" lon="19.97809"/>
     <trkpt lat="40.70338" lon="19.97696"/>
     <trkpt lat="40.70288" lon="19.97583"/>
     <trkpt lat="40.70336" lon="19.97444"/>
     <trkpt lat="40.70361" lon="19.97183"/>
     <trkpt lat="40.70084" lon="19.96892"/>
-    <trkpt lat="40.70046" lon="19.96672"/>
+    <trkpt lat="40.70049" lon="19.96712"/>
+    <trkpt lat="40.70051" lon="19.9664"/>
     <trkpt lat="40.70197" lon="19.95945"/>
     <trkpt lat="40.70145" lon="19.95908"/>
-    <trkpt lat="40.7019" lon="19.95803"/>
+    <trkpt lat="40.70188" lon="19.95809"/>
+  </trkseg></trk>
+  <trk><name>7 Čt – Berat → letiště</name><trkseg>
+    <trkpt lat="40.70188" lon="19.95809"/>
     <trkpt lat="40.70034" lon="19.9568"/>
     <trkpt lat="40.70213" lon="19.95515"/>
     <trkpt lat="40.70397" lon="19.95198"/>
     <trkpt lat="40.70432" lon="19.95042"/>
-    <trkpt lat="40.70455" lon="19.95007"/>
+    <trkpt lat="40.70454" lon="19.95012"/>
     <trkpt lat="40.7038" lon="19.94394"/>
     <trkpt lat="40.70415" lon="19.94319"/>
     <trkpt lat="40.70699" lon="19.94025"/>
-    <trkpt lat="40.7119" lon="19.93843"/>
-    <trkpt lat="40.71285" lon="19.93868"/>
+    <trkpt lat="40.71215" lon="19.93844"/>
     <trkpt lat="40.71594" lon="19.94014"/>
     <trkpt lat="40.71865" lon="19.94338"/>
     <trkpt lat="40.71918" lon="19.94319"/>
-    <trkpt lat="40.72524" lon="19.94338"/>
+    <trkpt lat="40.72491" lon="19.94341"/>
     <trkpt lat="40.73439" lon="19.94013"/>
-    <trkpt lat="40.74337" lon="19.93437"/>
-    <trkpt lat="40.74455" lon="19.93342"/>
+    <trkpt lat="40.7444" lon="19.9336"/>
     <trkpt lat="40.7608" lon="19.91224"/>
     <trkpt lat="40.77182" lon="19.89091"/>
     <trkpt lat="40.77241" lon="19.89005"/>
     <trkpt lat="40.77666" lon="19.88567"/>
     <trkpt lat="40.77801" lon="19.88296"/>
-    <trkpt lat="40.77824" lon="19.8829"/>
+    <trkpt lat="40.77826" lon="19.88285"/>
     <trkpt lat="40.77817" lon="19.88263"/>
     <trkpt lat="40.7785" lon="19.88117"/>
     <trkpt lat="40.77801" lon="19.87876"/>
@@ -5010,8 +5007,8 @@
     <trkpt lat="41.05358" lon="19.64976"/>
     <trkpt lat="41.05772" lon="19.64738"/>
     <trkpt lat="41.05933" lon="19.64669"/>
-    <trkpt lat="41.06458" lon="19.64516"/>
-    <trkpt lat="41.06564" lon="19.64458"/>
+    <trkpt lat="41.06495" lon="19.64498"/>
+    <trkpt lat="41.06589" lon="19.6444"/>
     <trkpt lat="41.06681" lon="19.6435"/>
     <trkpt lat="41.07126" lon="19.63781"/>
     <trkpt lat="41.07199" lon="19.63754"/>
@@ -5037,10 +5034,8 @@
     <trkpt lat="41.15414" lon="19.58321"/>
     <trkpt lat="41.15554" lon="19.58163"/>
     <trkpt lat="41.17468" lon="19.55196"/>
-    <trkpt lat="41.17573" lon="19.55074"/>
-    <trkpt lat="41.17771" lon="19.54894"/>
-    <trkpt lat="41.18306" lon="19.54433"/>
-    <trkpt lat="41.18463" lon="19.54334"/>
+    <trkpt lat="41.17648" lon="19.55004"/>
+    <trkpt lat="41.18366" lon="19.54389"/>
     <trkpt lat="41.20283" lon="19.5358"/>
     <trkpt lat="41.20595" lon="19.53456"/>
     <trkpt lat="41.2089" lon="19.53376"/>
@@ -5067,23 +5062,22 @@
     <trkpt lat="41.32057" lon="19.49596"/>
     <trkpt lat="41.32114" lon="19.49507"/>
     <trkpt lat="41.32256" lon="19.48797"/>
-    <trkpt lat="41.3231" lon="19.48624"/>
-    <trkpt lat="41.32398" lon="19.48392"/>
+    <trkpt lat="41.32412" lon="19.48363"/>
     <trkpt lat="41.32489" lon="19.4823"/>
-    <trkpt lat="41.32698" lon="19.48035"/>
-    <trkpt lat="41.3307" lon="19.47772"/>
+    <trkpt lat="41.32563" lon="19.48151"/>
+    <trkpt lat="41.33077" lon="19.47769"/>
     <trkpt lat="41.33105" lon="19.4777"/>
     <trkpt lat="41.33138" lon="19.47806"/>
     <trkpt lat="41.33185" lon="19.47782"/>
     <trkpt lat="41.33214" lon="19.47797"/>
-    <trkpt lat="41.33612" lon="19.4833"/>
-    <trkpt lat="41.3383" lon="19.48705"/>
+    <trkpt lat="41.33449" lon="19.48093"/>
+    <trkpt lat="41.33685" lon="19.48449"/>
     <trkpt lat="41.3402" lon="19.49085"/>
     <trkpt lat="41.35566" lon="19.52867"/>
     <trkpt lat="41.35809" lon="19.53423"/>
     <trkpt lat="41.35975" lon="19.53863"/>
-    <trkpt lat="41.36644" lon="19.55375"/>
-    <trkpt lat="41.36743" lon="19.55643"/>
+    <trkpt lat="41.36729" lon="19.55597"/>
+    <trkpt lat="41.36775" lon="19.55775"/>
     <trkpt lat="41.36806" lon="19.55995"/>
     <trkpt lat="41.36869" lon="19.57653"/>
     <trkpt lat="41.37064" lon="19.60028"/>
