@@ -7352,10 +7352,11 @@
     "checked": "16. 9. 2026"
    },
    "rating": "Booking 9,6/10 (712 recenzí, ověřeno 16. 9. 2026) · Personál 10 · Poloha 9,8 · Čistota 9,7 · Cena/výkon 9,7 · Komfort 9,6",
-   "booking": "Booking k 16. 9. 2026, noc So, 2 osoby: volné. Pokoje: Twin s výhledem na město 1 215 Kč, Twin s vlastní koupelnou 1 215 Kč, snídaně v ceně. Storno: storno zdarma do 18. 9., platba na místě.",
+   "booking": "REZERVOVÁNO na Bookingu 16. 9. 2026: noc So 19. 9., Twin Room with Private Bathroom, 1 215 Kč se snídaní, platba na místě, storno zdarma do 18. 9.",
    "meals": "snídaně (viz FAQ v kartě)",
    "tent": "–",
-   "contact_html": "<span class=\"n\">jen Booking</span>"
+   "contact_html": "<span class=\"n\">jen Booking</span>",
+   "reserved": "Booking 16. 9., Twin Room with Private Bathroom, 1 215 Kč, platba na místě, storno zdarma do 18. 9."
   },
   {
    "id": "ubyt-musee",
