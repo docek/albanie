@@ -6335,6 +6335,32 @@
    "gallery": [],
    "booking": "Booking k 16. 9. 2026, noc Čt, 2 osoby: plné",
    "warning": "Na Bookingu je na Čt plno (ověřeno 16. 9.). U malých bujtin to často znamená jen vyčerpaný příděl pro Booking, zavolat nebo napsat WhatsApp přímo."
+  },
+  {
+   "id": "kelcyre",
+   "name": "Këlcyrë",
+   "kind": "město",
+   "what": "Městečko na Vjose mezi Tepelenë a Përmetem, u vjezdu do 13 km dlouhé soutěsky Gryka e Këlcyrës. Křižovatka silnic od Gjirokastru (přes Çajupi/Zagorii), z Tepelenë a do Përmetu.",
+   "why": "Přes Këlcyrë vede nedělní cesta ze Zagorie do Përmetu; je to poslední jistá pumpa a obchod před Përmetem a výchozí bod pro pramen Uji i Zi a hrad nad městem.",
+   "experience": "Průjezd soutěskou s tisícimetrovými svahy nad Vjosou, zastávka na kávu nebo pozdní oběd (Ferma Albanik v údolí Dëshnicë je odtud 17–20 km).",
+   "access": "Asfalt ze všech směrů; pumpy Kastrati a Alpet ve městě (doložené), parkování na ulici.",
+   "tips": "Natankovat tady v neděli plnou nádrž: pondělní horská cesta Përmet – Frashër – Ersekë je bez pump a Jimny má nádrž jen 40 l.",
+   "facts": [
+    "Pumpa: Kastrati, Alpet",
+    "Zastávky: Uji i Zi, hrad Këlcyrë, soutěska"
+   ],
+   "links": [
+    {
+     "label": "Rafting in Permet – Kelcyra Gorge guide",
+     "url": "https://raftinginpermet.com/guide-kelcyra-gorge"
+    },
+    {
+     "label": "Wikipedia – Këlcyrë",
+     "url": "https://en.wikipedia.org/wiki/K%C3%ABlcyr%C3%AB"
+    }
+   ],
+   "img": null,
+   "gallery": []
   }
  ],
  "terms": {
@@ -6375,8 +6401,6 @@
   "AKT": "AKT: Agjencia Kombëtare e Turizmit, státní turistická agentura, vede registr agroturistik a přírodních památek.",
   "TAP": "TAP: Trans Adriatic Pipeline, plynovod z Řecka přes Albánii do Itálie (2020). Pro stavbu se vybudovaly přístupové cesty, po jedné z nich vede spojka Vithkuq–Osumi.",
   "SH7": "SH: Rruga Shtetërore, státní silnice. SH72, SH74, SH75 jsou horské silnice v našem plánu.",
-  "Kurvelesh": "Kurvelesh: vápencová horská plošina mezi Tepelenë, Vlorou a Gjirokastrem, s hlubokými kaňony a pár vesnicemi (Progonat, Nivicë, Golem).",
-  "Zagori": "Zagoria: odlehlé údolí severně od Gjirokastru, přírodní park, skoro vylidněné kamenné vesnice, osmanské mosty a byzantské kostely.",
   "Skrapar": "Skrapar: horský kraj kolem Çorovodë pod Tomorrem, proslulý kaňonem Osumi a hroznovou rakií.",
   "Kolonj": "Kolonjë: kraj kolem Ersekë pod pohořím Gramoz, známý lakrorem a sýry. Pozor, vesnice Kolonjë u Gjirokastru na sobotní zkoušce je jiné místo.",
   "UNESCO": "UNESCO: Berat a Gjirokastër jsou od roku 2005 společně na seznamu světového dědictví jako „Historická centra Beratu a Gjirokastry“.",
@@ -6385,7 +6409,6 @@
   "Skanderbeg": "Skanderbeg (Gjergj Kastrioti, 1405–1468): albánský národní hrdina, z Krujë 25 let odolával Osmanům.",
   "Onufri": "Onufri: nejvýznamnější albánský malíř ikon 16. století, známý sytou červení; muzeum v hradu v Beratu.",
   "Vjos": "Vjosa: jedna z posledních divokých řek Evropy, bez přehrad, od roku 2023 národní park. Teče kolem Përmetu a Tepelenë.",
-  "Osum": "Osum: řeka od Tomorru přes kaňon Osumi a Çorovodë do Beratu.",
   "Drino": "Drino: řeka v údolí pod Gjirokastrem, přítok Vjosy."
  }
 }
